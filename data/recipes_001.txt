@@ -1,3 +1,145 @@
+
+
+=== CULINARY DNA ENTRY: START ===
+
+[DISH NAME]
+真空低溫濃香鮭魚 (Sous Vide Mi-cuit Salmon with Spiced Butter Arrosage)
+
+[CONCEPT & POSITIONING]
+利用短時高濃度鹽水漬改變魚肉結構，結合 45°C 極低溫慢煮 (Mi-cuit) 達到如絲綢般的半熟口感，最後以法式香料牛油淋浴 (Arrosage) 增添梅納反應香氣。
+
+[FLAVOR MATRIX]
+- 核心：鮭魚油脂鮮味
+- 輔助：高濃度糖鹽水帶來的圓潤鹹甜、香料牛油的堅果香 (Beurre Noisette notes)
+
+[COMPONENTS & RATIOS]
+1. 快速醃漬液 (3-5小時專用): 水 100% (1kg) / 鹽 5% (50g) / 糖 4% (40g)
+2. 主體: 無皮無刺鮭魚排 600g
+3. 慢煮油脂: 精製油/橄欖油 12% (120g)
+4. 淋油 (Arrosage): 無鹽牛油 8% (80g) / 魚類綜合香料 1.5% (15g)
+
+[TECHNIQUE & TEMPERATURE]
+1. 醃漬 (Brining): 鮭魚浸入醃漬液，冷藏 3-5 小時。完成後倒去滷水。
+2. 慢煮 (Sous Vide): 鮭魚與慢煮油脂裝袋抽真空。水浴 46°C，煮至中心溫度 45°C (2.5cm厚約需25分鐘)。
+3. 淋油 (Arrosage): 平底鍋中火融化牛油，加入香料煮至起泡。放入鮭魚，不斷將熱香料牛油淋在魚排上，約 30 秒即起鍋。
+
+[CHEF'S DNA NOTES FOR AI]
+- 溫度控制邏輯：45°C 是保留鮭魚極致嫩度的臨界點。若追求更緊實口感，可提升至 51°C。
+- 醃漬邏輯：若改為 24 小時慢速醃漬，必須切換回主廚的標準比例 (鹽 2-3%，糖 1.5%)。
+- 服務溫度：若作冷盤 (Cold Starter) 供應，慢煮時必須使用植物油，不可用牛油（避免冷卻後凝固影響口感）。
+
+=== CULINARY DNA ENTRY: END ===
+
+
+=== CULINARY DNA ENTRY: START ===
+
+[DISH NAME]
+麴醃油甘魚 (Koji-Cured Yellowtail with Avocado Cream & Squid Ink Tuile)
+
+[CONCEPT & POSITIONING]
+現代亞洲前衛料理 (Modern Asian Avant-garde)。利用鹽麴 (Shio Koji) 的酵素分解油甘魚的蛋白質，釋放極致的 Umami，並以多重口感 (軟糯、忌廉感、爽脆、酥脆) 建立立體層次。
+
+[FLAVOR MATRIX]
+- 核心：油甘魚的 Umami (經麴發酵放大)
+- 酸度切割：Ponzu (柚子醋) 或青檸的明亮柑橘酸
+- 油脂平衡：牛油果忌廉 (植物性油脂)
+
+[TEXTURE ARCHITECTURE]
+- 軟糯 (Soft/Cured)：麴醃油甘魚
+- 絲滑 (Silky)：牛油果忌廉
+- 爽脆 (Crisp)：1mm 西瓜蘿蔔薄片
+- 酥脆 (Crunchy)：墨魚汁蕾絲脆片 (Squid Ink Tuile)
+
+[TECHNIQUE & TEMPERATURE]
+1. 熟成 (Curing): 油甘魚以鹽麴塗抹，精準控制時間以避免肉質過度軟化，洗淨後擦乾。
+2. 醬汁 (Sauce Logic): 牛油果打至極致滑順，以青檸汁調味防氧化並提供酸度。
+3. 脆片 (Tuile): 墨魚汁麵糊在平底鍋煎至水分蒸發，形成蕾絲網狀。
+
+[CHEF'S DNA NOTES FOR AI]
+- 這是主廚標誌性的「口感建構邏輯」：絕不允許單一軟糯，必須有 1mm 根莖類的爽脆與 Tuile 的酥脆作支撐。
+- 酸度邏輯：永遠使用明亮的柑橘酸去切割豐厚的魚脂與牛油果油脂。
+
+=== CULINARY DNA ENTRY: END ===
+
+=== CULINARY DNA ENTRY: START ===
+
+[DISH NAME]
+解構法式經典：魔鬼魚配格勒諾布爾元素 (Skate Wing 'Grenobloise' with Grilled Romaine)
+
+[CONCEPT & POSITIONING]
+米芝蓮級別的經典解構 (Modernist Deconstruction)。將傳統厚重的法式 Grenobloise (焦化牛油、酸豆、檸檬) 轉化為輕盈的泡沫、極致的脆感，以及利用 PacoJet 萃取的極鮮綠香草油，重新建構風味平衡。
+
+[FLAVOR MATRIX]
+- 核心：魔鬼魚的鮮甜 (搭配烤羅馬生菜的微苦焦香)
+- 酸度與旨味：酸豆汁、蜆汁與青檸交織的海洋酸香泡沫
+- 辛香切割：火箭菜 (Arugula) 的微苦與胡椒辛香
+- 脂香：牛油 (隱藏於泡沫與麵包丁中) 與 橄欖油
+
+[TEXTURE ARCHITECTURE]
+- 空氣感 (Airy)：酸豆海鮮泡沫 (Caper Foam)
+- 絲滑 (Silky)：PacoJet 火箭菜油 (Arugula Pistou)
+- 酥脆 (Crunchy)：5mm 酸種麵包丁 (Sourdough Crouton)
+- 爆脆 (Crispy)：十字開花炸酸豆 (Fried Caper)
+
+[COMPONENTS & RATIOS]
+1. 炸酸豆: 鹽水酸豆 50g (瀝乾)
+2. 酸豆泡沫: 酸豆汁 200ml / 魚湯 200ml / 蜆汁 50ml / 牛油 50g / 青檸汁 適量 / Sucro (蔗糖酯) 2g
+3. 火箭菜油 (Arugula Pistou): 火箭菜 250g / 蒜頭 2瓣 / 鹽 3g / 橄欖油 260g
+4. 酸種麵包丁: 德國酸種麵包 50g (切5mm丁) / 牛油 50g / 蒜 1瓣 / 百里香 1枝
+
+[TECHNIQUE & TEMPERATURE]
+1. 炸酸豆 (Texture Modification): 酸豆頂端剪十字。65°C 風乾 30 分鐘。170°C 油炸至金黃酥脆。
+2. 泡沫 (Espuma/Air): 混合液體煮沸，加入青檸汁與鹽。加入牛油與 Sucro，用手持攪拌棒打出穩定泡沫。
+3. PacoJet 香草萃取 (Micro-puréeing): 火箭菜油材料放入 PacoJet 專用杯，冷凍過夜。以 PacoJet 連續打磨 5 次，保持冷藏。(此技術可完美鎖住葉綠素與辛香，零熱力破壞)。
+4. 麵包丁: 以牛油、蒜、百里香將 5mm 麵包丁慢煎至金黃酥脆，瀝油。
+
+[CHEF'S DNA NOTES FOR AI]
+- 核心技術提取：PacoJet 冷凍打磨法 (Pacotizing) 是製作頂級香草油/醬 (Pistou/Oil) 的完美手段，未來可替換為紫蘇、羅勒、山蘿蔔葉 (Chervil) 等，應用於任何需要明亮綠色與純粹香氣的菜式。
+- 泡沫邏輯：使用 2g Sucro 搭配 450ml 液體與 5g 牛油，這是一個非常穩定的熱泡沫 (Warm Air) 比例，可用於減輕傳統醬汁的負擔。
+
+=== CULINARY DNA ENTRY: END ===
+
+=== CULINARY DNA ENTRY: START ===
+
+[DISH NAME]
+真空低溫白酒貽貝 (Sous Vide Moules Marinières / Precision 62°C White Wine Mussels)
+
+[CONCEPT & POSITIONING]
+解構經典法式小酒館菜色。為解決傳統高溫烹煮導致貝肉老化、乾柴的痛點，採用「先蒸氣開殼取汁，後 62°C 真空低溫慢煮」的混合烹調法 (Hybrid Technique)。將蛋白質熟成與醬汁濃縮分離處理，達到極致軟嫩的口感，並最大化利用貽貝釋放的天然「液體黃金」作為醬汁基底。
+
+[FLAVOR MATRIX]
+- 核心：貽貝的純粹海洋鮮甜 (Oceanic Umami)
+- 香氣基底：法式經典 (紅蔥頭、蒜頭、白酒濃縮糖漿)
+- 草本提亮：義大利香芹、龍蒿 (帶來微量八角茴香氣息)、百里香
+- 酸度切割：白酒的發酵酸度與起鍋前的檸檬汁
+
+[COMPONENTS & RATIOS]
+1. 階段一：開殼與萃取 (Extraction)
+   - 活貽貝 500g (100%)
+   - 干白酒 150g (30%)
+   - 紅蔥頭 (切薄片) 100g (20%)
+2. 階段二：慢煮與醬汁 (Sous Vide & Sauce)
+   - 特級初榨橄欖油 10g (2%)
+   - 紅蔥頭 (切碎) 10g (2%) / 蒜頭 (切碎) 8g (1.6%) / 辣椒片 0.5g (0.1%)
+   - 干白酒 45g (9%)
+   - 貽貝原汁 (來自階段一) 70g (14%)
+   - 義大利香芹 2g (0.4%) / 龍蒿 1g (0.2%) / 百里香葉 1g (0.2%)
+   - 鹽、檸檬汁 (適量)
+
+[TECHNIQUE & TEMPERATURE]
+1. 萃取原汁 (Steam & Shock): 貽貝、薄片紅蔥頭與 150g 白酒裝袋。利用沸水蒸氣加熱 2 分鐘，隨即冰鎮。取出貝肉，過濾並收集珍貴的貽貝湯汁。
+2. 精準慢煮 (Sous Vide): 貝肉與過濾後的湯汁裝入夾鏈袋，以 62°C 真空低溫烹煮 10 分鐘。完成後瀝乾，保留 70g 湯汁備用。
+3. 醬汁建構 (Sauce Reduction): 橄欖油炒香碎紅蔥與蒜頭 (約5分鐘至淺褐色)，加入辣椒片。倒入 45g 白酒濃縮至糖漿狀 (Syrupy, 約4分鐘)。
+4. 結合與乳化 (Mounting): 加入 70g 貽貝原汁煮沸後離火。拌入香草與貝肉，利用餘溫讓醬汁包覆貝肉 (切忌在火上過度加熱)。最後以鹽與檸檬汁微調酸鹹平衡。
+
+[CHEF'S DNA NOTES FOR AI]
+- 溫度臨界點：62°C 是雙殼綱海鮮 (Bivalves) 蛋白質凝固且保持最高保水度的黃金溫度。
+- 醬汁邏輯：貽貝釋放的天然汁液是「液體黃金」，富含天然鮮味與膠質。此食譜將其視為高湯 (Stock) 使用，未來在研發海鮮類白酒牛油醬 (Beurre Blanc) 時，應優先考慮以此汁液取代部分水分或高湯。
+- 觀念突破：打破「沒打開的貝類就是壞掉」的迷思。在精準控溫下，只要外觀不乾扁、無異味，未完全張開的貝肉往往質地最完美。
+
+=== CULINARY DNA ENTRY: END ===
+
+
 Apple Cranberry Bacon and Kale Salad
 
 Cuisine: European / Western / French
