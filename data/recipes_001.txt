@@ -1,3 +1,55 @@
+=== CULINARY DNA ENTRY: START ===
+
+[DISH NAME]
+質地轉化西瓜佐澄清冬沉積與醃漬蓮藕 (WATERMELON | Water Kimchi | Radish | Baby Lotus Root)
+
+[CONCEPT & POSITIONING]
+米芝蓮三星級別的植物性前菜/清口菜。核心概念為「蔬果的肉質化錯覺 (Trompe l'œil)」。利用耗時近 40 小時的脫水與自身果汁重組技術，徹底改變西瓜的物理結構，使其獲得緊實、咀嚼感強烈的「肉感」。輔以韓國傳統冬沉積（水泡菜）的現代澄清技法，提供明亮且複雜的乳酸發酵酸度，最後以煙燻橄欖油在澄清湯汁上製造風味與視覺的脂質斷層。
+
+[FLAVOR MATRIX]
+- 核心：濃縮西瓜的純粹鮮甜 (Concentrated Fruity Sweetness)
+- 酸度骨架：冬沉積的乳酸發酵酸度 (Lactic Acid) + 米醋的銳利酸度
+- 質地對比：肉感西瓜 (Meaty) vs. 爽脆白蘿蔔 (Crisp) vs. 脆口蓮藕 (Crunchy)
+- 點綴與香氣：煙燻橄欖油 (Smoky/Fat) + 蝦夷蔥/蒜花 (微量蔥蒜辛香)
+
+[COMPONENTS & RATIOS]
+1. 脫水與重組西瓜 (Dehydrated & Rehydrated Watermelon)
+   - 無籽西瓜 1 顆 (一半切塊，一半冷壓榨汁)
+2. 現代澄清冬沉積 ( 'Dongchimi' Water Kimchi)
+   - 白蘿蔔 400g / 鹽 8g / 糖 8g (殺青用)
+   - 水 1L / 鹽 20g / 豐水梨(去皮切丁) 150g / 富士蘋果(去皮切丁) 75g / 白洋蔥 25g / 蒜瓣 25g / 去皮生薑 8g / 乳酸菌發酵種 (Lactobacillus starter culture) 0.5g / 青蔥段 12g / 朝天椒 1/2 根
+3. 糖醋小蓮藕 (Baby Lotus Pickle)
+   - 小蓮藕 250g / 糖 50g / 中國米醋 100g / 水 150g
+4. 擺盤裝飾 (Finishes)
+   - 蝦夷蔥尖 (Chive tips) / 蒜花 (Garlic flowers) / 煙燻橄欖油 (Smoked olive oil)
+
+[TECHNIQUE & TEMPERATURE]
+1. 西瓜質地轉化 (Osmotic Manipulation): 
+   - 將半顆西瓜切成 10x3x6 cm 磚塊（去皮）。另一半冷壓榨汁並冷藏。
+   - 磚塊置於防沾烤墊，65°C 脫水 20-24 小時至表面乾燥泛白。
+   - 換成網格烤墊，翻面（乾燥面朝下），繼續脫水 12-20 小時至完全乾燥。
+   - 將脫水西瓜浸泡於冷藏西瓜汁中，冷藏醃製至少 6 小時使其重新吸水膨脹。
+   - 出餐前：用火槍炙烤西瓜磚單面，切成 1 cm 立方體（共需 30 塊）。
+2. 精準發酵與澄清 (Controlled Fermentation & Clarification):
+   - 白蘿蔔切 1.3 cm 厚片，用 8g 鹽與 8g 糖醃製 6 小時後洗淨瀝乾。
+   - 1L 水煮沸 3 分鐘後放涼。加入 20g 鹽、蘋果、梨、洋蔥、蒜、薑與乳酸菌種，用手持攪拌棒打成泥。
+   - 將果泥、蔥段、辣椒加入白蘿蔔中，密封冷藏過夜。
+   - 移至室溫發酵 7-14 天（每日試味防止過酸）。
+   - 完成後取出蘿蔔冷藏。將發酵液用超級過濾袋 (Superbag) 澄清，保留清澈的「冬沉積」湯汁。
+   - 蘿蔔切成 1x1x0.5 cm 小塊（共需 30 塊）。
+3. 快速醃漬 (Quick Pickling):
+   - 糖、醋、水煮沸，倒入裝有去皮小蓮藕的消毒玻璃罐，冷藏醃製至少 12 小時。切成 0.5 cm 長段（共需 30 塊）。
+4. 建築學擺盤 (Plating Architecture):
+   - 在深盤中注入一匙澄清冬沉積湯汁。
+   - 在湯汁中幾何排列：3 塊西瓜、3 塊蘿蔔、3 塊蓮藕。
+   - 頂部點綴蝦夷蔥尖、蒜花，並在湯汁滴上煙燻橄欖油（製造風味與視覺的珍珠狀油滴）。
+
+[CHEF'S DNA NOTES FOR AI]
+- 質地工程學：西瓜的處理是此菜靈魂。65°C 的長時間脫水不僅濃縮糖分，更徹底改變了果肉的細胞骨架。重組後的西瓜會帶有類似生魚片或生牛肉的咀嚼感。
+- 發酵控制：引入純化的乳酸菌種 (Starter culture) 取代完全依賴野生菌的自然發酵，這是現代 Fine Dining 確保發酵品質穩定、避免雜菌產生異味的標準科學作法。
+- 醬汁邏輯：將傳統泡菜泥透過 Superbag 澄清，提取出無雜質的發酵清湯 (Consommé)。這種將粗獷傳統風味轉化為極致優雅液體的技法，必須列入我們未來的醬汁研發資料庫中。
+
+=== CULINARY DNA ENTRY: END ===
 
 
 === CULINARY DNA ENTRY: START ===
