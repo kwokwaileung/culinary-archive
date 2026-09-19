@@ -1,3 +1,87 @@
+# RECIPE_002: DUTCH VEAL TENDERLOIN
+# PROFILE: 菠菜 | 白蘑菇 | 芥末
+# TAGS: [Meat], [Precision_Temp], [Dehydration], [Texture_Contrast]
+
+---
+### 1. INGREDIENTS (YIELD: 4 PAX)
+
+[PORCINI DUST]
+- 乾牛肝菌: 50g
+
+[ONION CRUST]
+- 白洋蔥 (極細丁): 500g
+- 蝦夷蔥 (切碎): 50g
+- 牛肝菌粉末: 10g
+- 鹽: TT (To Taste)
+
+[VEAL TENDERLOIN]
+- 荷蘭小牛牛柳: 1kg (1條)
+- 牛脂 / 蒜片 / 迷迭香 / 百里香: 適量
+
+[SPRING-ROLL TART]
+- 牛油: 100g
+- 雞蛋: 2隻
+- 春卷皮: 15塊
+
+[SAUTÉED SPINACH]
+- 菠菜: 200g
+- 牛油 / 鹽 / 黑胡椒: TT
+
+[ONION POWDER]
+- 白洋蔥 (薄片): 2個
+
+[MUSTARD SOUR CREAM]
+- 芥末籽醬: 30g
+- 酸忌廉: 100g
+
+[FINISHES]
+- 白蘑菇: 20粒
+- 牛骨汁 (Beef Jus): 適量
+- 金蓮花葉: 適量
+
+---
+### 2. EXECUTION PARAMETERS (技術參數)
+
+[PREP: DUST & POWDER]
+- 牛肝菌粉: [風乾] 55°C / 過夜 -> [研磨] 極細。
+- 洋蔥粉: [風乾] 65°C / 2-3天 -> [研磨] 極細。
+
+[PREP: ONION CRUST]
+- [去辛] 冷水沖洗 10mins -> 瀝乾。
+- [油炸] 150°C 植物油 -> 金黃酥脆 -> 吸油。
+- [風乾] 60°C / 過夜。
+- [混合] 炸洋蔥 + 蝦夷蔥 + 牛肝菌粉 + 鹽。
+
+[PREP: SPRING-ROLL TART]
+- [乳化] 40°C 牛油 + 雞蛋 (手提攪拌機)。
+- [建構] 塗抹蛋液，疊加 3層春卷皮 (共做 5組)。
+- [塑形] 7cm 圓模壓片 -> 切半 (半月形)。
+- [烘焙] 夾於兩焗盤間 (重壓) -> 170°C / 10mins。
+
+[PREP: MUSTARD CREAM & SPINACH]
+- 芥末忌廉: [混合] 芥末籽醬 + 酸忌廉 -> 冷藏。
+- 菠菜: [快炒] 猛火 + 牛油 -> 剛變色即止 -> 調味。
+
+[CORE: VEAL TENDERLOIN (3-STAGE COOKING)]
+- [分切] 1kg 切 4等份 (約 250g/份)。
+- [一煎] 牛脂/蒜/香草 (每面20秒) -> 核心 39°C -> [靜置] 58°C 保溫櫃 8-10mins。
+- [二煎] 換新油/香草 -> 核心 50°C -> [靜置] 室溫 8mins。
+- [三煎] 換新油/香草 -> 核心 55°C -> [靜置] 58°C 保溫櫃 8mins。
+- [塗層] 表面掃牛骨汁 -> 均勻滾上 Onion Crust。
+- [切件] 斜切 55g / 件。
+
+[FINISHES PREP]
+- 蘑菇: [刨片] 1mm 薄片 (僅取純白無菌褶部分)。
+- 醬汁: [濃縮] 牛骨汁微火收至亮面 (Glaze) -> 保溫。
+- 金蓮花: [塑形] 2cm 圓模壓片。
+
+---
+### 3. PLATING ARCHITECTURE (擺盤邏輯)
+1. [基底] 盤底灑洋蔥粉 (過篩)。
+2. [冷酸] 1小匙芥末酸忌廉 -> 蓋上金蓮花葉。
+3. [結構] 脆撻 -> 疊加菠菜 -> 疊加蘑菇片 -> 灑洋蔥粉。
+4. [主體] 放上 55g 牛柳。
+5. [醬汁] 淋上溫熱牛骨汁 -> 頂部撒鹽花 (Fleur de sel)。
 
 ================================================================================
 RECIPE: 北海道帆立貝 (HOKKAIDO SCALLOP)
