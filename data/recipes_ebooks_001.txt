@@ -1,3 +1,295 @@
+Pollen Street Social（Jason Atherton）核心知識庫
+
+用途：可直接寫入 GitHub，作為 Poe AI 機械人的結構化知識底稿。
+原則：材料份量、比例、溫度、時間盡量保留原書單位（g、ml、°C、分鐘、小時、%）；做法只保留核心邏輯與關鍵手法；OCR 缺標題或原文拼寫異常會標註。
+語言：繁體中文；菜名保留英文以便檢索。
+
+---
+
+1. 全書最核心的底層邏輯
+
+1.1 核心理念
+
+· 「Contemporary Mayfair」去形式化餐飲：以精準法式技術處理英國季節食材，呈現「社會性、可親近、但極高完成度」的 Michelin 級餐飲。
+· 食材溯源優先：海鮮、肉類、蛋、蔬菜、野味、芝士皆強調供應商、季節性、永續與福利；菜單隨捕撈/收成/天氣調整。
+· 味道結構：鹹鮮、酸度、油脂、甜味、苦味、發酵味、煙燻味、脆/滑/泡/冰多層次並置；常用酸（醋、檸檬、yuzu、verjus、pickling liquid）平衡濃郁高湯與奶油。
+· 餐廳標準化：大量使用真空、sous vide、脫水、凝膠、iSi 泡沫、澄清高湯、預製組件，確保出餐穩定與精準。
+
+1.2 關鍵科學/技術原理
+
+· Sous vide 低溫慢煮：以精確水溫控制蛋白質變性與膠原轉化；肉類常見 57–85°C，魚類 58°C，蛋 62°C，內臟/鵝肝 65°C，蔬菜/根莖 85°C。
+· 凝膠系統：agar（熱可逆、脆凝）、gelatine（柔滑）、gellan（懸浮/流體凝膠）、xanthan（增稠/穩定）、pectin X58（果膠凝）、gel espressa（即溶凝膠）；常用於蓉、果凍、泡沫、流体凝膠。
+· 泡沫/空氣：iSi whipper（2–3 canisters）、Sosa ProEspuma Cold、agar/gelatine 穩定；用於 Parmesan foam、buttermilk foam、tomato foam。
+· 乳化：奶油/橄欖油/高湯/蛋黃乳化；Tarragon Mayonnaise、Seaweed Butter Sauce、Olive Oil Mash。
+· 澄清：egg white raft（蛋白筏）吸附雜質；muslin 過濾；consommé。
+· 脫水/粉末：75°C 脫水蔬菜/皮/菇/海藻；打粉用於撒粉、脆片、調味。
+· 鹽漬/醃漬/發酵：Salt Cure、Meat Brine、Pickling Liquid、Salt Pickling Liquid；滲透脫水、保色、增味。
+· 巧克力調溫：Valrhona 70% 常見 46–49°C → 27°C → 31°C；用於 discs、bon bons。
+· 糖藝：Honeycomb 155°C；caramel 深 golden/terracotta；糖漿 70–80°C。
+· 高湯濃縮：Maillard 褐變、長時間 simmer、reduce by half；Beef/Duck/Game/Lamb/Veal/Chicken/Fish stock。
+
+1.3 數據使用規則
+
+· 所有溫度保留原書格式，例如 160°C/140°C fan/Gas Mark 3。
+· 所有時間保留「分鐘/小時/過夜」。
+· 材料份量以原書為準；原文「適量/少許」保留為「適量」。
+· 比例保留，例如 aubergine purée : miso = 2:1；Parmesan rice 用 700ml langoustine stock。
+
+---
+
+2. Canapés
+
+2.1 'Fairy Cakes' with pickled cucumber and dill & spinach cream
+
+· 材料數據：甜粟米鬆餅：雞蛋 4 隻、caster sugar 100g、plain flour 200g、fine sea salt 1/2 茶匙、baking powder 1/2 茶匙、新鮮甜粟米粒 75g、extra virgin olive oil 140ml。醃青瓜：小青瓜 1 條、Salt Pickling Liquid 50ml、Maldon sea salt；真空醃 4 小時；青瓜皮 75°C 脫水 3 小時。蒔蘿菠菜忌廉：蒔蘿 2 束約 200g 葉、已燙大葉菠菜 250g、extra virgin olive oil 25ml、double cream 250ml、鹽；拌入約 50ml 蒔蘿菠菜蓉。組裝：Chive & Dill Oil、Ossetra caviar 1 小罐 30g。
+· 核心做法：蛋糖打至淺白蓬鬆；分 2 次拌入粉類；拌入粟米與橄欖油；靜置 10 分鐘；160°C/140°C fan/GM3 焗約 12 分鐘。青瓜真空醃；皮脫水打粉。忌廉打軟峰，拌入菠菜蒔蘿蓉，星嘴擠花。
+· 用途/備註：一口大小、綠色對比、魚子醬鹹鮮；可預製組件，最後組裝。
+
+2.2 Beetroot & Celeriac Tart with fresh blackberries
+
+· 材料數據：MAKES 24。撻殼：plain flour 250g、type '00' flour 65g、fine sea salt 1 茶匙、unsalted butter 155g 軟化、百里香 1 枝葉、雞蛋 1 隻、蛋黃 1 隻、冷水 25ml。餡：紫色甜菜根 2 個去皮、蒜 1 瓣、百里香、牛油、¼ celeriac、olive oil、blackberry vinegar、鹽胡椒；甜菜根真空 85°C 8 小時；黑莓 24 粒。焗 160°C/140°C fan/GM2 15–16 分鐘，去豆再焗 3–4 分鐘。
+· 核心做法：粉+牛油搓沙；加蛋液成糰；雪 1 小時；擀 2mm；8–9cm 圓模；盲焗。甜菜根 sous vide；celeriac 煎 10–12 分鐘；混合打滑；加黑莓醋；過篩；擠入撻殼，放黑莓。
+· 用途/備註：甜菜根土味以黑莓醋提酸；可提前製餡。
+
+2.3 Smoked Salmon
+
+· 材料數據：crème fraîche 200ml、檸檬皮/汁 2 個、rye bread 1 條、full-fat cream cheese 280g、long-sliced smoked salmon 1 份、keta salmon roe 100g、鹽胡椒、蒔蘿。crème fraîche 懸掛瀝水 6 小時/過夜；rye 切 5.5mm；可切 5cm×2cm 手指或 3cm 圓片。
+· 核心做法：檸檬皮汁拌入瀝乾 crème fraîche；麵包塗 cream cheese；鋪煙三文魚；擠檸檬忌廉小點；放魚子；蒔蘿裝飾。
+· 用途/備註：經典冷盤 canapé；重點是瀝水令質地挺立。
+
+2.4 New Forest Mushroom Tea with Parmesan foam and cep powder
+
+· 材料數據：SERVES 8–10。蘑菇茶：flat mushrooms 500g、button mushrooms 500g、olive oil、mirepoix 1.5kg（洋蔥 1、西芹 2、韭葱 1、紅蘿蔔 2 切丁）、Chicken Stock 2.5L、百里香約 50g、dried ceps 100g、Madeira 500ml、egg whites 250ml 輕打、white soy sauce 約 50ml、鹽胡椒。Parmesan foam：banana shallot 1、Parmesan 皮、dry white wine 125ml、double cream 500ml、whole milk 2L、gel espressa 2g、agar agar 5.5g。組裝：現磨 Parmesan 1–2 湯匙、cep powder。
+· 核心做法：菇 180°C/160°C fan/GM4 烤 45 分鐘；mirepoix 炒軟；加 stock、百里香、ceps、Madeira 煮 5–6 小時；降溫 40°C；蛋白筏澄清；white soy 調味。Parmesan 液煮至 80°C 加 gel/agar；冷卻；iSi 3 canisters。杯中先放泡沫與 cep powder，席前倒茶。
+· 用途/備註：澄清湯技術；蛋白筏不可壓破。
+
+2.5 'Fish & Chips' with taramasalata and salt & vinegar powder
+
+· 材料數據：MAKES 30。Confit potato 'chips'：clarified butter 1kg、大 chipping potatoes 4 個、vegetable oil、鹽胡椒；牛油 160°C，薯絲炸 5–8 分鐘；瀝 10 分鐘；壓 2cm；雪 ≥1 小時；切 5cm×2cm×2cm；180°C 炸。Taramasalata：white bread 4 片、smoked cod's roe 225g、蒜 1/2 瓣、whole milk 600ml、vegetable oil 500ml、檸檬汁。Salt & vinegar powder：malt vinegar powder 100g、fine sea salt 20g。
+· 核心做法：薯絲牛油煮後壓實冷藏；切條炸脆；魚子醬薯泥乳化；粉末混合。每條擠 3 點 taramasalata，放 bronze fennel。
+· 用途/備註：英式幽默 canapé；重點壓實與雙重質地。
+
+2.6 Foie Gras Eccles Cake with poppy seed & almond crumb
+
+· 材料數據：MAKES ABOUT 20。Pastry：plain flour 撒粉、puff pastry 200g；切 8cm×5cm。Stuffing：foie gras 200g 切碎、minced pork shoulder 200g、minced lardo 50g、sultanas 50g 泡軟、Cognac 50ml、juniper berries 2g 壓碎、蛋黃 4 隻、鹽胡椒；每球約 25g。Crumb：black poppy seeds 1 湯匙、chopped almonds 1 茶匙、dried clementine peel 1 茶匙、dried apricot 1 茶匙、百里香 8 枝葉。焗 180°C/160°C fan/GM4 約 12 分鐘。
+· 核心做法：酥皮擀 3mm 雪；餡拌勻；包球；蛋液刷 3 次並冷藏；撒 crumb；焗至金黃。
+· 用途/備註：甜香料與鵝肝脂香；可提前冷凍。
+
+2.7 Roasted Artichoke Skins with artichoke ice cream
+
+· 材料數據：SERVES 8–10。Baked artichokes：white-skin Jerusalem artichokes 500g、蒜 2 瓣、百里香、olive oil、Maldon salt、vegetable oil；150°C/130°C fan/GM2 焗約 1 小時；皮 75°C 脫水；160°C 炸 1–2 分鐘。Ice cream：whole milk 500ml、蛋黃 2、caster sugar 75g、maltodextrin 50g、artichoke mash、fine sea salt 2g、Parmesan 50g（36 個月）；牛奶 50°C，custard 70°C 10 分鐘；churn。組裝：hazelnuts、truffle。
+· 核心做法：菊芋焗軟；肉打蓉；皮脫水炸脆；雪糕以 custard 基底加菊芋蓉與 Parmesan；最後刨榛子與松露。
+· 用途/備註：甜鹹、脆滑對比；皮脆片可預製。
+
+---
+
+3. Starters
+
+3.1 Lincolnshire Smoked Eel with buttermilk, beetroot and 'jellied eel'
+
+· 材料數據：SERVES 4–6。Reduction：smoked eel bones 1kg、olive oil、洋蔥 1、fennel 1 球、西芹 1、韭葱 1、蒜 2、coriander seeds 1 茶匙、fennel seeds 1 茶匙、dry white wine 200ml、Fish Stock 4L、beetroot juice 1L；煮 2 小時；減至約 1L，加甜菜汁煮至糖漿。Jellied eel：gelatine 2 片、eel stock 500ml、shallot 1、Granny Smith 蘋果 1、蒔蘿；倒 4–6 矽膠模雪至凝固。Buttermilk foam：buttermilk 500ml、檸檬汁 1、Maldon salt 1g、Sosa ProEspuma Cold 50g、olive oil 4 茶匙；iSi 2 canisters。Buttermilk & horseradish purée：buttermilk 250ml、horseradish sauce 1 茶匙、agar 7g、檸檬汁、鹽；70°C，凝固後打蓉。Smoked fish skin powder：cod skin 1 面、smoked eel skin 1 面；120°C/100°C fan/GM1/2 烤 30 分鐘；脫水過夜；打粉。
+· 核心做法：魚骨煎香；蔬菜炒；酒 deglaze；stock 煮 2 小時；冷卻過濾；減濃；甜菜汁調色。Jellied eel 用 gelatine 凝固。Buttermilk 泡沫與辣根蓉分開。魚皮烤脆脫水打粉。
+· 用途/備註：煙鰻、甜菜、buttermilk 酸度平衡；「jellied eel」為英式傳統轉譯。
+
+3.2 Pressed Norfolk Quail & Duck Liver with braised quail taco, cep puree and summer vegetables
+
+· 材料數據：SERVES 4。Pressed：去骨去皮鵪鶉胸 8 塊、Meat Brine 100ml、牛油、brandy 150ml、Jerez vinegar 50ml、fine sea salt 2.5 茶匙、caster sugar 1 茶匙、pink salt 3/4 茶匙、white pepper 1/2 茶匙、grade A foie gras 300g、Perigord truffle 80g。鵪鶉胸 sous vide 57°C 45 分鐘；鵝肝醃後 sous vide 65°C 10 分鐘；壓成 ballotine。Quail taco：鵪鶉腿 8、duck fat 200g、Mushroom Purée 2 湯匙、pan-roasted wild mushrooms 100g、reduced Pigeon Sauce 2 湯匙、Romaine 4 葉、truffle、cep purée、Lettuce & Seaweed Powder；腿 confit 約 3 小時。Cep purée：butter 50g、fresh ceps 250g、百里香、蒜 1、Chicken Stock 75ml、Jerez vinegar 1 湯匙。Summer vegetables：baby carrots、baby fennel、baby leeks、truffle trimmings、pigeon sauce；燙 2 分鐘切 rondelles。
+· 核心做法：鵪鶉胸鹽水 1 小時；sous vide；鵝肝去脈、醃、sous vide；鵝肝與鵪鶉胸壓卷。腿 confit 撕碎拌蘑菇蓉、pigeon sauce；生菜做成 taco。Cep 煎香打蓉。
+· 用途/備註：多組件壓縮；松露與野味連接。
+
+3.3 Saddle of Rabbit with crispy rabbit leg croquettes, mixed beans, bitter leaves and truffle dressing
+
+· 材料數據：SERVES 4。Ballotine：大兔鞍 2 個或小 4 個去骨、Parma ham 10–15 片、meat glue、olive oil；sous vide 62°C 25 分鐘；180°C/160°C fan/GM4 烤 2 分鐘。Croquettes：兔腿 4、Salt Cure 100g、olive oil、Rabbit Sauce 100ml、tarragon/parsley、plain flour 100g、beaten eggs 100g、Japanese breadcrumbs 100g、炸油；鹽漬 4 小時；sous vide 85°C 3 小時；撕碎壓 1cm；切 3cm×7cm；180°C 炸 2–3 分鐘。Assembly：mixed beans 約 200g、Truffle Dressing、bitter leaves 100–150g、Tarragon Mayonnaise、foraged herbs、breakfast radishes。
+· 核心做法：兔鞍 Parma ham 卷；sous vide；煎烤。腿鹽漬、sous vide、撕碎、壓實、裹粉炸。豆與苦葉以 truffle dressing 拌。
+· 用途/備註：兔肉兩吃；苦葉與松露油平衡。
+
+3.4 Slow-cooked Heritage Breeds Farm Egg with seaweed crumb, chicken legs and crispy chicken skin
+
+· 材料數據：SERVES 4。Seaweed crumb：Parmesan 125g、sourdough 200g 去邊、sage 25g、炸油、dried fujiko seaweed 25g；Parmesan 160°C/140°C fan/GM3 焗 8–12 分鐘；麵包焗 10–15 分鐘；sage 180°C 炸 1–2 分鐘。Chicken gravy：olive oil、雞翼 1kg、紅蘿蔔 2、洋蔥 1、西芹 1、韭葱 1/4、蒜 1/2 球、tomato paste 30g、dry white wine 250ml、Parmesan 皮、Brown Chicken Stock 1L、Veal Stock 500ml、kombu 1 片、sage 1 枝、百里香 2 枝、檸檬皮 1 個；煮 4 小時；浸漬。Slow-cooked legs：water 1L、fine sea salt 100g、bay 2、百里香 2、檸檬皮 2、去骨雞腿 4（帶皮）；brine 1 小時；sous vide 62°C 4 小時；壓過夜；煎皮。Swede purée：swede 1、butter 200g。Swede & potato discs：swede 1、Pickling Liquid 100ml、Desiree 薯仔 2、butter 100g；2.5mm 圓片。Crispy chicken skins：雞皮 8 片；190°C/170°C fan/GM5 焗 40–45 分鐘。Slow-cooked eggs：大蛋 4 隻，sous vide 62°C 50 分鐘；沸水加熱 1 分鐘。
+· 核心做法：雞翼煎褐；蔬菜炒；酒 deglaze；stock 煮 4 小時；浸漬過濾。雞腿鹽水、sous vide、壓實、煎脆。蛋低溫煮。Swede 打蓉；薯/蕪菁切片煮。組裝撒 seaweed crumb。
+· 用途/備註：英國食材、蛋黃醬汁；重點是 62°C 蛋黃質地。
+
+3.5 Roast Scallops with pommes souffles and caviar sauce
+
+· 材料數據：SERVES 4。Leek & shallot powder：shallots 2、leeks 4 綠色部分；脫水 8–12 小時；打粉。Roast scallops：Orkney 大生帶子 4 隻、olive oil、butter 50g、檸檬汁、鹽胡椒。Potato & leek purée：butter 100g、韭葱白 4、shallots 2、Desiree 薯仔 1、Vegetable Stock 200ml、double cream 100ml。Confit lemon：water 100ml、caster sugar 100g、檸檬 1；糖漿 70°C。Pommes soufflés：vegetable oil 2L、russet 薯仔 2；150°C 炸至結皮，轉 190°C 炸脹；切 5mm。Caviar sauce：Potato & Leek Purée 50ml、Petrossian liquid caviar 50ml。
+· 核心做法：帶子煎香，牛油淋澆。薯仔片雙溫炸。韭葱薯蓉打滑。Caviar sauce 加熱混合。組裝以韭葱粉、confit lemon、pommes soufflés。
+· 用途/備註：雙溫炸薯波是關鍵；帶子勿過熟。
+
+3.6 Pressed Terrine of Guinea Fowl with smoked ham knuckle, port & bacon jam and summer vegetables
+
+· 材料數據：SERVES 8。Ham knuckle layer：smoked ham knuckles 2 個（各 1–1.2kg）、洋蔥 2、紅蘿蔔 1、西芹 1、蒜 1、百里香 2、flat-leaf parsley 25g、grain mustard 1–2 湯匙；煮 4–5 小時；stock 減半；壓 15cm×20cm×3cm。Guinea fowl layer：guinea fowl 2、Meat Brine、蒜 1、百里香 2、duck fat 約 200g、Chicken Gravy 50ml；brine 1 小時；腿 confit 約 2 小時；胸 sous vide 62°C 1 小時；壓同尺寸。Port & bacon jam：red onions 1kg、Alsace smoked bacon 100g、ruby port 750ml、red wine vinegar 50ml；煮 1–1.5 小時；去煙肉；打滑。Leek & mushroom powder：leeks 3、dried ceps 100g；燙 20 秒；75°C 脫水 4 小時；打粉。
+· 核心做法：火腿煮軟拆肉，stock 減濃拌肉；珍珠雞腿 confit、胸 sous vide；兩層壓合；blowtorch 微熱黏合；壓雪。Port jam 煮至黏。組裝切厚片，配 summer vegetables、truffle、baby leaves。
+· 用途/備註：肉凍/terrine 標準化；兩層以熱黏合。
+
+3.7 Braised Broccoli with broccoli puree, seaweed powder and toasted almonds
+
+· 材料數據：SERVES 4。Braised broccoli：broccoli 1kg、butter、Seaweed Powder、Maldon salt；莖切塊燙 2–3 分鐘；牛油鹽水乳化加熱。Seaweed powder：broccoli 葉/修邊、instant dashi 100g、nori 2 片；燙 3 分鐘；脫水 6 小時；打粉。Broccoli puree：broccoli 1kg、double cream 100ml；燙 3–4 分鐘；打蓉。Toasted almonds：butter 250g、flaked almonds 200g。Assembly：Lemon Puree、chopped toasted almonds、nori、wood sorrel、smoked almonds、extra virgin olive oil。
+· 核心做法：西蘭花莖燙後牛油乳化；葉與修邊脫水打粉；花與莖打蓉；杏仁牛油烘香。
+· 用途/備註：零浪費；粉末增加鮮味。
+
+3.8 Tomato Tartare with verjus granita and sourdough croutons
+
+· 材料數據：SERVES 6。Tartare：San Marzano 番茄 12、olive oil 2 茶匙、shallots 2、蒜 1、鹽胡椒。Dressing：light soy 70ml、Tabasco 5 dashes、tomato ketchup 200ml、English mustard 10g、brandy 2 茶匙、Worcestershire 1 湯匙。Verjus granita：Muscat verjus 200ml、water 500ml、caster sugar 50g；凍 4–6 小時。Croutons：sourdough 1/4 條、olive oil；凍 30–45 分鐘；切薄；160°C/140°C fan/GM3 焗 10 分鐘。Assembly：tahini、baby heritage tomatoes 6–8、Black Olive Crumb、mixed herbs、edible flowers。
+· 核心做法：番茄燙 10 秒去皮去籽切 5mm；shallot/蒜炒；番茄煮 15 分鐘；汁減糖漿拌回。Dressing 打勻。Granita 凍刮。Croutons 薄切焗脆。每 3 湯匙 tartare 加 1 茶匙 dressing、1 茶匙 tahini。
+· 用途/備註：番茄水分控制；冷熱對比。
+
+3.9 Onion Squash Soup with white asparagus and sauteed mushrooms
+
+· 材料數據：SERVES 6。Soup：onion squash 2、Vegetable Stock 500ml、Vegetarian Dashi 200ml、plain yoghurt 200ml、鹽胡椒；160°C/140°C fan/GM3 焗約 1 小時；煮 10–15 分鐘；打滑。White asparagus：white asparagus 4、water 250ml、butter 125g、sherry vinegar 1.5 茶匙、white onion 1/2、bay 1、百里香 2、Maldon salt 8g、caster sugar 2 茶匙；煮 3–4 分鐘。Squash balls：butternut squash 1、orange juice 100ml；煮至糖漿。Assembly：Parmesan Foam 500ml、Parmesan、mixed sautéed mushrooms、purple shamrock/sorrel、black truffle。
+· 核心做法：南瓜焗軟連皮打蓉；加 yoghurt 調酸；過篩。白蘆筍以牛油水煮。南瓜球以橙汁 glazed。Parmesan foam 加熱後 iSi 3 canisters。
+· 用途/備註：湯以 foamy 質地；白蘆筍季節性。
+
+---
+
+4. Shellfish
+
+4.1 Dressed Paignton Harbour Crab with crab jelly, bread foam and lemon puree
+
+· 材料數據：SERVES 4–6。Crab jelly：crab shells 1kg、olive oil、洋蔥 1、紅蘿蔔 1、西芹 1.5、fennel 1 小、蒜 2、bay 2、tomato paste 1 湯匙、brandy 100ml、Fish Stock 2.5L、white peppercorns 1 湯匙、egg whites 6、tarragon、agar 2g；澄清；倒 2mm 層。Crab powder：brown crab meat 250g、soy、mirin；凍、刨、脫水 2 小時。Bread foam：sourdough 修邊/皮 250g、balsamic reduction 125ml、olive oil 50ml、百里香 2、蒜 1/2、whole milk 1L、lime；180°C/160°C fan/GM4 焗 10–12 分鐘；煮軟；iSi 2。Dressed crab：white crab meat 500g、mayonnaise、Granny Smith 2、lime。
+· 核心做法：蟹殼煎香；蔬菜炒；brandy deglaze；stock 煮 40 分鐘；冷卻；蛋白筏澄清；agar 凝固。蟹肉拌蛋黃醬、蘋果、青檸。麵包泡沫打滑 iSi。
+· 用途/備註：蟹三吃：jelly、dressed crab、powder；蛋白筏不可壓。
+
+4.2 Fruits of the Sea with oyster ice cream and tomato foam
+
+· 材料數據：SERVES 12。Oyster ice cream：whole milk 1L、double cream 1L、dextrose 300g、蛋黃 15、shucked drained oysters 2.8kg 打蓉、oyster shells 12、oyster leaves。Custard 約 84°C；churn。Tomato foam：vine plum tomatoes 500g、spring water 150ml、shallot 1、caster sugar 1/2 茶匙、basil 2、蒜 2 小片、kombu 1、gelatine 1/4 片、double cream 100ml、extra virgin olive oil；懸掛滴汁；減半；iSi 2。Lettuce & cucumber jelly：green lettuce 125g、cucumber 125g、gelatine 1、pickled cucumber、dill、lobster meat 1–2 claws、Tomato Foam；12 個 90ml 模。Brown crab bisque：crab shells 1kg、紅蘿蔔 4、洋蔥 4、西芹 2、韭葱 1、plum tomatoes 8、蒜 1 球、coriander 1/2 茶匙、star anise 1、clove 1、tomato paste 2 湯匙、brandy 300ml、Fish Stock 1.5L、milk 1L、double cream 500ml、tarragon 4、gelatine 4、white crab 100g、crème fraîche 1 湯匙、lemon、Ossetra caviar 30g；12 個 50ml 模。Raw scallops with jalapeño granita：mooli 1/4、Pickling Liquid、Orkney 大生帶子 2、Wasabi & Yuzu Dressing、queen scallop shells 12、Black Olive Oil、Lemon Purée、sea herbs、Jalapeño Granita。
+· 核心做法：蠔雪糕以 custard 加蠔蓉；番茄泡沫澄清濃縮；生菜青瓜 jelly 以 gelatine 凝固；蟹 bisque 煮 40 分鐘、tarragon 浸、gelatine 凝固。生帶子切丁拌 wasabi yuzu。組裝 6 個兩層海鮮架加碎冰。
+· 用途/備註：共享海鮮塔；冷/冰/泡沫/凝膠多重質地。
+
+4.3 Isle of Mull Langoustine with braised oxtail and Parmesan rice
+
+· 材料數據：SERVES 6。Bisque & tails：extra-large langoustines 6、olive oil、white onion 1、donkey carrot 1、西芹 1、韭葱白 1、蒜 3、lemongrass 1、red chilli 1、ginger 50g、coriander seeds 1 茶匙、fennel seeds 1 茶匙、tomato paste 2 湯匙、brandy 100ml、Fish Stock 1L、milk 1L、double cream 500ml；尾燙 10 秒冰鎮；殼煎香；煮 20 分鐘；減半。Oxtail：oxtail 1.5kg、洋蔥 2、紅蘿蔔 2、蒜 1 球、red wine 500ml、Veal Stock 1L、Brown Chicken Stock 1L、百里香 2、bay 2；150°C/130°C fan/GM2 燉 5–6 小時；撕碎；汁減 glaze。Langoustine stock：heads/shells 1kg、fennel 2、洋蔥 2、韭葱 1、西芹 1、bay 1、fennel seeds 1 湯匙、coriander seeds 1 湯匙、water 2L、kombu 2、Parmesan 皮、bonito 100g；煮 1 小時；50°C 浸。Parmesan rice：shallots 2、Acquerello risotto rice 250g、dry white wine 100ml、36 個月 Parmesan 200g、langoustine stock 700ml；risotto 約 15 分鐘。
+· 核心做法：龍蝦尾燙後冰鎮剝殼；殼熬 bisque；牛尾燉軟撕碎；龍蝦殼熬 stock；Parmesan risotto 逐次加 stock。組裝 risotto、牛尾、龍蝦尾、bisque 泡沫。
+· 用途/備註：甲殼類雙高湯；risotto 用龍蝦 stock 取代一般 stock。
+
+4.4 Raw Orkney Scallop with pear puree, pickled turnip and jalapeño granita
+
+· 材料數據：SERVES 4。Jalapeño granita：caster sugar 125g、cold water 125ml、fresh lime juice 300ml、apple juice 150ml、cucumber juice 50ml、jalapeño 60g 去籽切丁；凍。Pear puree：ready pear puree 1kg、agar 2g；煮沸；倒盤速冷；打滑。Wasabi & yuzu dressing：olive oil 100ml、蒜 2、yuzu juice 60ml、light soy 50ml、white soy 50ml、fresh wasabi 20g。Pickled turnip：Tokyo turnips 2 或 kohlrabi 1、Pickling Liquid；5cm 圓片醃 10 分鐘。Raw scallops：Orkney 大生帶子 8–10；每隻橫切 3–4 片，共 28 片；拌 dressing 醃數分鐘。
+· 核心做法：Granita 打滑過篩凍硬；梨蓉 agar 凝固；帶子切片拌 wasabi yuzu；蘿蔔片醃。組裝點油、帶子、蘿蔔、梨蓉、海草、bronze fennel。
+· 用途/備註：生帶子厚度一致；granita 用叉刮。
+
+4.5 Roast Orkney Scallops with artichoke & black olive soup and lemon, artichoke & celery brunoise
+
+· 材料數據：SERVES 4。Roast scallops：Orkney 大生帶子 4、olive oil、butter 50g、檸檬汁、鹽胡椒。Soup：Jerusalem artichokes 1kg、檸檬汁、olive oil、shallots 3、蒜 2、dry white wine 200ml、Fish Stock 200ml、Chicken Stock 500ml、lemon thyme 2、double cream 100ml、Black Olive Oil。Brunoise：檸檬汁、Jerusalem artichoke 1、西芹 1、preserved lemons 2（只用皮）、olive oil；酸水；切細丁。Assembly：Lemon Purée、dehydrated black olives 30g 切碎、celery leaves。
+· 核心做法：帶子煎香淋牛油。菊芋湯炒香打滑，加忌廉打泡。Brunoise 以酸水防褐，微暖。組裝湯與帶子分開。
+· 用途/備註：菊芋易氧化；酸水關鍵。
+
+4.6 Paignton Harbour Crab with crab, yoghurt & sake sauce and mixed radishes
+
+· 材料數據：SERVES 6。Sauce：crab shells 500g、紅蘿蔔 2、洋蔥 2、西芹 1、韭葱白 1、蒜 1/2 球、plum tomatoes 4、coriander seeds、star anise 1、clove 1、tomato paste 1 湯匙、brandy 150ml、Fish Stock 600ml、whole milk 500ml、double cream 250ml、tarragon 2、full-fat yoghurt 250g、toasted almonds 200g、white grapes、ginger 20g、lime、dry mineral sake；煮 40 分鐘；blend。Crab meat：cooked crab claw meat 500g、crème fraîche 100g、olive oil 50ml、lime。Mixed radishes：black mooli 1、watermelon radish 1、blue meat radish 1、Tokyo turnip 1、Lemon Puree、Crab Powder、lime zest；3cm 圓片。
+· 核心做法：蟹殼煎香；蔬菜炒；brandy；stock 煮 40 分鐘；加 yoghurt、杏仁、葡萄、薑打滑；調 sake/青檸。蟹肉拌 crème fraîche。蘿蔔片冰鎮脆化，擠檸檬蓉、撒蟹粉。
+· 用途/備註：醬汁以 yoghurt/杏仁增稠；蘿蔔遮蓋蟹肉。
+
+4.7 St Austell Bay Lobster with yuzu jam and savoury seaweed custard
+
+· 材料數據：SERVES 4。Yuzu jam：lemon zest 50g、water 500ml、caster sugar 150g、saffron、agar 9g、yuzu juice 130ml；凝固打滑。Pine salt：dehydrated pine needles 50g、Maldon salt 25g；打粉。Savoury seaweed custard：eggs 3、Kombu Dashi 500ml；8 個 100ml 碗，100°C 蒸 9–10 分鐘。Lobster jelly：Lobster Consommé 350ml、gelatine 2；凝固。Lobster tartare：cooked lobster meat 400g、lime zest/juice、olive oil。Assembly：Ossetra caviar 30g、lime zest、cooked lobster tails 4 對切烤。
+· 核心做法：yuzu jam agar 凝固；蛋液與 dashi 蒸成茶碗蒸；龍蝦清湯 gelatine 淋面；龍蝦肉切碎調味；組裝以 ring cutter 成型，撒 pine salt、魚子醬。
+· 用途/備註：日式茶碗蒸技術；清湯 jelly 與 custard 分層。
+
+4.8 St Austell Bay Mussel Purée with braised white asparagus and pickled shimeji mushrooms
+
+· 材料數據：SERVES 4。Pickled shimeji：Moscatel vinegar 250g、white wine vinegar 200g、caster sugar 200g、star anise 2、cinnamon 2、cloves 6、mustard seeds 2 茶匙、shimeji 1kg；醃數天。Mussel purée：mussels 4kg、西芹 2、紅蘿蔔 2、shallots 2、dry white wine 400ml、white soy 100ml、xanthan 4g；蒸開；汁減至 50ml；取 500g 肉打蓉。Mussel powder：purée 200g 凍、刨、脫水、打粉。Braised white asparagus：white asparagus 8、water 1L、butter 500g、sherry vinegar 2 湯匙、white onion 1、bay 4、百里香 8、Maldon salt 30g、caster sugar 30g；煮 2–3 分鐘。Dashi-braised king oyster：king oyster 4、red miso 2 湯匙、Kombu Dashi 400ml、xanthan 2g；2–3cm 圓片。Assembly：button mushrooms、bronze fennel、sea lettuce、sea purslane、sorrel、salty fingers。
+· 核心做法：青口蒸開取肉；汁減濃；xanthan 穩定打蓉；一半脫水打粉。白蘆筍牛油水煮。杏鮑菇 dashi/miso glaze。
+· 用途/備註：青口雙質地：蓉與粉；xanthan 用量極少。
+
+---
+
+5. Fish
+
+5.1 頁141 John Dory with Tokyo turnip, Paignton Harbour crab reduction and olive oil mash
+
+原文材料寫 4 x 120g pieces of sea bass fillet，但標題為 John Dory；保留原文矛盾。
+
+· 材料數據：SERVES 4。魚：4×120g 魚柳帶皮、Kombu Brine 750ml、olive oil；brine 10 分鐘；sous vide 58°C 8 分鐘。Crab reduction：大蟹 4、olive oil、white onion 1、carrot 1、蒜 3、韭葱白 1、西芹 1、lemongrass 1、red chilli 1、ginger 50g、coriander seeds 1 茶匙、fennel seeds 1 茶匙、tomato paste 2 湯匙、brandy 100ml、Fish Stock 1L、milk 1L、double cream 500ml；煮 20 分鐘；減半。Tokyo turnip：大 Tokyo turnip 約 150g、butter 100g、Fish Stock 100g、lemon thyme、檸檬皮/汁 1；螺旋切，燙 10 秒。Broccoli dashi powder：broccoli 莖 200g、dashi powder 100g、nori 2；燙 20 秒；脫水 6 小時；打粉。Assembly：Granny Smith 薄片、Tokyo turnip 薄片、Pickling Liquid、Arbequina olive oil、crab claw meat、Crab Powder、Olive Oil Mash。
+· 核心做法：魚 brine 後 sous vide。蟹殼熬 reduction。蘿蔔螺旋燙。蘋果/蘿蔔片快速醃 1 分鐘。組裝魚、蟹肉、脆片、蟹汁、olive oil mash。
+· 用途/備註：低溫魚與濃蟹汁；OCR 魚種矛盾需標註。
+
+5.2 Looe Day Boat Turbot with wild garlic & cockle velouté and cauliflower, yoghurt purée
+
+· 材料數據：SERVES 4。Velouté：蒜 1 球、olive oil 100ml、洋蔥 1、cockles 500g、dry white wine 100ml、picked wild garlic 500g、鹽胡椒；蒜 confit 40–45 分鐘；cockles 蒸 2 分鐘；wild garlic 燙 20 秒；與 cockle stock 打蓉。Cauliflower & yoghurt purée：花椰菜 1、whole milk 250ml、double cream 250ml、full-fat yoghurt 約 500ml 懸掛過夜；煮 10–12 分鐘；等重 yoghurt 拌入。Cauliflower florets：12 朵；燙 2–3 分鐘；牛油煎。Braised girolles：girolles 500g、butter 100g、dry white wine 50ml、Chicken Stock 250ml、百里香。Turbot：4×120g 去皮魚柳、olive oil、butter；皮面煎 2–3 分鐘，翻面 30 秒–1 分鐘。Assembly：woodland sorrel、Lemon & Yoghurt Meringue 8 大片。
+· 核心做法：蜆蒸開取汁；wild garlic 燙後與汁打蓉。花椰菜煮軟打蓉，拌等量瀝水 yoghurt。魚煎至剛熟。組裝 velouté、花椰菜、蜆肉、girolles、meringue 脆片。
+· 用途/備註：綠色 velouté 需冰浴保色；yoghurt 平衡。
+
+
+5.3 Poached South Coast John Dory with caramelised celeriac & chestnut purée, chestnut gnocchi and Périgord truffle sauce
+
+· 材料數據：SERVES 4。Purée：celeriac 1、olive oil、butter 400g、vacuum-packed cooked chestnuts 100g、Chicken Stock 200ml；celeriac 前一晚風乾；煎焦糖；打蓉。John Dory：1 條 2.5–3kg、Kombu Brine、olive oil；魚柳 120–150g；brine 10 分鐘；sous vide 58°C 8 分鐘。Garnishes：raw chestnuts、Perigord truffles；1cm 圓片。Truffle sauce：John Dory bones、shallots 2、chestnut mushrooms 200g、red wine 200ml、Fish Stock 500ml、Veal Stock 300ml、chestnut skins 10（煙燻）、Cabernet Sauvignon vinegar 1 湯匙、black truffle vinegar 50ml、truffle trimmings 100g、extra virgin olive oil 50ml；減至糖漿；truffle paste 拌入。Gnocchi：rock salt、floury potatoes 500g、chestnut flour 100g、type '00' flour 100g、egg 1、olive oil、butter；薯仔 160°C/140°C fan/GM3 焗 45–60 分鐘；20g 麵糰；沸水 2–4 分鐘；煎香。
+· 核心做法：celeriac 風乾後焦糖化；加栗子與 stock 打蓉。魚 brine 後 sous vide。魚骨熬醬，減濃，最後拌松露碎。Gnocchi 薯蓉+兩種粉，輕拌，煮浮後煎。
+· 用途/備註：松露醬以魚骨與栗子皮煙燻；gnocchi 勿過度搓揉。
+
+5.4 Newquay Day Boat Red Mullet with poached Orkney scallops, black olive crumb and bouillabaisse
+
+· 材料數據：SERVES 4。Red mullet：4×120g 紅鯔魚柳帶皮、olive oil、檸檬汁、鹽胡椒；皮面煎 2–3 分鐘，翻面 1 分鐘。Poached scallops：Orkney 大生帶子 4、spinach 200g、sea lettuce 200g、butter 200g 融化、Fish Stock 100ml；菠菜燙 3–4 分鐘；海草牛油打滑；帶子以牛油 stock 煮 1–2 分鐘。Black olive crumb：butter 100g、stale breadcrumbs 100g、dehydrated black olives 100g；牛油炒脆；拌橄欖切碎。Bouillabaisse：fish heads/bones 1kg、shallot 1、fennel 1、carrot 1、celery 1/2、蒜 2、over-ripe plum tomatoes 1kg、saffron、fennel seeds 5g、coriander seeds 5g、star anise 1、dry white wine 250ml、Pernod 100ml、olive oil、tomato paste 1/2 湯匙、cayenne 1/2 茶匙、Fish Stock 1L；魚骨與蔬菜酒醃過夜；煎香；煮 30 分鐘；mouli。Assembly：cucumber 烤、Saffron & Garlic Mash。
+· 核心做法：魚骨蔬菜隔夜醃；煎香；煮 30 分鐘；mouli 增稠。帶子以海草牛油煮。紅鯔煎脆皮。組裝湯、薯蓉、青瓜、黑橄欖脆。
+· 用途/備註：bouillabaisse 以 mouli 取全部風味；帶子勿過熟。
+
+5.5 頁163 魚菜（OCR 標題缺失）with courgette and basil purée, cockle minestrone and trofie pasta
+
+· 材料數據：SERVES 4。Courgette & basil purée：courgettes 4、olive oil、baby spinach 500g、basil 400g、double cream 100ml、Parmesan 50g；blanch；打蓉。Cockle minestrone：cockles 2kg、dry white wine 100ml、olive oil、langoustine/lobster heads and shells 1kg、洋蔥 1、紅蘿蔔 2、西芹 2、蒜 2、韭葱 1/2、espelette pepper 1 茶匙、tomato paste 1 茶匙、courgettes 3、tomatoes 1.5kg 去籽、red peppers 2、Fish Stock 1L、Chicken Stock 1L、tarragon 4、basil 4、cold butter、baby courgettes 4；蜆蒸開；煮 30 分鐘；mouli。Sweetcorn：2 大條；grill 10–15 分鐘。Assembly：魚件、bronze fennel、popcorn shoots、pasta。
+· 核心做法：蜆蒸開取肉與汁；龍蝦殼煎香；蔬菜炒；加 stock 煮 30 分鐘；mouli。翠玉瓜/羅勒蓉冰浴保色。粟米烤後切粒。組裝魚、粟米蜆、蓉、pasta。
+· 用途/備註：OCR 缺魚種與標題；做法核心是蜆汁與龍蝦殼增鮮。
+
+5.6 Long Line-caught Cornish Cod with onion squash purée and squid & seaweed sauce
+
+· 材料數據：SERVES 4。Roast cod：skinless cod centre loin 約 500g、Kombu Brine 約 1.5L、olive oil 200ml、檸檬皮 1、檸檬汁 100ml、soft herbs；brine 40 分鐘；包保鮮紙成圓筒；切 4×120g；煎切面 2 分鐘；200°C/180°C fan/GM6 焗 2 分鐘。Onion squash purée：onion squash 1、蒜 1、百里香、olive oil、butter 100g、Parmesan；160°C/140°C fan/GM3 焗 40 分鐘；打滑。Butternut fondant：butternut 2、butter 100g、Thai fish sauce、shiro dashi；3.5cm 厚、5cm 圓；sous vide 85°C 15 分鐘；煎。Squid & seaweed sauce：onion squash 2、Fish Stock 500ml、shiro dashi 50ml、plain yoghurt 200g、noto ishiri 30ml 或 fish sauce、diced squid 20g、chives 10g、sea lettuce 10g；焗 40 分鐘；煮；打滑。Squid 'rice'：squid 約 2kg、百里香、蒜 1、olive oil；sous vide 63°C 8 分鐘；切細丁。Assembly：blanched sea purslane 100g、Pumpkin & Seaweed Oil。
+· 核心做法：鱈魚 brine 後包圓筒煎焗。南瓜打蓉。牛油南瓜 fondant sous vide 後煎 glaze。魷魚 sous vide 切「米」。醬以南瓜、yoghurt、魷魚醬打滑。
+· 用途/備註：魷魚「飯」是質地錯覺；南瓜雙用法。
+
+5.7 頁174 魚菜（OCR 標題缺失）with goat's cheese & cauliflower purée, Maylor prawns and herb sauce
+
+· 材料數據：SERVES 4。Poached brill：brill 魚柳 4 塊 120–150g、Kombu Brine、olive oil；brine 20 分鐘；sous vide 58°C 15 分鐘。Goat's cheese & cauliflower purée：花椰菜 1/2、whole milk 500ml、double cream 250ml、goat's cheese 100g；煮 4–6 分鐘；打滑。Herb sauce：西芹 4、fennel 2、cucumber 1、Granny Smith 2、spinach 100g、mint 400g、basil 400g；榨汁；Thermomix 80°C 6 分鐘；過濾。Maylor prawns：raw Maylor prawns 24、lime zest 2、plain flour、vegetable oil；12 個蝦頭塞蝦膠；180°C 炸 1–2 分鐘。Assembly：purée、brill、生蝦、炸蝦頭、herb sauce。
+· 核心做法：brill brine 後 sous vide。花椰菜與羊芝士打蓉。香草汁以果汁+香草 80°C 打。蝦頭塞蝦膠炸脆。
+· 用途/備註：香草汁需 muslin 過濾；羊芝士與海鮮少見組合。
+
+5.8 Newlyn Line-caught Sea Bass with shellfish fondue, crushed potatoes and seaweed butter sauce
+
+· 材料數據：SERVES 4。Shellfish fondue：vine tomatoes 10、rosemary 2、百里香 2、olive oil、shallots 2、蒜 2、chopped cooked mussels/cockles/winkles/razor clam 各 4 茶匙、coriander/dill/chives 各 4 茶匙；番茄 150°C/130°C fan/GM2 烤約 1 小時；低火煮 2 小時；打滑。Crushed potatoes：Mayan Gold 500g、Chicken Stock 400ml、butter 200g、百里香、蒜 2、spring onions 2、white crab 100g、dill、coriander、lemon zest。Seaweed butter sauce：spinach 200g、sea lettuce 200g、butter 200g 融化、Fish Stock 100ml；菠菜燙 4 分鐘；打滑。Sea bass：4×120g 帶皮鱸魚柳、olive oil、Lemon Oil；皮面煎 2–3 分鐘，翻面 <1 分鐘。Assembly：crab claw meat、Crab Reduction foam。
+· 核心做法：番茄烤後慢煮成 fondue；海草牛油打滑；薯仔 stock 煮後輕壓；鱸魚煎脆皮。組裝 fondue、魚、薯、蟹鉗、蟹汁泡沫。
+· 用途/備註：薯仔保留顆粒；海草牛油可預製。
+
+6. Meat & Game
+
+6.1 Suckling Pig with red cabbage purée, stuffed dates and lardo-roasted potatoes
+
+· 材料數據：SERVES 4。Rack & belly：8 骨 suckling pig rack 約 1kg、去骨 suckling pig belly 約 1kg 帶皮、pink curing salt 30g、fine sea salt 70g、cloves 7、百里香、蒜 1、olive oil；belly 鹽漬過夜；sous vide 85°C 約 10 小時；壓；煎。Pork sauce：pork bones 1kg、洋蔥 1、韭葱 1、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、streaky bacon 250g、dry white wine 200ml、Veal Stock 1L、Chicken Stock 500ml、lemon thyme 2、lime leaves；煮 4 小時。Red cabbage purée：red cabbage 1/2、Braeburn 蘋果 2、sultanas 100g、cinnamon 1、star anise 1、clove 1、red wine 1L、port 1L、Cabernet vinegar 50ml、butter 125g；煮；打蓉。Braised chicory：red chicory 2、apple juice 250ml、ascorbic acid 1 茶匙、百里香；sous vide 88°C 2 小時；煎焦糖。Stuffed dates：Medjool dates 4、shallot 1、Italian lardo 250g、Granny Smith 1、marjoram 2、Pickling Liquid；塞餡；glaze。Cabbage in seaweed butter：Savoy 1、Seaweed Butter Sauce。Lardo-roasted potatoes：Italian lardo 500g、baby Mid potatoes 500g、butter 100g、百里香、蒜 1；煎烤。
+· 核心做法：豬腩鹽漬、sous vide、壓、煎脆。豬骨熬醬。紫椰菜煮至乾，酒醋，打蓉。菊苣 sous vide 後煎。棗塞 lardo 餡，pickling glaze。薯仔以 lardo 油煎。
+· 用途/備註：豬腩與 rack 兩種質地；紫椰菜酸甜平衡。
+
+6.2 Winter Lake District Lamb with lamb hotpot and beetroot & blackcurrant puree
+
+· 材料數據：SERVES 4。Lamb loin & fillet：去骨 short saddles 2 個各約 475g、meat glue、olive oil、rosemary、butter；loin 包 fat；蒸 5 分鐘；200°C/180°C fan/GM6 烤 2 分鐘；fillet 煎 2 分鐘。Hotpot：gros sel 100g、百里香、蒜 1、lemon zest 20g、去骨 lamb shoulder 2kg、olive oil、lamb fat 200g、紅蘿蔔 4、turnips 4、silverskin onions 500g、Lamb Sauce 1L、Desiree 薯仔 2、clarified butter 125g；鹽漬 4 小時；sous vide 84°C 8–10 小時；切 2cm；薯片 3cm；160°C/140°C fan/GM3 焗 15 分鐘。Beetroot-stained cabbage：Hispi 1、beetroot juice 1 瓶；煮 4–5 分鐘。Beetroot & blackcurrant purée：紫甜菜根 7、blackcurrants 250g、red wine 150ml、port 150ml、raspberry vinegar 50ml；煮至果醬；打蓉。Purple carrots：baby purple carrots 2 束、butter；燙 3 分鐘。Assembly：bull's blood leaves、Vinaigrette、Mint Sauce。
+· 核心做法：羊鞍包 fat 蒸後烤；羊肩鹽漬、sous vide、切丁；與蔬菜、Lamb Sauce 入小鍋，薯片鋪面焗。甜菜黑加侖蓉酸甜。椰菜以甜菜汁染紫。
+· 用途/備註：hotpot 為英國傳統；羊肩 overnight 軟嫩。
+
+6.3 Spring Lake District Lamb with shepherd's pie, cauliflower & yoghurt purée and mint sauce
+
+· 材料數據：SERVES 4–6。Lamb loin/fillets：short saddles 2 個各約 450g、meat glue、olive oil、butter、rosemary；蒸 100°C 15 分鐘；200°C/180°C fan/GM6 烤 2 分鐘。Braised shoulder：curing salt 100g、百里香、蒜 1、lemon zest 1、去骨 shoulder 1kg；鹽漬 4 小時；煎；sous vide 84°C 過夜。Shepherd's pie：lamb mince 500g、洋蔥 1、紅蘿蔔 1、西芹 1、蒜 1、plum tomatoes 200g、Lamb Stock 1L、Veal Stock 1L、rosemary、百里香、braised shoulder；煮 40 分鐘。Tomato purée：洋蔥 1、蒜 3、aubergine 1、red pepper 1、yellow pepper 1、green pepper 1、red chilli 1、ginger 80g、mustard seeds 1 茶匙、fennel seeds 1 茶匙、coriander seeds 1 茶匙、fresh tomatoes 1.5kg、canned plum tomatoes 400g、balsamic；煮 20 分鐘；打滑。Cauliflower & yoghurt purée：花椰菜 1、milk 250ml、cream 250ml、yoghurt 500ml 懸掛；煮 10–15 分鐘；打滑拌 yoghurt。Fennel & coriander powder：fennel seeds 100g、coriander seeds 100g；烘香；打粉。Assembly：Mint Sauce、Arbequina oil、spinach、Vinaigrette、Olive Oil Mash、pickled vegetable discs、Lamb Sauce。
+· 核心做法：羊鞍蒸後烤；羊肩鹽漬 sous vide；shepherd's pie 炒肉醬；番茄蓉打滑；花椰菜蓉拌 yoghurt；香料粉。組裝 pie 上擠 mash、pickled discs。
+· 用途/備註：春季版羊肉；shepherd's pie 與 lamb loin 雙主體。
+
+6.4 Cartmel Valley Loin of Venison with Jerusalem artichokes and venison & chocolate sauce
+
+· 材料數據：SERVES 5–6。Venison：loin 1–1.2kg 熟成 ≥18 日；切 200g；sous vide 58°C 15 分鐘；煎 2 分鐘。Sauce：venison bones 1–1.5kg、洋蔥 1、韭葱 1/2、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、juniper 10g、red wine 200ml、Chicken Stock 500ml、reduced Veal Stock 1L、cocoa nibs 10g、dark chocolate 70% 10g；煮 4 小時；最後加朱古力。Artichoke purée：Jerusalem artichokes 500g、檸檬汁、Chicken Stock 125ml、double cream 50ml；刨絲炒乾；打蓉。Roast artichokes：Jerusalem artichokes 250g、檸檬汁、extra virgin olive oil 50ml、紅蘿蔔 1、shallots 2、fennel 1、蒜 2、dry white wine 500ml、white wine vinegar 100ml、Chicken Stock 250ml、百里香 3、lemon zest 1、butter；煮 20 分鐘；烤。Artichoke crumb：皮；75°C 脫水 4 小時；160°C 炸；切碎。Pickled artichoke & pears：olive oil 100ml、lemon juice 100ml、Jerusalem artichoke 1、Nashi pear 1；薄片 4–5cm；醃 1 小時。
+· 核心做法：鹿柳 sous vide 後煎；骨熬醬，最後可可/朱古力。菊芋蓉、烤菊芋、脆皮粉、醃片四種質地。
+· 用途/備註：朱古力只作背景；鹿肉勿過熟。
+
+6.5 Braised West Country Ox Cheek with beef dashi and bone marrow crumb
+
+· 材料數據：SERVES 4。Meat Brine：water 1.25L、fine sea salt 125g、百里香、bay 1、蒜 1/2。Ox cheeks：牛面頰 4、brine 3 小時；煎；紅蘿蔔 1/2、洋蔥 1/2、西芹 1/2、red wine 250ml、Veal Stock 750ml、Chicken Stock 750ml；100°C/80°C fan/GM low 燉 8–10 小時/過夜；減汁；sous vide 85°C 10 分鐘。Beef dashi：olive oil、smoked pancetta 125g、shallots 2、蒜 1/4、百里香、Kombu Dashi 50ml、Cabernet vinegar 25ml、牛面頰 braising stock 750ml；煮；過濾。Celeriac & yeast purée：celeriac 1、olive oil、cold butter 200g、fresh yeast 25g、Chicken Stock 100ml；焦糖；打蓉。Parsnip purée：parsnips 3、milk 500ml、cream 500ml、蒜 1、百里香；煮 10–15 分鐘；打蓉。Parsley & anchovy purée：courgettes 2、olive oil、spinach 250g、flat parsley 200g、cream 50ml、anchovy paste 50g；燙；打蓉。Bone marrow crumb：stale sourdough 200g、bone marrow fat 100g、butter 100g；炒脆。Roast Portobello：大 Portobello 2、beef fat/dripping 100g；煎 5–6 分鐘；薄切。Thyme & parsley paste：parsley 100g、百里香 100g、olive oil 100ml；燙 parsley；搗碎。
+· 核心做法：牛面頰鹽水、煎、低溫燉軟；汁減濃；beef dashi 以 pancetta、kombu、醋、braising stock 煮。三種蓉：celeriac yeast、parsnip、parsley anchovy。牛骨髓脆粒。組裝牛面頰、Portobello、dashi、香草醬。
+· 用途/備註：牛面頰膠質；dashi 增鮮。
+
+6.6 Roast Lincolnshire Rabbit with summer beans, courgette & basil purée and langoustine tails
+
+· 材料數據：SERVES 4。Saddle：去骨兔鞍 1、Parma ham 5–6 片、meat glue、olive oil；sous vide 62°C 25 分鐘；煎/200°C/180°C fan/GM6 烤 2 分鐘。Rabbit legs：去骨兔腿 2、Maldon salt 100g、water 1L、lemon peel 2、bay 2、百里香 2、caul fat 300g、meat glue；brine 1 小時；卷；sous vide 62°C 25 分鐘；煎。Summer beans：olive oil、紅蘿蔔 1、韭葱 1、西芹 1、洋蔥 1、蒜 2、fresh borlotti 500g、Chicken Stock 1L、百里香 2、rosemary 2、lemon peel 2、runner beans 200g、fine beans 200g、butter 20g、sun-dried tomatoes 50g、preserved lemon 50g、marjoram/chervil；煮 20 分鐘；取 100g 打蓉。Courgette & basil purée：courgettes 4、spinach 500g、basil 400g、cream 100ml、Parmesan 50g。Dried courgette flowers：4 朵；70°C 脫水 4 小時。Rabbit sauce：rabbit bones 1kg、洋蔥 1、韭葱 1、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、dry white wine 200ml、reduced Veal Stock 1L、Chicken Stock 500ml、lemon thyme、parsley stalks、lemon peel、Browned Butter 50g、double cream 100ml；煮 4 小時；最後拌牛油忌廉。Assembly：Grilled Langoustine Tails 8。
+· 核心做法：兔鞍 Parma ham 卷；兔腿鹽水、caul fat 卷；sous vide。豆煮後部分打蓉增稠。翠玉瓜羅勒蓉。兔骨熬醬，最後加 browned butter/cream。
+· 用途/備註：兔肉與小龍蝦尾海陸組合；caul fat 保濕。
+
+6.7 40-day Dry-aged Lake District Beef Fillet with aubergine & miso purée, confit garlic and Dorset snails
+
+· 材料數據：SERVES 4。Beef fillet：中心切 fillet 約 1kg 熟成 40 日、olive oil、butter 30g、蒜 3–4、百里香；煎每面 2 分鐘；核心溫度 rare 38–40°C、medium rare 42–45°C、medium 48–50°C、medium well 58°C、well 62°C；rest 5–10 分鐘。Aubergine & miso purée：aubergines 2、olive oil、shallot 1、Chicken Stock 250ml、squid ink 1 包、red miso 300g、rice vinegar 150ml、soft brown sugar 140g、butter 175g 融化；miso 160°C/140°C fan/GM3 焗 15–20 分鐘；aubergine purée : miso = 2:1。Confit garlic：蒜 1 球、vegetable oil 200ml；低火 45 分鐘。Confit garlic purée：蒜 5 球、double cream 100ml；150°C/130°C fan/GM2 焗 1 小時；煮；打蓉。Beef-fat carrots：beef fat 500ml、大紅蘿蔔 4、百里香 3、蒜 2、flat parsley；煮 15–20 分鐘；煎。Dorset snails：ready-cooked shelled snails 24、plain flour 100g、butter 100g、confit garlic；煎脆。
+· 核心做法：牛柳綁緊切 4 份；煎香淋牛油；依核心溫度。茄子烤/煎後打蓉；miso 焗後加醋糖牛油打滑，按 2:1 拌入茄子蓉。蒜油 confit。牛油煮蘿蔔。蝸牛裹粉炸。
+· 用途/備註：熟成牛柳；miso 比例精確 2:1。
+
 
 
 7. Poultry & Game Birds
