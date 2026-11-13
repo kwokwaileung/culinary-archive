@@ -1,3 +1,737 @@
+以下為《Saber y Sabor 196》全書核心知識的結構化整理，已按你要求壓縮為可訓練 AI 的 Markdown 格式。所有份量、比例、溫度、時間均保留原文精確數值與單位。
+
+---
+
+SABER Y SABOR 196 核心知識庫
+
+0. 全書底層邏輯與核心理念
+
+· 傳統與前衛的辯證：全書主軸是「從傳統出發，以科學與技術重新詮釋」。每位主廚均以經典（法式糕點、Dim Sum、escabeche、Pâté en Croûte）為根，再用現代技術（sous-vide、pH 極端、酵素、真空、煙燻、球化）推進。
+· 科學與烹飪的橋樑：Harold McGee 訪談定調——烹飪是人類最早的「實用科學」；科學能回答「為什麼」，也能帶來「理解的美感」。
+· 風味結構論：Harold McGee 提出「味道（gusto）是地基，香氣（aroma）是上層建築」；沒有味道基礎，香氣只是香水；只有味道，則缺乏層次。
+· 酸鹼極端技術：Food Idea Lab 以 pH 極端（酸／鹼）改變蛋白質結構，製造全新質地，而非只靠加熱。
+· 零浪費與循環經濟：Lara Roguez（Abarike）將甲殼類外殼做成餐具；Alejandro Chamorro（Nuema）全魚利用；Sergio Bastard 將 salmuera（鹽水副產品）變成新食材。
+· 在地性與生物多樣性：Joel Castanyé（La Boscana）以 Lleida 水果為主角；Nuema 以厄瓜多爾生物多樣性為核心；Tres 以荷蘭本地食材為本。
+· 「複雜但不複雜化」：Michael van der Kroft 原則——技術可以複雜，但盤上結果要自然、好吃。
+· 精確控溫與質地工程：sous-vide、蒸氣烤箱、油炸溫控、pH 控制、酵素處理，全是為了「精確控制質地與風味」。
+
+---
+
+1. Harold McGee：科學與烹飪（訪談核心）
+
+1.1 核心理念
+
+· 烹飪是「實用科學」：人類最早發現火能改變食物（更安全、更易消化、更美味），這就是科學的起點。
+· 烹飪同時是科學、手工藝、藝術；廚師可自行選擇偏重哪一面。
+· 科學有兩个角色：實用（幫助達成工藝／藝術）與美學（理解本身的樂趣）。
+
+1.2 被科學推翻的迷思
+
+· 「高溫封汁」迷思：19 世紀德國科學家提出高溫先煎可形成「屏障」鎖住肉汁——錯誤。肉汁會在纖維達溫後從表面裂縫流出。
+· 煮意粉要用大量水：其實可以像 risotto 一樣少水煮，節水節能；傳統大量水煮並非品質必需，只是過去沒有環保壓力。
+· al dente 與營養：澱粉煮熟較易消化，但人體也需要部分未消化澱粉餵養微生物群（microbiome）。
+
+1.3 風味結構（Nose Dive / Aromas del mundo）
+
+· 味道（gusto）：甜、鹹、苦、酸、umami（約六種），是「地基」。
+· 香氣（aroma）：無數種，是「上層建築」；沒有味道基礎，香氣只是香水。
+· 口感（tacto）：質地也是風味體驗的一部分。
+· kokumi：與 umami 相關但不同的潛在味道，仍待研究。
+· 香氣分類：來自植物、動物、土壤、真菌等；理解後可創造「互補而非相同」的 harmony。
+
+1.4 廚師領先科學的例子
+
+· 魚肉熟成：廚師將魚輕柔清理後吊掛數週，讓魚緩慢變化，科學文獻尚未完全解釋；廚師走在科學前面。
+
+1.5 產業觀察
+
+· 過去有「國家菜系」，2000 年代出現實驗性、非民族主義路線，現在則是「極度個人化」。
+· 挑戰：可持續性（環境、經濟、勞工）；科學知識應用到商業層面，才能保住創意空間。
+
+---
+
+2. Joan Roca（El Celler de Can Roca）：經典糕點作為主軸
+
+2.1 核心理念
+
+· 以「經典法式糕點」為靈感，將甜與鹹交織；用糕點技法（千層、酥皮、海綿蛋糕）包裹鹹味餡料（鴨肉燉菜、野兔 royal）。
+· 技術關鍵：麵團質地控制、精準烘烤、傳統與現代平衡。
+
+2.2 食譜（精確）
+
+Milhojas de apionabo, pera y trigo sarraceno（芹菜根千層配梨與蕎麥）
+
+· Milhojas de apionabo con pera：1 個芹菜根（洗淨）；2 個 Conference 梨；牛油；鹽。芹菜根與梨用 katsuramuki 刨薄片；塗融化牛油、撒鹽；捲成 5 cm 直徑圓柱（芹菜根在下、梨在上）；切 2 cm 厚；180°C 焗 20 分鐘。
+· Puré de apionabo al horno de leña：600 g 芹菜根；800 g 牛奶；鹽；xantana。芹菜根切塊，與牛奶、鹽入鑄鐵鍋，300°C 柴火爐焗至軟；攪拌；每 100 g 混合物加 0.3 g xantana；調味。
+· Piel de apionabo tostada：350 g 芹菜根皮；180°C 焗 20 分鐘至烤香。
+· Caldo de piel de apionabo tostada y trigo sarraceno：250 g 烤芹菜根皮；250 g 水；25 g 烤蕎麥（180°C 烤至微香）；xantana；鹽。真空袋 100% 密封；Roner 85°C 3 小時；過濾；每 100 g 湯加 0.4 g xantana。
+· Germinados de trigo sarraceno crujientes：500 g 蕎麥；水；白葡萄酒醋（酸度 6%）。蕎麥浸 8–12 小時；沖洗瀝乾；鋪盤、包保鮮紙穿孔，室溫 24 小時；重複沖洗、鋪盤、24 小時；重複共 3 天，最後一天噴醋；65°C 脫水 3 小時。
+· Reducción de nata：1,000 g 淡忌廉；鹽。高鍋煮沸，中大火不斷攪拌收至焦糖色忌廉狀；調味。
+· Gel de café：200 g espresso；0.8 g xantana。打勻。
+· Gel de estragón：300 g 龍蒿葉；500 g 水；鹽；xantana。水加鹽煮沸，龍蒿汆 5 秒，冰水冷卻；取 300 g 煮水冷卻，與葉打勻；過濾；每 100 g 液體加 0.4 g xantana。
+· Ruibarbo encurtido：300 g 大黃莖；140 g Chardonnay 酒醋；60 g 糖；1 g 鹽。大黃切 1 cm；醋、糖、鹽加熱至 75°C 倒入，密封醃 1 週；切 2 mm 丁。
+· Apio fermentado：500 g 芹菜；15 g 鹽。芹菜切 2 mm 片；與鹽真空 100%；冷藏發酵至少 5 天。
+· Semillas de anís empanizadas：50 g 糖；50 g 水；50 g 茴香籽。糖水加熱至 117°C（糖絲階段）；加茴香籽離火；攪拌至糖結晶附著。
+· Otros：5 片黑松露（Tuber melanosporum）2 mm 厚、7 mm 圓片；Jerez 醋噴霧。
+· Emplatado：千層放中央；點咖啡 gel、龍蒿 gel、3 粒大黃丁、3 片發酵芹菜、7 粒糖衣茴香、5 片黑松露；左側芹菜根 puré 拉成淚滴；對側放一 quenelle 忌廉收汁；頂放 8 條脆蕎麥芽；席前淋烤芹菜根皮蕎麥湯；噴 Jerez 醋。
+
+Xuixo de pato（鴨肉 Xuixo）
+
+· Pato curado：2 個鴨 magret；250 g 鹽；75 g 糖；2 g 含 0.6% 硝酸鉀鹽。鴨胸冰水放血 8 小時；混合鹽糖；鋪鹽床、放鴨胸、完全覆蓋，醃 2 小時；冷水洗淨、抹乾；真空 100%，3°C 冷藏 72 小時。
+· Pato curado y ahumado：75 g 豉油；7.5 g 米醋；20 g 橄欖油；2 個 cured magret。混合醬汁冷藏 3 天；塗鴨胸；60°C 柴火爐煙燻 1 小時；冷卻真空冷藏。
+· Bresa：250 g 洋蔥；50 g 紅蘿蔔；430 g 韭蔥；5 g 橄欖油。蔬菜切 mirepoix，低火炒至焦糖化；冷卻。
+· Espesante de kuzu：150 g kuzu 粉；250 g 冷水。混合備用（每次使用前攪拌）。
+· Salsa de pato：1,500 g 鴨殼；1,000 g 鴨肉碎；250 g 蔥；45 g 牛油；45 g 橄欖油；250 g bresa；875 g 紅酒；250 g rancio 酒；3,500 g 水；70 g kuzu 芡；90 g 凍牛油丁；鹽、黑椒。鴨骨與肉 180°C 焗 1 小時；炒蔥、加 bresa、紅酒、rancio 收乾酒精；加水煮滾，小火 3 小時去雜質；過濾冷卻去脂；收至 400 g；加 kuzu 芡攪拌；調味；離火加凍牛油乳化。
+· Marinada de pato：10 g 芹菜；20 g 洋蔥；20 g 紅蘿蔔；5 g 韭蔥；500 g 鴨肉碎；25 g manzanilla 酒；200 g 紅酒；25 g Port；2.5 g 黑椒粒；1 支百里香；1 支迷迭香；1 支奧勒岡。蔬菜切 mirepoix；全部混合冷藏醃 24 小時。
+· Consomé de pato：上述 marinada；25 g 橄欖油；蛋清（液體 10%）。過濾 marinada 去香草；煎香鴨肉碎與蔬菜；加 marinada 液體煮滾，小火 30 分鐘；過濾；冷藏至少 6 小時去脂；加熱；用打發蛋清澄清（clarify）；Superbag 過濾；調味。
+· Escabeche de pato：500 g consomé 鴨肉；166 g 橄欖油；20 g 糖；15 g 鹽；1 g 黑椒碎；26 g 帶皮蒜；83 g Cabernet 醋；83 g 酸石榴濃縮汁；83 g 水；1.3 g 乾奧勒岡；0.3 g 乾百里香；1 g 乾迷迭香；1 g 月桂葉。鴨肉切片煎香；加糖、鹽、黑椒；加水、醋、石榴汁，加蓋小火 30 分鐘；去蒜；過濾汁冷藏去脂；肉撕碎；汁加香草與肉收至 400 g；打勻過細篩。
+· Salsa de escabeche de pato：130 g 上述濃縮汁；6.5 g 煮熟蒜肉；0.1 g xantana；67 g 煮食油脂。打勻乳化。
+· Guiso de pato para relleno de xuixo：橄欖油；200 g 鴨腿；33 g 洋蔥 brunoise；33 g 韭蔥 brunoise；1 片乾月桂葉；14 g 芹菜 brunoise；3.5 g 蒜碎；10 g 乾 ceps；200 g 紅酒；200 g 水；16 g 70% 黑朱古力碎；鹽、黑椒。鴨腿煎金黃；炒洋蔥、韭蔥、月桂；加芹菜、蒜、ceps 炒 10 分鐘；加鴨腿；紅酒 deglaze 收酒精；加水煮 1.5 小時至軟；加朱古力拌溶；入絞肉機；冷卻冷藏。
+· Mezcla de sal e isomalt：70 g isomalt；30 g 鹽。混合乾燥保存。
+· Masa hojaldrada para xuixos：562 g 低筋麵粉；1,687 g 高筋麵粉；45 g 鮮酵母；67 g 糖；1,500 g 全脂奶；67 g 鹽；1,000 g 乾片牛油；葵花油。粉、酵母、糖、奶低速拌勻；加鹽中速打至麵筋擴展；擀成 60×40 cm（塗葵花油）；包保鮮紙 3°C 冷藏 24 小時；擀開，牛油放中央，包好；做兩次雙摺、一次單摺，每摺間冷藏 10–15 分鐘；最後冷藏 10 分鐘；擀至 4 mm 厚，得 3 片。
+· Xuixo de pato：3 片 xuixo 酥皮；350 g 鴨肉燉餡。餡入 2 cm 擠袋，擠成 3.5 cm 長、約 12 g 圓柱；酥皮切 3×4 cm（約 12 g），擀至 1 mm 厚；放餡，留 2.5 cm 兩側、3 cm 後方；捲起封口；27°C 發酵 1 小時至兩倍大；160°C 葵花油炸至淺金；席前 170°C 再炸至金黃（須完全浸油）。
+· Hoisin：500 g 西梅乾；34 g 麻油；112.5 g 豉油；116 g 米醋；11 g 紅咖喱；11 g 咖喱粉；89 g 白味噌；169 g 水；1 g 綠豆蔻；1 g 四川花椒；1 g 八角；1 g 黑椒；2 g 肉桂粉；56 g 蜜糖；17 g mirin；11 g tandoori。全部打勻，Thermomix 80°C 5 分鐘；過篩。
+· Naranja sanguina：1 個血橙；去皮去白；取瓣切 0.5 cm 三角；皮留用。
+· Emplatado：xuixo 即炸、瀝油、裹薄薄一層鹽與 isomalt 糖；盤邊放 xuixo、hoisin、鴨汁；放 escabeche 汁、兩片煙燻鴨胸、2 塊血橙；杯口用血橙皮抹香；杯內倒熱鴨 consomé。
+
+Tarta Sacher de liebre（野兔 Sacher 蛋糕）
+
+· Duxelle：120 g 蘑菇；120 g 牛肝菌；120 g 乾蔥；30 g 橄欖油。菇切 brunoise；炒乾水分；加乾蔥炒 20 分鐘；調味。
+· Bizcocho de aceituna negra（第一層）：1,000 g 麵粉；100 g 泡打粉；650 g 軟牛油；100 g 葡萄糖；48 g 粗糖；20 隻蛋；800 g 黑橄欖醬。粉與泡打粉過篩；牛油、糖、葡萄糖打白；逐隻加蛋；加橄欖醬；入 30×20×6 cm 模（噴油）；165°C 焗 6 分鐘，再 180°C 焗 8 分鐘；冷卻脫模；橫切 2 cm 厚圓片（14 cm 直徑）。
+· Royal de liebre（第二層）：375 g 野兔肉；100 g 野兔肝；185 g 豬頰肉；10 g 黑松露；75 g 野兔血；100 g 牛奶；20 g 干邑；50 g 巴氏殺菌蛋清；65 g 麵包糠；85 g duxelle；12 g 鹽。肉、肝、豬頰、松露切碎拌勻；血、奶、干邑、蛋清拌勻；加麵包糠浸 15 分鐘；與肉混合；加 duxelle、鹽；入 30×20×1 cm 模；冷藏 1 小時；真空 100%；63°C sous-vide 30 分鐘；冰水冷卻；14 cm 圓模切圓片。
+· Salchicha de liebre（第三層）：125 g 水；12 g 鹽；5 g 白胡椒；1.5 g 黑胡椒；570 g 野兔肉；170 g 豬頰肉；75 g 冰。水、鹽、胡椒混合；肉與豬頰切 1.5 cm 條，鋪盤冷凍；與冰一起絞碎；分兩次絞（先粗後細）；入真空袋，4 速打 4 分鐘；真空；冷藏 24 小時；擠成 14 cm 直徑、1 cm 厚圓片；70°C 蒸氣焗 30 分鐘；脫模。
+· Glaseado de cacao：1,000 g 水；240 g 葡萄糖；4.4 g iota；16 片明膠片；140 g 100% 純可可粉。水、葡萄糖、iota 打勻煮沸；離火加明膠、可可；過濾；60°C 保溫。
+· Montaje：底層野兔香腸、中層 royal、上層黑橄欖海綿蛋糕；席前焗至中心 55–60°C；放網架，淋 60°C 可可 glaze。
+· Jugo de liebre：850 g 野兔骨；200 g bresa；75 g 紅酒；1,500 g 冷水。骨 180°C 焗金黃；去脂，水 deglaze；骨與汁入鍋，加 bresa、紅酒煮沸收酒精；加冷水再煮滾；去沫，小火 3 小時；過濾收至 200 g。
+· Espesante de kuzu：50 g kuzu；125 g 冷水。混合備用。
+· Salsa de liebre：200 g 野兔汁；20 g kuzu 芡；30 g 牛油；40 g 野兔血。加熱汁，攪拌加 kuzu 芡與牛油至乳化；過濾；席前加野兔血拌勻。
+· Compota de orejón y uva pasa：200 g 杏脯；160 g 葡萄乾；160 g rancio 酒；160 g 水；16 g 糖；1.5 g 鹽；1 粒八角；15 g 牛油；5 g 柚子皮茸；8 g 生薑茸。除牛油與兩種茸外全部煮沸，小火 1 小時；去八角；壓碎杏脯；離火加牛油、薑、柚子皮拌勻；室溫冷卻。
+· Otros：8 片金箔；5 朵迷迭香花；1 mm 厚無花果片。
+· Emplatado：左側一匙 compota，放迷迭香花；Sacher 蛋糕頂放金箔；席前切件放右側；盤底點野兔汁。
+
+---
+
+3. Junghyun Park（Atomix）：韓國味覺征服紐約
+
+3.1 核心理念
+
+· Atomix = 韓語「ato（禮物）」+ 英語「mix（混合）」；2018 年開業，14 座位吧枱，約 12 道菜菜單。
+· 發酵是核心；海鮮精選；極簡環境、韓國工匠陶器。
+· 菜式強調「醬油（ganjang／jin ganjang／yondu）」的層次與韓國傳統技法（jjim、dashima、nuruk）。
+
+3.2 食譜（精確）
+
+Galleta de Nuruk, puré de hígado de lija, caballa y Ganjang
+
+· Cebada cocida：適量大麥；水。浸 1 小時；100°C 蒸 45 分鐘；冷卻至 32°C。
+· Nuruk de cebada：2,000 g 熟大麥；8 g nuruk koji 粉。混合；32–38°C、80–90% 濕度，2–3 天。
+· Galleta de nuruk：450 g isomalt 粉；380 g 牛油；350 g 麵粉；120 g 大麥 nuruk；5 g 泡打粉；8 g 鹽；2 隻蛋。KitchenAid 槳打牛油，加 isomalt；逐加其餘材料；擀薄；冷凍；切模；155°C 焗 11 分鐘（風扇 2）。
+· Puré de hígado de lija：250 g 淡忌廉；200 g 牛奶；7 g 明膠；200 g 星斑肝；55 g 帶子；9 g 鹽；8 g 糖；8 g yondu；50 g 牛油。除牛油外全部小火煮至肝熟；打勻；加牛油乳化；冷藏過夜；再打滑；入擠袋。
+· Pintura de Ganjang：600 g 水；25 g jinjang（陳年豉油）；55 g 501 Ganjang（韓國豉油）；25 g yondu；40 g mirin；120 g 黑糖；80 g 粟米糖漿；1 g xantana。混合；收至一半。
+· Piel de limón confitada：100 g 糖；30 g 水；100 g 檸檬汁；檸檬皮。糖、水、檸檬汁拌溶；檸檬皮汆水三次（每次換水）；放入檸檬糖漿。
+· Otros：aji；發酵接骨木花；醃 hisopo 花；黑蒜粉；鯖魚。
+· Emplatado：nuruk 餅上擠半球肝醬；鋪鯖魚薄片；塗 Ganjang 醬；裝飾其餘材料。
+
+Abulón, tira de asado braseada y salsa de anguila, láminas de apio y huevo curado
+
+· Dashi de costilla asada：5,000 g 水；15 g dashima（海帶）；300 g moo（韓國蘿蔔）；120 g jalapeño；2 條牛肋肉；550 g jin ganjang；450 g 糖；20 g yondu。牛肉 175°C 烤 20–25 分鐘至金黃；全部小火煮成 dashi。
+· Glaseado de anguila：300 g 鰻魚燉汁；70 g demerara 糖；90 g 淺色粟米糖漿。混合收至一半。
+· Dashi de anguila glaseada：鰻魚；鰻魚 glaze；水。鰻魚上 glaze 煎香；每 100 g 鰻魚加 200 g 水；小火 20 分鐘（不沸）；過濾。
+· Salsa：500 g 牛肋 dashi；100 g 鰻魚 dashi；20 g 冷壓紫蘇油。混合加熱。
+· Láminas de apio nabo al vacío：芹菜根汁；芝麻油；芹菜根薄片。45°C sous-vide 15 分鐘；冷卻。
+· Salsa de yema de huevo curada y queso：100 g 蛋黃；20 g Manchego 芝士。混合 65°C 煮 60 分鐘。
+· Otros：燉鮑魚；蝸牛魚子醬；烤薑油。
+· Emplatado：鮑魚切件放底；每件之間放芹菜根片；上放蛋黃芝士醬；加蝸牛魚子醬；淋兩種 dashi 與烤薑油；配 balhyo 紅茶。
+
+Jjim de huevo y espárragos verdes, dashi de tupinambo asado, colmenillas y duxelle de setas
+
+· Jjim de huevo y espárragos：180 g 牛奶；250 g 綠蘆筍汁；20 g mirin；6 g 鹽；160 g 蛋黃。全部打勻；冷藏；90°C 蒸 22 分鐘。
+· Duxelle：450 g 褐菇；150 g 羊肚菌碎；150 g 乾蔥；10 g 百里香；20 g 淡忌廉；Parmigiano；細丁火腿。菇與百里香打碎；擠乾水；炒乾蔥；加菇炒熟；加 Parmigiano、火腿；炒至金黃。
+· Dashima braseada：300 g 水；50 g 鮑魚汁；50 g 豉油；5 g 鹽；10 g 糖；25 g yondu；5 g 魚露；dashima。混合；海帶煮 15 分鐘；冷卻；切模。
+· Otros：烤綠蘆筍茶醬；烤羊肚菌；磨碎 botarga；nasturtium 葉油。
+· Acabado：蘆筍汁與烤蘆筍頭茶混合成醬；jjim 放盤；中央放 duxelle 與羊肚菌；加醬、蘆筍頭、botarga、nasturtium 油；裝飾 dashima。
+
+Cangrejo real, medusa, alga y gel de calabaza y mostaza
+
+· Gel de calabaza y mostaza：440 g 南瓜汁；90 g 韓國芥末；90 g 糖；150 g 米醋；20 g chungjang（韓國發酵醬）；18 g 白豉油；100 g 水；32 g 明膠；1.8 g xantana；3.5 g agar agar。混合小火煮激活水膠體；冷卻或立即入模。
+· Cangrejo real y medusas：1,000 g 帝王蟹；230 g 海蜇；20 g 米酒；30 g 糖；5 g 鹽。蟹放血去水；90°C 蒸 5 分鐘；拆腳，身體再蒸 3–5 分鐘；海蜇沖洗 2–3 次去鹽；切小塊；全部混合調味。
+· Molde de cangrejo, medusa y gel：22 g 蟹海蜇混合物；12 g 南瓜芥末 gel。gel 加熱至液態；入模；加蟹海蜇混合物；拌勻；速凍；使用前解凍。
+· Chojang de fresa：500 g Kisoondo 草莓 gochujang；30 g jungjang；90 g 糖；25 g 橙汁；12 g 檸檬汁；80 g 草莓醋；7 g 蒜。全部打滑。
+· Puré de buchu：適量 buchu（亞洲細香蔥）；適量菠菜。分別鹽水汆燙；冰水冷卻；擠乾；3 份 buchu 配 1 份菠菜打勻。
+· Salsa de buchu：170 g kombucha；9 g 鹽醋；13 g 檸檬汁；4 g 糖；2 g 鹽；40 g buchu puré。使用前混合以防變色。
+· Dashima helada：1,300 g 水；80 g dashima；60 g mirin；6 g 鹽；10 g yondu；20 g 切碎 shio kombu。海帶小火煮 30 分鐘；去海帶（留作 dashima jorim）；加其餘材料冷卻；倒入蟹與芥末 gel 同模；冷凍；脫模冷藏（墊焗紙）。
+· Dashima jorim：200 g 煮過 dashima；100 g 水；40 g mirin；30 g 糖；18 g jungjang；5 g yondu；15 g 淺色粟米糖漿。海帶與全部材料煮至軟；冷卻切絲。
+· Emplatado：模具放中央；上放 dashima jorim 絲；淋 buchu 醬。
+
+---
+
+4. Joel Castanyé（La Boscana）：水果的無限可能
+
+4.1 核心理念
+
+· 水果成為超過一半 tasting menu 的主角；Lleida 是水果之鄉。
+· 挑戰：水果甜度高、質地每週變化；需用 refractometer、質地計、與農民直接溝通。
+· 技術：風乾、發酵、鹽水、真空、燒烤、pectinase 酵素、cal（石灰）處理。
+
+4.2 食譜（精確）
+
+Embutido de caqui（柿子香腸）
+
+· Baño de cal：30 g 石灰；1,000 ml 水。混合備用。
+· Caqui：2,000 g 柿子；水；抗壞血酸；石灰水。柿子浸抗壞血酸水防氧化；浸石灰水 20 分鐘；洗淨；煮；瀝乾；80°C 焗約 12 小時至棗狀（稍軟）。
+· Relleno：2,000 g 風乾柿子；200 g shio koji；鹽。柿子切 1×1 cm 丁；與 shio koji、鹽混合。
+· Tripas：適量豬腸；2,000 g 水；200 g 白醋。水醋混合；腸浸 24 小時；重複兩次（每次換水醋）；沖洗、抹乾。
+· Acabado：戴手套將餡料壓入腸衣（去空氣）；留 3 指空位；綁緊；表面撒鹽、黑椒、koji 粉；11.5°C、73% 濕度風乾至少 7–9 週（與肉腸同房熟成）；席前切片，配鹽與黑椒。
+
+Higo con cangrejo real（無花果配帝王蟹）
+
+· Agua de higos：未過熟無花果；50 g pectinase。無花果小心去皮（皮留用）；用小球挖匙從底部挖空（不破壁）；1,000 g 挖出的果肉與 pectinase 混合；真空；冷藏 12 小時；手揉；鋪平冷凍；解凍過濾（細篩，不墊布）取汁。
+· Líquido para encurtido：500 g 無花果汁；250 g 白葡萄酒醋；鹽。混合。
+· Higos encurtidos：3 個挖空無花果；適量 encurtido 液。無花果與皮浸液 12 小時；瀝乾；墊焗紙冷藏。
+· Aceite de cebollino：500 g 細香蔥；500 g 葵花油。Thermomix 70°C 6 分鐘；過濾。
+· Aceite de higuera：500 g 無花果葉；500 g 葵花油。葉去莖（盡量去內部莖）；沸水汆 15 秒；冰水；Thermomix 70°C 6 分鐘；過濾。
+· Vinagreta de higos：100 g encurtido 液；85 g 無花果葉油。攪拌乳化。
+· Mayonesa de higuera y cebollino：1 隻新鮮蛋；200 g 無花果葉油；100 g 細香蔥油；60 g 礦泉水；鹽。蛋入量杯，加油蓋過蛋；攪拌棒乳化；逐加其餘油；加水調至可 napé。
+· Mezcla de King crab y mayonesa：200 g 帝王蟹（解凍撕碎）；80 g 上述蛋黃醬；鹽。混合；入擠袋。
+· Acabado：擠袋將蟹餡填入醃無花果（小心不破）；盤上放無花果，淋蛋黃醬蓋滿；蛋黃醬上畫無花果葉油線；盤底放無花果 vinagreta；用抹刀放無花果中央。
+
+Tartaleta de manzana y careta de cerdo（蘋果豬面頰撻）
+
+· Hojaldre：1 片酥皮。切模、擀開；入模；180°C 焗 10 分鐘；降 160°C 再焗 10 分鐘。
+· Carne macerada：8 個帶舌與頰的豬面頰；6 個豬頰；200 g 鹽；2,000 ml 水；月桂；黑椒粒。做鹽水；肉浸 7–8 小時；冷藏。
+· Cocción：上述肉；黑椒粒；1 片月桂；8 瓣蒜；1 個洋蔥；2 條紅蘿蔔；水。蔬菜切大塊與肉入鍋；水剛蓋過；小火煮滾後 1 小時；離火冷卻；肉切 1 cm 丁；湯過濾留用。
+· Embutido：75 g 牛油；10 個乾蔥；半杯白酒；熟肉；煮肉湯；黑椒粉。乾蔥碎用牛油炒軟；加白酒收乾；加肉丁、大量黑椒；加湯剛蓋過；煮 30 分鐘；調味；入墊保鮮紙模具；冷藏 24 小時（可冷凍）。
+· Manzana：1 個 Golden 蘋果；水；抗壞血酸。切片浸抗壞血酸水。
+· Flor de cerdo con manzana：肉腸切薄片；金屬圈塗牛油；鋪蘋果片、肉腸片交替，中央放蘋果薄片捲成玫瑰；加牛油粒、黑椒；160°C 焗 8 分鐘（墊 silpat）。
+· Crema de raifort：100 g 酸忌廉；20 g 辣根茸；鹽。拌勻。
+· Otros：chervil 或蒔蘿；黑椒；烤煙肉汁。
+· Acabado：撻連餡 160°C 回烤 4 分鐘；煙肉汁加熱；淋汁；旁放辣根忌廉與嫩芽。
+
+---
+
+5. Alejandro Chamorro（Nuema）：純粹厄瓜多爾
+
+5.1 核心理念
+
+· Nuema = Nuria、Emilio、Martín 三個孩子名字首字母；Alejandro 負責鹹，Pía Salazar 負責甜（2023 世界最佳甜點師）。
+· 核心：厄瓜多爾生物多樣性、季節性、可追溯性、全食材利用（零浪費）、視覺美感（幾何、地貌色彩）。
+· 技術：發酵（kimchi、lacto）、柴火烤、煙燻、真空、脱水。
+
+5.2 食譜（精確）
+
+Amazonia：Paiche amazónico con chonta y chicha de yuca
+
+· Kimchi de chonta：1,000 g 大白菜；500 g chonta（棕櫚芯）剩餘料；250 g 紅蘿蔔（去皮）；50 g 薑；150 g 洋蔥；50 g 蒜；60 g 亞馬遜辣椒醬；29 g 細海鹽。白菜葉用全部鹽醃 3 小時；瀝乾；chonta 絞碎，紅蘿蔔、薑刨絲；洋蔥切八份，蒜切片；全部與辣椒醬混合；白菜沖洗去鹽，與混合物搓勻；入消毒玻璃瓶，壓重物，加蓋；室溫 5 小時；15°C 至少 3 天；第 15 天最佳。
+· Polvo de kimchi de chonta：1,000 g 上述 kimchi。52°C 脫水約 72 小時至最乾（保留香氣顏色）；Thermomix 打粉；過細篩；密封。
+· Bases de chonta asadas：1 條 chonta；10 g 榛子牛油；細海鹽；白胡椒。chonta 去纖維（剩餘料留作 kimchi）；炭火烤，塗榛子牛油、劃格；鹽、白胡椒調味至全黑；冷卻；切薄長方片。
+· Glace de chicha de yuca：1,000 g 亞馬遜 paiche 魚骨；3,500 ml 過濾水；2,000 ml 木薯 chicha；細海鹽；20 g 牛油。魚骨烤金黃；加水與 chicha 煮沸；收濃；過濾；再收至 3/4；加牛油乳化；調味。
+· Lomo de paiche：1 條 paiche；細海鹽。去骨；取 50 g 一份的魚柳；炭火烤至剛熟。
+· Puré de chonta：500 g chonta 內部；100 g 牛油；細海鹽。烤至軟甜；不斷塗牛油；Thermomix 打滑；調味。
+· Emplatado：盤底放 chonta puré；上放 paiche；淋 chicha glace；撒 kimchi 粉；橫向鋪 chonta 薄片。
+
+Coliflor con neapía secoya y nibs de cacao
+
+· Nibs de cacao garrapiñado：500 g 可可 nibs；100 g 微粉糖；50 ml 水。糖水煮溶；加 nibs 拌至均勻裹糖；鋪 silpat；脫水機乾燥。
+· Mantequilla avellanada con cáscara de cacao：250 g 可可殼；200 g 榛子牛油。牛油澄清、榛子化；離火加可可殼浸至冷卻；靜置至少 5 小時。
+· Coliflores asadas：1 個花椰菜；10 g 可可榛子牛油；細海鹽；白胡椒。花椰菜留莖與碎料；炭火烤，塗牛油、調味，烤至全黑（不過熟）。
+· Demiglace de verduras rostizadas：2.5 g 長白洋蔥；2.5 g 芹菜根；2.5 g 芹菜蘿蔔；2.5 g 白紅蘿蔔；15 L 水。蔬菜切均勻；對流爐烤至表面薄黑；加水煮收至 1 L。
+· Glace de neapía secoya：5 g neapia secoya；3,500 ml 過濾水；100 g 上述蔬菜 demiglace；細海鹽；20 g 牛油。花椰菜碎料脫水至乾（不焦）；水、demiglace、碎料煮沸收濃；過濾再收至 3/4；加 neapia；牛油乳化；調味。
+· Tallo de coliflor encurtido：1 條花椰菜莖；500 ml 白醋；250 ml 水；200 g 糖；50 g 海鹽；4 粒多香果；15 粒芫荽籽。莖切極薄 4 cm 方片；其餘材料做鹽水；加多香果、芫荽籽浸味；放入莖片。
+· Emplatado：盤底放 neapia glace；上放花椰菜柳；撒糖衣可可 nibs；對稱排花椰菜莖片。
+
+Macambo ácido con conchas negras de manglar ahumadas y papaya verde lacto
+
+· Infusión fría base：500 g 純水；5 g 蒜（壓碎）；250 g 紅洋蔥芯；10 g 芹菜內莖；10 條芫荽莖（去葉）。全部真空 100%；冷藏過夜。
+· Puré de macambo base：1,000 g 烤 macambo。浸水至軟；瀝乾；Thermomix 打滑；過細篩。
+· Crema ácida de macambo：500 g macambo puré；50 g 冷 infusion；10 ml 新鮮青檸汁；細海鹽；白胡椒。手打勻；加 infusion 調稠；加青檸汁；調味。
+· Macambo tostado：10 個 macambo。炭火烤至香氣色澤；密封保存。
+· Conchas negras ahumadas：5 個黑貝；紅樹木屑。開殼取汁；冷煙燻；冷藏。
+· Aceite ahumado：1 L 植物油；500 g 炭。炭燒至紅；入容器；倒油；加蓋；冷卻浸漬；真空至少 24 小時；過濾。
+· Papaya verde lactofermentada：500 g 青木瓜；鹽（木瓜總重 5%）。去皮；切 3 mm 片；圓模切；與 5% 鹽真空；發酵至少 3 天。
+· Ovo tierno lactofermentado：500 g 嫩 ovo；鹽（總重 5%）。與 5% 鹽真空；發酵至少 20 天；切片 2 mm。
+· Montaje：冷盤中央擠 macambo 酸忌廉；放煙燻黑貝；蓋烤 macambo；淋煙燻油；青木瓜與 ovo 片排成馬賽克。
+
+Alga, coco y levadura（Pía Salazar）
+
+· Alga codium blanca：乾燥 codium 藻；水；糖。使用前冷水（加冰）浸至少 30 分鐘；真空與 simple syrup（1 份水：1 份糖）65°C 煮 3 小時。
+· Crema de coco：800 ml 椰奶；160 g 糖；8 ml 椰子精；2 g xantana。Thermomix 打勻；調味。
+· Crumble de coco：375 g 蛋白；650 g 糖粉；300 g 椰絲；250 g 牛油；30 g 麵粉。蛋白與糖粉打發；加椰絲、牛油丁；加麵粉拌成團；鋪 silpat；180°C 焗 15 分鐘；冷卻打碎。
+· Levadura garrapiñada：200 g 酵母；160 g 糖；40 g 水。酵母剝碎鋪 silpat；180°C 焗約 45 分鐘至脆；打小塊；糖水煮至 118°C；加酵母塊裹糖；慢火焦糖化；冷卻。
+· Sabayon ajo negro：1 kg 黑蒜；300 g 糖；20 隻蛋黃；3 g xantana。Thermomix 蛋黃與糖 75°C 煮 15 分鐘；第 7 分鐘加黑蒜；加 xantana；調味。
+· Granita de coco：800 ml 椰奶；80 g 糖；6 g 明膠；30 g 水；2 g xantana。明膠先泡水；椰奶、糖、xantana 打勻；加明膠；調味。
+· Montaje：盤底 15 ml 椰子忌廉（圓形）；加 4–5 g 黑蒜忌廉；半邊放椰子 crumble、半邊放糖衣酵母；頂放椰子 granita。
+6. Lara Roguez（Abarike）：連殼都食盡
+
+6.1 核心理念
+
+· 可持續海鮮：所有海產來自 FAO 27 區（大西洋坎塔布連），以尊重海洋的方式捕撈（釣、圍網、潛水）。
+· 單一供應商 Pescados Noyger；菜單如航海日誌，列明捕撈區、漁法、日期、重量。
+· 零浪費：甲殼類外殼做成餐具；魚鰾當牛肚煮；幾乎 100% 利用。
+· 菜單貼近 omakase，極具彈性，按每日漁獲調整。
+
+6.2 甲殼類外殼做餐具（步驟）
+
+1. 去肉，浸食用漂白水（水：漂白水約 50:50），按重量浸 2–24 小時（保留原色則縮短時間；想變白則延長）。
+2. 大量沖洗去漂白水味；浸水約 24 小時；徹底乾燥。
+3. 部分件（如葉）內側塗金色壓克力漆。
+4. 塗 epoxy 樹脂封閉內外孔隙；內外各兩層；每層隔夜乾燥。
+5. 凹形件（龍蝦尾、蜘蛛蟹殼、hícola）內部用 epoxy 填平，方便盛載。
+6. 使用前過洗碗機 2–3 次，確認無孔隙。
+
+6.3 食譜（精確）
+
+Bogavante azul del Cantábrico en salsa Thermidor
+
+· Acabado del bogavante：熟藍龍蝦。冷卻；拆肉（鉗、身、頭分開）；保留硬殼做餐具；每份含鉗、頭、尾肉。
+· Salsa Thermidor：50 g 洋蔥；8 g 蒜碎；5 g 牛油；70 g 預先煙燻 vintage cheddar；適量白酒；150 ml 35% 淡忌廉；鹽、黑椒。洋蔥切細絲炒軟；蒜碎 confit；加牛油煮 1 分鐘；加芝士碎、少量白酒收幾分鐘；加淡忌廉小火煮至溶、濃稠（不斷攪拌）；調味；可打滑或保留洋蔥口感；太稀可加 1 茶匙粟粉。
+· Emplatado：龍蝦肉入龍蝦尾（天然餐具）焗 2 分鐘；淋醬；撒 Maldon 鹽。
+
+Gilda con quisquillas
+
+· Esferificación de aceituna：500 g Gordal 橄欖（取 200 ml 汁）；1.2 g 葡萄糖酸內酯；0.7 g xantana；500 ml 水；2.5 g 海藻酸鈉；0.4° 橄欖油；½ 支肉桂；1 個檸檬皮；1 粒八角。橄欖去核打碎；用棉布擠汁；加葡萄糖酸內酯打溶；加 xantana 打勻；加蓋冷藏 24 小時（去氣泡）。海藻酸鈉加水打溶；過濾；保鮮紙冷藏 24 小時。油加肉桂、檸檬皮（去白）、八角浸味。寬口碗倒海藻酸鈉液約 5 cm 高；匙取 5 ml 橄欖汁快速浸入；必要時用手指撥圓；浸 3 分鐘；漏匙取出；過清水；瀝乾。（作者因家用磅不精確，浸 3 分鐘而非 Albert Adrià 的 1 分鐘，以獲外實內爆效果。）
+· Emulsión de piparra y maracuyá：適量 piparra（去籽，籽留用）；等重去核橄欖；等重百香果 puré。piparra 打碎；加等重橄欖打勻；過濾；加等重百香果 puré；入擠瓶。
+· Cremoso de algas y guisante：60 g 本地豌豆苗；500 ml 橄欖油；適量新鮮海萵苣（Antonio de Miguel）；適量 codium 藻（Antonio de Miguel）；適量蛋。油、苗、藻（共約 150 g）真空；Roner 60°C 8–10 小時；過濾油；與蛋乳化如蛋黃醬；加少許糖；入擠袋。
+· Otros：七味唐辛子；piparra 內部；quiquilla 蝦；codium 藻；煙燻生蠔魚子醬或黑藻球化。
+· Emplatado：蝦汆燙去殼；擠 piparra 百香果乳化液成線；中央放橄欖球；淋海藻豌豆 cremoso；放兩隻蝦；加 codium、魚子醬；撒 piparra 內部與七味粉。
+
+Ensaladilla de langosta del Cantábrico
+
+· Cocción de la langosta：1 隻龍蝦；海水。先冷凍 24 小時（減少痛苦）；頭尾分離（不切斷）；海水煮約 35 分鐘。
+· Acabado：冷卻；小心取肉（保留殼做餐具）；盡量完整。
+· Ensaladilla：1,000 g 薯仔；500 g 紅蘿蔔；2 隻熟蛋。薯仔切 1 cm 丁；紅蘿蔔切 0.5 cm 丁；鹽水煮滾，先下紅蘿蔔 2 分鐘，再下薯仔煮 5–6 分鐘至 al dente；瀝乾冷卻；加磨碎熟蛋。
+· Otros：蛋黃醬（建議 Musa 商業蛋黃醬，加鹽與有機蘋果醋；自製可加 2 條鯷魚打勻）；豌豆苗；有機蘋果醋；鹽；黑鹽。
+· Emplatado：薯仔沙律調味，入圓模；上放 3 個蛋黃醬 quenelle；每份約 85 g 龍蝦肉；黑鹽、豌豆苗、食用花裝飾。
+
+Chili de buey de mar
+
+· Buey de mar：1 隻坎塔布連蜘蛛蟹（約 4 kg）；海水。海水煮；每份約 100 g 淨肉；拆殼與鉗取肉；4 份入鍋。
+· Base de buey de mar：2 條韭蔥；80 ml 蟹肉。韭蔥細絲炒軟；加蟹肉與龍蝦湯。
+· Buey de mar con sweet chili casero：125 ml 米醋；4 瓣蒜；150 g 糖；260 ml 水；1 湯匙豉油；1 個 rocoto 或紅辣椒；2 湯匙粟粉；上述蟹 base；Sriracha；2 湯匙黑糖；50 g 濃縮番茄膏。蒜、糖、醋、水、豉油打勻；小火煮 5 分鐘；加辣椒碎；粟粉水勾芡；煮幾分鐘；與蟹 base 同煮幾分鐘；調味加 Sriracha。
+· Tortilla japonesa：4 隻蛋；適量糖；適量豉油。蛋加 2 湯匙豉油、1 湯匙糖打勻；煎 4 片薄蛋皮。
+· Otros：piparra。
+· Acabado：蟹殼填 sweet chili 蟹肉；蓋薄蛋皮；撒 piparra 碎與嫩芽。
+
+Salpicón de langosta
+
+· Salpicón：適量龍蝦頭肉；1 個 Asturian 蘋果；1 個紅椒；1 個青椒；1 個洋蔥；米醋；Picual 橄欖油；1 g tetraselmis 藻；鹽。椒、洋蔥、蘋果切極細 brunoise；蘋果在 tpt（糖水）中 osmotizar；油與 tetraselmis 乳化；加米醋、鹽（油 1/3：米醋 2/3）；與蔬菜混合；每份加 1 湯匙龍蝦肉（用頭部較碎或水多的肉）。
+· Otros：海萵苣；龍蝦。
+· Emplatado：海萵苣上放 salpicón；加約 75 g 龍蝦肉；用龍蝦頭殼（餐具）蓋住。
+
+---
+
+7. Sergio Bastard（La Casona del Judío）：通往成功之路
+
+7.1 核心理念
+
+· 新體驗動線：正門接待 → 吧枱（三組小食：海藻、Tudanca 牛、鯷魚）→ 主餐區 →（規劃中）halófilas 鹽生植物花園。
+· 鹽水（salmuria）副產品：來自 Conservas El Capricho，用作醃漬、改變質地、提味。
+· 麵包主角化：小麥麵包（前段）與麥芽麵包（後段，較酸濃）。
+· 全國首個 halófilas 花園（2021 年）：海水灌溉、鹽鹼土；80% 菜式使用 halófilas。
+· 2020 年疫情期間反思，3 年內獲米芝蓮星與綠星。
+
+7.2 食譜（精確）
+
+Verdinas, caldo de manitas y crema de morcilla
+
+· Verdinas：200 g verdinas 豆；20 g salmuria；2 L 水。前一日浸豆（加 salmuria）；翌日原水小火煮；煮熟後 65°C 蒸氣保溫。
+· Caldo de cebolla roja：5 kg 紅洋蔥；40 L 水。洋蔥切絲加水；煮至少 24 小時；過濾；收至所需濃度。
+· Caldo de carne：1.5 kg Tudanca 牛尾；1.5 kg 豬手；5 L 紅洋蔥湯。牛尾烤香；豬手洗淨（不烤）；加紅洋蔥湯小火煮 18 小時；過濾；收濃。
+· Crema de morcilla：100 g 水；700 g 血腸；170 g 雞湯。血腸去衣切 2 指厚；175°C 焗 10 分鐘；全部 Thermomix turbinar 10 分鐘至滑；必要時加水／湯；過篩；真空袋保存。
+· Otros：100 g 鮮豬腩炸 torreznos；verdolaga 葉；醋漬小蔥。
+· Emplatado：深盤放 verdinas；中央放血腸忌廉；上放 1/4 醋漬小蔥；分散 3 片 verdolaga、4 粒 torreznos；另壺上肉湯。
+
+Pimientos, pil-pil y agua vegetal
+
+· Pimientos：2 個 isla 椒。炭火燒焦；入 gastro 盒加鋁箔，170°C 焗 10 分鐘；冷卻；細布過濾椒水；收至 glace；去皮；真空加橄欖油，80°C 煮 3 小時；按需要修形；修出的碎料留作 pil-pil。
+· Pil-pil neutro：4 kg 鱸魚或無鬚鱈的骨與頭；1,200 ml 植物油；3 個蒜頭。骨頭切件，冰水放血（換水 3 次）；分袋，加魚重量 30% 植物油；加蒜頭；真空 100%；62°C 蒸氣焗 3 小時；過濾（輕壓取膠原）；冷卻；分離油與膠原；用攪拌棒逐步加油乳化至所需稠度。
+· Pil-pil de pimiento：100 g pil-pil neutro；70 g 燉椒碎料。打勻；過細篩；調味；65°C 蒸氣保溫。
+· Otros：海茴香；醋珠；椒 glace。
+· Emplatado：椒回熱；pil-pil 乳化；盤中央一匙 pil-pil；上放椒；放 3 粒醋珠、海茴香；點 5 滴椒 glace。
+
+Puerros, yema y mazal
+
+· Yemas：適量放養蛋黃；1 L 雞湯。前一日冷凍蛋黃；當日取出冷藏解凍；席前在清澈雞湯中 50°C 加熱 4 分鐘。
+· Mini puerros：適量帶根迷你韭蔥。去第一層；根與莖分開；洗淨瀝乾；鹽水汆燙；冰水冷卻；白色部分切 2 cm 段；莖留用；65°C 蒸氣回熱 2 分鐘；根 180°C 橄欖油炸。
+· Salsa mazal：250 g Mazal 啤酒；1,000 ml 煮 verdinas 的水；300 g 牛油。啤酒收至 glace；加 verdinas 水與 150 g 牛油；收至一半；攪拌棒加其餘牛油乳化；再加熱收至忌廉狀；65°C 蒸氣保溫；每碟前再乳化。
+· Emplatado：碗中央放加熱蛋黃；周圍放迷你韭蔥；上放炸根；席前另壺倒 Mazal 醬。
+
+Alcachofas, cecina y bearnesa
+
+· Alcachofas：1 個迷你雅枝竹；20 g 橄欖油；鹽。去頭 6 層葉至嫩葉；真空加橄欖油、鹽；85°C 蒸氣焗 1 小時；冰水冷卻；去葉至近芯（留幾片嫩葉）；縱切半；席前內面煎香。
+· Bearnesa：50 g 紅洋蔥；30 g 黑橄欖；70 g 白酒；2 g 新鮮龍蒿；1 g Java 黑椒；50 g 蛋黃；40 g 水；150 g 澄清牛油。紅洋蔥、黑椒、龍蒿、橄欖與白酒收乾；蛋黃加水隔水打 sabayon；離火逐加溫牛油；入高容器加收乾物，攪拌棒打勻；過細篩；調味；55°C 蒸氣保溫。
+· Otros：4 粒黑橄欖；Tudanca 牛 cecina；海酢漿草；chervil。
+· Acabado：黑橄欖切細 brunoise，每件雅枝竹放 3 粒；加酢漿草莖、葉、chervil 芽；cecina 切薄片捲起。
+
+Chipirones curados
+
+· Chipirones：100 g 小魷魚；salmuria；橄欖油。salmuria 醃 20 分鐘；沖洗；真空加少量油；65°C 蒸氣焗 7 分鐘。
+· Mayonesa de ajo negro：96 g 蛋黃；150 g 葵花油；20 g 黑蒜。蛋黃在 salmuria 中醃 24 小時；瀝乾，與去皮黑蒜入杯；逐加葵花油乳化至蛋黃醬狀。
+· Otros：續隨子葉；海茴香；cachón 墨汁。
+· Acabado：魷魚取出切開成薄片；輕抹；塗墨汁；略摺；擠 3 點黑蒜蛋黃醬；上放炸續隨子葉；魷魚邊放 3 片海茴香。
+
+---
+
+8. Michael van der Kroft（Tres, Rotterdam）：荷蘭式動態
+
+8.1 核心理念
+
+· 2021 年開業；12 座位；上層吧枱開始，下層廚房與用餐區。
+· 「複雜但不複雜化」：技術多，但盤上自然；「你見到紅蘿蔔，就食到紅蘿蔔味」。
+· 荷蘭本地食材為主；溫室種植提供熱帶食材（百香果、薑、佛手柑）。
+· 荷蘭尚無明確定義的「國家菜系」；歷史上多為旅行、出口，食物多被視為能量而非享受。
+· 甜鹹同一創作邏輯：梨可做主菜，龍蝦可做甜品。
+
+8.2 食譜（精確）
+
+Plumas de pan plano
+
+· Pluma de pan plano：284 g 斯佩爾特麵粉；284 g 水；170 g 麵粉；114 g 低筋麵粉；84 g 酸種；40 g 燕麥粉；14 g 鹽。混合搓至開始成團；冷藏 30 分鐘；壓麵機至第 2 級；切大長方；切羽毛形；邊角料搓細 grissini，放羽毛中央；濕刷中央黏合；160°C 焗 10 分鐘（墊 silpat）。
+· Caramelo de pato silvestre：200 g 野鴨碎與骨；1 L 冷泡 dashi；15 g 乾 ceps；10 g 檸檬百里香；2 g 杜松木；20 g ceps 油。鴨骨 200°C 烤金黃；冷卻；除 ceps 油外全部入鍋，從冷加熱；小火 1 小時；過濾；新鍋中火收至 1/5；易潔鍋加熱 ceps 油；將收濃汁倒入，不斷攪拌至水分蒸發、呈濃焦糖狀；入擠袋冷藏。
+· Avellanas saladas：1 kg 生榛子；8% 鹽水。榛子去冠（保留殼）；真空浸鹽水（3 倍重量）；冷藏；使用時去殼去皮。
+· Crema de queso：200 g Witte de koning 芝士（brie 型）；500 g 淡忌廉。芝士切小丁；Thermomix 慢打；加淡忌廉至滑；過細篩；入擠袋冷藏。
+· Fudge de miso：20 g 青瓜濃縮汁；40 g 麵包味噌濃縮汁；30 g 黑加侖子油；70 g 軟牛油。全部打至乳化；冷藏；使用前 1 小時回溫。
+· Otros：冷杉葉；新鮮榛子 julienne。
+· Acabado：羽毛兩端擠鴨焦糖、芝士忌廉、味噌 fudge；用榛子 julienne 覆蓋成羽毛狀；底放冷杉葉。
+
+Colmenillas, praliné y salsa de faisán
+
+· Aceite de faisán：50 g 芫荽籽；30 g 杜松木；70 g 檸檬百里香；20 g 杜松子；2 kg 葵花油；2 隻雉雞；2 支冷杉枝；2 片乾月桂；1 隻黑辣椒；1 個蒜頭（切半）；1 粒八角。雉雞切 8 件；200°C 烤 25 分鐘至金黃；大鍋加其餘材料與油煮 20 分鐘；加烤雉雞，加蓋最低溫（1）煮 24 小時；翌日先過圓錐篩，再過細尼龍篩。
+· Agua de lacto koji：500 g 大麥 koji；500 g 水；鹽（總重 2.5%）。混合靜置。
+· Caldo de levadura：120 g 烤酵母；40 g 黃豌豆味噌（大麥培養）；60 g 紅加侖子；400 g 水。全部打勻；冷凍；完全凍後用細布過濾冰；汁冷藏。
+· Salsa koji de faisán：120 ml lacto koji 水；240 ml 酵母湯；100 g 牛油；68 g 雉雞油；38 g 松樹醃汁。lacto koji 水與酵母湯入鍋；小火煮；逐加牛油丁乳化；加雉雞油繼續乳化；保溫。
+· Ceps en miel lactofermentada：蜜糖加 18% 水；拌勻發酵；ceps 脫水至可嚼；加入蜜糖中浸至少 1 個月。
+· Sal de kombu：100 g 乾 kombu；500 g 水。真空；80°C 蒸 2 小時；過濾入 1 L 容器；放約 60°C 環境收至成鹽（約 2 週）。
+· Praliné salado de mantequilla noisette y avellanas：100 g 乳化榛子牛油；40 g 烤榛子；40 g 蜜糖發酵 ceps（切碎）；10 g kombu 鹽。榛子與 kombu 鹽舂成醬；與榛子牛油拌勻；加 ceps 碎；入擠袋冷藏。
+· Aceite de ceps：80 g 乾 ceps；1 kg 葵花油。真空 80°C 8 小時；過細篩；固體留用。
+· Colmenillas en conserva：1 kg 羊肚菌；ceps 油。羊肚菌入罐；倒 ceps 油至滿；封蓋；130°C 蒸氣對流焗 1 小時 20 分鐘；冷卻；冷藏。
+· Acabado：盤底放雉雞 koji 醬；羊肚菌內擠 praliné；放中央。
+
+Tributo a Van Gogh: conejo, espinaca, nuez y calabaza
+
+· Reducción de conejo：20 kg 牛骨（小塊）；5 kg 兔骨與碎肉；6 個洋蔥；2 L 紅酒；1 kg 紅蘿蔔；1 支芹菜；1 個蒜頭；10 g 黑椒粒；2 g 月桂；70 g 百里香；50 g 迷迭香；1 條雲呢拿莢。牛骨 230°C 焗 1 小時或至深金；入鍋，大火（9）加熱至冒煙；加紅酒與香草；蔬菜切 3×3 cm 加入；冷水蓋過骨；小火煮 24 小時，經常去沫；冷卻；翌日去表面脂肪；兔骨與碎肉 230°C 烤金黃；加入牛湯小火 6 小時；過濾；再過尼龍篩；收至 45 Brix。
+· Cuero de conejo：200 g 兔肉濃縮汁；3 片明膠片。明膠泡水；濃縮汁煮沸；加明膠；拌勻；過濾入黑色 gastronorm 盤；放雪櫃風扇前；3–4 天成皮。
+· Fudge de nuez：40 g 青瓜濃縮汁 65 Brix；35 g 牛油；20 g 酵母濃縮汁 60 Brix；20 g 核桃油。全部打勻。
+· Fudge de calabaza：45 g 南瓜濃縮汁 65 Brix；35 g 牛油；20 g 味噌濃縮汁 60 Brix；15 g 花旗松油。全部打勻。
+· Otros：菠菜。
+· Acabado：菠菜用榛子牛油炒；用畫框（背景風景）作盤；菠菜剪成兔形；兔皮剪成兔形；放兩種 fudge 如筆觸；食客自行捲起食用。
+
+Kebab Adana de pato salvaje, lengua de venado, cerezas encurtidas y za'atar holandés
+
+· Lengua de venado：適量鹿舌；李子籽浸泡伏特加。解凍；生鮮狀態用屠刀去皮；修去底部血管；冰水沖洗；抹乾；切約 30 g tournedos；入 1 L 墊焗紙容器；滴李子伏特加；冷藏。
+· Kebab Adana de pato：400 g 野鴨肉碎；100 g 野豬脂肪碎；25 g 冰水；20 g 孜然；20 g sumac；20 g 乾辣椒；7.5 g 鹽。除水外全部入攪拌機（槳）；打至起黏、黏壁；加冰水（保持低溫防脂肪流失）；再打幾分鐘；炭火烤。
+· Base de za'atar：2 g 發酵草莓粉；3 g 凍乾大黃；4 g 百里香；23 g 烤杏仁。香料磨打成粉。
+· Za'atar con asperilla：16 g za'atar base；12 g 烤杏仁碎；2 g 乾 asperilla 粉；1 g 凍乾覆盆子碎。混合。
+· Za'atar con asperilla y membrillo：15 g 上述 za'atar；10 g 日本乾木瓜。打勻。
+· Adobo de pino：150 g 青加侖子；100 g 沙棘莓；40 g 松芽；20 g 花旗松針。全部入大缽舂至出汁；浸 1 分鐘；紗布擠汁；尼龍細篩過濾；冷藏（可大批做、冷凍）。
+· Pétalos de rosa encurtidos y marinados：適量醃玫瑰花瓣；適量松樹 adobo。花瓣瀝乾；壓入 adobo；真空；冷藏至少 2 小時。
+· Otros：醃車厘子。
+· Acabado：串成 brochette；kebab 裹 za'atar；半粒醃車厘子 → 鹿舌 → 裹粉 kebab 丁 → 醃玫瑰花瓣 → kebab → 車厘子 → 玫瑰花瓣。
+
+---
+
+9. Lydia del Olmo & Xosé Magalhães（Ceibe, Ourense）：新芽舊味
+
+9.1 核心理念
+
+· Ceibe = 加利西亞語「自由」；不設創作界限，隨季節與供應商對話。
+· 開放式廚房，連結傳統加利西亞家庭（廚房與飯廳相連）。
+· 近距離、透明、簡樸、產品主導；向傳統菜（cocido、sopas de burro cansado）致敬。
+· 供應商：Sal y Laurel（海鮮）、Abel（第三代肉販）、Lola（自家菜園）、Despensa D'Lujo（黑番茄）。
+
+9.2 食譜（精確）
+
+Repollo pil-pil
+
+· Repollo：4 個椰菜；適量 unto 牛油；鹽。椰菜逐葉剝下，在 gastronorm 中層層疊，每層塗 unto 牛油、撒鹽；170°C 蒸氣焗 20 分鐘（層數按 gastronorm 高度）。
+· Pil-pil de repollo：230 g 椰菜；適量 ajada（加利西亞蒜油）。椰菜打碎；逐加 ajada 乳化。
+· Garbanzo frito：100 g 鷹嘴豆；適量辣椒粉。鷹嘴豆在鹽水中「驚」三次；煮 40 分鐘；75°C 脫水；油炸；裹少許辣辣椒粉。
+· Emplatado：放兩份椰菜；一端淋 pil-pil；上放炸鷹嘴豆；加蒜花。
+
+Homenaje al galo celta
+
+· Jugo de gallo：12 個洋蔥 brunoise；8 條韭蔥 brunoise；4 條紅蘿蔔 brunoise；4 瓣蒜片；1 個 choricero 椒肉；1 個濃縮番茄；50 g 紅酒；適量雞湯；80 g 豉油；1 支百里香；5 g 黑椒；4 片月桂；3 湯匙甜紅椒粉；適量 Mós 公雞腿。煎香雞腿取出；同鍋炒蒜、洋蔥、韭蔥、紅蘿蔔至金；加椒肉、紅椒粉；紅酒與豉油 deglaze 收濃；加濃縮番茄煮 10 分鐘；加雞湯與香草；放雞腿（湯蓋過一半）；煮熟；取腿；汁過濾（不把蔬菜打碎）；收濃。
+· Caldo de verduras：2 個紅洋蔥 mirepoix；4 條大紅蘿蔔 mirepoix；1 個蒜（切片）；20 g 牛油；2 L 水；15 g fino 雪利酒；5 粒黑椒；60 g 蘑菇；½ 支芹菜 brunoise。蔬菜與牛油炒軟；加黑椒、雪利酒收酒精；加蘑菇；加水煮至減半；過濾；再收 1/4。
+· Espuma de maíz：2 個洋蔥絲；1 條韭蔥絲；5 瓣蒜片；900 g 嫩粟米粒；2,000 ml 蔬菜湯；25 g 雪利醋；鹽。洋蔥、蒜、韭蔥炒軟（不變色）；加粟米粒炒；加湯煮 1 小時；打勻；過細篩；加醋、鹽；入 siphon 打兩次氣。
+· Yema curada：8 隻蛋黃；300 g 鹽；100 g 糖。蛋黃與鹽糖混合，醃 30 分鐘；取出打勻。
+· Polvo de palomitas：100 g 粟米。爆成爆谷；打粉。
+· Crestas de gallo：適量雞冠；2 個洋蔥 mirepoix；3 條紅蘿蔔 mirepoix；1 個蒜片。雞冠汆水三次；去皮洗淨；加水與蔬菜煮 2 小時；取出；70°C 脫水 36 小時；油炸。
+· Pil-pil：8 隻雞腿；1 個洋蔥 mirepoix；2 瓣蒜（拍碎）；300 ml 白酒；20 g 豉油；400 ml 雞湯；10 g 黑椒。雞腿 160°C、80% 濕度烤金黃；連蔬菜與其他材料；留汁；過濾；冷藏 24 小時；分離脂肪與蛋白質；打蛋白質並逐加脂肪乳化；必要時加 0.2 g 凝膠劑。
+· Pechuga de gallo curada：10 g 公雞胸；50 g 葵花油；50 g 豉油。全部真空；靜置 48 小時；平底鍋快速煎表面（中心不熟）；炭火完成。
+· Terrina de gallo：500 g 豬腩；300 g 公雞胸；100 g 公雞肝；1 個洋蔥 brunoise；1 隻蛋；2 瓣蒜茸；25 g 鹽；20 g 番茜；1 g 粉紅鹽；60 g 麵包；50 g 淡忌廉。全部絞碎混合；入 gastronorm；180°C 焗至中心 75°C；冷卻 24 小時；切件；淋餘下汁。
+· Emplatado：蛋殼內放蛋黃、gallo 汁、粟米 espuma、爆谷粉；雞冠上放 4 片醃雞胸，淋 pil-pil，加 pamplina 芽；切 terrina 一件；三款同時上。
+
+Castaña con escabeche de codorniz y su empanadilla
+
+· Escabeche de codorniz：6 隻鵪鶉；1 個洋蔥絲；2 條紅蘿蔔絲；2 瓣蒜片；20 g 芹菜絲；1 個 kaffir 青檸；45 g 雪利醋；40 ml 白蘭地；25 g Ribeiro 酒；2 片月桂；350 ml 橄欖油；250 ml 蘋果醋；150 g 雞湯；鹽；黑椒。鵪鶉清理乾淨；鍋中 100 g 油煎金黃取出；同鍋炒蒜、洋蔥、紅蘿蔔、香草、芹菜（約 30 分鐘，不變色）；冷卻；鵪鶉環形排好（胸向上）；加其餘材料；中火煮滾；轉最低火煮 30 分鐘；離火冷卻；冷藏 48 小時；取鵪鶉去骨留肉；去香草與上層油；其餘加熱打勻過濾；逐加其餘油乳化。
+· Castañas：100 g 栗子；水；30 g 牛油；鹽；1 支迷迭香；2 支百里香；20 g 白蘭地。生栗去皮；小火煮 30 分鐘；去餘皮；用榛子牛油、迷迭香、百里香、白蘭地、鹽 soasar 約 20 分鐘。
+· Masa de empanadilla：450 g 小麥粉；200 ml 雞湯；50 g Airas Moniz 牛油；1 隻蛋；5 g 鹽；12 g 鮮酵母；鵪鶉燉餡。粉加熱湯；混合；逐加其餘材料；靜置 5 分鐘；再搓 10 分鐘；靜置；擀開；10 cm 圓模切；包餡；封口；油炸。
+· Guiso de codorniz：適量 6 隻鵪鶉 escabeche 撕碎肉；適量 6 隻鵪鶉骨；2 個洋蔥。骨炭火烤；與洋蔥煮湯；收至 demi-glace 狀；加撕碎鵪鶉肉；作餡。
+· Emplatado：栗子上放 escabeche 汁；加酢漿草芽；另一碟放 empanadilla。
+
+Merluza de Celeiro
+
+· Merluza：1 條無鬚鱈。去鱗、小心去內臟；去鰓與眼；布抹去血；吊尾；2.5°C、70% 濕度熟成 7–8 天（3.5–4 kg 魚）；切 80 g 件；海水浸 1 小時；75°C 蒸 8 分鐘。
+· Jugo iodado：200 g 青口汁；100 g 鳥蛤汁；20 g 檸檬汁；2 g 凝膠劑。冷混合；攪拌溶解凝膠劑；加熱不斷攪拌至煮沸、變稠。
+· Emplatado：魚件放中央；淋 iodado 汁。
+
+---
+
+10. Andrew Wong（A. Wong, London）：Dim Sum 的無限潛力
+
+10.1 核心理念
+
+· Dim Sum 不只是餃子；有超過 2,000 種，甜鹹皆有；與西班牙 tapas、西方糕點精神相通。
+· 澱粉是關鍵：常用 30 多種澱粉；四大類：小麥、薯仔、木薯、糯米粉。
+· 質地目標：煙韌、微黏、有結構；薯仔澱粉透明、木薯更透但更黏，需小麥澱粉補結構。
+· 創作無界限；尊重傳統但不受「這不是中國菜」框限。
+· 2021 年成為亞洲以外首間獲米芝蓮兩星的中餐廳。
+
+10.2 食譜（精確）
+
+Dumplings de Shanghai（20 個）
+
+· Gelatina de caldo de cerdo：4 隻豬手（橫切半）；1 塊豬腩皮；2 kg 豬骨；6 L 冷水；300 ml 紹興酒；100 g 生薑（切大塊）；100 g 蔥；75 g 明膠粉。豬手、皮、骨冷水煮滾 5 分鐘；瀝乾沖洗；鍋洗淨；回鍋加冷水煮滾，去沫；加酒、薑、蔥小火 5 小時（液體減 1/3、稍稠）；細篩過濾；加明膠粉；冷卻冷藏至凝固。
+· Masa：500 g 高筋麵粉（另備撒粉）；250 ml 水；75 g 植物油。粉篩在工作枱，中央挖洞；水與油混合逐加；麵團應偏乾（太濕用保鮮紙包好冷藏 30 分鐘，切勿加粉）；搓 10 分鐘至光滑結實；包保鮮紙室溫靜置 1 小時。
+· Relleno：300 g 豬肉凍；100 g 醃豬肉碎；100 g 中國細香蔥（切碎，另備裝飾）。使用前刮去豬肉凍表面脂肪（加入餡中否則湯汁油膩）；切細（可用食物處理機但勿過度加熱）；與豬肉碎、香蔥拌勻；因豬肉凍比例高，需逐加豬肉至可包裹。
+· Decoración：醃木薯珍珠；薑醋。
+· Formado y cocción：麵團分兩半（一半包好冷藏）；搓成約 2 cm 直徑長條；切 5 g 件（約 2 cm 厚）；撒粉，手掌壓圓；小擀杖擀成 6.5 cm 圓（中心厚、邊薄），擀杖與身體垂直，轉麵團而非擀杖；放 16 g 餡；手成杯狀，用擀杖末端把餡壓入杯；另一手從 3 點位置起，每 3 mm 捏褶，順時針；完成 360 度後，多餘麵團向上收口；繼續捏褶收口；大火蒸 4–5 分鐘（餡多則更久）；配醃木薯珍珠、香蔥、薑醋。
+· Nota：餡料散開通常是豬肉碎脂肪不足；需用肥豬腩。
+
+999 capas de hojaldre de vieira
+
+· Hojaldre invertido：1,050 g 中筋麵粉；150 g 高筋麵粉；150 g 糖；150 g 牛油；3 隻蛋；1,200 g 牛油；1,200 g 低筋麵粉。第一組（前五項）用鉤打至可拉薄膜；第二組（牛油＋低筋）混合（勿過度）；兩者冷藏至微硬（勿過硬）；第一組擀 10 mm；第二組擀 20 mm，放第一組中央；常規摺疊：第一次四層，再摺得四層；切邊；量寬度，切 5 條等寬（可見層次）；用蛋液黏合 5 條（層次上下可見）；包保鮮紙冷藏過夜；翌日側放，30 度角切去頂部；切 3 mm 片（可見層次）；擀至 1 mm；包 6 g 餡；捲成圓柱，兩端向內收、去多餘；蛋清封口；裹芝麻；冷凍過夜；160°C 油炸至金黃；瀝油；食用前 190°C 再炸至外殼硬脆。
+· Relleno de vieiras：150 g 帶子（3 mm 丁）；50 g 蔥；50 g 米粉（泡軟切 5 mm）；5 g 中國米酒；20 g 發酵豆腐；10 g 糖；200 ml 雞湯；10 g 粟粉 + 150 ml 水。帶子丁炒香備用；其餘材料煮成濃醬；帶子加入醬中冷卻；冷卻至凝固；包裹前手拌至緊實。
+· Presentación：放帶子 ceviche 上，配辣椒青檸汁、兩點四川「茄汁」（發酵蠶豆醬）、少許醃 daikon、微型芫荽。
+
+Milhojas de Char siu, vieira asada y láminas de Cheung fun
+
+· Almíbar：1 L 水；500 g 糖。煮沸溶解；放涼至溫。
+· Cerdo asado（Char siu）：600 g 豬頸肉片（3–4 cm 厚）；Char Siu 醬；almíbar。肉與醬醃 6 小時；焗爐最高溫預熱；底層墊鋁箔接汁；肉去多餘醃汁，用金屬鉤掛上層；烤至外層微焦；若中心未達 63°C，降 160°C（Gas Mark 3）再烤 15 分鐘；取出放入溫 almíbar，室溫 6 小時至 confit（內部色深、質地緊實）；160°C（Gas Mark 3）預熱；肉取出放烤盤，焗約 10 分鐘；almíbar 加熱淋上。
+· Hojas de arroz Cheung fun：300 g 粘米粉；206 g 馬蹄粉；37 g 小麥澱粉；37 g 薯仔澱粉；37 g 粟米粉；750 g 冰水；1 茶匙植物油。全部混合；保鮮紙蓋好室溫靜置 30 分鐘；15×20 cm 有邊不鏽鋼盤（可入蒸籠）；裁焗紙略小於盤；放紙，倒足夠粉漿成 1 mm 薄膜；中火蒸 1 分鐘至薄片狀；冷卻 10 分鐘；小心連紙揭起；重複。
+· Vieiras：帶子去殼；牛油、鹽、黑椒煎香；略冷卻。
+· Aderezo de Sichuan：20 g 蒜碎；450 ml 豉油；470 ml 紅醋；500 g 糖；384 ml 辣椒油；294 ml 麻油；725 g 豆瓣醬。全部混合浸味。
+· Otros：10 片酥皮；10 片 brick 皮。
+· Acabado：10 片酥皮塗澄清牛油，貼上 brick 皮成雙層；焗盤 180°C，上方壓另一盤焗至平直；切 60×25 cm 長方；加熱叉燒片、帶子片、Cheung fun 片；組裝成雙層小食（brick 脆皮在上、下、中）；壓緊；配四川醬。
+
+Tarta hojaldrada de abulón con vinagre balsámico añejo
+
+· Hojaldre：250 g 無鹽牛油；250 g 中筋麵粉；250 g 植物起酥油；180 g 中筋麵粉；65 g 高筋麵粉；32.5 g 植物起酥油；60 g 蛋；70 g 水。第一組混合；包保鮮紙冷藏至硬；第二組用鉤打至可拉薄膜；按常規酥皮：兩次單摺、一次雙摺；擀 2 mm；冷藏過夜；翌日 6 cm 波浪圓模切；再冷藏；入 5 cm 波浪撻模；拇指推邊使邊緣較厚；放 4 cm 撻模壓重（盲焗）；200°C 焗 5 分鐘（邊緣均勻膨脹但不過度）；180°C 再焗 5 分鐘至金黃；取出；微溫脫模。
+· Otros：鮑魚；25 年陳年巴薩米克醋。
+· Acabado：鮑魚真空自身汁液煮 2 小時；連汁放入撻殼；滴陳年巴薩米克醋。
+
+Vieiras：帶子去殼；牛油、鹽、黑椒煎香；略冷卻。
+· Aderezo de Sichuan：20 g 蒜碎；450 ml 豉油；470 ml 紅醋；500 g 糖；384 ml 辣椒油；294 ml 麻油；725 g 豆瓣醬。全部混合浸味。
+· Otros：10 片酥皮；10 片 brick 皮。
+· Acabado：10 片酥皮塗澄清牛油，貼上 brick 皮成雙層；焗盤 180°C，上方壓另一盤焗至平直；切 60×25 cm 長方；加熱叉燒片、帶子片、Cheung fun 片；組裝成雙層小食（brick 脆皮在上、下、中）；壓緊；配四川醬。
+
+Tarta hojaldrada de abulón con vinagre balsámico añejo
+
+· Hojaldre：250 g 無鹽牛油；250 g 中筋麵粉；250 g 植物起酥油；180 g 中筋麵粉；65 g 高筋麵粉；32.5 g 植物起酥油；60 g 蛋；70 g 水。第一組混合；包保鮮紙冷藏至硬；第二組用鉤打至可拉薄膜；按常規酥皮：兩次單摺、一次雙摺；擀 2 mm；冷藏過夜；翌日 6 cm 波浪圓模切；再冷藏；入 5 cm 波浪撻模；拇指推邊使邊緣較厚；放 4 cm 撻模壓重（盲焗）；200°C 焗 5 分鐘（邊緣均勻膨脹但不過度）；180°C 再焗 5 分鐘至金黃；取出；微溫脫模。
+· Otros：鮑魚；25 年陳年巴薩米克醋。
+· Acabado：鮑魚真空自身汁液煮 2 小時；連汁放入撻殼；滴陳年巴薩米克醋。
+
+---
+
+11. David Chamorro & Christian Domínguez（Food Idea Lab）：pH 極端與炸物 2.0
+
+11.1 pH 極端——酸
+
+· 原理：用 tartaric、citric、malic 等酸（非醋）製成 5% 溶液，pH 約 3.2–3.5；浸漬至少 12 小時，蛋白質變性如醋醃，但保留原料原味；之後沖洗、浸橄欖油保存。
+· 優點：酸度穩定可控（醋／檸檬酸度可變）；不帶醋的 organoleptic 風味；可精確控制「熟成」點。
+· 應用：鯷魚、沙丁魚、鯖魚；青口 escabeche 只用青口汁酸化；tiradito 用 citric acid 代替青檸（更圓潤、不刺口）；鵪鶉 escabeche 用 lactic acid 水代替醋（更creamy；malic 更尖銳）。
+
+11.2 pH 極端——鹼（sosa cáustica）
+
+· 原理：水加 1–2% 氫氧化鈉；浸漬 24–48 小時，蛋白質高度變性、部分溶解，成凝膠／忌廉狀。
+· 新鮮肉應用（2%）：火雞胸、鹿肉、野豬肉、無鬚鱈尾 → 凝膠狀；可打勻做 emulsion（野豬 gelatin、鹿肉蛋黃醬、雞肉忌廉／泡沫）。
+· 醃肉應用（1%）：伊比利亞豬肉乾、火腿肘、火腿碎 → 重新水化、軟化，可煎、可做 pinchos；24 小時鹼浴後需以清水（換水約 6 次，或加酸加速至 2 次）中和 pH 至近中性。
+· 例子：León cecina 1% 鹼浴後像豬扒，體積與質地改變（蛋白質吸水膨脹）；需在吸水至原本狀態時取出。
+· 火雞胸蛋黃醬：2% 鹼浴 48 小時 → 凝膠；攪拌棒打散；清洗中和；加橄欖油或雞油打發成蛋黃醬。
+
+11.3 生石灰（cal viva）應用於頭足類
+
+· 原理：新鮮（非冷凍）頭足類乾身裹生石灰 24 小時；去石灰；中和 pH；小型頭足類 40°C 脫水 12 小時 → 油炸時外層酥化如 torrezno；大型（墨魚、八爪魚）不需脫水，中和後直接 180°C 油炸，外層如「羅馬式」炸物。
+· 優點：無需麵粉／澱粉裹粉；鹼處理令梅納反應更有效率，金黃色與焦糖味更明顯。
+· 注意：戴手套（生石灰傷皮膚）；必須用新鮮、非冷凍產品。
+
+11.4 Isomalt 炸物（Fritura Cantonesa 改版）
+
+· 原理：以 60% isomalt tpt 取代糖水；真空浸漬 <40°C（時間按食材）；裹 isomalt 後油炸。
+· 為何用 isomalt：耐溫更高（可 200°C 而不碳化異味）；甜度約糖一半，幾乎不留甜味，可用於肉類與蔬菜。
+· 油溫：190–200°C；>210°C isomalt 被排出並燒焦；<180°C 裹層脫落。
+· 設備：用鍋不用炸爐（多餘 isomalt 沉底冷卻硬化，鍋中易清理；油壽命更長）。
+· 應用：
+  · 牛扒 entrecôte：isomalt 包裹脂肪，炸後脂肪融化但不流失，如「脂肪朱古力」；tpt 溫或冷；不需乾燥，蘸 tpt 後裹 isomalt 即可。
+  · 乳豬頭：先油 confit，再 isomalt；真空浸 tpt 三次確保均勻。
+  · 鵪鶉：雪櫃乾燥 24 小時；真空浸 tpt；裹 isomalt；保留皮膚少量脂肪。
+  · 紅魽魚：生浸 tpt 1–2 小時；裹粉油炸（魚骨亦可）。
+  · 蝦：為普通蝦增加個性。
+  · 雅枝竹：唯一需預煮（70°C 真空 40 分鐘）確保芯熟；isomalt 炸比常規快。
+  · 茄子：外層薄焦糖脆殼、內裡仍濕潤；可延伸至水果／糕點。
+  · 雞油菌：孔洞結構吸水多，效果更明顯；表皮不透（如 magret）較難。
+12. Albert Boronat：不朽經典（Pâté en Croûte、Pollo en Vessie、Wellington）
+
+12.1 Pâté en Croûte Tradición（20 人份）
+
+· Relleno：150 g 黃雞胸；300 g 鴨 magret；500 g 生鵝肝；200 g 油封鴨胸腺；50 g 開心果；100 g 牛豬免治 TPT；200 g 鮮豬腩；鹽；50 g 乾無花果；百里香；100 ml 橄欖油。碗放冰浴；除鵝肝外全部混合（雞胸、鴨 magret 丁、免治、油封胸腺、去皮豬腩丁、開心果、無花果、百里香）；鵝肝另放。
+· Marinada：20 g Port；10 g 白蘭地；12 g 鹽；適量黑椒；15 g 番茜；1 瓣蒜；8 g 糖。與肉拌勻；蒜用 microplane 磨；加番茜葉；手拌至均勻 farsa。
+· Masa del pâté：650 g 高筋麵粉；405 g 牛油；3 隻蛋；120 g 水；10 g 鹽。粉過篩；攪拌機槳加全部材料（牛油軟化）；打 10 分鐘；包保鮮紙冷藏 24 小時。
+· Gelée：1 L 雞清湯；15 片明膠片；2 個燒洋蔥（平底鍋燒焦）。明膠泡水；加入加熱並用燒洋蔥染色的湯中；調味；室溫。
+· Otros：蛋黃。
+· 組裝：擀兩層 5 mm 酥皮；一層鋪入 40×7.5×8.5 cm 模（去空氣、盡量方正、四邊留多餘酥皮）；餡填一半，放鵝肝片，再填滿成拱形（高於模）；四邊酥皮摺入、去多餘；掃蛋黃；蓋第二層酥皮；再掃蛋；用剩餘酥皮做格紋裝飾；快速掃蛋（避免蛋黃積在格角）；修邊；沿模邊輕壓封口；冷藏 2 小時；放四個圓模片，穿孔至餡，插入鋁製「煙囪」；焗爐無風 180°C：15 分鐘 180°C ×3 次、15 分鐘 170°C、15 分鐘 160°C；每 15 分鐘或每次變溫轉模 180°；中心探針 65°C 停；室溫冷卻；冷藏至翌日；經煙囪倒 gelée，去煙囪，補滿 gelée；冷藏凝固；脫模（火槍加熱側面、microplane 修邊）；建議靜置 2 天後食用。
+· 注意：餡料可自由（海鮮如吞拿魚 Rossini 需先焗酥皮再填餡，避免吞拿魚過乾）；作者偏好肉切大塊（視覺更佳）；用大模 40 cm（約 20 份；餡約 2.5 kg；成品 3.3–3.8 kg）；酥皮要薄脆、低溫操作；頂部封口要掃足蛋液；外層蛋液要薄（過厚會燒焦）。
+
+12.2 Pollo cocido “en vessie”
+
+· Caldo base：2 kg 雞殼；4 條紅蘿蔔；4 條韭蔥；4 個洋蔥；1 紮番茜；1 支芹菜；5 L 水；白胡椒。雞殼冷水煮滾 2–3 分鐘；去雜質去沫；加蔬菜；小火 5 小時；不加鹽。
+· Salsa Albufera：適量白蘭地；適量 Dgel de Lívia 冰酒；100 ml 35% 淡忌廉；300 ml caldo base；100 g 油封鵝肝。另煮雞湯：燒洋蔥；雞入鍋加水煮滾；換水再煮滾；加香草束煮至少 6 小時；過濾；收至 1/3；加冰酒、白蘭地煮 5 分鐘；加油封鵝肝與淡忌廉；煮至合適稠度；調味；Thermomix 打勻；過濾。
+· Pollo：1 隻放養雞（1.2–1.4 kg）；1 個牛膀胱；適量 Dgel de Lívia 冰酒；50 g 牛油；鹽；現磨黑椒；25 g 松露。膀胱泡水；雞清理，去頸骨；分離胸皮，調味；胸皮與胸肉之間放松露牛油或松露碎；雞入膀胱；調味；加冰酒；保留最多空氣；用繩紮緊（確保蒸氣留在膀胱內）；不能煮沸的白色湯底中煮 4–5 小時（按雞大小）。
+· Otros：時令蔬菜；50 ml 橄欖油。
+· 上桌：席前剪開膀胱；切雞；胸肉配蔬菜；淋 Albufera 醬；可刨新鮮松露。
+
+12.3 Wellington de buey, estilo Rossini（4 人份）
+
+· Crepes：1 隻蛋；70 g 牛油；200 g 麵粉；200 ml 牛奶；200 ml 水；適量鹽花。小鍋融 30 g 牛油；麵粉與蛋拌勻；加牛奶與水至滑；加融化牛油、鹽花；細篩過濾；靜置 2 小時；專用平底鍋塗牛油煎薄餅。
+· Masa hojaldrada：500 g 麵粉；50 g 牛油；250 ml 水；18 g 鹽；400 g 起酥牛油。KitchenAid 拌粉、鹽、水、牛油丁；成團；搓圓；擀方；包保鮮紙冷藏 24 小時；起酥牛油略軟，夾焗紙擀開；冷藏；翌日擀麵團，牛油放中央；包好；三次單摺、兩次雙摺；擀開；包保鮮紙冷藏。
+· Wellington：1 件牛柳 chateaubriand（約 500 g）；500 g 大白蘑菇；50 g Dijon 芥末；適量鵝肝；4 片薄餅；新鮮百里香；500 g 酥皮；蛋黃；100 ml 橄欖油；黑椒；鹽。
+  1. 蘑菇切細 brunoise；橄欖油與牛油炒乾；加百里香；調味。
+  2. 牛柳調味，鍋中四面煎香；放網架冷卻。
+  3. 保鮮紙鋪底；放薄餅；鋪蘑菇 duxelle（與牛柳同長）；放牛柳；塗芥末。
+  4. 用保鮮紙捲起成圓柱；冷藏。
+  5. 酥皮擀開；放上（去保鮮紙）牛柳卷；包好；掃蛋黃；封口；表面可劃花；掃蛋黃；焗至酥皮金黃、牛柳達所需熟度。
+
+---
+
+13. Franck Giovannini（Restaurant de l'Hotel de Ville de Crissier）：永恆傳承
+
+13.1 核心理念
+
+· Frédy Girardet 1971 年開業；1996 年退休後由 Philippe Rochat、Benoît Violier、Franck Giovannini（均為 Girardet 弟子）承傳。
+· Girardet 貢獻：每日新鮮食材（包括瑞士罕見的海鮮）、菜單 3–4 道、份量較小、味道簡單易懂、重視季節性。
+· Rochat：增強風味強度、平衡、重視酸度。
+· Violier：更健康、輕盈。
+· Giovannini：重視蔬菜（如青豆為主角）、輕盈健康（控制牛油／忌廉）、本地及鄰國（法、意）食材、視覺細節但味道優先。
+· 30 年米芝蓮三星（同一餐廳四位主廚）；每年約 10 道歷史菜回歸；兩套 tasting menu + à la carte。
+
+13.2 食譜（精確）
+
+Cúpula de colmenillas y emulsión ligera al Oporto y Madeira（4 人份）
+
+· Colmenillas：500 g 新鮮羊肚菌。去蒂（留作醬）；對半切；溫水洗數次。
+· Relleno fino de ave：20 g 去皮雞胸；20 g 淡忌廉；10 g 蛋白。雞胸打碎；加蛋白拌勻；加淡忌廉；鹽、黑椒；過篩；冷藏。
+· Masa：15 g 乾蔥碎；牛油；250 ml 淡忌廉；100 g 羊肚菌（切丁）。牛油炒羊肚菌丁；調味；加乾蔥；加淡忌廉收半；調味；冷卻；與上述雞肉餡混合。
+· Salsa：150 g 羊肚菌蒂與碎料；20 g 乾蔥碎；1 瓣蒜（壓碎）；100 ml 白 Port；100 ml Madeira；150 ml 雞湯；150 ml 淡忌廉；牛油；檸檬汁；鹽、黑椒、Tabasco。牛油炒羊肚菌蒂與碎料；調味；加乾蔥、蒜；Port 與 Madeira deglaze 收半；加雞湯煮 5 分鐘；加淡忌廉煮 5 分鐘；打勻；紗布過濾；加檸檬汁、鹽、黑椒、Tabasco。
+· Otros：1 支芹菜（細丁）；熟青豆；切段甜豆。
+· Montaje cúpula：200 g 羊肚菌鋪焗盤；保鮮紙蓋；90°C 蒸氣焗 20 分鐘；取出夾廚房紙壓平；半球模塗牛油；鋪羊肚菌；填餡；冷藏。
+· Acabado：90°C 焗 8 分鐘；脫模（平面朝下）；周圍放炒羊肚菌；裝飾芹菜丁、青豆、甜豆；淋熱乳化醬。
+
+Medallones de bogavante bretón a los tres tomates, crema delicada de coral y hojas blancas（4 人份）
+
+· Bogavantes：4 隻布列塔尼龍蝦（400–600 g）。沸水浸 3 分鐘；冰水冷卻；頭尾分開加速冷卻；鉗再煮 2 分鐘、冰水；剪去頭內臟；頭對半（留作醬）；尾去殼、冷水沖、瀝乾；每尾切 12 片 medallion（去腸）；鉗去殼切丁；所有殼與碎料留作醬。
+· Salsa americana al tomate：4 個龍蝦頭；30 g 紅蘿蔔；30 g 洋蔥；30 g 芹菜蘿蔔；30 g 乾蔥；30 g 番茄；30 g 濃縮番茄；100 g 干邑；400 g 蔬菜或海鮮湯；4 支百里香；4 支龍蒿；½ 個橙皮；馬鈴薯澱粉；澄清牛油或花生油。蔬菜切小丁；油煎龍蝦頭；加蔬菜、黑椒粒、番茄茸；干邑 flambé；加百里香、湯；加殼與碎料小火 30 分鐘；加龍蒿、橙皮；加蓋離火浸 15 分鐘；過濾；調味；馬鈴薯澱粉水勾芡；冷卻冷藏。
+· Mayonesa de tomate：1 隻蛋黃；10 g 芥末；15 g 濃縮番茄；100 g 葵花油。蛋黃與芥末打勻；逐加油；調味；加番茄膏；加一匙 salsa americana；一半與龍蝦鉗丁混合。
+· Otros：8 粒紅車厘茄；8 粒橙車厘茄；8 粒黃車厘茄；時令嫩芽；黑椒；Tabasco；鹽花；現磨黑椒；橄欖油。
+· Acabado：車厘茄切四；碗底放鉗肉與番茄蛋黃醬；龍蝦片用橄欖油、鹽花、黑椒調味；排成玫瑰狀；塗蛋黃醬；放番茄角；裝飾嫩芽；中央淋醬。
+
+Filete de san pedro gratinado con flor de alcaparra, reducción vigorosa de especias y granos de mostaza（4 人份）
+
+· Pescado san pedro：4 片 san pedro 魚柳；200 g 芹菜根；1 個檸檬；1 個青檸；100 g 帶莖續隨子。魚柳用鹽、黑椒、柑橘皮茸調味；放烤盤加橄欖油；70°C 蒸氣焗約 5 分鐘（中心 38°C）；室溫冷卻（太熱難上脆皮）；芹菜根切 5 mm 丁汆燙；檸檬去皮取瓣切細丁；續隨子切四。
+· Salsa de mostaza y balsámico blanco：1 個乾蔥碎；100 g 白酒；100 g 魚 fumet；200 g 淡忌廉；40 g Meaux 芥末；10 g 白巴薩米克醋。橄欖油炒乾蔥；加白酒、魚湯收半；加淡忌廉、芥末煮約 10 分鐘；鹽、Tabasco、白巴薩米克醋調味。
+· Costra de mostaza：250 g 軟牛油；100 g 日式天婦羅粉（panko）；20 g Meaux 芥末；20 g Dijon 芥末；40 g 蛋白。全部混合調味；小抹刀在魚柳面塗薄層。
+· Otros：50 g 大續隨子；鹽；黑椒；Tabasco；橄欖油。大續隨子 180°C 炸。
+· Acabado：魚柳 200°C grill 焗 5 分鐘（觀察脆皮色）；加熱芹菜根、檸檬丁、續隨子與醬；魚放盤；淋醬與配菜；加炸續隨子。
+
+Pintada asada con bayas silvestres（4 人份）
+
+· Pintada：2 隻珍珠雞（去毛、燒毛、去內臟、綁好）；50 g 牛油；8 瓣蒜（切半）；20 g 新鮮百里香。雞內外調味；半數蒜與百里香入腔；花生油鍋煎四面金黃；雞胸向上；加牛油與其餘香草；180°C 焗約 10 分鐘，定期淋油（防牛油燒焦）；胸中心 38°C；網架靜置 15 分鐘；腿在同一鍋煮 10 分鐘；胸離火在網架靜置。
+· Salsa de bayas silvestres：200 ml 覆盆子酒；200 ml cassis 酒；200 ml 紅酒；50 ml 覆盆子醋；50 ml 雪利醋；120 g 時令雜莓；馬鈴薯澱粉；60 g 牛油。酒、紅酒、覆盆子醋與一半雜莓煮收至 3/4；細篩過濾；馬鈴薯澱粉水勾芡；加牛油；調味；加少許雪利醋；其餘雜莓留用。
+· Otros：新鮮紅加侖子與藍莓；凍乾覆盆子粉；時令嫩芽；鹽、黑椒、鹽花、現磨黑椒、花生油。
+· Acabado：紅加侖子與藍莓切四；胸與腿放網架，掃雜莓醬；放雜莓；200°C 乾焗 3 分鐘；取出；鹽花、黑椒、四粒雜莓；盤底撒覆盆子粉；每碟放胸與腿；加嫩芽；放三粒水滴狀薯仔與半個洋蔥；旁上熱醬。
+
+---
+
+14. Ángel León（Aponiente）：海洋的甜美
+
+14.1 核心理念
+
+· 目標：整個 tasting menu 由頭到尾維持「海洋一致性」，包括甜品與 petit fours。
+· 2020 年已創造「海洋蜂蜜」；現時重點不再是找新食材，而是將海洋元素應用於食客能辨識的甜品，產生驚喜與趣味。
+· 與 David Gil 合作；團隊包括 Idoia Lacambra；I+D 有生物學家、環境學家、食品科技廚師。
+· 零浪費延伸至甜品：魚鱗、魚皮、macroalgae 做軟糖、microalgae 脂肪；海鰻皮做 mochi（去味只取質地）；魚鱗做朱古力脆片。
+· 只用已知海洋食材的 40%；現研究 canavalia rosea（海豆）。
+
+14.2 食譜（精確）
+
+Bubble tea（4 人份）
+
+· Agua de plátano：125 g 香蕉；1.25 g 抗壞血酸；6.25 g pectinase；6.25 g amylase 鹽。香蕉與抗壞血酸打勻；加酵素；真空 24 小時；用濾布過濾至透明；真空保存。
+· Crema agria：100 g crème fraîche；25 g 水；25 g 淡忌廉；12 g 鹽；0.2 g xantana；200 g 葡萄藤。全部混合；gastro 盤放葡萄藤；上放有孔 gastro 盤；放 crème fraîche 混合物；點燃葡萄藤；兩盤包保鮮紙；煙燻至煙散；真空冷藏。
+· Polvo de cáscara de avellana ahumada：200 g 煙燻榛子殼。磨粉；細篩過濾；加 silicasec 保存。
+· Tapioca negra：100 g 木薯珍珠；70 g mirin；200 g 豉油；水。水煮沸；加木薯珍珠（大量水）；煮 24 分鐘；原水靜置 4 分鐘；瀝乾；入 marinada；真空。
+· Otros：3 g 煙燻鯡魚子；1 g tobikko（飛魚子）；1.5 g 鯡魚子；4 g 木薯珍珠。
+· Emplatado：飲管一端塗煙燻忌廉、沾榛子殼粉；杯中加入香蕉水（約 60 g）、魚子、木薯珍珠。
+· 飲用方式：先嚐煙燻忌廉，再飲「茶」與魚子。
+
+Torta Rosales del Mar
+
+· Polvo de anís：50 g 茴香籽。咖啡磨打粉。
+· Polvo de semillas de cilantro：50 g 芫荽籽。咖啡磨打粉。
+· Mantequilla avellanada：200 g 牛油。142°C 煮；離火；過濾；冷卻；再過濾。
+· Masa de croissant：200 g 生 croissant 麵團；50 g 蛋白；50 g 水；20 g 糖；10 g 榛子牛油；0.2 g xantana；18 g 甜茴香酒；9 g 茴香粉；5 g 芫荽粉。croissant 麵團（解凍）與糖、蛋白入 Thermomix 打碎；牛油溶於水，逐加入打勻；35°C 打；加 xantana 乳化；加茴香酒與香料粉；室溫保存（防牛油凝固）。
+· Cangrejo con anís：2 隻蟹；100 g 水；10 g 雙氧水；50 g 茴香酒。蟹拆肉（只留肢與殼）；殼夾焗紙，浸水＋雙氧水 24 小時（雪櫃）；放入茴香酒真空；Roner 80°C 1 小時；雪櫃冷卻 12 小時。
+· Torta marina：20 g croissant 麵團；1 隻茴香酒蟹。壓板預熱 170°C；蟹去袋、去多餘酒；焗紙放壓板；蟹放上（腳分開）；蓋焗紙；壓 30 秒；開板去紙；加 croissant 麵團；再蓋紙；壓至麵團金黃；取出放密封盒加乾燥劑。
+· Caramelo de anís：100 g fondant；50 g 葡萄糖漿；50 g isomalt；10 g 茴香籽。葡萄糖與 fondant 加熱至 120°C；加 isomalt 加熱至 140°C；倒焗紙冷卻；與茴香籽打粉；密封加乾燥劑。
+· Torta Inés：1 塊 torta marina；20 g 茴香焦糖；10 g 糖；甜茴香酒。焗爐 170°C；torta 放 silpat；撒焦糖與糖；160°C 焗 10 秒至糖溶；噴茴香酒（勿過濕）；再焗 2 分鐘至乾；密封加乾燥劑。
+· Presentación：盒內墊紙；放 torta；包起；蓋上。
+
+Otolito de corvina
+
+· Praliné à l'ancienne de nuez de macadamia 80%：800 g 夏威夷果；100 g 糖；3 g 鹽；35 g 牛油；5 g 雲呢拿。夏威夷果 150°C 烤 15 分鐘至金黃；乾鍋煮焦糖；加牛油 deglaze；加鹽、雲呢拿；倒焗紙冷卻；冷凍；與焦糖入 Robot Coupe 打（避免過熱）至出油、濃稠 praliné。
+· Nougatine de macadamia：150 g 糖；50 g 葡萄糖；50 g 牛奶；125 g 牛油；3 g NH 果膠；150 g 夏威夷果。夏威夷果 150°C 烤 15 分鐘；冷卻切小；牛奶、牛油、葡萄糖加熱至 45°C；糖與果膠混合加入；升至 106°C；加夏威夷果；夾兩片矽膠墊擀平；冷凍；170°C 焗 12 分鐘；冷卻弄碎。
+· Gianduja de macadamia：810 g 上述 80% praliné；300 g 可可脂；300 g 焦糖白朱古力（Dulcey）；70 g nougatine。朱古力與可可脂融化；與 praliné、nougatine 混合。
+· Pasta de almendra salada：500 g 杏仁；葵花油；鹽。杏仁冷油下鍋，不斷攪拌炸至金黃；瀝油；撒鹽；入 conchadora 12 小時成杏仁醬。
+· Relleno del otolito：200 g macadamia gianduja；50 g 鹹杏仁醬。打勻；入擠袋。
+· Cobertura de manitol：12.5 g 甘露醇；0.5 g 白色色粉。小火融化；塗模（otolito 模）；倒出多餘；冷卻。
+· Caramelo mou de chaeto：190 g 糖；165 g 淡忌廉；20 g 葡萄糖漿；0.4 g 小蘇打；2 g 鹽；40 g 牛油；5 g 浮游生物。淡忌廉與 80 g 糖、葡萄糖、小蘇打、鹽煮沸；其餘 80 g 糖煮焦糖至 100°C；小心加熱忌廉；加熱至 100°C；加牛油；冷卻；加浮游生物乳化。
+· Montaje：擠袋將 macadamia 杏仁餡填模一半；放 mou 焦糖；再填滿；冷卻；調溫白朱古力（38°C–24°C–28°C）封模；冷卻脫模；冷藏；食用前回溫。
+
+Uva de manzana y manzanilla
+
+· Base de alginato：1 L 水；5 g 海藻酸鈉。打勻；冷藏靜置水合。
+· Base de las esferas：100 g 蘋果肉；80 g 蒸發洋甘菊；20 g 洋甘菊；2 g 葡萄糖酸內酯。80 g 洋甘菊入減壓蒸餾器蒸發酒精；全部混合打勻；真空去泡；靜置。
+· Esferas：200 g 上述 base；500 g alginato base；400 g 糖；洋甘菊；百香果籽。百香果籽洗淨去肉；base 入圓模，放幾粒百香果籽；冷凍；alginato 加熱至約 70°C；不斷攪拌加入冷凍球；每面約 2 分鐘；取出清水洗；糖中醃 1 小時；用水輔助取出；抹乾；脫水機 1 小時（不時檢查）；至葡萄乾狀；浸洋甘菊保存至出餐。
+· Marshmallow de levadura：75 g 巴氏殺菌蛋白；3 g 蛋白粉；130 g 水；150 g 糖；15 g 葡萄糖漿；100 g 洋甘菊；5 片明膠片；12 g 乾酵母（脫水機乾燥）。蛋白與蛋白粉入 KitchenAid 中速打發；同時 130 g 水、糖、葡萄糖煮至 118°C；稍降泡；倒入半打發蛋白繼續打；加熱 100 g 洋甘菊溶解泡好的明膠；KitchenAid 混合物冷卻後加入明膠洋甘菊液；再打至體積倍增；撒乾酵母拌勻；入擠袋擠模；急速冷卻脫模；裝飾紫檜木花。
+
+---
+
+15. 附錄：其他主廚與產業資訊（摘要）
+
+15.1 其他主廚理念
+
+· Andrew Wong：Dim Sum 無界限；尊重傳統但不受文化框限；與 Albert Adrià 合作後更確信此點。
+· Junghyun Park：韓國發酵、醬油層次、海鮮；Atomix 14 座位、12 道菜。
+· Joel Castanyé：水果為主；需 refractometer、質地計；與農民直接對話；未來 16 種果樹花園。
+· Alejandro Chamorro：厄瓜多爾生物多樣性；「Purismo」；零浪費；視覺呈現地貌幾何與色彩。
+· Lara Roguez：FAO 27 區、單一供應商、航海日誌菜單；甲殼殼餐具；魚鰾當牛肚；omakase 彈性。
+· Sergio Bastard：salmueria 副產品、halófilas 花園、吧枱三組小食（海藻、Tudanca 牛、鯷魚）。
+· Michael van der Kroft：複雜不複雜化；甜鹹同一邏輯；溫室食材；荷蘭尚無明確國家菜系。
+· Lydia del Olmo & Xosé Magalhães：Ceibe＝自由；開放廚房；傳統致敬（cocido）；供應商關係。
+· Albert Boronat：Pâté en Croûte 2018 世界第四；Bocuse d'Or 西班牙代表；於 Hofmann 學校教學。
+· Franck Giovannini：Crissier 30 年三星、四位主廚；每年約 10 道歷史菜；蔬菜為重點；無分子料理。
+· Ángel León：海洋一致性由頭到尾；海洋蜂蜜 2020；I+D 團隊；canavalia rosea 研究。
+
+15.2 產業動態（Actualidad）
+
+· Concurso Cocinero del Año（Alimentaria&Hostelco，2024 年 3 月 18–21 日）：6 位決賽者，6 套完整菜單（前菜、主菜、甜品），成本 ≤35 歐元/人。
+· The Best Dessert'23：Mar Ibáñez（19 歲，Hisop 甜品主廚）以「Shiso, almendra y pepino」及「Komuntu 80%, cep y vinagre」奪冠；同時獲 Sosa 最佳創意甜品獎；Valrhona 最佳朱古力甜品獎：Alberto Montes（Atrio）「Cacao, plátano y especias」；Martín Berasategui 獲 Pierre Gagnaire 獎。
+· Spora（Rasmus Munk，哥本哈根）：1,000 m² 食品創新中心；重點：食品工業副產品回收、多樣蛋白質來源；初始投資 150 萬美元（Claus & Bente Christiansen）。
+· so cool.. magazine：Books for Chefs 新國際雪糕雜誌；年刊、英文；第一期 306 頁、20 篇文章、23 位專業人士。
+· Disfrutar Vol. 2（2018–2020）：96 道食譜；部分附 QR 影片；兩本書（理念＋食譜檔案）。
+· Pucela Roll（Teo Rodríguez，Trasto，Valladolid）：西班牙最佳 tapas 2023；酥皮捲（200°C 焗 16 分鐘）；羊肉真空 70°C 18 小時；與 kare raisu 混合；填餡；淋 demi-glace；裹開心果。
+· Chef Balfegó 2023：Alberto Montes（Atrio）奪冠；菜式：「Secuencias del Atún rojo Balfegó: España y Japón」及「Pithivier de morillo de atún rojo Balfegó, micuit y jugo de sus espinas」。
+· MAE（Germán Espinosa & Diego Mondragón，巴塞隆拿）：前 Racó d'en Freixa 址；「sincretismo gastronómico」（地中海＋加勒比）；12 道菜。
+· H&T Salón（Málaga，2024 年 2 月 5–7 日）：主講包括 Hermanos Torres、Iván Cerdeño、Cristóbal Muñoz、Sergio Bastard、Carito Lourenço & Germán Carrizo、Iolanda Bustos、Juanlu Fernández；Main Stage、Kitchen Lab、Sala de catas；H&T Awards、Mejores Vinos、Sabor a Málaga。​
+
 以下為《PORN BURGER》（Mathew Ramsey, 2016）
 
 ---
