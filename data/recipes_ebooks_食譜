@@ -1,0 +1,3318 @@
+
+Pollen Street Social（Jason Atherton）核心知識庫
+
+用途：可直接寫入 GitHub，作為 Poe AI 機械人的結構化知識底稿。
+原則：材料份量、比例、溫度、時間盡量保留原書單位（g、ml、°C、分鐘、小時、%）；做法只保留核心邏輯與關鍵手法；OCR 缺標題或原文拼寫異常會標註。
+語言：繁體中文；菜名保留英文以便檢索。
+
+---
+
+1. 全書最核心的底層邏輯
+
+1.1 核心理念
+
+· 「Contemporary Mayfair」去形式化餐飲：以精準法式技術處理英國季節食材，呈現「社會性、可親近、但極高完成度」的 Michelin 級餐飲。
+· 食材溯源優先：海鮮、肉類、蛋、蔬菜、野味、芝士皆強調供應商、季節性、永續與福利；菜單隨捕撈/收成/天氣調整。
+· 味道結構：鹹鮮、酸度、油脂、甜味、苦味、發酵味、煙燻味、脆/滑/泡/冰多層次並置；常用酸（醋、檸檬、yuzu、verjus、pickling liquid）平衡濃郁高湯與奶油。
+· 餐廳標準化：大量使用真空、sous vide、脫水、凝膠、iSi 泡沫、澄清高湯、預製組件，確保出餐穩定與精準。
+
+1.2 關鍵科學/技術原理
+
+· Sous vide 低溫慢煮：以精確水溫控制蛋白質變性與膠原轉化；肉類常見 57–85°C，魚類 58°C，蛋 62°C，內臟/鵝肝 65°C，蔬菜/根莖 85°C。
+· 凝膠系統：agar（熱可逆、脆凝）、gelatine（柔滑）、gellan（懸浮/流體凝膠）、xanthan（增稠/穩定）、pectin X58（果膠凝）、gel espressa（即溶凝膠）；常用於蓉、果凍、泡沫、流体凝膠。
+· 泡沫/空氣：iSi whipper（2–3 canisters）、Sosa ProEspuma Cold、agar/gelatine 穩定；用於 Parmesan foam、buttermilk foam、tomato foam。
+· 乳化：奶油/橄欖油/高湯/蛋黃乳化；Tarragon Mayonnaise、Seaweed Butter Sauce、Olive Oil Mash。
+· 澄清：egg white raft（蛋白筏）吸附雜質；muslin 過濾；consommé。
+· 脫水/粉末：75°C 脫水蔬菜/皮/菇/海藻；打粉用於撒粉、脆片、調味。
+· 鹽漬/醃漬/發酵：Salt Cure、Meat Brine、Pickling Liquid、Salt Pickling Liquid；滲透脫水、保色、增味。
+· 巧克力調溫：Valrhona 70% 常見 46–49°C → 27°C → 31°C；用於 discs、bon bons。
+· 糖藝：Honeycomb 155°C；caramel 深 golden/terracotta；糖漿 70–80°C。
+· 高湯濃縮：Maillard 褐變、長時間 simmer、reduce by half；Beef/Duck/Game/Lamb/Veal/Chicken/Fish stock。
+
+1.3 數據使用規則
+
+· 所有溫度保留原書格式，例如 160°C/140°C fan/Gas Mark 3。
+· 所有時間保留「分鐘/小時/過夜」。
+· 材料份量以原書為準；原文「適量/少許」保留為「適量」。
+· 比例保留，例如 aubergine purée : miso = 2:1；Parmesan rice 用 700ml langoustine stock。
+
+---
+
+2. Canapés
+
+2.1 'Fairy Cakes' with pickled cucumber and dill & spinach cream
+
+· 材料數據：甜粟米鬆餅：雞蛋 4 隻、caster sugar 100g、plain flour 200g、fine sea salt 1/2 茶匙、baking powder 1/2 茶匙、新鮮甜粟米粒 75g、extra virgin olive oil 140ml。醃青瓜：小青瓜 1 條、Salt Pickling Liquid 50ml、Maldon sea salt；真空醃 4 小時；青瓜皮 75°C 脫水 3 小時。蒔蘿菠菜忌廉：蒔蘿 2 束約 200g 葉、已燙大葉菠菜 250g、extra virgin olive oil 25ml、double cream 250ml、鹽；拌入約 50ml 蒔蘿菠菜蓉。組裝：Chive & Dill Oil、Ossetra caviar 1 小罐 30g。
+· 核心做法：蛋糖打至淺白蓬鬆；分 2 次拌入粉類；拌入粟米與橄欖油；靜置 10 分鐘；160°C/140°C fan/GM3 焗約 12 分鐘。青瓜真空醃；皮脫水打粉。忌廉打軟峰，拌入菠菜蒔蘿蓉，星嘴擠花。
+· 用途/備註：一口大小、綠色對比、魚子醬鹹鮮；可預製組件，最後組裝。
+
+2.2 Beetroot & Celeriac Tart with fresh blackberries
+
+· 材料數據：MAKES 24。撻殼：plain flour 250g、type '00' flour 65g、fine sea salt 1 茶匙、unsalted butter 155g 軟化、百里香 1 枝葉、雞蛋 1 隻、蛋黃 1 隻、冷水 25ml。餡：紫色甜菜根 2 個去皮、蒜 1 瓣、百里香、牛油、¼ celeriac、olive oil、blackberry vinegar、鹽胡椒；甜菜根真空 85°C 8 小時；黑莓 24 粒。焗 160°C/140°C fan/GM2 15–16 分鐘，去豆再焗 3–4 分鐘。
+· 核心做法：粉+牛油搓沙；加蛋液成糰；雪 1 小時；擀 2mm；8–9cm 圓模；盲焗。甜菜根 sous vide；celeriac 煎 10–12 分鐘；混合打滑；加黑莓醋；過篩；擠入撻殼，放黑莓。
+· 用途/備註：甜菜根土味以黑莓醋提酸；可提前製餡。
+
+2.3 Smoked Salmon
+
+· 材料數據：crème fraîche 200ml、檸檬皮/汁 2 個、rye bread 1 條、full-fat cream cheese 280g、long-sliced smoked salmon 1 份、keta salmon roe 100g、鹽胡椒、蒔蘿。crème fraîche 懸掛瀝水 6 小時/過夜；rye 切 5.5mm；可切 5cm×2cm 手指或 3cm 圓片。
+· 核心做法：檸檬皮汁拌入瀝乾 crème fraîche；麵包塗 cream cheese；鋪煙三文魚；擠檸檬忌廉小點；放魚子；蒔蘿裝飾。
+· 用途/備註：經典冷盤 canapé；重點是瀝水令質地挺立。
+
+2.4 New Forest Mushroom Tea with Parmesan foam and cep powder
+
+· 材料數據：SERVES 8–10。蘑菇茶：flat mushrooms 500g、button mushrooms 500g、olive oil、mirepoix 1.5kg（洋蔥 1、西芹 2、韭葱 1、紅蘿蔔 2 切丁）、Chicken Stock 2.5L、百里香約 50g、dried ceps 100g、Madeira 500ml、egg whites 250ml 輕打、white soy sauce 約 50ml、鹽胡椒。Parmesan foam：banana shallot 1、Parmesan 皮、dry white wine 125ml、double cream 500ml、whole milk 2L、gel espressa 2g、agar agar 5.5g。組裝：現磨 Parmesan 1–2 湯匙、cep powder。
+· 核心做法：菇 180°C/160°C fan/GM4 烤 45 分鐘；mirepoix 炒軟；加 stock、百里香、ceps、Madeira 煮 5–6 小時；降溫 40°C；蛋白筏澄清；white soy 調味。Parmesan 液煮至 80°C 加 gel/agar；冷卻；iSi 3 canisters。杯中先放泡沫與 cep powder，席前倒茶。
+· 用途/備註：澄清湯技術；蛋白筏不可壓破。
+
+2.5 'Fish & Chips' with taramasalata and salt & vinegar powder
+
+· 材料數據：MAKES 30。Confit potato 'chips'：clarified butter 1kg、大 chipping potatoes 4 個、vegetable oil、鹽胡椒；牛油 160°C，薯絲炸 5–8 分鐘；瀝 10 分鐘；壓 2cm；雪 ≥1 小時；切 5cm×2cm×2cm；180°C 炸。Taramasalata：white bread 4 片、smoked cod's roe 225g、蒜 1/2 瓣、whole milk 600ml、vegetable oil 500ml、檸檬汁。Salt & vinegar powder：malt vinegar powder 100g、fine sea salt 20g。
+· 核心做法：薯絲牛油煮後壓實冷藏；切條炸脆；魚子醬薯泥乳化；粉末混合。每條擠 3 點 taramasalata，放 bronze fennel。
+· 用途/備註：英式幽默 canapé；重點壓實與雙重質地。
+
+2.6 Foie Gras Eccles Cake with poppy seed & almond crumb
+
+· 材料數據：MAKES ABOUT 20。Pastry：plain flour 撒粉、puff pastry 200g；切 8cm×5cm。Stuffing：foie gras 200g 切碎、minced pork shoulder 200g、minced lardo 50g、sultanas 50g 泡軟、Cognac 50ml、juniper berries 2g 壓碎、蛋黃 4 隻、鹽胡椒；每球約 25g。Crumb：black poppy seeds 1 湯匙、chopped almonds 1 茶匙、dried clementine peel 1 茶匙、dried apricot 1 茶匙、百里香 8 枝葉。焗 180°C/160°C fan/GM4 約 12 分鐘。
+· 核心做法：酥皮擀 3mm 雪；餡拌勻；包球；蛋液刷 3 次並冷藏；撒 crumb；焗至金黃。
+· 用途/備註：甜香料與鵝肝脂香；可提前冷凍。
+
+2.7 Roasted Artichoke Skins with artichoke ice cream
+
+· 材料數據：SERVES 8–10。Baked artichokes：white-skin Jerusalem artichokes 500g、蒜 2 瓣、百里香、olive oil、Maldon salt、vegetable oil；150°C/130°C fan/GM2 焗約 1 小時；皮 75°C 脫水；160°C 炸 1–2 分鐘。Ice cream：whole milk 500ml、蛋黃 2、caster sugar 75g、maltodextrin 50g、artichoke mash、fine sea salt 2g、Parmesan 50g（36 個月）；牛奶 50°C，custard 70°C 10 分鐘；churn。組裝：hazelnuts、truffle。
+· 核心做法：菊芋焗軟；肉打蓉；皮脫水炸脆；雪糕以 custard 基底加菊芋蓉與 Parmesan；最後刨榛子與松露。
+· 用途/備註：甜鹹、脆滑對比；皮脆片可預製。
+
+---
+
+3. Starters
+
+3.1 Lincolnshire Smoked Eel with buttermilk, beetroot and 'jellied eel'
+
+· 材料數據：SERVES 4–6。Reduction：smoked eel bones 1kg、olive oil、洋蔥 1、fennel 1 球、西芹 1、韭葱 1、蒜 2、coriander seeds 1 茶匙、fennel seeds 1 茶匙、dry white wine 200ml、Fish Stock 4L、beetroot juice 1L；煮 2 小時；減至約 1L，加甜菜汁煮至糖漿。Jellied eel：gelatine 2 片、eel stock 500ml、shallot 1、Granny Smith 蘋果 1、蒔蘿；倒 4–6 矽膠模雪至凝固。Buttermilk foam：buttermilk 500ml、檸檬汁 1、Maldon salt 1g、Sosa ProEspuma Cold 50g、olive oil 4 茶匙；iSi 2 canisters。Buttermilk & horseradish purée：buttermilk 250ml、horseradish sauce 1 茶匙、agar 7g、檸檬汁、鹽；70°C，凝固後打蓉。Smoked fish skin powder：cod skin 1 面、smoked eel skin 1 面；120°C/100°C fan/GM1/2 烤 30 分鐘；脫水過夜；打粉。
+· 核心做法：魚骨煎香；蔬菜炒；酒 deglaze；stock 煮 2 小時；冷卻過濾；減濃；甜菜汁調色。Jellied eel 用 gelatine 凝固。Buttermilk 泡沫與辣根蓉分開。魚皮烤脆脫水打粉。
+· 用途/備註：煙鰻、甜菜、buttermilk 酸度平衡；「jellied eel」為英式傳統轉譯。
+
+3.2 Pressed Norfolk Quail & Duck Liver with braised quail taco, cep puree and summer vegetables
+
+· 材料數據：SERVES 4。Pressed：去骨去皮鵪鶉胸 8 塊、Meat Brine 100ml、牛油、brandy 150ml、Jerez vinegar 50ml、fine sea salt 2.5 茶匙、caster sugar 1 茶匙、pink salt 3/4 茶匙、white pepper 1/2 茶匙、grade A foie gras 300g、Perigord truffle 80g。鵪鶉胸 sous vide 57°C 45 分鐘；鵝肝醃後 sous vide 65°C 10 分鐘；壓成 ballotine。Quail taco：鵪鶉腿 8、duck fat 200g、Mushroom Purée 2 湯匙、pan-roasted wild mushrooms 100g、reduced Pigeon Sauce 2 湯匙、Romaine 4 葉、truffle、cep purée、Lettuce & Seaweed Powder；腿 confit 約 3 小時。Cep purée：butter 50g、fresh ceps 250g、百里香、蒜 1、Chicken Stock 75ml、Jerez vinegar 1 湯匙。Summer vegetables：baby carrots、baby fennel、baby leeks、truffle trimmings、pigeon sauce；燙 2 分鐘切 rondelles。
+· 核心做法：鵪鶉胸鹽水 1 小時；sous vide；鵝肝去脈、醃、sous vide；鵝肝與鵪鶉胸壓卷。腿 confit 撕碎拌蘑菇蓉、pigeon sauce；生菜做成 taco。Cep 煎香打蓉。
+· 用途/備註：多組件壓縮；松露與野味連接。
+
+3.3 Saddle of Rabbit with crispy rabbit leg croquettes, mixed beans, bitter leaves and truffle dressing
+
+· 材料數據：SERVES 4。Ballotine：大兔鞍 2 個或小 4 個去骨、Parma ham 10–15 片、meat glue、olive oil；sous vide 62°C 25 分鐘；180°C/160°C fan/GM4 烤 2 分鐘。Croquettes：兔腿 4、Salt Cure 100g、olive oil、Rabbit Sauce 100ml、tarragon/parsley、plain flour 100g、beaten eggs 100g、Japanese breadcrumbs 100g、炸油；鹽漬 4 小時；sous vide 85°C 3 小時；撕碎壓 1cm；切 3cm×7cm；180°C 炸 2–3 分鐘。Assembly：mixed beans 約 200g、Truffle Dressing、bitter leaves 100–150g、Tarragon Mayonnaise、foraged herbs、breakfast radishes。
+· 核心做法：兔鞍 Parma ham 卷；sous vide；煎烤。腿鹽漬、sous vide、撕碎、壓實、裹粉炸。豆與苦葉以 truffle dressing 拌。
+· 用途/備註：兔肉兩吃；苦葉與松露油平衡。
+
+3.4 Slow-cooked Heritage Breeds Farm Egg with seaweed crumb, chicken legs and crispy chicken skin
+
+· 材料數據：SERVES 4。Seaweed crumb：Parmesan 125g、sourdough 200g 去邊、sage 25g、炸油、dried fujiko seaweed 25g；Parmesan 160°C/140°C fan/GM3 焗 8–12 分鐘；麵包焗 10–15 分鐘；sage 180°C 炸 1–2 分鐘。Chicken gravy：olive oil、雞翼 1kg、紅蘿蔔 2、洋蔥 1、西芹 1、韭葱 1/4、蒜 1/2 球、tomato paste 30g、dry white wine 250ml、Parmesan 皮、Brown Chicken Stock 1L、Veal Stock 500ml、kombu 1 片、sage 1 枝、百里香 2 枝、檸檬皮 1 個；煮 4 小時；浸漬。Slow-cooked legs：water 1L、fine sea salt 100g、bay 2、百里香 2、檸檬皮 2、去骨雞腿 4（帶皮）；brine 1 小時；sous vide 62°C 4 小時；壓過夜；煎皮。Swede purée：swede 1、butter 200g。Swede & potato discs：swede 1、Pickling Liquid 100ml、Desiree 薯仔 2、butter 100g；2.5mm 圓片。Crispy chicken skins：雞皮 8 片；190°C/170°C fan/GM5 焗 40–45 分鐘。Slow-cooked eggs：大蛋 4 隻，sous vide 62°C 50 分鐘；沸水加熱 1 分鐘。
+· 核心做法：雞翼煎褐；蔬菜炒；酒 deglaze；stock 煮 4 小時；浸漬過濾。雞腿鹽水、sous vide、壓實、煎脆。蛋低溫煮。Swede 打蓉；薯/蕪菁切片煮。組裝撒 seaweed crumb。
+· 用途/備註：英國食材、蛋黃醬汁；重點是 62°C 蛋黃質地。
+
+3.5 Roast Scallops with pommes souffles and caviar sauce
+
+· 材料數據：SERVES 4。Leek & shallot powder：shallots 2、leeks 4 綠色部分；脫水 8–12 小時；打粉。Roast scallops：Orkney 大生帶子 4 隻、olive oil、butter 50g、檸檬汁、鹽胡椒。Potato & leek purée：butter 100g、韭葱白 4、shallots 2、Desiree 薯仔 1、Vegetable Stock 200ml、double cream 100ml。Confit lemon：water 100ml、caster sugar 100g、檸檬 1；糖漿 70°C。Pommes soufflés：vegetable oil 2L、russet 薯仔 2；150°C 炸至結皮，轉 190°C 炸脹；切 5mm。Caviar sauce：Potato & Leek Purée 50ml、Petrossian liquid caviar 50ml。
+· 核心做法：帶子煎香，牛油淋澆。薯仔片雙溫炸。韭葱薯蓉打滑。Caviar sauce 加熱混合。組裝以韭葱粉、confit lemon、pommes soufflés。
+· 用途/備註：雙溫炸薯波是關鍵；帶子勿過熟。
+
+3.6 Pressed Terrine of Guinea Fowl with smoked ham knuckle, port & bacon jam and summer vegetables
+
+· 材料數據：SERVES 8。Ham knuckle layer：smoked ham knuckles 2 個（各 1–1.2kg）、洋蔥 2、紅蘿蔔 1、西芹 1、蒜 1、百里香 2、flat-leaf parsley 25g、grain mustard 1–2 湯匙；煮 4–5 小時；stock 減半；壓 15cm×20cm×3cm。Guinea fowl layer：guinea fowl 2、Meat Brine、蒜 1、百里香 2、duck fat 約 200g、Chicken Gravy 50ml；brine 1 小時；腿 confit 約 2 小時；胸 sous vide 62°C 1 小時；壓同尺寸。Port & bacon jam：red onions 1kg、Alsace smoked bacon 100g、ruby port 750ml、red wine vinegar 50ml；煮 1–1.5 小時；去煙肉；打滑。Leek & mushroom powder：leeks 3、dried ceps 100g；燙 20 秒；75°C 脫水 4 小時；打粉。
+· 核心做法：火腿煮軟拆肉，stock 減濃拌肉；珍珠雞腿 confit、胸 sous vide；兩層壓合；blowtorch 微熱黏合；壓雪。Port jam 煮至黏。組裝切厚片，配 summer vegetables、truffle、baby leaves。
+· 用途/備註：肉凍/terrine 標準化；兩層以熱黏合。
+
+3.7 Braised Broccoli with broccoli puree, seaweed powder and toasted almonds
+
+· 材料數據：SERVES 4。Braised broccoli：broccoli 1kg、butter、Seaweed Powder、Maldon salt；莖切塊燙 2–3 分鐘；牛油鹽水乳化加熱。Seaweed powder：broccoli 葉/修邊、instant dashi 100g、nori 2 片；燙 3 分鐘；脫水 6 小時；打粉。Broccoli puree：broccoli 1kg、double cream 100ml；燙 3–4 分鐘；打蓉。Toasted almonds：butter 250g、flaked almonds 200g。Assembly：Lemon Puree、chopped toasted almonds、nori、wood sorrel、smoked almonds、extra virgin olive oil。
+· 核心做法：西蘭花莖燙後牛油乳化；葉與修邊脫水打粉；花與莖打蓉；杏仁牛油烘香。
+· 用途/備註：零浪費；粉末增加鮮味。
+
+3.8 Tomato Tartare with verjus granita and sourdough croutons
+
+· 材料數據：SERVES 6。Tartare：San Marzano 番茄 12、olive oil 2 茶匙、shallots 2、蒜 1、鹽胡椒。Dressing：light soy 70ml、Tabasco 5 dashes、tomato ketchup 200ml、English mustard 10g、brandy 2 茶匙、Worcestershire 1 湯匙。Verjus granita：Muscat verjus 200ml、water 500ml、caster sugar 50g；凍 4–6 小時。Croutons：sourdough 1/4 條、olive oil；凍 30–45 分鐘；切薄；160°C/140°C fan/GM3 焗 10 分鐘。Assembly：tahini、baby heritage tomatoes 6–8、Black Olive Crumb、mixed herbs、edible flowers。
+· 核心做法：番茄燙 10 秒去皮去籽切 5mm；shallot/蒜炒；番茄煮 15 分鐘；汁減糖漿拌回。Dressing 打勻。Granita 凍刮。Croutons 薄切焗脆。每 3 湯匙 tartare 加 1 茶匙 dressing、1 茶匙 tahini。
+· 用途/備註：番茄水分控制；冷熱對比。
+
+3.9 Onion Squash Soup with white asparagus and sauteed mushrooms
+
+· 材料數據：SERVES 6。Soup：onion squash 2、Vegetable Stock 500ml、Vegetarian Dashi 200ml、plain yoghurt 200ml、鹽胡椒；160°C/140°C fan/GM3 焗約 1 小時；煮 10–15 分鐘；打滑。White asparagus：white asparagus 4、water 250ml、butter 125g、sherry vinegar 1.5 茶匙、white onion 1/2、bay 1、百里香 2、Maldon salt 8g、caster sugar 2 茶匙；煮 3–4 分鐘。Squash balls：butternut squash 1、orange juice 100ml；煮至糖漿。Assembly：Parmesan Foam 500ml、Parmesan、mixed sautéed mushrooms、purple shamrock/sorrel、black truffle。
+· 核心做法：南瓜焗軟連皮打蓉；加 yoghurt 調酸；過篩。白蘆筍以牛油水煮。南瓜球以橙汁 glazed。Parmesan foam 加熱後 iSi 3 canisters。
+· 用途/備註：湯以 foamy 質地；白蘆筍季節性。
+
+---
+
+4. Shellfish
+
+4.1 Dressed Paignton Harbour Crab with crab jelly, bread foam and lemon puree
+
+· 材料數據：SERVES 4–6。Crab jelly：crab shells 1kg、olive oil、洋蔥 1、紅蘿蔔 1、西芹 1.5、fennel 1 小、蒜 2、bay 2、tomato paste 1 湯匙、brandy 100ml、Fish Stock 2.5L、white peppercorns 1 湯匙、egg whites 6、tarragon、agar 2g；澄清；倒 2mm 層。Crab powder：brown crab meat 250g、soy、mirin；凍、刨、脫水 2 小時。Bread foam：sourdough 修邊/皮 250g、balsamic reduction 125ml、olive oil 50ml、百里香 2、蒜 1/2、whole milk 1L、lime；180°C/160°C fan/GM4 焗 10–12 分鐘；煮軟；iSi 2。Dressed crab：white crab meat 500g、mayonnaise、Granny Smith 2、lime。
+· 核心做法：蟹殼煎香；蔬菜炒；brandy deglaze；stock 煮 40 分鐘；冷卻；蛋白筏澄清；agar 凝固。蟹肉拌蛋黃醬、蘋果、青檸。麵包泡沫打滑 iSi。
+· 用途/備註：蟹三吃：jelly、dressed crab、powder；蛋白筏不可壓。
+
+4.2 Fruits of the Sea with oyster ice cream and tomato foam
+
+· 材料數據：SERVES 12。Oyster ice cream：whole milk 1L、double cream 1L、dextrose 300g、蛋黃 15、shucked drained oysters 2.8kg 打蓉、oyster shells 12、oyster leaves。Custard 約 84°C；churn。Tomato foam：vine plum tomatoes 500g、spring water 150ml、shallot 1、caster sugar 1/2 茶匙、basil 2、蒜 2 小片、kombu 1、gelatine 1/4 片、double cream 100ml、extra virgin olive oil；懸掛滴汁；減半；iSi 2。Lettuce & cucumber jelly：green lettuce 125g、cucumber 125g、gelatine 1、pickled cucumber、dill、lobster meat 1–2 claws、Tomato Foam；12 個 90ml 模。Brown crab bisque：crab shells 1kg、紅蘿蔔 4、洋蔥 4、西芹 2、韭葱 1、plum tomatoes 8、蒜 1 球、coriander 1/2 茶匙、star anise 1、clove 1、tomato paste 2 湯匙、brandy 300ml、Fish Stock 1.5L、milk 1L、double cream 500ml、tarragon 4、gelatine 4、white crab 100g、crème fraîche 1 湯匙、lemon、Ossetra caviar 30g；12 個 50ml 模。Raw scallops with jalapeño granita：mooli 1/4、Pickling Liquid、Orkney 大生帶子 2、Wasabi & Yuzu Dressing、queen scallop shells 12、Black Olive Oil、Lemon Purée、sea herbs、Jalapeño Granita。
+· 核心做法：蠔雪糕以 custard 加蠔蓉；番茄泡沫澄清濃縮；生菜青瓜 jelly 以 gelatine 凝固；蟹 bisque 煮 40 分鐘、tarragon 浸、gelatine 凝固。生帶子切丁拌 wasabi yuzu。組裝 6 個兩層海鮮架加碎冰。
+· 用途/備註：共享海鮮塔；冷/冰/泡沫/凝膠多重質地。
+
+4.3 Isle of Mull Langoustine with braised oxtail and Parmesan rice
+
+· 材料數據：SERVES 6。Bisque & tails：extra-large langoustines 6、olive oil、white onion 1、donkey carrot 1、西芹 1、韭葱白 1、蒜 3、lemongrass 1、red chilli 1、ginger 50g、coriander seeds 1 茶匙、fennel seeds 1 茶匙、tomato paste 2 湯匙、brandy 100ml、Fish Stock 1L、milk 1L、double cream 500ml；尾燙 10 秒冰鎮；殼煎香；煮 20 分鐘；減半。Oxtail：oxtail 1.5kg、洋蔥 2、紅蘿蔔 2、蒜 1 球、red wine 500ml、Veal Stock 1L、Brown Chicken Stock 1L、百里香 2、bay 2；150°C/130°C fan/GM2 燉 5–6 小時；撕碎；汁減 glaze。Langoustine stock：heads/shells 1kg、fennel 2、洋蔥 2、韭葱 1、西芹 1、bay 1、fennel seeds 1 湯匙、coriander seeds 1 湯匙、water 2L、kombu 2、Parmesan 皮、bonito 100g；煮 1 小時；50°C 浸。Parmesan rice：shallots 2、Acquerello risotto rice 250g、dry white wine 100ml、36 個月 Parmesan 200g、langoustine stock 700ml；risotto 約 15 分鐘。
+· 核心做法：龍蝦尾燙後冰鎮剝殼；殼熬 bisque；牛尾燉軟撕碎；龍蝦殼熬 stock；Parmesan risotto 逐次加 stock。組裝 risotto、牛尾、龍蝦尾、bisque 泡沫。
+· 用途/備註：甲殼類雙高湯；risotto 用龍蝦 stock 取代一般 stock。
+
+4.4 Raw Orkney Scallop with pear puree, pickled turnip and jalapeño granita
+
+· 材料數據：SERVES 4。Jalapeño granita：caster sugar 125g、cold water 125ml、fresh lime juice 300ml、apple juice 150ml、cucumber juice 50ml、jalapeño 60g 去籽切丁；凍。Pear puree：ready pear puree 1kg、agar 2g；煮沸；倒盤速冷；打滑。Wasabi & yuzu dressing：olive oil 100ml、蒜 2、yuzu juice 60ml、light soy 50ml、white soy 50ml、fresh wasabi 20g。Pickled turnip：Tokyo turnips 2 或 kohlrabi 1、Pickling Liquid；5cm 圓片醃 10 分鐘。Raw scallops：Orkney 大生帶子 8–10；每隻橫切 3–4 片，共 28 片；拌 dressing 醃數分鐘。
+· 核心做法：Granita 打滑過篩凍硬；梨蓉 agar 凝固；帶子切片拌 wasabi yuzu；蘿蔔片醃。組裝點油、帶子、蘿蔔、梨蓉、海草、bronze fennel。
+· 用途/備註：生帶子厚度一致；granita 用叉刮。
+
+4.5 Roast Orkney Scallops with artichoke & black olive soup and lemon, artichoke & celery brunoise
+
+· 材料數據：SERVES 4。Roast scallops：Orkney 大生帶子 4、olive oil、butter 50g、檸檬汁、鹽胡椒。Soup：Jerusalem artichokes 1kg、檸檬汁、olive oil、shallots 3、蒜 2、dry white wine 200ml、Fish Stock 200ml、Chicken Stock 500ml、lemon thyme 2、double cream 100ml、Black Olive Oil。Brunoise：檸檬汁、Jerusalem artichoke 1、西芹 1、preserved lemons 2（只用皮）、olive oil；酸水；切細丁。Assembly：Lemon Purée、dehydrated black olives 30g 切碎、celery leaves。
+· 核心做法：帶子煎香淋牛油。菊芋湯炒香打滑，加忌廉打泡。Brunoise 以酸水防褐，微暖。組裝湯與帶子分開。
+· 用途/備註：菊芋易氧化；酸水關鍵。
+
+4.6 Paignton Harbour Crab with crab, yoghurt & sake sauce and mixed radishes
+
+· 材料數據：SERVES 6。Sauce：crab shells 500g、紅蘿蔔 2、洋蔥 2、西芹 1、韭葱白 1、蒜 1/2 球、plum tomatoes 4、coriander seeds、star anise 1、clove 1、tomato paste 1 湯匙、brandy 150ml、Fish Stock 600ml、whole milk 500ml、double cream 250ml、tarragon 2、full-fat yoghurt 250g、toasted almonds 200g、white grapes、ginger 20g、lime、dry mineral sake；煮 40 分鐘；blend。Crab meat：cooked crab claw meat 500g、crème fraîche 100g、olive oil 50ml、lime。Mixed radishes：black mooli 1、watermelon radish 1、blue meat radish 1、Tokyo turnip 1、Lemon Puree、Crab Powder、lime zest；3cm 圓片。
+· 核心做法：蟹殼煎香；蔬菜炒；brandy；stock 煮 40 分鐘；加 yoghurt、杏仁、葡萄、薑打滑；調 sake/青檸。蟹肉拌 crème fraîche。蘿蔔片冰鎮脆化，擠檸檬蓉、撒蟹粉。
+· 用途/備註：醬汁以 yoghurt/杏仁增稠；蘿蔔遮蓋蟹肉。
+
+4.7 St Austell Bay Lobster with yuzu jam and savoury seaweed custard
+
+· 材料數據：SERVES 4。Yuzu jam：lemon zest 50g、water 500ml、caster sugar 150g、saffron、agar 9g、yuzu juice 130ml；凝固打滑。Pine salt：dehydrated pine needles 50g、Maldon salt 25g；打粉。Savoury seaweed custard：eggs 3、Kombu Dashi 500ml；8 個 100ml 碗，100°C 蒸 9–10 分鐘。Lobster jelly：Lobster Consommé 350ml、gelatine 2；凝固。Lobster tartare：cooked lobster meat 400g、lime zest/juice、olive oil。Assembly：Ossetra caviar 30g、lime zest、cooked lobster tails 4 對切烤。
+· 核心做法：yuzu jam agar 凝固；蛋液與 dashi 蒸成茶碗蒸；龍蝦清湯 gelatine 淋面；龍蝦肉切碎調味；組裝以 ring cutter 成型，撒 pine salt、魚子醬。
+· 用途/備註：日式茶碗蒸技術；清湯 jelly 與 custard 分層。
+
+4.8 St Austell Bay Mussel Purée with braised white asparagus and pickled shimeji mushrooms
+
+· 材料數據：SERVES 4。Pickled shimeji：Moscatel vinegar 250g、white wine vinegar 200g、caster sugar 200g、star anise 2、cinnamon 2、cloves 6、mustard seeds 2 茶匙、shimeji 1kg；醃數天。Mussel purée：mussels 4kg、西芹 2、紅蘿蔔 2、shallots 2、dry white wine 400ml、white soy 100ml、xanthan 4g；蒸開；汁減至 50ml；取 500g 肉打蓉。Mussel powder：purée 200g 凍、刨、脫水、打粉。Braised white asparagus：white asparagus 8、water 1L、butter 500g、sherry vinegar 2 湯匙、white onion 1、bay 4、百里香 8、Maldon salt 30g、caster sugar 30g；煮 2–3 分鐘。Dashi-braised king oyster：king oyster 4、red miso 2 湯匙、Kombu Dashi 400ml、xanthan 2g；2–3cm 圓片。Assembly：button mushrooms、bronze fennel、sea lettuce、sea purslane、sorrel、salty fingers。
+· 核心做法：青口蒸開取肉；汁減濃；xanthan 穩定打蓉；一半脫水打粉。白蘆筍牛油水煮。杏鮑菇 dashi/miso glaze。
+· 用途/備註：青口雙質地：蓉與粉；xanthan 用量極少。
+
+---
+
+5. Fish
+
+5.1 頁141 John Dory with Tokyo turnip, Paignton Harbour crab reduction and olive oil mash
+
+原文材料寫 4 x 120g pieces of sea bass fillet，但標題為 John Dory；保留原文矛盾。
+
+· 材料數據：SERVES 4。魚：4×120g 魚柳帶皮、Kombu Brine 750ml、olive oil；brine 10 分鐘；sous vide 58°C 8 分鐘。Crab reduction：大蟹 4、olive oil、white onion 1、carrot 1、蒜 3、韭葱白 1、西芹 1、lemongrass 1、red chilli 1、ginger 50g、coriander seeds 1 茶匙、fennel seeds 1 茶匙、tomato paste 2 湯匙、brandy 100ml、Fish Stock 1L、milk 1L、double cream 500ml；煮 20 分鐘；減半。Tokyo turnip：大 Tokyo turnip 約 150g、butter 100g、Fish Stock 100g、lemon thyme、檸檬皮/汁 1；螺旋切，燙 10 秒。Broccoli dashi powder：broccoli 莖 200g、dashi powder 100g、nori 2；燙 20 秒；脫水 6 小時；打粉。Assembly：Granny Smith 薄片、Tokyo turnip 薄片、Pickling Liquid、Arbequina olive oil、crab claw meat、Crab Powder、Olive Oil Mash。
+· 核心做法：魚 brine 後 sous vide。蟹殼熬 reduction。蘿蔔螺旋燙。蘋果/蘿蔔片快速醃 1 分鐘。組裝魚、蟹肉、脆片、蟹汁、olive oil mash。
+· 用途/備註：低溫魚與濃蟹汁；OCR 魚種矛盾需標註。
+
+5.2 Looe Day Boat Turbot with wild garlic & cockle velouté and cauliflower, yoghurt purée
+
+· 材料數據：SERVES 4。Velouté：蒜 1 球、olive oil 100ml、洋蔥 1、cockles 500g、dry white wine 100ml、picked wild garlic 500g、鹽胡椒；蒜 confit 40–45 分鐘；cockles 蒸 2 分鐘；wild garlic 燙 20 秒；與 cockle stock 打蓉。Cauliflower & yoghurt purée：花椰菜 1、whole milk 250ml、double cream 250ml、full-fat yoghurt 約 500ml 懸掛過夜；煮 10–12 分鐘；等重 yoghurt 拌入。Cauliflower florets：12 朵；燙 2–3 分鐘；牛油煎。Braised girolles：girolles 500g、butter 100g、dry white wine 50ml、Chicken Stock 250ml、百里香。Turbot：4×120g 去皮魚柳、olive oil、butter；皮面煎 2–3 分鐘，翻面 30 秒–1 分鐘。Assembly：woodland sorrel、Lemon & Yoghurt Meringue 8 大片。
+· 核心做法：蜆蒸開取汁；wild garlic 燙後與汁打蓉。花椰菜煮軟打蓉，拌等量瀝水 yoghurt。魚煎至剛熟。組裝 velouté、花椰菜、蜆肉、girolles、meringue 脆片。
+· 用途/備註：綠色 velouté 需冰浴保色；yoghurt 平衡。
+
+
+5.3 Poached South Coast John Dory with caramelised celeriac & chestnut purée, chestnut gnocchi and Périgord truffle sauce
+
+· 材料數據：SERVES 4。Purée：celeriac 1、olive oil、butter 400g、vacuum-packed cooked chestnuts 100g、Chicken Stock 200ml；celeriac 前一晚風乾；煎焦糖；打蓉。John Dory：1 條 2.5–3kg、Kombu Brine、olive oil；魚柳 120–150g；brine 10 分鐘；sous vide 58°C 8 分鐘。Garnishes：raw chestnuts、Perigord truffles；1cm 圓片。Truffle sauce：John Dory bones、shallots 2、chestnut mushrooms 200g、red wine 200ml、Fish Stock 500ml、Veal Stock 300ml、chestnut skins 10（煙燻）、Cabernet Sauvignon vinegar 1 湯匙、black truffle vinegar 50ml、truffle trimmings 100g、extra virgin olive oil 50ml；減至糖漿；truffle paste 拌入。Gnocchi：rock salt、floury potatoes 500g、chestnut flour 100g、type '00' flour 100g、egg 1、olive oil、butter；薯仔 160°C/140°C fan/GM3 焗 45–60 分鐘；20g 麵糰；沸水 2–4 分鐘；煎香。
+· 核心做法：celeriac 風乾後焦糖化；加栗子與 stock 打蓉。魚 brine 後 sous vide。魚骨熬醬，減濃，最後拌松露碎。Gnocchi 薯蓉+兩種粉，輕拌，煮浮後煎。
+· 用途/備註：松露醬以魚骨與栗子皮煙燻；gnocchi 勿過度搓揉。
+
+5.4 Newquay Day Boat Red Mullet with poached Orkney scallops, black olive crumb and bouillabaisse
+
+· 材料數據：SERVES 4。Red mullet：4×120g 紅鯔魚柳帶皮、olive oil、檸檬汁、鹽胡椒；皮面煎 2–3 分鐘，翻面 1 分鐘。Poached scallops：Orkney 大生帶子 4、spinach 200g、sea lettuce 200g、butter 200g 融化、Fish Stock 100ml；菠菜燙 3–4 分鐘；海草牛油打滑；帶子以牛油 stock 煮 1–2 分鐘。Black olive crumb：butter 100g、stale breadcrumbs 100g、dehydrated black olives 100g；牛油炒脆；拌橄欖切碎。Bouillabaisse：fish heads/bones 1kg、shallot 1、fennel 1、carrot 1、celery 1/2、蒜 2、over-ripe plum tomatoes 1kg、saffron、fennel seeds 5g、coriander seeds 5g、star anise 1、dry white wine 250ml、Pernod 100ml、olive oil、tomato paste 1/2 湯匙、cayenne 1/2 茶匙、Fish Stock 1L；魚骨與蔬菜酒醃過夜；煎香；煮 30 分鐘；mouli。Assembly：cucumber 烤、Saffron & Garlic Mash。
+· 核心做法：魚骨蔬菜隔夜醃；煎香；煮 30 分鐘；mouli 增稠。帶子以海草牛油煮。紅鯔煎脆皮。組裝湯、薯蓉、青瓜、黑橄欖脆。
+· 用途/備註：bouillabaisse 以 mouli 取全部風味；帶子勿過熟。
+
+5.5 頁163 魚菜（OCR 標題缺失）with courgette and basil purée, cockle minestrone and trofie pasta
+
+· 材料數據：SERVES 4。Courgette & basil purée：courgettes 4、olive oil、baby spinach 500g、basil 400g、double cream 100ml、Parmesan 50g；blanch；打蓉。Cockle minestrone：cockles 2kg、dry white wine 100ml、olive oil、langoustine/lobster heads and shells 1kg、洋蔥 1、紅蘿蔔 2、西芹 2、蒜 2、韭葱 1/2、espelette pepper 1 茶匙、tomato paste 1 茶匙、courgettes 3、tomatoes 1.5kg 去籽、red peppers 2、Fish Stock 1L、Chicken Stock 1L、tarragon 4、basil 4、cold butter、baby courgettes 4；蜆蒸開；煮 30 分鐘；mouli。Sweetcorn：2 大條；grill 10–15 分鐘。Assembly：魚件、bronze fennel、popcorn shoots、pasta。
+· 核心做法：蜆蒸開取肉與汁；龍蝦殼煎香；蔬菜炒；加 stock 煮 30 分鐘；mouli。翠玉瓜/羅勒蓉冰浴保色。粟米烤後切粒。組裝魚、粟米蜆、蓉、pasta。
+· 用途/備註：OCR 缺魚種與標題；做法核心是蜆汁與龍蝦殼增鮮。
+
+5.6 Long Line-caught Cornish Cod with onion squash purée and squid & seaweed sauce
+
+· 材料數據：SERVES 4。Roast cod：skinless cod centre loin 約 500g、Kombu Brine 約 1.5L、olive oil 200ml、檸檬皮 1、檸檬汁 100ml、soft herbs；brine 40 分鐘；包保鮮紙成圓筒；切 4×120g；煎切面 2 分鐘；200°C/180°C fan/GM6 焗 2 分鐘。Onion squash purée：onion squash 1、蒜 1、百里香、olive oil、butter 100g、Parmesan；160°C/140°C fan/GM3 焗 40 分鐘；打滑。Butternut fondant：butternut 2、butter 100g、Thai fish sauce、shiro dashi；3.5cm 厚、5cm 圓；sous vide 85°C 15 分鐘；煎。Squid & seaweed sauce：onion squash 2、Fish Stock 500ml、shiro dashi 50ml、plain yoghurt 200g、noto ishiri 30ml 或 fish sauce、diced squid 20g、chives 10g、sea lettuce 10g；焗 40 分鐘；煮；打滑。Squid 'rice'：squid 約 2kg、百里香、蒜 1、olive oil；sous vide 63°C 8 分鐘；切細丁。Assembly：blanched sea purslane 100g、Pumpkin & Seaweed Oil。
+· 核心做法：鱈魚 brine 後包圓筒煎焗。南瓜打蓉。牛油南瓜 fondant sous vide 後煎 glaze。魷魚 sous vide 切「米」。醬以南瓜、yoghurt、魷魚醬打滑。
+· 用途/備註：魷魚「飯」是質地錯覺；南瓜雙用法。
+
+5.7 頁174 魚菜（OCR 標題缺失）with goat's cheese & cauliflower purée, Maylor prawns and herb sauce
+
+· 材料數據：SERVES 4。Poached brill：brill 魚柳 4 塊 120–150g、Kombu Brine、olive oil；brine 20 分鐘；sous vide 58°C 15 分鐘。Goat's cheese & cauliflower purée：花椰菜 1/2、whole milk 500ml、double cream 250ml、goat's cheese 100g；煮 4–6 分鐘；打滑。Herb sauce：西芹 4、fennel 2、cucumber 1、Granny Smith 2、spinach 100g、mint 400g、basil 400g；榨汁；Thermomix 80°C 6 分鐘；過濾。Maylor prawns：raw Maylor prawns 24、lime zest 2、plain flour、vegetable oil；12 個蝦頭塞蝦膠；180°C 炸 1–2 分鐘。Assembly：purée、brill、生蝦、炸蝦頭、herb sauce。
+· 核心做法：brill brine 後 sous vide。花椰菜與羊芝士打蓉。香草汁以果汁+香草 80°C 打。蝦頭塞蝦膠炸脆。
+· 用途/備註：香草汁需 muslin 過濾；羊芝士與海鮮少見組合。
+
+5.8 Newlyn Line-caught Sea Bass with shellfish fondue, crushed potatoes and seaweed butter sauce
+
+· 材料數據：SERVES 4。Shellfish fondue：vine tomatoes 10、rosemary 2、百里香 2、olive oil、shallots 2、蒜 2、chopped cooked mussels/cockles/winkles/razor clam 各 4 茶匙、coriander/dill/chives 各 4 茶匙；番茄 150°C/130°C fan/GM2 烤約 1 小時；低火煮 2 小時；打滑。Crushed potatoes：Mayan Gold 500g、Chicken Stock 400ml、butter 200g、百里香、蒜 2、spring onions 2、white crab 100g、dill、coriander、lemon zest。Seaweed butter sauce：spinach 200g、sea lettuce 200g、butter 200g 融化、Fish Stock 100ml；菠菜燙 4 分鐘；打滑。Sea bass：4×120g 帶皮鱸魚柳、olive oil、Lemon Oil；皮面煎 2–3 分鐘，翻面 <1 分鐘。Assembly：crab claw meat、Crab Reduction foam。
+· 核心做法：番茄烤後慢煮成 fondue；海草牛油打滑；薯仔 stock 煮後輕壓；鱸魚煎脆皮。組裝 fondue、魚、薯、蟹鉗、蟹汁泡沫。
+· 用途/備註：薯仔保留顆粒；海草牛油可預製。
+
+6. Meat & Game
+
+6.1 Suckling Pig with red cabbage purée, stuffed dates and lardo-roasted potatoes
+
+· 材料數據：SERVES 4。Rack & belly：8 骨 suckling pig rack 約 1kg、去骨 suckling pig belly 約 1kg 帶皮、pink curing salt 30g、fine sea salt 70g、cloves 7、百里香、蒜 1、olive oil；belly 鹽漬過夜；sous vide 85°C 約 10 小時；壓；煎。Pork sauce：pork bones 1kg、洋蔥 1、韭葱 1、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、streaky bacon 250g、dry white wine 200ml、Veal Stock 1L、Chicken Stock 500ml、lemon thyme 2、lime leaves；煮 4 小時。Red cabbage purée：red cabbage 1/2、Braeburn 蘋果 2、sultanas 100g、cinnamon 1、star anise 1、clove 1、red wine 1L、port 1L、Cabernet vinegar 50ml、butter 125g；煮；打蓉。Braised chicory：red chicory 2、apple juice 250ml、ascorbic acid 1 茶匙、百里香；sous vide 88°C 2 小時；煎焦糖。Stuffed dates：Medjool dates 4、shallot 1、Italian lardo 250g、Granny Smith 1、marjoram 2、Pickling Liquid；塞餡；glaze。Cabbage in seaweed butter：Savoy 1、Seaweed Butter Sauce。Lardo-roasted potatoes：Italian lardo 500g、baby Mid potatoes 500g、butter 100g、百里香、蒜 1；煎烤。
+· 核心做法：豬腩鹽漬、sous vide、壓、煎脆。豬骨熬醬。紫椰菜煮至乾，酒醋，打蓉。菊苣 sous vide 後煎。棗塞 lardo 餡，pickling glaze。薯仔以 lardo 油煎。
+· 用途/備註：豬腩與 rack 兩種質地；紫椰菜酸甜平衡。
+
+6.2 Winter Lake District Lamb with lamb hotpot and beetroot & blackcurrant puree
+
+· 材料數據：SERVES 4。Lamb loin & fillet：去骨 short saddles 2 個各約 475g、meat glue、olive oil、rosemary、butter；loin 包 fat；蒸 5 分鐘；200°C/180°C fan/GM6 烤 2 分鐘；fillet 煎 2 分鐘。Hotpot：gros sel 100g、百里香、蒜 1、lemon zest 20g、去骨 lamb shoulder 2kg、olive oil、lamb fat 200g、紅蘿蔔 4、turnips 4、silverskin onions 500g、Lamb Sauce 1L、Desiree 薯仔 2、clarified butter 125g；鹽漬 4 小時；sous vide 84°C 8–10 小時；切 2cm；薯片 3cm；160°C/140°C fan/GM3 焗 15 分鐘。Beetroot-stained cabbage：Hispi 1、beetroot juice 1 瓶；煮 4–5 分鐘。Beetroot & blackcurrant purée：紫甜菜根 7、blackcurrants 250g、red wine 150ml、port 150ml、raspberry vinegar 50ml；煮至果醬；打蓉。Purple carrots：baby purple carrots 2 束、butter；燙 3 分鐘。Assembly：bull's blood leaves、Vinaigrette、Mint Sauce。
+· 核心做法：羊鞍包 fat 蒸後烤；羊肩鹽漬、sous vide、切丁；與蔬菜、Lamb Sauce 入小鍋，薯片鋪面焗。甜菜黑加侖蓉酸甜。椰菜以甜菜汁染紫。
+· 用途/備註：hotpot 為英國傳統；羊肩 overnight 軟嫩。
+
+6.3 Spring Lake District Lamb with shepherd's pie, cauliflower & yoghurt purée and mint sauce
+
+· 材料數據：SERVES 4–6。Lamb loin/fillets：short saddles 2 個各約 450g、meat glue、olive oil、butter、rosemary；蒸 100°C 15 分鐘；200°C/180°C fan/GM6 烤 2 分鐘。Braised shoulder：curing salt 100g、百里香、蒜 1、lemon zest 1、去骨 shoulder 1kg；鹽漬 4 小時；煎；sous vide 84°C 過夜。Shepherd's pie：lamb mince 500g、洋蔥 1、紅蘿蔔 1、西芹 1、蒜 1、plum tomatoes 200g、Lamb Stock 1L、Veal Stock 1L、rosemary、百里香、braised shoulder；煮 40 分鐘。Tomato purée：洋蔥 1、蒜 3、aubergine 1、red pepper 1、yellow pepper 1、green pepper 1、red chilli 1、ginger 80g、mustard seeds 1 茶匙、fennel seeds 1 茶匙、coriander seeds 1 茶匙、fresh tomatoes 1.5kg、canned plum tomatoes 400g、balsamic；煮 20 分鐘；打滑。Cauliflower & yoghurt purée：花椰菜 1、milk 250ml、cream 250ml、yoghurt 500ml 懸掛；煮 10–15 分鐘；打滑拌 yoghurt。Fennel & coriander powder：fennel seeds 100g、coriander seeds 100g；烘香；打粉。Assembly：Mint Sauce、Arbequina oil、spinach、Vinaigrette、Olive Oil Mash、pickled vegetable discs、Lamb Sauce。
+· 核心做法：羊鞍蒸後烤；羊肩鹽漬 sous vide；shepherd's pie 炒肉醬；番茄蓉打滑；花椰菜蓉拌 yoghurt；香料粉。組裝 pie 上擠 mash、pickled discs。
+· 用途/備註：春季版羊肉；shepherd's pie 與 lamb loin 雙主體。
+
+6.4 Cartmel Valley Loin of Venison with Jerusalem artichokes and venison & chocolate sauce
+
+· 材料數據：SERVES 5–6。Venison：loin 1–1.2kg 熟成 ≥18 日；切 200g；sous vide 58°C 15 分鐘；煎 2 分鐘。Sauce：venison bones 1–1.5kg、洋蔥 1、韭葱 1/2、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、juniper 10g、red wine 200ml、Chicken Stock 500ml、reduced Veal Stock 1L、cocoa nibs 10g、dark chocolate 70% 10g；煮 4 小時；最後加朱古力。Artichoke purée：Jerusalem artichokes 500g、檸檬汁、Chicken Stock 125ml、double cream 50ml；刨絲炒乾；打蓉。Roast artichokes：Jerusalem artichokes 250g、檸檬汁、extra virgin olive oil 50ml、紅蘿蔔 1、shallots 2、fennel 1、蒜 2、dry white wine 500ml、white wine vinegar 100ml、Chicken Stock 250ml、百里香 3、lemon zest 1、butter；煮 20 分鐘；烤。Artichoke crumb：皮；75°C 脫水 4 小時；160°C 炸；切碎。Pickled artichoke & pears：olive oil 100ml、lemon juice 100ml、Jerusalem artichoke 1、Nashi pear 1；薄片 4–5cm；醃 1 小時。
+· 核心做法：鹿柳 sous vide 後煎；骨熬醬，最後可可/朱古力。菊芋蓉、烤菊芋、脆皮粉、醃片四種質地。
+· 用途/備註：朱古力只作背景；鹿肉勿過熟。
+
+6.5 Braised West Country Ox Cheek with beef dashi and bone marrow crumb
+
+· 材料數據：SERVES 4。Meat Brine：water 1.25L、fine sea salt 125g、百里香、bay 1、蒜 1/2。Ox cheeks：牛面頰 4、brine 3 小時；煎；紅蘿蔔 1/2、洋蔥 1/2、西芹 1/2、red wine 250ml、Veal Stock 750ml、Chicken Stock 750ml；100°C/80°C fan/GM low 燉 8–10 小時/過夜；減汁；sous vide 85°C 10 分鐘。Beef dashi：olive oil、smoked pancetta 125g、shallots 2、蒜 1/4、百里香、Kombu Dashi 50ml、Cabernet vinegar 25ml、牛面頰 braising stock 750ml；煮；過濾。Celeriac & yeast purée：celeriac 1、olive oil、cold butter 200g、fresh yeast 25g、Chicken Stock 100ml；焦糖；打蓉。Parsnip purée：parsnips 3、milk 500ml、cream 500ml、蒜 1、百里香；煮 10–15 分鐘；打蓉。Parsley & anchovy purée：courgettes 2、olive oil、spinach 250g、flat parsley 200g、cream 50ml、anchovy paste 50g；燙；打蓉。Bone marrow crumb：stale sourdough 200g、bone marrow fat 100g、butter 100g；炒脆。Roast Portobello：大 Portobello 2、beef fat/dripping 100g；煎 5–6 分鐘；薄切。Thyme & parsley paste：parsley 100g、百里香 100g、olive oil 100ml；燙 parsley；搗碎。
+· 核心做法：牛面頰鹽水、煎、低溫燉軟；汁減濃；beef dashi 以 pancetta、kombu、醋、braising stock 煮。三種蓉：celeriac yeast、parsnip、parsley anchovy。牛骨髓脆粒。組裝牛面頰、Portobello、dashi、香草醬。
+· 用途/備註：牛面頰膠質；dashi 增鮮。
+
+6.6 Roast Lincolnshire Rabbit with summer beans, courgette & basil purée and langoustine tails
+
+· 材料數據：SERVES 4。Saddle：去骨兔鞍 1、Parma ham 5–6 片、meat glue、olive oil；sous vide 62°C 25 分鐘；煎/200°C/180°C fan/GM6 烤 2 分鐘。Rabbit legs：去骨兔腿 2、Maldon salt 100g、water 1L、lemon peel 2、bay 2、百里香 2、caul fat 300g、meat glue；brine 1 小時；卷；sous vide 62°C 25 分鐘；煎。Summer beans：olive oil、紅蘿蔔 1、韭葱 1、西芹 1、洋蔥 1、蒜 2、fresh borlotti 500g、Chicken Stock 1L、百里香 2、rosemary 2、lemon peel 2、runner beans 200g、fine beans 200g、butter 20g、sun-dried tomatoes 50g、preserved lemon 50g、marjoram/chervil；煮 20 分鐘；取 100g 打蓉。Courgette & basil purée：courgettes 4、spinach 500g、basil 400g、cream 100ml、Parmesan 50g。Dried courgette flowers：4 朵；70°C 脫水 4 小時。Rabbit sauce：rabbit bones 1kg、洋蔥 1、韭葱 1、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、dry white wine 200ml、reduced Veal Stock 1L、Chicken Stock 500ml、lemon thyme、parsley stalks、lemon peel、Browned Butter 50g、double cream 100ml；煮 4 小時；最後拌牛油忌廉。Assembly：Grilled Langoustine Tails 8。
+· 核心做法：兔鞍 Parma ham 卷；兔腿鹽水、caul fat 卷；sous vide。豆煮後部分打蓉增稠。翠玉瓜羅勒蓉。兔骨熬醬，最後加 browned butter/cream。
+· 用途/備註：兔肉與小龍蝦尾海陸組合；caul fat 保濕。
+
+6.7 40-day Dry-aged Lake District Beef Fillet with aubergine & miso purée, confit garlic and Dorset snails
+
+· 材料數據：SERVES 4。Beef fillet：中心切 fillet 約 1kg 熟成 40 日、olive oil、butter 30g、蒜 3–4、百里香；煎每面 2 分鐘；核心溫度 rare 38–40°C、medium rare 42–45°C、medium 48–50°C、medium well 58°C、well 62°C；rest 5–10 分鐘。Aubergine & miso purée：aubergines 2、olive oil、shallot 1、Chicken Stock 250ml、squid ink 1 包、red miso 300g、rice vinegar 150ml、soft brown sugar 140g、butter 175g 融化；miso 160°C/140°C fan/GM3 焗 15–20 分鐘；aubergine purée : miso = 2:1。Confit garlic：蒜 1 球、vegetable oil 200ml；低火 45 分鐘。Confit garlic purée：蒜 5 球、double cream 100ml；150°C/130°C fan/GM2 焗 1 小時；煮；打蓉。Beef-fat carrots：beef fat 500ml、大紅蘿蔔 4、百里香 3、蒜 2、flat parsley；煮 15–20 分鐘；煎。Dorset snails：ready-cooked shelled snails 24、plain flour 100g、butter 100g、confit garlic；煎脆。
+· 核心做法：牛柳綁緊切 4 份；煎香淋牛油；依核心溫度。茄子烤/煎後打蓉；miso 焗後加醋糖牛油打滑，按 2:1 拌入茄子蓉。蒜油 confit。牛油煮蘿蔔。蝸牛裹粉炸。
+· 用途/備註：熟成牛柳；miso 比例精確 2:1。
+
+
+
+7. Poultry & Game Birds
+
+7.1 Roasted Squab Pigeon with baked Roscoff onion, violet artichoke barigoule and braised ceps
+
+· 材料數據：SERVES 4。Pigeon：squab 4 隻各 550–600g、butter、百里香、Salt Cure 100g、蒜 2、duck fat 約 300ml、olive oil；胸 sous vide 71°C 10 分鐘；腿鹽漬 4 小時、confit 85°C 6–8 小時；撕碎。Pigeon sauce：pigeon bones 1kg、shallots 4、韭葱 1、紅蘿蔔 2、西芹 2、蒜 1、tomato paste 1 湯匙、red wine 200ml、ruby port 200ml、Veal Stock 2L、Chicken Stock 1L、lemon thyme 2；煮 4 小時。Baked Roscoff onions：Roscoff onions 4 不剝皮、olive oil、butter 250g、stale breadcrumbs 200g、pigeon hearts/livers、cooked pearl barley 200g、Mushroom Purée 2 茶匙、confit leg meat、pigeon sauce、truffle；180°C/160°C fan/GM4 焗 25 分鐘；填餡；200°C/180°C fan/GM6 焗 2 分鐘。Roasted onion purée：Spanish onions 1.5kg、挖出洋蔥肉、Chicken Stock 250ml、pigeon sauce 100ml；炒至深褐；打蓉。Violet artichoke barigoule：ascorbic acid 1 茶匙、violet artichokes 5、lemon zest/juice 1、extra virgin olive oil 50ml、fennel 1、紅蘿蔔 1、shallots 2、蒜 2、dry white wine 500ml、white wine vinegar 100ml、Chicken Stock 250ml、百里香 3；煮 20 分鐘。Braised ceps：fresh ceps 500g、butter 200g、Chicken Stock 200ml、pigeon sauce 100ml、百里香、蒜 2；切半煎香。
+· 核心做法：鴿胸 sous vide；腿鹽漬 confit 撕碎。鴿骨熬醬。洋蔥焗軟挖空，填 barley/鴿肉/肝。洋蔥蓉炒至深褐。朝鮮薊 barigoule 煮後煎。雞油菌/ceps 煎香。
+· 用途/備註：鴿子兩吃；洋蔥填餡為英國風。
+
+7.2 Whole Roasted Goosnargh Duck with braised swede and pesto purée
+
+· 材料數據：SERVES 2。Duck：Goosnargh duck 約 1.8kg、runny honey 500ml、truffle vinegar 50ml、lavender/rosemary/thyme、鹽胡椒；blowtorch；truss；steam 100°C 15 分鐘；glaze 後 180°C/160°C fan/GM4 焗約 18 分鐘，每 4 分鐘淋 glaze。Braised swede：swede 1、olive oil、Duck Sauce 100ml、truffle trimmings 20g；楔形煎褐；braise 10 分鐘。Pesto purée：courgettes 4、spinach 500g、basil 400g、Parmesan 50g、double cream 100ml、toasted pine nuts 100g；燙；打蓉。Roasted mushrooms：mixed mushrooms 250g、butter 100g、蒜 1、百里香、Chicken Stock 100ml、Duck Sauce 100ml；煎 4–5 分鐘。Duck leg salad：diced leg meat、runny honey 20ml、Spice Water Dressing 100ml、Swede Purée 200g、bitter leaves 100g、radishes 75g、foraged herbs/flowers、croutons 4；蜜糖焦化。Assembly：celery、butter、fig、Duck Sauce。
+· 核心做法：鴨先蒸後烤，蜜糖松露醋 glaze；反覆淋。Swede 煎後 braise。Pesto 以翠玉瓜、菠菜、羅勒、松子。鴨腿丁蜜糖焦化做沙律。
+· 用途/備註：全鴨上桌後回廚房切；腿做沙律，胸做主菜。
+
+7.3 Roasted Red-legged Partridge with mulled & spiced beetroot and plum jam
+
+· 材料數據：SERVES 4。Partridge：partridges 4、butter 25g 融化+額外、百里香、蒜 4、duck fat、olive oil；胸 sous vide 58°C 12 分鐘；煎 2 分鐘；腿 confit 80°C 4 小時；心/肝煎香切丁。Partridge sauce：partridge bones 500g、shallots 2、韭葱 1/2、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、star anise 1、cloves 1、cinnamon 1、red wine 100ml、ruby port 100ml、Veal Stock 1L、Chicken Stock 500ml、lemon thyme；煮 4 小時。Mulled beetroot：plain flour 1.5kg、fine sea salt 200g、百里香 2、juniper 10g、black peppercorns 5g、star anise 5g、cardamom 5g、cold water 750ml、beetroots 2 大/4 小；鹽 crust 170°C/150°C fan/GM3.5 烤至探針 75°C；去皮切楔。Beetroot & mead reduction：beetroot juice 500ml、mead 500ml、runny honey 1 湯匙；減糖漿。Marinated beetroot：golden beetroot 1、olive oil、lemon thyme；3cm 圓片；醃 20 分鐘。Assembly：pearl barley 200g、Mushroom Purée 2 茶匙、butter、Plum Jam。
+· 核心做法：partridge 胸 sous vide 後煎；腿 confit；骨熬醬。甜菜根鹽 crust 烤；mead 減糖漿；金甜菜醃。barley 拌菇蓉、partridge 肉、汁。
+· 用途/備註：鹽 crust 均勻導熱；甜菜/李子酸甜。
+
+7.4 Ribble Valley Chicken with braised leeks, mustard purée and chicken-fat mash
+
+· 材料數據：SERVES 4。Chicken breasts：chicken crowns 2、water 1L + fine sea salt 100g、檸檬 1 切塊、百里香、rosemary、meat glue、olive oil、black truffle；brine 1 小時；皮包胸；sous vide 59°C 45 分鐘；rest 10 分鐘；煎。Braised leeks：韭葱白 1 切 3cm、butter 25g、Chicken Stock 50ml、Truffle Dressing；燙 1 分鐘；煮。Mustard purée：white onions 2、olive oil 1 湯匙、Chicken Stock 100–200ml、English mustard；煮 10–15 分鐘；打蓉。Chicken-fat mash：butter 500g、chicken skins 500g、La Ratte potatoes 500g、milk 125ml、double cream 125ml；炸雞皮；薯蓉。Braised morels：morels 250g、butter 50g、Chicken Stock 100ml、蒜 2、百里香；煮至汁收。Assembly：truffle、crispy chicken skin。
+· 核心做法：雞胸鹽水、雞皮包卷、sous vide；煎脆皮。雞油/雞皮炸香拌薯蓉。芥末洋蔥蓉。韭葱 braise；羊肚菌 braise。
+· 用途/備註：雞皮包卷保濕；雞油薯蓉濃郁。
+
+7.5 Game Pithivier with grouse, pheasant and wild mushrooms
+
+· 材料數據：SERVES 4。Pheasant 1、grouse 1、Meat Brine、minced pork 100g、lardo 50g、wild mushrooms/ceps 200g、olive oil、butter、Game Sauce 100ml、egg yolks 2、Savoy cabbage leaves 4、Crepes 2、foie gras slices 2×100g、all-butter puff pastry 200g、egg wash 3–4 蛋黃、鹽胡椒；胸 brine 1 小時；腿肉剁碎；菇煎香切碎；拌肉餡、game sauce、蛋黃；層疊 crepe/椰菜/餡/雉胸/鵝肝/松雞胸/餡；卷成 dome 雪 30 分鐘；酥皮包；蛋液刷 4 次；170°C/150°C fan/GM3 焗至中心 38°C；rest 10 分鐘。
+· 核心做法：野味胸鹽水；腿肉與豬肉/lardo/菇做 forcemeat；以 crepe 與椰菜包裹；酥皮包成 pithivier；多次蛋液；烤至中心 38°C。
+· 用途/備註：中心溫度 38°C 保留野味粉嫩；桌邊切開。
+
+7.6 Salad of Wild Duck with liver parfait, walnut & pear purée and crushed potatoes
+
+· 材料數據：SERVES 4。Liver parfait：red port 150ml、white port 75ml、Madeira 150ml、brandy 50ml、shallots 100g、蒜 1、thyme 10g、grade A foie gras 300g、chicken livers 120g、eggs 4、butter 400g、Maldon salt 18g、pink salt 2g；酒醋 reduce；sous vide 55°C 10 分鐘；blend；蒸 90°C 至中心 65°C。Mallard breasts：mallards 2、butter、蒜 2、百里香 2、olive oil；sous vide 58°C 1 小時；煎皮 2–3 分鐘。Walnut & pear purée：butter 150g、wet walnuts 250g、Conference pears 4、water 50ml、Minus 8 vinegar；煮 30 分鐘；打滑。Crushed potatoes：La Ratte 4、Duck Stock 500ml、百里香；煮 15–20 分鐘。Truffle sauce：Game Sauce 200ml、Truffle Dressing 20ml、Périgord truffle 20g 切碎；加熱。Assembly：purple/white kale、candied walnuts、brioche 4、truffle。
+· 核心做法：肝醬以酒醃、sous vide、blend、蒸至 65°C。鴨胸 sous vide 後煎皮。核桃梨蓉。薯仔 stock 煮後手壓。松露汁最後加。
+· 用途/備註：肝醬 terrine 需隔日；鴨胸粉嫩。
+
+7.7 Soy-glazed Norfolk Quail with cured foie gras roll and compressed apple
+
+· 材料數據：SERVES 4。Glazed quail：quails 2、Meat Brine 300ml、soy sauce 300ml、lemon juice 300ml、lemon peel 1、Jerez vinegar 50ml、runny honey 100ml、Pistachio Crumbs；brine 1 小時；風乾；blowtorch；glaze 減糖漿；200°C/180°C fan/GM6 焗約 8 分鐘。Cured foie gras roll：foie gras 1 lobe、brandy 150ml、fine sea salt 2.5 茶匙、crushed white pepper 1/2 茶匙、caster sugar 1 茶匙、pink curing salt 3/4 茶匙、Jerez vinegar 50ml、Pain d'épices Crumb；醃 1 小時；sous vide 65°C 10 分鐘；卷雪 8 小時；裹 crumb。Compressed apple：Granny Smith 3、檸檬汁 1；切片；真空浸 2 小時；8cm 圓片。Assembly：truffle、Apple & Blackberry Jam。
+· 核心做法：鵪鶉 brine、風乾、glaze、烤；裹 pistachio crumb。鵝肝醃、sous vide、卷、裹 pain d'épices。蘋果真空壓縮。
+· 用途/備註：鵪鶉可整隻或切件；glaze 需濃稠。
+7.8 Grouse with chanterelle-stuffed cabbage, game chips and damson jam
+
+· 材料數據：SERVES 4。Grouse：grouse 4、butter、百里香、蒜 1、olive oil；胸 sous vide 58°C 8 分鐘；煎 2 分鐘。Grouse sauce：grouse bones/necks 500g、shallots 2、韭葱 1、紅蘿蔔 1、西芹 1、蒜 1/2、tomato paste 1/2 湯匙、star anise 1、clove 1、cinnamon 1、lemon thyme、ruby port 100ml、red wine 100ml、Chicken Stock 500ml、Veal Stock 1L、elderberries；煮 4 小時；最後浸 elderberries。Chanterelle-stuffed cabbage：Hispi cabbages 4、olive oil、butter 50g、shallot 1、chanterelles 500g、button mushrooms 200g、dry white wine 100ml、double cream 100ml、Périgord truffle 10g；椰菜 160°C/140°C fan/GM3 焗 30 分鐘；菇炒香打蓉；填入椰菜心。Game chips：Maris Piper 2、juniper berries 2 茶匙、Maldon salt 1 茶匙、vegetable oil 約 500ml；2mm 交錯切、3cm 圓片；150°C 炸 5–6 分鐘；撒 juniper salt。Assembly：fresh ceps 8、Damson Jam、Pickled Cobnuts、Mulled Elderberries。
+· 核心做法：松雞胸 sous vide 後煎；骨熬醬，elderberries 浸。椰菜焗軟挖心，填雞油菌蓉。薯片交錯切、低溫炸。ceps 煎。
+· 用途/備註：松雞內臟可入醬；game chips 配野味。
+
+8. Sweets
+
+8.1 Banana Soufflé with tempered chocolate discs and rum & raisin ice cream
+
+· 材料數據：SERVES 3–4。Banana purée：banana purée 250g、cornflour 少於 1 茶匙、cold water 1 茶匙；減半；勾芡。Soufflé base：butter 10g、sushi rice 110g、whole milk 250ml、double cream 125ml、whipping cream 125ml、caster sugar 45g、Maldon salt 少許、vanilla pod 1/2、banana liqueur 2 湯匙；煮 20–25 分鐘；冷卻 1 小時；打滑過篩。Meringue：egg whites 375g、caster sugar 60g；硬峰。組裝：軟牛油+黑朱古力碎、Tempered Chocolate Discs 8、Rum & Raisin Ice Cream、lime zest。180°C/160°C fan/GM4 焗 6 分鐘，轉盤再 3 分鐘。
+· 核心做法：米布丁基底打滑；拌香蕉蓉/酒；fold meringue；模具塗牛油朱古力；熱盤烤。朱古力片放面。
+· 用途/備註：米基底穩定 soufflé；勿過度 fold。
+
+8.2 Pistachio Soufflé with tempered chocolate discs and vanilla ice cream
+
+· 材料數據：SERVES 3–4。Soufflé base：butter 10g、sushi rice 110g、whole milk 250ml、double cream 125ml、whipping cream 125ml、caster sugar 45g、salt 少許、vanilla 1/2、Amaretto 2 湯匙、pistachio paste 100g；煮 20–25 分鐘；冷卻 1 小時；打滑。Meringue：egg whites 375g、caster sugar 60g。Assembly：Tempered Chocolate Discs 8、Vanilla Ice Cream；180°C/160°C fan/GM4 焗 6+3 分鐘。
+· 核心做法：同香蕉 soufflé；基底加 Amaretto 與開心果醬；fold meringue；烤。
+· 用途/備註：開心果醬先拌軟基底；朱古力片裝飾。
+
+8.3 Brogdale Pear with milk crisp, whisky caramel and oat crumble
+
+· 材料數據：SERVES 4。Pear：water 100ml、caster sugar 100g、vanilla pods 2、ripe pear 1、lemon juice 1；糖漿浸漬。Oat crumble：plain flour 135g、rolled oats 60g、bicarbonate 5g、cold butter 45g、caster sugar 40g、fine sea salt 1/2 茶匙、vanilla 1/2、honey 30g；雪 2 小時；擀 1cm；160°C/140°C fan/GM3 焗 8 分鐘，再 90°C/70°C low 焗 30 分鐘。Honeycomb：caster sugar 150g、water 65ml、liquid glucose 50g、bicarbonate 25g；煮至 155°C；拌入 bicarb；凝固。Milk crisp：whole milk 450ml、liquid glucose 150ml；80°C；打泡沫；70°C 脫水 5 小時。Whisky caramel：caster sugar 250g、double cream 150ml、peated whisky 75ml；焦糖。Assembly：bee pollen、Pear Sorbet、Goat's Cheese Ice Cream。
+· 核心做法：梨糖漿浸；燕麥crumble 兩段烤；honeycomb 155°C；牛奶泡沫脫水脆片；威士忌焦糖。
+· 用途/備註：冷熱、脆、焦糖；goat cheese 雪糕平衡甜。
+
+8.4 Forced Yorkshire Rhubarb with crème fraîche mousse and rhubarb & rose sorbet
+
+· 材料數據：SERVES 8。Mousse：caster sugar 80g、honey 1 湯匙、vanilla 1、crème fraîche 375ml、gelatine 3 片、whipping cream 375ml。Compote：forced rhubarb 600g、caster sugar 40g；醃 1 小時；低火煮約 1 小時。Tuile：egg whites 150g、icing sugar 125g、plain flour 100g、melted butter 100g、vanilla 1/2；stencil 25cm×3cm；170°C/150°C fan/GM3 焗 8 分鐘；趁熱捲 8cm 環；再焗 1–2 分鐘。Assembly：Rhubarb & Rose Sorbet、rhubarb powder、edible flowers。
+· 核心做法：大黃糖漬出水後慢煮；crème fraîche mousse 以 gelatine 穩定；tuile 烤後塑環；層疊 compote、sorbet、mousse。
+· 用途/備註：大黃酸度；tuile 需趁熱塑形。
+8.5 Blackcurrant Eton Mess with cassis fromage cream and clove & miso biscuit
+
+· 材料數據：SERVES 10–12。Meringue cups：egg whites 125g pasteurised、lemon juice 1 茶匙、cream of tartar 1/4 茶匙、caster sugar 250g；90°C/70°C fan/GM low 焗約 3 小時；acetate 條 4cm×26.5cm。Fromage cream：mascarpone 250g、fromage frais 250g、icing sugar 40g、whipping cream 625ml、whole milk 125ml；iSi 1。Cassis cream：mascarpone 250g、fromage frais 250g、icing sugar 40g、blackcurrant syrup 40g。Clove & miso biscuit：soft butter 150g、light brown sugar 165g、plain flour 210g、ground almonds 80g、baking powder 1/2 茶匙、fine sea salt 5g、ground cloves 少許、vanilla、white miso 9g、grapeseed oil 50ml、egg yolks 75g；擀 2mm；160°C/140°C fan/GM3 焗 15 分鐘，切 8cm 圓片再焗 10 分鐘。Blackcurrant sauce：blackcurrant coulis 250ml 減濃。Fluid gel：blackcurrant syrup 1 茶匙、caster sugar 1.5 茶匙、lemon juice 3/4 茶匙、water 200ml、ground cloves 少許、gellan 2g；Thermomix 100°C 2 分鐘。Assembly：berries、butterfly sorrel、Blackcurrant Sorbet。
+· 核心做法：蛋白杯低溫烘乾；fromage cream iSi；miso 餅乾；黑加侖 fluid gel。組裝餅底、cassis cream、莓果、fluid gel、fromage cream、meringue cup 罩住。
+· 用途/備註：Eton Mess 重構；meringue cup 需完全乾燥。
+
+8.6 Bitter Chocolate Pavé with olive oil biscuit, black olive tuille and olive oil jelly
+
+· 材料數據：SERVES 20。Olive oil biscuit：soft butter 150g、caster sugar 165g、olive oil 50ml、egg yolks 4、vanilla 1/2、plain flour 210g、finely ground almonds 80g、baking powder 1/2 茶匙、fine sea salt 1 茶匙；擀 5mm；160°C/140°C fan/GM3 焗 10–12 分鐘；8cm 圓片。Black olive tuile：condensed milk 200g、plain flour 30g、black olive paste 50g；薄抹；焗 8 分鐘。Olive oil jelly：isomalt 100g、caster sugar 50g、liquid glucose 25g、water 100ml、gelatine 2.25 片、olive oil 180ml；Thermomix 100°C 15 分鐘；倒 1cm 層；切 1cm 丁。Chocolate sponge：butter 185g、icing sugar 90g、cocoa powder 2.5 茶匙、dark chocolate 70% 225g、egg yolks 7、egg whites 9、caster sugar 125g；180°C/160°C fan/GM4 焗 5+5 分鐘；8–9cm 圓片。Chocolate mousse：dark chocolate 70% 175g、butter 65g、egg yolks 2、egg whites 6、caster sugar 50g；fold；擠花。Tempered discs：Valrhona 70% 250g；46–49°C→27°C→31°C；8cm 圓片。Assembly：extra virgin olive oil、Olive Oil Ice Cream、edible gold leaf。
+· 核心做法：橄欖油餅乾；黑橄欖 tuile；橄欖油 jelly 乳化凝固；朱古力海綿；慕斯；調溫朱古力片。組裝層疊。
+· 用途/備註：調溫曲線關鍵；橄欖油 jelly 需乳化。
+
+8.7 Hot & Cold Apple Tatin with apple crisps and Minus 8 vinegar ice cream
+
+· 材料數據：SERVES 4。Apple purée：Granny Smith 4、Maldon salt；蒸 20 分鐘；煮乾；打滑。Apple crisps：soft brown sugar 100g、water 50ml、lemon juice 50ml、Pink Lady 2；薄片；刷糖漿；75°C 脫水 45 分鐘，翻面再 45 分鐘。Hot tatin：lemon juice 2、caster sugar 200g、fine sea salt 1 茶匙、Pink Lady 4、all-butter puff pastry 200g、icing sugar、butter 50g；蘋果螺旋薄片真空浸糖檸汁；酥皮 180°C/160°C fan/GM4 焗 15–18 分鐘，撒糖再焗 2 次；切 7–8cm 圓片；剩餘糖煮焦糖至 dark terracotta，加牛油；蘋果卷回原形入模，焗 25–35 分鐘。Apple salad：Calvados 100ml、apple juice 100ml、lemon juice 1、Pink Lady 2；薄片浸 1 小時。Assembly：apple blossom、wood sorrel、Minus 8 Vinegar Ice Cream。
+· 核心做法：蘋果薄片真空浸糖；酥皮多層撒糖焗脆；焦糖蘋果模烤；冷蘋果沙律與熱 tatin 對比。
+· 用途/備註：Hot & Cold 對比；蘋果片防氧化。
+
+8.8 Parsnip Crème Caramel with blood orange granita and Pedro Ximenez-soaked raisins
+
+· 材料數據：SERVES 10。Granita：blood orange juice 1.5L、caster sugar 150g、lemon juice 3；凍過夜。Raisins：golden raisins 50g、Pedro Ximenez 100ml；浸過夜；酒減糖漿。Crème caramel：whole milk 750ml、parsnip purée 250g、vanilla 1、eggs 5、egg yolks 4、caster sugar 150g、fine sea salt 少許、granulated sugar 250g、water 75ml；浸過夜；焦糖模；蒸 84°C 50 分鐘。Assembly：sorrel leaves。
+· 核心做法：牛奶+parsnip+vanilla 浸過夜；蛋液混合；焦糖模；蒸。葡萄乾酒浸。granita 刮。
+· 用途/備註：parsnip 天然甜；蒸烤避免氣泡。
+
+8.9 Wild Strawberries with sorrel & sake granita and buttermilk cream
+
+· 材料數據：SERVES 4。Granita：caster sugar 30g、water 180ml、sorrel 200g、sake 100ml；凍。Buttermilk cream：egg yolks 4、whole milk 500ml、caster sugar 65g、cornflour 50g、strong white flour 50g、agar 7g、plain yoghurt 500g、lemon juice 1/2；custard；blend。Strawberries：wild/alpine 250g、white 250g、Gariguette 250g；wild 凍；其餘切半。
+· 核心做法：糖水+酸模+sake 打滑凍；buttermilk custard 加 yoghurt；野草莓冷凍。組裝。
+· 用途/備註：野草莓香氣；冷凍與忌廉對比。
+
+8.10 Citrus Curd Meringue with lemon sponge and basil sorbet
+
+· 材料數據：SERVES 12。Meringues：egg whites 125g、icing sugar 250g、cream of tartar 1/4 茶匙、lemon zest/juice 1；擠圓片；75°C 脫水 3–3.5 小時。Lemon sponge：eggs 200g、caster sugar 125g、strong white flour 125g、lemon zest 1、melted butter 30g；180°C/160°C fan/GM4 焗 7–8 分鐘。Lemon curd：lemon juice 110ml、eggs 2、caster sugar 110g、agar 1.5g、butter 140g；煮 8–10 分鐘；冷卻。Assembly：Whole Lemon Purée、finger lime、lime/lemon zest、Basil Sorbet。
+· 核心做法：蛋白霜低溫脫水；海綿；檸檬凝乳 agar；組裝擠 curd/purée，放 meringue。
+· 用途/備註：meringue 乾爽；curd 需快速冷卻。
+
+8.11 Chardonnay-poached Pear with champagne granita and buttermilk purée
+
+· 材料數據：SERVES 4。Pear：Chardonnay 400ml、caster sugar 200g、cinnamon 1、vanilla 1、lemon juice 1 湯匙、ripe pears 2；sous vide 60°C 40 分鐘。Granita：Champagne 75cl、caster sugar 185g、water 310ml；凍 ≥6 小時/過夜。Buttermilk purée：egg yolks 4、whole milk 500ml、caster sugar 65g、cornflour 50g、strong white flour 50g、agar 7g、plain yoghurt 500g、lemon juice 1/2；custard；blend。Assembly：wood sorrel、olive oil。
+· 核心做法：梨以 Chardonnay 糖漿 sous vide；香檳糖漿凍刮；buttermilk custard 打滑。組裝。
+· 用途/備註：香檳 granita 輕盈；梨片 5cm 圓。
+
+9. Petit Fours
+
+9.1 Cherry 'Bakewell' Tart with almond cake and cherry jam
+
+· 材料數據：SERVES 16。Almond cake：butter 110g 煮至 140°C browned、ground almonds 250g、caster sugar 375g、T45/plain flour 45g、egg whites 310g、flaked almonds；170°C/150°C fan/GM3 焗 20 分鐘於 7cm tartlet tins。Cherry jam：Morello cherry purée 250g、agar 5g；煮沸 2 分鐘；凝固；打滑。Assembly：icing sugar。
+· 核心做法：brown butter 冷卻至 40°C；乾料+蛋白+牛油拌；擠模撒杏仁片焗；cherry agar jam 擠上。
+· 用途/備註：brown butter 增堅果香；小撻。
+
+9.2 Clementine & Almond Macarons with yuzu & white chocolate crème pâtissière and white chocolate discs
+
+· 材料數據：SERVES 40。Macarons：finely ground almonds 190g、icing sugar 190g、egg whites 140g、caster sugar 190g、water 50ml、freeze-dried clementine segments 10 片切碎；糖漿 117°C；擠 3cm；150°C/130°C fan/GM2 焗 7–8 分鐘。Crème pâtissière：whole milk 250ml、caster sugar 1.25 茶匙、cornflour 25g、plain flour 25g、egg yolks 3、white chocolate 150g、yuzu purée 125ml、agar 5g；煮 custard；拌朱古力/agar yuzu。White chocolate discs：Valrhona white 250g、silver dust；調溫；3cm 圓片。
+· 核心做法：法式/義式蛋白霜拌杏仁粉；擠圓；乾燥；焗。Crème pâtissière 加白朱古力與 yuzu agar。組裝擠餡+白朱古力片。
+· 用途/備註：macaron 需形成皮；yuzu 酸度平衡白朱古力。
+
+9.3 Chocolate Ganache with Bergamot purée and Pollen Street Social Blend Tea
+
+· 材料數據：SERVES 9–10。water 350ml、black tea leaves 10g、Valrhona milk chocolate 40% 45g、Valrhona dark chocolate 70% 440g、double cream 70ml、bergamot purée 45ml；茶浸 10 分鐘；朱古力融化；混合；入小杯雪 ≥1 小時。
+· 核心做法：茶浸出香；兩種朱古力融化；熱茶忌廉沖入；拌 bergamot；凝固。
+· 用途/備註：茶與佛手柑香；小杯 petit four。
+
+9.4 Dark Chocolate Bon Bons with praline & feuilletine filling
+
+· 材料數據：MAKES 30。blue/red cocoa butter food colouring、praline paste 125g、ready-made pailleté feuilletine 250g、Valrhona couverture 70% 1kg；可可脂噴模；praline+feuilletine 擠餡；調溫朱古力 46–49°C→27°C→31°C；殼、餡、封頂；雪 5–10 分鐘。
+· 核心做法：可可脂噴色；調溫朱古力掛殼；填 praline feuilletine；封底；脫模。
+· 用途/備註：調溫成敗關鍵；餡留 3–4mm 空間。
+10. Appendix 基礎配方
+
+10.1 Olive Oil Mash
+
+· 材料數據：SERVES 6。La Ratte potatoes 1kg、unsalted butter 250g、whole milk 100ml、double cream 100ml、Arbequina olive oil 200ml、Maldon salt/black pepper；薯仔煮 10–15 分鐘；ricer+過篩；牛油/奶/忌廉加熱拌入；慢慢加橄欖油。
+· 核心做法：薯蓉過篩；熱乳脂拌入；最後乳化橄欖油。
+· 用途/備註：配魚/肉；橄欖油後加避免分離。
+
+10.2 Saffron & Garlic Mash
+
+· 材料數據：SERVES 6–7。蒜 5 球、Arbequina olive oil 200ml、La Ratte potatoes 1kg、double cream 200ml、saffron threads 2g、Maldon salt/white pepper；蒜 150°C/130°C fan/GM2 烤 1–1.25 小時；薯蓉；藏紅花忌廉；拌 2 湯匙蒜蓉。
+· 核心做法：烤蒜擠蓉；薯蓉過篩；藏紅花忌廉浸；拌蒜蓉。
+· 用途/備註：蒜蓉可預製；藏紅花勿過量。
+
+10.3 Mushroom Purée
+
+· 材料數據：MAKES ABOUT 150g。牛油、shallots 4 片、蒜 1、large flat mushrooms 250g、Madeira 150ml、Maldon salt/white pepper；炒軟；加菇煎褐；Madeira 減糖漿；打滑過篩。
+· 核心做法：菇煎出焦香；Madeira deglaze 減濃；打滑。
+· 用途/備註：用於 risotto、taco、餡料。
+
+10.4 Pearl Barley Risotto
+
+· 材料數據：MAKES ABOUT 400g。pearl barley 200g、olive oil、紅蘿蔔 1、洋蔥 1、西芹 1、韭葱 1、蒜 5、百里香 3、Chicken Stock 800ml、butter、shallots 3、Madeira 150ml、double cream 150ml、Mushroom Purée 150g、flat parsley； barley 沖洗；蔬菜炒；加 500ml stock 煮 25–30 分鐘；shallots+Madeira+餘 300ml stock 減半；加忌廉；拌菇蓉。
+· 核心做法：珍珠麥先炒後煮；Madeira 忌廉另煮；最後拌。
+· 用途/備註：可預煮冷藏；使用前加熱。
+
+10.5 Lettuce & Seaweed Powder
+
+· 材料數據：MAKES 100g。Romaine lettuce 2、spinach 200g、soy sauce 10ml、mirin 10ml、dried nori 2 片、dashi powder 1 茶匙；燙 20 秒；脫水 70°C 8 小時；nori 刷 soy/mirin 同脫水；打粉。
+· 核心做法：生菜菠菜燙後脫水；nori 調味脫水；全部打粉。
+· 用途/備註：撒粉增鮮綠；密封保存。
+
+10.6 Tarragon Mayonnaise
+
+· 材料數據：MAKES ABOUT 700g。tarragon 3 束約 300g、chives 1 束約 100g、rapeseed oil 600ml、pasteurised egg yolks 60g、white wine vinegar 20ml、Maldon salt/pepper；香草油 Thermomix 80°C 8 分鐘；過濾冷卻；蛋黃乳化油；加醋調味。
+· 核心做法：香草油低溫打；蛋黃乳化；調酸。
+· 用途/備註：配兔/海鮮；冷藏一週。
+
+10.7 Spice Water Dressing
+
+· 材料數據：MAKES ABOUT 1L。cinnamon sticks 5g、coriander seeds 5g、cumin seeds 5g、star anise 5g、grated nutmeg 5g、curry powder 5g、ground turmeric 5g、ground ginger 5g、water 200ml、runny honey 440g、Jerez vinegar 440ml、Maldon salt；香料烘香；水煮 10 分鐘；浸過夜；取水加蜜醋鹽打勻。
+· 核心做法：乾香料烘香；水浸；與蜂蜜醋乳化。
+· 用途/備註：鴨腿沙律；冷藏一個月。
+
+10.8 Truffle Dressing
+
+· 材料數據：MAKES ABOUT 240ml。truffle vinegar 50ml、sherry vinegar 25ml、olive oil 65ml、truffle oil 65ml、truffle 30–35g 切碎、soy sauce 少許；打勻；調味。
+· 核心做法：所有材料 blitz；可調醬油。
+· 用途/備註：冷藏一週；使用前搖勻。
+
+10.9 Beef Sauce
+
+· 材料數據：MAKES 750ml。olive oil、beef rib bones/trimmings 1kg、shallots 2、carrots 2、button mushrooms 250g、celery 1.5、leek 1、garlic 1/2、black peppercorns 1 茶匙、red wine 375ml、port 125ml、Chicken Stock 1L、Veal Stock 1L、thyme 12g、tarragon 10g、Worcestershire sauce；骨煎褐；蔬菜炒；酒減半；加 stock 煮 2–3 小時；減半；過濾；加香草浸。
+· 核心做法：骨與蔬菜褐變；酒 deglaze；長煮；減濃；香草浸。
+· 用途/備註：配牛柳；可冷凍。
+
+10.10 Duck Sauce
+
+· 材料數據：MAKES 1–1.4L。vegetable oil、duck bones 1kg、onion 1、leek 1、carrot 1、celery 1、garlic 1/2、tomato paste 1/2 湯匙、dry white wine 100ml、Madeira 100ml、Veal Stock 1L、Chicken Stock 500ml、lemon thyme、鹽胡椒；骨煎褐；蔬菜炒；酒減半；stock 煮 4 小時。
+· 核心做法：鴨骨煎香；蔬菜；酒；長煮；過濾。
+· 用途/備註：配鴨/豬；可預製。
+
+10.11 Game Sauce
+
+· 材料數據：MAKES 2L。olive oil、game bones/carcasses 約 800g、shallots 4、leek 1、carrots 2、celery 2、garlic 1、tomato paste 1 湯匙、star anise 2、cloves 2、cinnamon 1、red wine 200ml、ruby port 200ml、Veal Stock 2L、Chicken Stock 1L、lemon thyme 2、game hearts/livers；骨煎褐；蔬菜；香料；酒；stock 煮 4 小時；最後炒心肝切碎加入。
+· 核心做法：野味骨熬醬；最後加入炒香心肝增野味。
+· 用途/備註：配松雞/雉/鴨；可冷凍。
+
+10.12 Lamb Sauce
+
+· 材料數據：MAKES ABOUT 1L。olive oil、lamb rib bones 1kg、onion 1、leek 1/2、carrot 1、celery 1、garlic 1/2、tomato paste 1/2 湯匙、dry white wine 200ml、reduced Veal Stock 500ml、Chicken Stock 500ml、lemon thyme、rosemary、lemon zest 1、dried kombu 1；骨煎褐；蔬菜；酒；stock 煮 4 小時；浸香草。
+· 核心做法：羊骨熬醬；香草與昆布浸。
+· 用途/備註：配羊肉；可冷凍。
+
+10.13 Mint Sauce
+
+· 材料數據：MAKES ABOUT 125ml。rapeseed oil 100ml、thyme 1 束、mint 6 束、Pickling Liquid 20ml、Maldon salt/white pepper；百里香油浸；薄荷燙 10 秒，再一次煮數分鐘；冰鎮；打滑；拌 pickling liquid。
+· 核心做法：薄荷兩次燙；與百里香油打滑。
+· 用途/備註：羊肉；冷藏。
+
+10.14 Vinaigrette
+
+· 材料數據：MAKES ABOUT 700ml。lemongrass 3、demerara sugar 75g、bay 1、thyme 20g、white wine vinegar 100ml、lemon juice 100ml、rapeseed oil 500ml、extra virgin olive oil 250ml、Maldon salt 5g；香茅糖醋煮；浸過夜；與油打勻。
+· 核心做法：香茅醋浸；乳化油。
+· 用途/備註：沙律；使用前搖勻。
+
+10.15 Pickling Liquid
+
+· 材料數據：MAKES ABOUT 220ml。Muscatel vinegar 125ml、white wine vinegar 100ml、caster sugar 100g、star anise 1、cinnamon 1、cloves 3、mustard seeds 1 茶匙；醋糖煮沸；加香料冷卻浸。
+· 核心做法：熱醋糖溶糖；香料浸。
+· 用途/備註：蔬菜快速醃。
+
+10.16 Salt Pickling Liquid
+
+· 材料數據：MAKES ABOUT 300ml。caster sugar 100g、water 100ml、white wine 100ml、white wine vinegar 100ml、Maldon salt 5g；煮溶；速冷。
+· 核心做法：糖鹽醋水煮溶；速冷。
+· 用途/備註：青瓜等。
+10.17 Pickled Cobnuts
+
+· 材料數據：MAKES ABOUT 300g。cobnuts 300g、dry white wine 100ml、water 100ml、white wine vinegar 100ml、caster sugar 100g、Maldon salt 5g；去皮裝罐；熱液倒滿；醃數週。
+· 核心做法：堅果去皮；熱 pickle 液。
+· 用途/備註：配野味。
+
+10.18 Kombu Brine
+
+· 材料數據：MAKES ABOUT 2.9L。dried kombu 4、water 3L、fine sea salt 240g；kombu 浸過夜；加熱 60°C 加鹽；冷卻；只用一次。
+· 核心做法：昆布水 60°C 溶鹽。
+· 用途/備註：魚類 brine；不可重複使用。
+
+10.19 Kombu Dashi
+
+· 材料數據：MAKES ABOUT 950ml。dried kombu 3、still mineral water 2L、bonito flakes 40g、aged mirin 5 湯匙、grated citrus zest 1 茶匙、white soy 5 湯匙、ginger 10g；kombu 浸過夜；加熱；加 bonito 浸；加 mirin/柑橘/白醬油/薑；浸 30 分鐘。
+· 核心做法：昆布與柴魚低溫浸出；調味。
+· 用途/備註：蒸蛋/湯；冷藏 3 日。
+
+10.20 Vegetarian Dashi
+
+· 材料數據：MAKES ABOUT 1.9L。dried kombu 2、mineral water 2×1.5L、dried shiitake 100g、dried ceps 100g、white soy 1 湯匙；浸過夜；煮；加菇/醬油；浸 5 分鐘。
+· 核心做法：昆布+乾菇素高湯。
+· 用途/備註：素食；可冷凍。
+
+10.21 Lobster Consommé
+
+· 材料數據：MAKES ABOUT 2L。lobster heads 1kg、olive oil、onion 1、celery 2、carrots 1.5、leek 1、fennel 1/2、garlic 1、tomato paste 1/2 湯匙、brandy 175ml、dry white wine 375ml、thyme、bay 2、star anise 2、Fish Stock 2L、basil 75g、coriander 75g；clarify：egg whites 100g、shallot 1、carrot 1；蛋白筏澄清。
+· 核心做法：龍蝦殼煎香；蔬菜；酒；stock 煮 40 分鐘；香草浸；蛋白筏澄清。
+· 用途/備註：龍蝦 jelly；不可壓筏。
+
+10.22 Fish Stock
+
+· 材料數據：MAKES 2–2.5L。flat white fish bones 2.5kg、onion 1、celery 1/2 head、fennel 1、white peppercorns 3、fennel seeds 10g、coriander seeds 10g、bay 2、dill 3、parsley stalks 3、thyme 2；煮 40 分鐘；過濾。
+· 核心做法：魚骨沖淨；小火 40 分鐘；不可大滾。
+· 用途/備註：海鮮醬汁基底；可冷凍。
+
+10.23 Vegetable Stock
+
+· 材料數據：MAKES ABOUT 4L。carrots 2、celery 1、leeks 2、onions 2、fennel 1、garlic 1、water 4L、thyme 20g、chervil 20g、parsley 20g、chives 20g、coriander seeds 10g、fennel seeds 10g、white peppercorns 5g、dry white wine 375ml；煮 10 分鐘；浸過夜。
+· 核心做法：蔬菜煮短；香草浸過夜。
+· 用途/備註：素食；冷藏/冷凍。
+
+10.24 Chicken Stock
+
+· 材料數據：MAKES ABOUT 10L。chicken carcasses 5kg、onions 6、leeks 2、celery 1、carrots 3、garlic 2、bay 2、thyme 50g；煮 4 小時；過濾。
+· 核心做法：雞骨冷水煮；撇沫；4 小時。
+· 用途/備註：基礎高湯。
+
+10.25 Brown Chicken Stock
+
+· 材料數據：MAKES 4L。chicken carcasses 3kg、chicken wings 2kg、olive oil、onions 6、carrots 4、leeks 2、celery 1、garlic 2、tomato paste 30g、thyme 50g、bay 2、鹽；180°C/160°C fan/GM4 烤 45 分鐘；蔬菜焦糖；煮 4 小時。
+· 核心做法：骨烤褐；蔬菜焦糖；長煮。
+· 用途/備註：深色醬汁。
+
+10.26 Duck Stock
+
+· 材料數據：MAKES 1–1.4L。duck bones 1kg、onion 1、leek 1、carrot 1、celery 1、garlic 1/2、tomato paste 1/2 湯匙、dry white wine 100ml、Madeira 100ml、Veal Stock 1L、Chicken Stock 500ml、lemon thyme；煮 4 小時。
+· 核心做法：鴨骨煎褐；蔬菜；酒；長煮。
+· 用途/備註：鴨醬汁。
+
+10.27 Lamb Stock
+
+· 材料數據：MAKES ABOUT 750ml。lamb rib bones 1kg、onion 1、leek 1/2、carrot 1、celery 1、garlic 1/2、tomato paste 1/2 湯匙、dry white wine 200ml、reduced Veal Stock 500ml、Chicken Stock 500ml、鹽胡椒；煮 4 小時。
+· 核心做法：羊骨煎褐；蔬菜；酒；長煮。
+· 用途/備註：羊醬汁。
+
+10.28 Veal Stock
+
+· 材料數據：MAKES ABOUT 1.5L。veal bones 5kg、olive oil、onions 5、carrots 4、leek 1、celery 1/2 head、garlic 1、tomato paste 30g、calf's foot 1、thyme 50g、bay 1；180°C/160°C fan/GM4 烤 1 小時；煮 24 小時；減半。
+· 核心做法：小牛骨烤褐；蔬菜焦糖；24 小時長煮；減濃。
+· 用途/備註：濃郁肉汁基底。
+
+10.29 Pumpkin & Seaweed Oil
+
+· 材料數據：MAKES ABOUT 600ml。pumpkin seeds 200g 輕烘、sea lettuce 250g、pumpkin seed oil 100ml、light olive oil 500ml、blanched spinach 200g；Thermomix 70°C 8 分鐘；muslin 滴濾。
+· 核心做法：低溫打油；不壓渣。
+· 用途/備註：綠色海藻油；冷藏 3 日。
+
+10.30 Black Olive Oil
+
+· 材料數據：MAKES 125–150ml。dehydrated black olives 100g、olive oil 100ml；打滑；過濾。
+· 核心做法：黑橄欖與油乳化過濾。
+· 用途/備註：海鮮；冷藏一週。
+
+10.31 Chive & Dill Oil
+
+· 材料數據：MAKES ABOUT 400ml。chives 200g、dill 200g、vegetable oil 400ml；Thermomix 70°C 8 分鐘；muslin 滴濾。
+· 核心做法：香草油低溫打；懸掛滴濾。
+· 用途/備註：深綠色油；冷藏 3 日。
+
+10.32 Lemon Oil
+
+· 材料數據：MAKES ABOUT 150ml。lemon zest/juice 2、olive oil 100ml、dill 1 枝；加熱 50°C；浸 1 小時；過濾。
+· 核心做法：低溫浸檸檬香。
+· 用途/備註：海鮮/沙律。
+
+10.33 Pistachio Crumb
+
+· 材料數據：MAKES ABOUT 280g。Granny Smith 1、pistachios 100g、blanched almonds 100g、dried apricots 50g；蘋果 70°C 脫水 5 小時；堅果 160°C/140°C fan/GM3 烤 20 分鐘；切碎。
+· 核心做法：果乾與堅果切碎。
+· 用途/備註：鵪鶉/甜品。
+
+10.34 Crepes
+
+· 材料數據：MAKES ABOUT 8。plain flour 100g、eggs 2、whole milk 250ml、鹽胡椒；薄煎。
+· 核心做法：麵糊靜置；薄煎。
+· 用途/備註：Pithivier 包裹。
+
+10.35 Pain d'épices
+
+· 材料數據：MAKES 1 LOAF。butter 120g、caster sugar 120g、runny honey 170g、eggs 2、lemon purée 25g、orange marmalade 25g、plain flour 240g、baking powder 5g、pain d'épices spice 9g；160°C/140°C fan/GM3 焗 25 分鐘。Crumb：75°C 脫水 3 小時。
+· 核心做法：牛油糖打發；加蜜蛋；粉類；焗。
+· 用途/備註：鵝肝卷外層。
+
+10.36 Lemon & Yoghurt Meringue
+
+· 材料數據：MAKES 10。liquid glucose 70g、egg whites 100g、egg white powder 15g、lemon purée 30g、lemon juice 少許、plain yoghurt 20g；75°C/50°C fan very low 焗 2 小時。
+· 核心做法：葡萄糖漿沖入蛋白；打發；拌檸檬/乳酪；薄抹低溫烘乾。
+· 用途/備註：脆片裝飾。
+
+10.37 Mulled Elderberries
+
+· 材料數據：MAKES ABOUT 200g。red wine 300ml、red wine vinegar 50ml、demerara sugar 100g、star anise 1、juniper 5、cinnamon 1、orange zest/juice 1、elderberries 200g；熱液倒滿；醃數週。
+· 核心做法：香料酒煮；熱浸。
+· 用途/備註：野味。
+10.38 Apple & Blackberry Jam
+
+· 材料數據：MAKES ABOUT 500ml。Granny Smith 4、blackberries 500g、red wine 500ml、ruby port 200ml、orange zest/juice 1、star anise 1、clove 1、cinnamon 1/2；煮 1 小時；打滑。
+· 核心做法：蘋果與莓果酒煮至稠。
+· 用途/備註：鵪鶉。
+
+10.39 Damson Jam
+
+· 材料數據：MAKES ABOUT 1kg。damsons 1kg、jam sugar 1kg、orange zest/juice 2、agar 20g；煮 20 分鐘；打滑；agar 凝固。
+· 核心做法：李子糖煮；agar 增稠。
+· 用途/備註：松雞。
+
+10.40 Plum Jam
+
+· 材料數據：MAKES ABOUT 1.5kg。overripe plums 2kg、caster sugar 300g；煮至果醬；打滑。
+· 核心做法：李子加糖濃縮。
+· 用途/備註：partridge。
+
+10.41 Cherry Purée
+
+· 材料數據：MAKES ABOUT 1L。Morello cherry purée 1kg、agar 20g；煮沸；凝固；打滑。
+· 核心做法：agar 凝固後打滑。
+· 用途/備註：鴿子。
+
+10.42 Whole Lemon Purée
+
+· 材料數據：MAKES ABOUT 1L。lemons 1kg 切半、vegetable oil 65ml、caster sugar 100g、water 50ml、Maldon salt；檸檬燙 3 次；sous vide 85°C 2–2.5 小時；與糖漿打滑。
+· 核心做法：三次焯水去苦；低溫煮皮；打滑。
+· 用途/備註：甜品/海鮮。
+
+10.43 Lemon Purée
+
+· 材料數據：ABOUT 300ml。ready-made lemon purée 250ml、pectin X58 1/2 湯匙、gellan 6g、caster sugar 65g；煮沸；速冷；打滑。
+· 核心做法：膠體凝固後打滑。
+· 用途/備註：擠點。
+
+10.44 Basil Sorbet
+
+· 材料數據：MAKES ABOUT 700ml。caster sugar 100g、ice cream stabiliser 2000 2g、liquid glucose 140g、lemon juice 1/2、water 400ml、basil 80g；糖漿；basil 燙 10 秒；打滑；churn。
+· 核心做法：糖漿基底；羅勒燙後打滑。
+· 用途/備註：甜品。
+
+10.45 Pear Sorbet
+
+· 材料數據：MAKES ABOUT 1.2L。water 75ml、caster sugar 75g、trimoline 10g、lemon juice 1 湯匙、pear purée 1L；糖漿 80°C；混合 churn。
+· 核心做法：糖漿+果蓉。
+· 用途/備註：梨甜品。
+
+10.46 Blackcurrant Sorbet
+
+· 材料數據：MAKES 1.7L。water 500ml、caster sugar 175g、blackberry purée 1L、crème de cassis 2 湯匙；churn。
+· 核心做法：糖水+莓蓉+酒。
+· 用途/備註：Eton mess。
+
+10.47 Rhubarb & Rose Sorbet
+
+· 材料數據：MAKES ABOUT 1L。sugar syrup 500ml（250g caster sugar+250ml water）、rhubarb juice 500ml、super neutrose 5g、gellan 5g、rose essence 4 drops；Thermomix 40°C speed 6 10 分鐘；churn。
+· 核心做法：膠體活化；churn。
+· 用途/備註：大黃甜品。
+
+10.48 Strawberry Sorbet
+
+· 材料數據：MAKES ABOUT 1L。water 300ml、liquid glucose 1 湯匙、caster sugar 125g、dextrose 45g、ice cream stabiliser 5g、strawberry purée 450g、calamansi lime purée/juice 50g；加熱 40→80°C；churn。
+· 核心做法：糖膠加熱；加果蓉。
+· 用途/備註：草莓甜品。
+
+10.49 Goat's Cheese Ice Cream
+
+· 材料數據：MAKES ABOUT 1.2L。water 690ml、trimoline 314g、caster sugar 20g、dextrose powder 40g、superneutrose 5g、soft goat's cheese 500g、crème fraîche 100g、lemon juice 6ml；糖漿 40→80°C；取 535ml 糖漿+芝士 Thermomix 80°C speed 3；churn。
+· 核心做法：糖漿+羊芝士打滑；churn。
+· 用途/備註：Brogdale pear。
+
+10.50 Minus 8 Vinegar Ice Cream
+
+· 材料數據：MAKES ABOUT 1.3L。whole milk 750ml、egg yolks 5、caster sugar 185g、Minus 8 vinegar 60ml、full-fat yoghurt 200g；custard 70°C；churn。
+· 核心做法：custard 加醋與乳酪。
+· 用途/備註：蘋果 tatin。
+
+10.51 Olive Oil Ice Cream
+
+· 材料數據：MAKES ABOUT 1.2L。whole milk 500ml、vanilla 1、egg yolks 5、caster sugar 150g、dextrose 13g、extra virgin olive oil 150ml、crème fraîche 250g；custard；churn。
+· 核心做法：custard 加橄欖油與 crème fraîche。
+· 用途/備註：朱古力 pavé。
+
+10.52 Rum & Raisin Ice Cream
+
+· 材料數據：MAKES ABOUT 1L。dark raisins 175g、aged rum 75ml、whole milk 300ml、double cream 300ml、vanilla 1、egg yolks 8、caster sugar 55g；葡萄乾水煮 3 次；浸 rum；打蓉；custard；churn。
+· 核心做法：葡萄乾去澀；酒浸打蓉；custard。
+· 用途/備註：香蕉 soufflé。
+
+10.53 Vanilla Ice Cream
+
+· 材料數據：ABOUT 1.4L。double cream 500ml、whole milk 500ml、powdered dextrose 100g、vanilla pods 2、egg yolks 10、caster sugar 175g；custard；churn。
+· 核心做法：標準 custard 基底。
+· 用途/備註：萬用。​
+
+這是一份基於《Ikarus Invites the World’s Best Chefs》一書內容所整理的結構化知識庫。原書包含大量OCR亂碼（如重複的數字列），已在此處被過濾，並修正了明顯的拼寫錯誤（如 piegeon -> pigeon, fole gras -> foie gras, hirabi -> kohlrabi 等），以確保知識的準確性。
+
+---
+
+第一部分：📌 核心原理 / 知識框架
+
+本書的核心在於「極致的風土表達（Terroir）與跨文化烹飪技術的融合」。12位來自不同大陸的主廚，在奧地利薩爾茨堡的 Ikarus 餐廳，將各自的在地食材、文化背景與現代烹飪科學結合。
+
+1. 精準的溫度與時間控制：書中大量使用低溫慢煮（Sous-vide）、精確控溫（如巧克力調溫、油溫 190°C、低溫 54°C）與精準的酸鹼/膠體比例（如使用黃原膠 0.1g），確保食材質地（Texture）與風味（Flavor）達到完美平衡。
+2. 發酵與熟成（Fermentation & Aging）：利用微生物（如 Koji 麴菌、黑蒜、發酵黑豆）或自然酶解（如 5 週熟成鴿子、風乾馴鹿心）來提取極致的鮮味（Umami）與複雜香氣。
+3. 火與煙的藝術（Fire & Smoke）：透過乾草（Hay）、木炭（Binchotan）、煙燻槍（Smoking pipe）等不同介質，進行冷燻或熱燻，賦予食材獨特的嗅覺記憶。
+4. 零浪費與全食材利用：從根部到葉尖（Root to tip），將蔬菜邊角料轉化為高湯、粉末或脆片，或利用果皮、種子進行發酵與調味。
+5. 解構與重組（Deconstruction & Reconstruction）：將傳統菜餚（如法式清湯、義大利麵、蘋果派）拆解，以現代技法（如球化、泡沫、晶球、糖藝吹製）重新建構，呈現「視覺極簡，味覺極繁」的體驗。
+
+---
+
+第二部分：📚 模組化知識庫（按主廚與技術分類）
+
+1. Kobe Desramaults（比利時）— 風土與自然熟成
+
+· 核心技術：乾草冷燻、極長時間熟成、在地採集。
+· 代表食譜：乾草燻鯖魚（Mackerel, Kohlrabi, Lovage）
+  · 精確數據：鯖魚用 500g 粗海鹽醃製 3 小時，冷水浸泡 30 分鐘。乾草點燃至發光，覆蓋濕布使其悶燒，鯖魚冷燻 30 分鐘。
+  · 核心做法：將蘋果與苤藍切極薄片，與獨活草（Lovage）蛋黃醬、黑麥麵包脆片交錯堆疊，最後用噴火槍炙燒鯖魚皮至酥脆。
+· 代表食譜：熟成鴿子（Pigeon, Hay）
+  · 精確數據：鴿子熟成 5 週（填滿乾草吸濕），短暫煎炸後短暫煙燻。
+  · 用途/備註：不提供醬汁，僅呈現純粹的鴿胸，熟成後帶有類似火腿的香氣。
+
+2. Hans Neuner（葡萄牙）— 海洋與精確海鮮處理
+
+· 核心技術：精準海鮮熟度、在地食材（如藤壺、紫蝦）。
+· 代表食譜：紫蝦與玉米（Violet Shrimp, Corn, Smoked Milk）
+  · 精確數據：紫蝦以 55-60°C 的低溫水浴或熱燈保溫。玉米慕斯使用特製矽膠模具。
+  · 核心做法：將甜蝦與甜玉米結合，利用 Espelette 辣椒、鹹爆米花粉和酸玉米油醋汁提供對比風味。
+
+3. Virgilio Martinez（秘魯）— 垂直生態與古法新生
+
+· 核心技術：安地斯山脈食材（Cushuro 藍藻、Isco 馬鈴薯）、自然凍乾（Lyophilizing）。
+· 代表食譜：扇貝、Tumbo、南瓜（Scallops, Tumbu, Squash）
+  · 精確數據：虎奶醬（Leche de Tigre）由 50g 虎奶基底、10g 萊姆汁、65g 鱈魚肉、100g Tumbo 果泥、10g Rocoto 辣椒泥、80g 冰塊、6g 鹽混合打碎。
+  · 核心做法：扇貝切丁，搭配南瓜薄片、黑藜麥粉（炸至膨脹後染色打粉）與琉璃苣花。
+
+4. Vineet Bhatia（英國）— 現代印度與坦都爐
+
+· 核心技術：坦都爐（Tandoor）高溫與冷燻結合。
+· 代表食譜：冷燻香草鮭魚（Smoked Herb Salmon）
+  · 精確數據：鮭魚用酸奶芥末醬（優格、法式粗芥末、蜂蜜、薑黃）醃製。冷燻：在碗中放入燒紅木炭，加上綠豆蔻、丁香，淋上 1-2 湯匙液態奶油，密封燻 4 小時。
+  · 核心做法：燻好的鮭魚串在金屬籤上，放入坦都爐烤至中心溫度 40°C（或烤箱 250°C 烤 3 分鐘，餘溫 2 分鐘）。
+
+5. Gert De Mangeleer（比利時）— 自給自足與極簡美學
+
+· 核心技術：自家菜園食材、發酵（Koji 麴菌）、精確的醬汁乳化。
+· 代表食譜：黑松露與根芹（Perigord Truffle, Celeriac）
+  · 精確數據：黑松露醬汁需將馬鈴薯、培根、洋蔥炒軟，加入松露和蘑菇高湯，用調理機與冷奶油、食用黑色色素打成泥。
+  · 核心做法：小根芹用奶油慢煎 40-60 分鐘，再用噴火槍燒至全黑。底部鋪根芹泥，淋上黑色松露醬，點綴黑松露片。
+
+6. Harald Wohlfahrt（德國）— 傳統經典與極致手工
+
+· 核心技術：拒絕低溫慢煮，堅持傳統火候；糖藝吹製。
+· 代表食譜：銀冷杉蜂蜜亮面乳鴿（Lacquered Etouffee Pigeon）
+  · 精確數據：鴿子腿真空低溫 68°C 煮 4 小時；鴿胸短暫煎烤後，刷上銀冷杉蜂蜜，在 Salamander 烤爐下瞬間焦糖化。
+  · 核心做法：將鴿子內臟切碎，與血奶油（小牛血、法式酸奶油、香料）混合成內臟奶油。搭配糖漬白蘿蔔與黑胡椒醬汁。
+
+7. Tomislav Gretic（克羅地亞）— 伊斯特里亞半島風情
+
+· 核心技術：在地食材（山羊起司、蝸牛）、慢火熬煮。
+· 代表食譜：蝸牛、豬油、木薯（Snails, Lardo, Tapioca）
+  · 精確數據：活蝸牛沸水燙 2 分鐘取出蝸牛肉，泡入冷蝸牛高湯（白酒、雞高湯、小牛汁濃縮）中冷藏 24 小時。
+  · 核心做法：蝸牛裹上薄如蟬翼的豬油（Lardo）低溫加熱至融化。底部鋪木薯珍珠與芹菜泥，搭配發酵黑蒜泥與墨魚圈。
+
+8. Esben Holmboe Bang（挪威）— 北歐極簡與發酵
+
+· 核心技術：發酵（黑醋栗枝條）、在地採集（雲杉）、精確的凝膠與乳化。
+· 代表食譜：生蠔乳沫與貽貝溫醬（Oyster Emulsion with Lukewarm Mussel & Dill Sauce）
+  · 精確數據：生蠔乳沫：10 隻生蠔肉與 300ml 葵花油打成乳液，加入 0.5g 黃原膠和鹽。貽貝果凍：125g 貽貝高湯 + 30g 生蠔水 + 1g 瓊脂。
+  · 核心做法：將冷生蠔乳沫擠入碗中，放上貽貝果凍，淋上溫熱的貽貝蒔蘿醬（貽貝高湯、鮮奶油、蒔蘿油）。
+
+9. Luke Dale-Roberts（南非）— 視覺藝術與多元風味
+
+· 核心技術：分子料理（墨魚汁、球化）、強烈風味堆疊。
+· 代表食譜：墨魚汁皇家（Squid Ink Royale）
+  · 精確數據：墨魚汁與麵粉、蛋清混合成麵糊，在 60°C 烤箱烘乾 6 小時成脆片。
+  · 核心做法：將乾貝切片，搭配味醂高湯、生薑與融化的鵝肝奶油。組合出極致的鮮味（Umami）與奶油口感。
+
+10. Ben Greeno（澳洲）— 發酵與火候
+
+· 核心技術：麴菌（Koji）發酵、炭火直烤。
+· 代表食譜：和牛、蘿蔔、發酵黑豆（Wagyu Beef, Radish, Fermented Black Beans）
+  · 精確數據：和牛煎至表面焦香，切成如生牛肉塔塔般的丁狀。西瓜表面烤至焦黑，刮去焦皮，將果肉切丁（失去水分，風味濃縮）。
+  · 核心做法：西瓜皮烤成炭，製成油醋汁。搭配大麥製成的 Koji 醬汁，以及發酵黑豆粉。
+
+11. Richard van Oostenbrugge（荷蘭）— 法式功底與精準醬汁
+
+· 核心技術：醬汁的溫度控制、糖藝吹製。
+· 代表食譜：綠蘋果、核桃與焦糖（Green Apple, Walnut and Caramel）
+  · 精確數據：蘋果冰沙（250g 青蘋果泥 + 150g 糖漿 + 2.5g 檸檬酸）用液態氮急速冷凍，放入蘋果核矽膠模具中。糖球：250g 異麥芽酮糖醇（Isomalt）加熱至 170°C，吹成蘋果形狀。
+  · 核心做法：將焦糖醬、核桃碎、蘋果球放入酥皮環中，蓋上糖球。
+
+12. Christopher Kostow（美國）— 農場直送與自然
+
+· 核心技術：蕎麥脆皮、精確的鹽漬。
+· 代表食譜：亮面野生鮭魚、蕎麥皮（Glazed Wild Salmon, Buckwheat Skin）
+  · 精確數據：鮭魚用 30g 五月蘿蔔葉與 400g 鹽混合醃製 20-25 分鐘。蕎麥粉：35g 異麥芽酮糖醇 + 200g 蕎麥 + 14g 海萵苣粉 + 3g 蔬菜灰 + 35g Trisol + 5g 鹽。
+  · 核心做法：鮭魚裹上蛋清與蕎麥粉，在無油熱鍋中快速煎 3-5 次，利用異麥芽酮糖醇融化形成極薄的脆皮，魚肉完全不熟，保持生食口感。
+
+
+
+Gather: 100+ Seasonal Recipes that Bring People Together》食譜精華
+
+
+---
+
+春季（Spring）
+
+春洋蔥蘸醬
+
+· 奶油芝士 ½磅、酸奶油 ½杯、蜂蜜 1湯匙、猶太鹽 ½茶匙、蛋黃醬 ¼杯、煙燻紅椒粉 ½茶匙、春洋蔥 ½杯
+· 重點：奶油芝士打至蓬鬆，拌入其餘材料即可。
+
+小棠菜配 Salsa Macha
+
+· 小棠菜、蘑菇、甜椒、洋蔥、Salsa Macha、鹽、胡椒、橄欖油
+· 重點：小棠菜焯水冰鎮；蘑菇炒香，加甜椒洋蔥炒軟，拌入小棠菜，淋 Salsa Macha。
+
+香脆三文魚配紅 Chermoula 醬
+
+· 三文魚 1磅、芥花油 1湯匙、牛油 2湯匙、百里香 3枝、蒜 2瓣、½檸檬、紅 Chermoula 醬
+· 重點：魚皮朝下煎烤，加牛油百里香蒜澆淋，擠檸檬汁，淋醬。
+
+天使蛋糕配百香果醬
+
+· 糖 1½杯、蛋糕粉 1杯、鹽 ¼茶匙、蛋白 12個、塔塔粉 1½茶匙、香草 1½茶匙
+· 百香果醬：橙汁 2杯、糖 3湯匙、鹽 ½茶匙、百香果 2個
+· 重點：蛋白打至軟性發泡，拌入粉類，倒入未抹油 Bundt 盤，325°F 烤 40 分鐘，倒扣冷卻。
+
+杏仁脆糖
+
+· 牛油 ½杯、杏仁片 2½杯、糖 2杯、水 ½杯、鹽 2茶匙、小蘇打 1茶匙
+· 重點：牛油炒杏仁至香；糖水煮至 310°F，拌入杏仁牛油，加小蘇打，鋪平冷卻。
+
+Let the Sun Shine 雞尾酒
+
+· 伏特加 ½盎司、生薑利口酒 ½盎司、金桔糖漿 ½盎司、青檸汁 ½盎司、百香果泥 2盎司、糖漬金桔 1個
+· 重點：所有材料加冰搖勻，濾入高球杯，以糖漬金桔裝飾。
+
+糖漬金桔
+
+· 水 ½杯、糖 1杯、金桔 1杯
+· 重點：糖水煮溶，加金桔小火煮 15 分鐘，瀝乾後 130°F 脫水 8 小時。
+
+胡蘿蔔生薑濃湯
+
+· 牛油 2湯匙、洋蔥 1個、蒜 5瓣、生薑 2盎司、胡蘿蔔 2磅、雞湯 6杯、重奶油 1杯、Crème fraîche 1杯、烤堅果、香草油
+· 重點：牛油炒洋蔥蒜薑至軟，加蘿蔔雞湯煮沸，加奶油煮 10 分鐘，攪打順滑，調味裝飾。
+
+烤西蘭花配檸檬帕瑪森油醋汁
+
+· 西蘭花、醃紅洋蔥 ½杯、松子 ½杯
+· 油醋汁：蛋黃 1個、帕瑪森 ¼杯、檸檬汁 2湯匙、芥末 1茶匙、芥花油 1杯
+· 重點：西蘭花焯水冰鎮；油醋汁拌勻乳化；西蘭花高溫煎至微焦，淋汁，撒醃洋蔥松子。
+
+綠色女神青醬
+
+· 芹菜葉 ¼杯、歐芹 ½杯、龍蒿 2湯匙、細香蔥 ½杯、葵花籽 ¾杯、鹽 2茶匙、檸檬汁 1茶匙、檸檬皮 1個、芥花油 ¾杯、橄欖油 ¼杯
+· 重點：除油外所有材料打碎，慢慢加油乳化。
+
+全味香料吞拿魚配蔥奶油芝士
+
+· 吞拿魚 ½磅、蔥 ½磅、蒜 1瓣、檸檬皮 1片、芥花油 ¼杯、洋蔥碎 1湯匙、蒜碎 ¾湯匙、白芝麻 ½茶匙、黑芝麻 ½茶匙、罌粟籽 ½茶匙
+· 蔥奶油芝士：奶油芝士 ½杯、蔥 2湯匙、鹽 ½茶匙、白胡椒 ¼茶匙、檸檬皮 1茶匙
+· 重點：蔥蒜檸檬皮焯水冰鎮打泥，加油乳化；吞拿魚裹種子混合物，每面煎 10 秒，配蔥泥和奶油芝士。
+
+炸雞三文治
+
+· 雞腿 4塊、酪乳 2杯、Sazon 1½茶匙、Epis 1湯匙、Pikliz 滷汁 1湯匙、Adobo 1湯匙
+· 炸粉：麵粉 2杯、黑胡椒 1茶匙、Adobo 1茶匙、Sazon 1茶匙、蒜粉 2茶匙
+· 配 Adobo Brioche 包、車打芝士 4片、煙肉 8片、Epis 蛋黃醬、Pikliz
+· 重點：雞肉醃 4-6 小時，裹炸粉，325°F 炸至金黃熟透，組裝三文治。
+
+Epis 蛋黃醬
+
+· Epis 1湯匙、蛋黃醬 1杯、青檸汁 1茶匙、蔥 1湯匙、歐芹 1湯匙
+· 重點：所有材料拌勻。
+
+簡單糖漿
+
+· 水 1杯、糖 2杯
+· 重點：水煮沸，加糖攪拌溶解，冷卻。
+
+蘭姆潘趣酒
+
+· Barbancourt 蘭姆酒 2盎司、橙汁 1½盎司、菠蘿汁 1½盎司、青檸汁 1½盎司、石榴糖漿 1湯匙、簡單糖漿 1湯匙
+· 重點：所有材料加冰搖勻，濾入高球杯，裝飾。
+
+胡蘿蔔蛋糕
+
+· 牛油 ½杯、糖 1杯、蛋 2個、麵粉 1¼杯+2湯匙、肉桂 1茶匙、肉豆蔻 1茶匙、泡打粉 2茶匙、鹽 1茶匙、胡蘿蔔絲 2杯、烤杏仁奶油霜
+· 重點：牛油煮至棕色冷卻；糖蛋打至蓬鬆，加棕色牛油蘿蔔，拌入乾料，倒入 9x5 吋盤，325°F 烤 40-45 分鐘，抹奶油霜。
+
+烤杏仁奶油霜
+
+· 杏仁片 1杯、奶油芝士 2杯、牛油 ½杯、糖粉 ½杯、鹽 1茶匙
+· 重點：杏仁 350°F 烤 6 分鐘；其餘材料打勻，加杏仁打至蓬鬆。
+
+混合沙律配蔓越莓橙油醋汁
+
+· 蘋果醋 2湯匙、蜂蜜 1湯匙、鹽 ½茶匙、橙皮 1個、橙汁 ¼杯、芥末 ½茶匙、蔓越莓 ½杯、芥花油 ½杯
+· 沙律菜 ½磅、蘿蔔片 ½杯、胡蘿蔔片 ½杯、糖漬碧根果 ½杯、紅洋蔥 ½個、亞洲梨 1個
+· 重點：油醋汁材料（除油）攪打，加油乳化；沙律材料拌勻，淋汁。
+
+香草麵包糠鱈魚配酸豆奶油
+
+· 鱈魚 1磅、Panko 1½杯、歐芹 1湯匙、細香蔥 1湯匙、羅勒 1湯匙、芥花油 2湯匙
+· 酸豆奶油：牛油 2湯匙、紅蔥頭 2湯匙、蒜 2瓣、酸豆 2湯匙、白酒 2湯匙、重奶油 1杯、檸檬汁 1湯匙
+· 重點：鱈魚一面裹 Panko 香草碎，煎至金黃，400°F 烤 6-8 分鐘，配酸豆奶油。
+
+快速酥皮麵團
+
+· 麵粉 2杯、鹽 1茶匙、牛油 1¼杯、冷水 ½杯
+· 重點：麵粉鹽脈衝混合，加牛油脈衝，加水脈衝成團，擀平摺疊兩次，冷藏 30 分鐘。
+
+島嶼之夢雞尾酒
+
+· 草莓 2個、羅勒 4片、青檸角 1個、伏特加 2盎司、草莓灌木糖漿 ¼盎司、椰奶 ¼盎司、青檸汁 ¼盎司
+· 重點：草莓羅勒青檸搗碎，加其餘材料加冰搖勻，濾入杯，裝飾。
+
+草莓灌木糖漿
+
+· 草莓 ½杯、糖 ½杯、蘋果醋 ½杯
+· 重點：所有材料小火煮 5-8 分鐘，過濾冷卻。
+
+煎帶子配醃蘿蔔和醃金桔
+
+· 帶子 1磅、西瓜蘿蔔 2個、橄欖油 ½杯、蜂蜜 ¼杯、米醋 2茶匙、醬油 2茶匙、芝麻油 1茶匙、生薑 1茶匙、紅蔥頭 2茶匙、芥花油 3湯匙、牛油 2湯匙、醃金桔、蔥、黑芝麻
+· 重點：蘿蔔與調味料醃 45 分鐘；帶子調味高溫煎至金黃，翻面加牛油澆淋至 125°F，配醃蘿蔔。
+
+醃金桔
+
+· 金桔 ½磅、米醋 2杯、糖 2湯匙、鹽 ½茶匙
+· 重點：金桔放罐中；醋糖鹽煮沸溶解，倒入金桔，冷卻。
+
+Pikliz（海地辣醃菜）
+
+· 捲心菜 ¼個、胡蘿蔔 1根、紅蔥頭 2個、三色燈籠椒各 ¼個、蘇格蘭帽椒 2個、青檸汁 1個、白醋 4杯、鹽 2茶匙
+· 重點：蔬菜放碗；辣椒青檸汁¼杯醋微波 2 分鐘，倒入蔬菜，加剩餘醋至蓋過，加鹽，冷藏醃 48-72 小時。
+
+海地香料 Epis
+
+· 蔥 8根、歐芹 ½束、蒜 1½盎司、洋蔥 ¼個、百里香 1湯匙、四色燈籠椒各 ¼個、哈瓦那辣椒 ¼個、橄欖油 2湯匙、青檸汁 ½個、鹽
+· 重點：所有材料攪打成粗糊，調味後打至順滑。
+
+自製 Ricotta 芝士
+
+· 全脂牛奶 8杯、鹽 1湯匙、檸檬汁 ½杯
+· 重點：牛奶鹽加熱至 155°F，離火加檸檬汁，輕拌至凝乳形成，倒入芝士布濾網瀝乾。
+
+烤甜菜沙律
+
+· 紅/金/粉紅甜菜各 3個、百里香 6枝、蒜 6瓣、橄欖油 3湯匙、醬油 3湯匙、水 6湯匙、苦苣 2盎司、草莓 8個、山羊芝士 4盎司、糖漬核桃 1杯
+· 油醋汁：香檳醋 2湯匙、紅蔥頭 1茶匙、蜂蜜 1湯匙、芥末 1茶匙、鹽 ½茶匙、黑胡椒 ½茶匙、牛至 1茶匙、芥花油 ¾杯
+· 重點：甜菜分色錫紙包裹，加調味料 400°F 烤 45-60 分鐘，去皮切塊；油醋汁乳化；甜菜拌汁，鋪苦苣草莓，撒芝士核桃。
+
+Salsa Macha
+
+· 花生 1杯、橄欖油 2杯、蒜 5瓣、紅蔥頭 1個、葵花籽 ¼杯、孜然 ½茶匙、茴香籽 ½茶匙、白芝麻 1湯匙、黑芝麻 1湯匙、芫荽籽 1湯匙、三種乾辣椒、蘋果醋 1茶匙、鹽
+· 重點：花生油中小火煮至變色，加其餘材料煮至蒜蔥變色，冷卻過濾（保留油），固體粗磨，拌回油調味。
+
+Poule Nan Sos（海地燉雞）
+
+· 雞腿 4塊、白醋 1湯匙、檸檬汁 2湯匙、Epis 6湯匙、Adobo 2茶匙、黑胡椒 ½茶匙、蒜粉 2茶匙、青檸汁 ½個、芥花油 2湯匙、番茄膏 1½湯匙、紅/綠燈籠椒各 1個、洋蔥 1個、歐芹 6枝、百里香 6枝、丁香 8粒、哈瓦那辣椒 1個、雞湯塊 1塊、白飯
+· 重點：雞肉用醋檸檬搓洗，Epis 醃過夜；與調味料煮 15-20 分鐘；取出煎金黃；加番茄膏、Epis、燈籠椒洋蔥煮；加回鍋汁、香草、辣椒、雞湯塊；中小火煮 20-25 分鐘至軟嫩，配飯。
+
+夏季（Summer）
+
+Skillet 粟米麵包
+
+· 牛油 ½杯、蛋 3個、紅糖 2湯匙、粟米粉 1杯、麵粉 1杯、泡打粉 1湯匙、鹽 ½茶匙、芥末粉 ½茶匙、辣椒粉 1茶匙、蜂蜜 ½杯、酪乳 1杯、Ricotta 2湯匙
+· 重點：牛油煮至棕色冷卻；蛋糖打蓬鬆，加棕色牛油蜂蜜酪乳 Ricotta，拌入乾料，倒入鑄鐵鍋，325°F 烤 35 分鐘。
+
+紐約客牛排配芝麻菜 Chimichurri
+
+· 牛排 1磅、橄欖油 2湯匙、牛油 2湯匙、百里香 2枝、蒜 2瓣、紅蔥頭 1個
+· Chimichurri：芝麻菜 ½杯、牛至 1½茶匙、紅蔥頭 1個、蒜 1瓣、紅酒醋 2湯匙、橄欖油 ½杯
+· 重點：牛排調味高溫煎每面 1 分鐘，加牛油香草澆淋，475°F 烤 3 分鐘至 125°F，靜置切片，淋 Chimichurri。
+
+腰果糖
+
+· 紅糖 1½杯、肉桂 1湯匙、生薑粉 1½茶匙、肉豆蔻 1茶匙、水 ½杯、牛油 2½湯匙、青檸汁 1½湯匙、腰果 2杯、粗鹽
+· 重點：除腰果鹽外所有材料煮沸，加腰果煮至焦糖濃稠（265°F），鋪盤撒鹽，冷卻切塊。
+
+烤菠蘿 Piña Colada
+
+· 菠蘿 2塊、薄荷 5片、蘭姆酒 2盎司、椰奶 ½盎司、菠蘿汁 ½盎司、簡單糖漿 1盎司、青檸汁 ½盎司
+· 重點：菠蘿用噴槍燒焦；一塊菠蘿薄荷搗碎，加其餘材料加冰搖勻，濾入碎冰杯，裝飾。
+
+烤粟米配香菜 Crema 和 Cotija
+
+· 粟米 4穗、牛油、香菜 2湯匙、酸奶油 1杯、鹽 ½茶匙、糖 1茶匙、青檸汁 2茶匙、青檸皮 1茶匙、煙燻紅椒粉 ½茶匙、辣椒粉 ¼茶匙、Cotija 芝士 1杯
+· 重點：粟米保留最外層苞葉烤至軟微焦；去苞葉刷牛油烤至微焦；其餘材料（除 Cotija）打勻成 crema，淋粟米，撒芝士香菜。
+
+烤桃子沙律配檸檬蜂蜜油醋汁
+
+· 桃子 4個、橄欖油 2湯匙、莫扎瑞拉 6盎司、開心果 ½杯、車厘茄 1杯、羅勒
+· 油醋汁：芥末 ½茶匙、紅蔥頭 2茶匙、羅勒 4片、鹽 ½茶匙、黑胡椒 ¼茶匙、橄欖油 ⅓杯
+· 重點：桃子刷油調味，切面朝下烤 1-2 分鐘；油醋汁乳化；芝士開心果車厘茄拌汁，與桃子擺盤。
+
+種子酪乳麵包
+
+· 酪乳 ½杯、麵粉 2杯、鹽 ¾茶匙、酵母 ¾茶匙、糖 2½湯匙、蛋 2個、牛油 4湯匙、牛奶 1茶匙、混合種子 ¼杯
+· 重點：材料混合成光滑彈性麵團，發酵 30 分鐘；分 3½盎司塊滾圓，發酵 30 分鐘；刷蛋液撒種子，325°F 烤 20-25 分鐘。
+
+克里奧爾 Smash 漢堡
+
+· 免治牛肉 1磅、Epis 1湯匙、燈籠椒 2湯匙、洋蔥 2湯匙、Adobo 1茶匙、蒜粉 2茶匙、黑胡椒 1茶匙、芥花油 3湯匙、車打芝士 4片、牛油 2湯匙、種子麵包 4個、香料蛋黃醬、煙肉 8片
+· 重點：牛肉與調味料混合分球；高溫煎並壓平，每面 2-3 分鐘，加芝士融化；麵包抹牛油烤，抹蛋黃醬，組裝。
+
+香料蛋黃醬
+
+· Epis 1湯匙、蛋黃醬 1杯、番茄醬 2湯匙、Pikliz 滷汁 2茶匙、蔥 1湯匙、Adobo 1茶匙、蒜粉 1茶匙、Sazon ½茶匙、紅椒粉 ½茶匙、辣椒粉 ¼茶匙
+· 重點：所有材料拌勻。
+
+咖啡蛋糕
+
+· 餡料：紅糖 ¾杯、麵粉 ¾杯、肉桂 2茶匙
+· 酥粒：牛油 6湯匙、紅糖 1杯、肉桂 1½湯匙、麵粉 1杯
+· 蛋糕體：牛油 1杯、糖 1杯、紅糖 ⅔杯、鹽 1茶匙、泡打粉 1湯匙、麵粉 3⅔杯、香草 1湯匙、酸奶油 ¾杯、牛奶 1¼杯、蛋 3個
+· 重點：餡料酥粒分別拌勻；牛油糖打蓬鬆，加濕料蛋，拌乾料；倒入 13x9 吋盤，鋪餡料和剩餘麵糊，撒酥粒，350°F 烤 35 分鐘。
+
+香草油
+
+· 羅勒 ½杯、歐芹 ½杯、細香蔥 ½杯、橄欖油 ⅓杯
+· 重點：所有材料攪打至油冒煙，倒入熱鍋煮 20 秒，立即冰浴冷卻，過濾。
+
+加勒比烤雞翼
+
+· 雞翼 2磅、Jerk 香料 ¼杯+1湯匙、麵粉 2杯、芥花油
+· 醬汁：番茄醬 1杯、Jerk 香料 1湯匙、青檸汁 1茶匙、Sos Ti Malice 2茶匙、紅糖 2茶匙
+· 重點：雞翼用¼杯 Jerk 醃 2 小時，裹麵粉和剩餘香料，325°F 炸至金黃熟透；醬汁拌勻，淋上或蘸食。
+
+Jerk 香料混合
+
+· 洋蔥粉、蒜粉、乾百里香、Adobo 各 1湯匙；Sazon、辣椒粉、鹽、黑胡椒各 2茶匙；多香果、紅椒粉各 1湯匙；紅椒碎、孜然各 1茶匙；肉桂 2茶匙；肉豆蔻 ½茶匙；丁香粉、生薑粉各 1茶匙；Epis 1杯；棕化醬 1湯匙
+· 重點：所有材料拌勻。
+
+烤豬柳配綠色女神青醬
+
+· 豬柳 2塊、鹽 2茶匙、黑胡椒 1茶匙、煙燻紅椒粉 1茶匙、洋蔥粉 1茶匙、蒜粉 ½茶匙、孜然 ½茶匙、青醬 ½杯
+· 重點：豬柳調味，中火烤至 130°F，靜置 10 分鐘（升至 140°F），切片淋青醬。
+
+檸檬蛋白批
+
+· 酥皮：快速酥皮麵團
+· 餡料：檸檬汁 1½杯、檸檬皮 1湯匙、蛋黃 4個、糖 1杯、粟粉 ¼杯、牛油 4湯匙
+· 蛋白霜：水 ½杯、糖 1杯、蛋白 4個、塔塔粉 ¼茶匙
+· 重點：酥皮盲烤至金黃；檸檬餡煮至濃稠，倒入批皮冷藏；糖水煮至 240°F，蛋白打硬性發泡，沖入糖漿打至冷卻；鋪蛋白霜，噴槍烤金黃。
+
+糖蜜蜂蜜牛油
+
+· 牛油 1杯、糖蜜 2茶匙、蜂蜜 2湯匙、粗鹽
+· 重點：牛油糖蜜蜂蜜拌勻，撒鹽。
+
+醃紅洋蔥
+
+· 紅洋蔥 1個、紅酒醋 2杯、茴香籽 1茶匙、芥末籽 1茶匙、芹菜籽 ½茶匙、糖 ⅓杯、鹽 1茶匙
+· 重點：洋蔥放罐；其餘材料煮沸溶解，倒入洋蔥蓋過，冷卻。
+
+醃胡蘿蔔
+
+· 蘋果醋 2杯、糖 ¼杯、芫荽籽 2茶匙、茴香籽 1茶匙、紅椒碎 ½茶匙、鹽 ½茶匙、胡蘿蔔 2根
+· 重點：除蘿蔔外材料煮沸；蘿蔔放罐，倒滷汁，冷卻。
+
+Diri Kole（海地米豆飯）
+
+· 紅腰豆 ½杯、芥花油 2湯匙、Epis 1湯匙、Adobo 2茶匙、蒜粉 2茶匙、鹽 2茶匙、巴斯馬蒂米 1杯
+· 重點：腰豆煮軟（45-50 分鐘），保留煮豆水；油炒 Epis，加豆調味料拌勻；加 1½杯煮豆水煮沸，加米拌勻，小火加蓋煮至吸收，燜 5 分鐘。
+
+章魚 Tostadas
+
+· 章魚 5磅、水 8杯、橙 3個、青檸 3個、歐芹 ½束、紅蔥頭 2個、蒜 5瓣、芫荽籽 2湯匙、黑胡椒粒 1湯匙
+· 蔥蛋黃醬：蛋黃醬 ½杯、青檸汁 1茶匙、蔥綠 1湯匙、歐芹 1湯匙
+· 配玉米餅 12張、紅 Chermoula 1杯、香菜、醃胡蘿蔔、Cotija 1杯
+· 重點：章魚與香料煮 1.5 小時至軟，冰鎮；玉米餅 350°F 炸脆調味；章魚擦乾炸 2-3 分鐘至脆，切塊；tostada 抹蛋黃醬，放章魚，淋 Chermoula，裝飾。
+
+花生醬雪糕
+
+· 花生醬 1杯、糖 ¾杯、牛奶 1杯、重奶油 2杯、香草 2茶匙、鹽 ¼茶匙
+· 重點：所有材料拌勻，雪糕機攪 35 分鐘，冷凍 5 小時。
+
+帶頭蝦雞尾酒配細香蔥泥和檸檬蛋黃醬
+
+· 蝦 15隻、水 8杯、檸檬 3個、黑胡椒粒 1湯匙、茴香籽 1湯匙、紅椒碎 1湯匙、歐芹 ¼束、紅蔥頭 2個、蒜 ¼杯、鹽 2湯匙
+· 細香蔥泥：細香蔥 ½磅、檸檬皮 1片、紅蔥頭 1個、蒜 1瓣、芥花油 ¼杯
+· 配檸檬蛋黃醬、雞尾酒醬
+· 重點：香料水煮沸，蝦煮 2-3 分鐘冰鎮；細香蔥等焯水冰鎮打泥加油乳化；蝦擺盤，點綴蔥泥和蛋黃醬。
+
+雞尾酒醬
+
+· 番茄醬 1杯、辣根 1湯匙、檸檬汁和皮 1個、細香蔥 1湯匙、鹽、黑胡椒
+· 重點：所有材料拌勻。
+
+檸檬蛋黃醬
+
+· 蛋黃醬 1杯、檸檬皮 2個
+· 重點：所有材料拌勻。
+
+Smash 馬鈴薯配夏季豆、Pancetta、帕瑪森
+
+· 馬鈴薯 1½磅、蒜 5瓣、百里香 3枝、黑胡椒粒 1湯匙、夏季豆 ½磅、Pancetta 4盎司、芥花油、帕瑪森 ½杯
+· 重點：馬鈴薯與香料煮軟瀝乾；豆焯水冰鎮；Pancetta 煎脆；馬鈴薯壓扁擦乾，325°F 炸金黃；與豆 Pancetta 拌勻調味，撒帕瑪森。
+
+焦糖李子配茴香、橙、生薑乳酪和松子
+
+· 香檳醋 1杯、橙汁 ½杯、糖 3湯匙、鹽 ½茶匙、茴香 ½個、生薑 2湯匙、希臘乳酪 ½杯、牛油 2湯匙、李子 3個、茴香青醬、Cara Cara 橙 1個
+· 重點：醋橙汁糖鹽煮沸，醃茴香片；生薑乳酪拌勻；李子蘸糖煎至焦糖化，切塊與醃茴香拌勻；盤底鋪乳酪，放李子茴香，淋青醬，裝飾橙片。
+
+茴香青醬
+
+· 松子 ¾杯、茴香葉 1杯、歐芹 ½杯、薄荷 10片、鹽 1茶匙、黑胡椒 ½茶匙、檸檬汁 1茶匙、檸檬皮 1個、芥花油 ¼杯、橄欖油 1湯匙
+· 重點：松子 350°F 烤 6 分鐘；除油外材料打碎，加油乳化。
+
+V.O. Griot 三文治
+
+· V.O. Griot 抹醬、Adobo Brioche 包 2個、Griot ½磅、火腿 4片、瑞士芝士 4片、Pikliz ½杯
+· 重點：麵包抹醬，放材料，帕尼尼機烤至金黃芝士融化。
+
+V.O. Griot 抹醬
+
+· 酸橙汁 2茶匙、蛋黃醬 1杯、青檸汁 1茶匙、歐芹 1湯匙
+· 重點：所有材料拌勻。
+
+粉紅胡椒蛋白霜
+
+· 水 ½杯、糖 1杯、蛋白 4個、塔塔粉 ¼茶匙、粉紅胡椒 1湯匙、可可粒 1湯匙、可可粉
+· 重點：糖水煮至 240°F；蛋白打硬性發泡，沖入糖漿打至冷卻；鋪盤撒胡椒可可粒可可粉，250°F 烤 20-30 分鐘，關火燜 45 分鐘。
+
+紅絲絨蛋糕
+
+· 蛋糕體：麵粉 2½杯、小蘇打 1茶匙、鹽 1茶匙、可可粉 4茶匙、蛋 2個、糖 1½杯、芥花油 1½杯、牛奶 ⅓杯、Crème fraîche 1杯、紅色色素 1-2湯匙、白醋 1茶匙、香草 2茶匙
+· 慕斯：明膠 1½茶匙、蛋黃 6個、糖 1杯、馬斯卡彭 1磅、奶油芝士 1磅、香草 2茶匙
+· 配粉紅胡椒蛋白霜
+· 重點：乾料混合；蛋糖打蓬鬆，加濕料拌勻，拌乾料；倒入兩個 10 吋盤，350°F 烤 25-35 分鐘；慕斯材料隔水加熱打勻冷藏；蛋糕橫切，層層抹慕斯，頂部裝飾慕斯和碎蛋白霜。
+
+秋季（Fall）
+
+烤菊苣配芝麻醬蒔蘿凱撒醬
+
+· 菊苣 2個、橄欖油 1湯匙、檸檬汁 1湯匙、歐芹 2湯匙、蒔蘿 1湯匙
+· 凱撒醬：芝麻醬 2湯匙、帕瑪森 ¼杯、黑胡椒 1茶匙、鹽 1½茶匙、鯷魚 3條、檸檬皮 1個、檸檬汁 2湯匙、蛋黃 3個、芥末 1湯匙、芥花油 ¾杯、蒔蘿 1湯匙
+· 重點：菊苣拌油檸檬汁香草，烤至軟微焦，淋凱撒醬，撒帕瑪森檸檬皮芝麻麵包丁。
+
+Adobo Brioche 麵包
+
+· 溫水 ½杯、酵母 ¾茶匙、麵粉 2杯、鹽 ¾茶匙、蒜粉 ½茶匙、Adobo 1茶匙、糖 2½湯匙、蛋 2個、牛油 4湯匙、牛奶 1茶匙
+· 重點：酵母溫水靜置 10 分鐘；加其餘材料混合成光滑彈性麵團，發酵 30 分鐘；分 6-8 份滾圓，發酵 1 小時；刷蛋液，325°F 烤 20-25 分鐘。
+
+蘋果牛油
+
+· 白蘭地 3杯、蘋果 5磅、楓糖漿 ½杯、紅糖 ¼杯、鹽 1茶匙、肉桂 ½茶匙、芫荽 ¼茶匙、丁香粉 ¼茶匙、肉豆蔻 ¼茶匙
+· 重點：白蘭地濃縮一半；蘋果切塊煮軟瀝乾，用食物研磨機處理，加濃縮酒和調味料拌勻，倒入淺盤，225°F 烤 1-1.5 小時（每 10 分鐘攪拌），攪打順滑。
+
+甜菜 Poke 配白醬油油醋汁
+
+· 三色甜菜各 3個、百里香 6枝、蒜 6瓣、橄欖油 3湯匙、醬油 3湯匙、水 6湯匙
+· 油醋汁：米醋 2湯匙、蜂蜜 2茶匙、芥末 1茶匙、白醬油 2茶匙、黑胡椒 ½茶匙、芝麻油 1茶匙、芥花油 ¾杯
+· 配白飯、蘿蔔、芝麻、蔥
+· 重點：甜菜分色錫紙包裹，加調味料 400°F 烤 45-60 分鐘，去皮切塊；油醋汁乳化；甜菜拌汁，鋪白飯，以蘿蔔芝麻蔥裝飾。
+
+糖漬碧根果
+
+· 碧根果 1½杯、水 ¼杯、糖 ¾杯、鹽 ½茶匙、肉桂 ¾茶匙、生薑粉 ¼茶匙
+· 重點：碧根果 350°F 烤 6 分鐘；其餘材料煮沸至 235°F，加碧根果拌勻，鋪盤冷卻。
+
+熱帶桑格利亞
+
+· 紅酒 5盎司、蘭姆酒 ½盎司、蘋果 ½個、橙片 2片、菠蘿汁 1盎司、橙汁 1盎司、蘋果汁 ½盎司
+· 重點：紅酒蘭姆拌勻；杯中加冰水果果汁拌勻；慢慢將紅酒混合物浮頂；裝飾。
+
+芝士拼盤
+
+· 藍芝士、Manchego、Camembert 各 4-6盎司、麵包 12片、蘋果牛油 ¼杯、糖漬碧根果 ½杯、醃胡蘿蔔 ½杯、蜂巢 ½杯、全粒芥末 ¼杯
+· 重點：所有材料美觀擺盤。
+
+自製薯片
+
+· 芥花油、愛達荷馬鈴薯 2個、番薯 2個、紅椒粉 2茶匙、醋粉 1茶匙、鹽 2湯匙、黑胡椒 1湯匙
+· 重點：油加熱 300°F；薯仔番薯切薄片冷水沖洗擦乾；分批炸金黃；撒調味料。
+
+手工鄉村麵包
+
+· 中筋麵粉 350克、全麥麵粉 150克、溫水 375克、酵母 500毫克、鹽 11克
+· 重點：麵粉水混合靜置 45-60 分鐘；加酵母鹽摺疊，每 30 分鐘摺疊一次，共 12-14 小時；整形發酵 1 小時 15 分鐘；475°F 荷蘭鍋烤 20 分鐘，開蓋烤 20 分鐘。
+
+鱈魚濃湯
+
+· 馬鈴薯 1個、煙肉 ½磅、牛油 ½杯、洋蔥 1個、芹菜 1杯、胡蘿蔔 2根、麵粉 ¾杯、海鮮高湯 2杯、重奶油 1杯、牛奶 2杯、鱈魚 1磅、紅椒粉 1茶匙、辣椒粉 ½茶匙、檸檬汁 1湯匙
+· 重點：馬鈴薯焯水；煙肉煎脆，加牛油蔬菜炒軟，加麵粉煮棕，加高湯奶油牛奶煮稠，加鱈魚煮 8-10 分鐘，加馬鈴薯調味料煮 5 分鐘。
+
+芝士蛋糕條配朱古力甘納許
+
+· 餅底：全麥餅乾碎 1⅓杯、棕色牛油 ⅓杯、糖 ¼杯
+· 餡料：奶油芝士 4杯、糖 1杯、酸奶油 1杯、香草 2茶匙、檸檬汁 1½茶匙、蛋 3個
+· 甘納許：朱古力豆 ¾杯、重奶油 ½杯
+· 重點：餅底壓入 13x9 吋盤，350°F 烤 8 分鐘；芝士餡打勻倒餅底，水浴烤 45 分鐘，關火燜 1 小時；甘納許融化拌勻冷藏；蛋糕冷藏 2 小時抹甘納許切片。
+
+英式鬆餅
+
+· 牛奶 ¾杯、牛油 1½湯匙、鹽 ¾茶匙、糖 2½茶匙、蛋 1個、麵粉 1⅔杯、酵母 1茶匙、粗粒小麥粉
+· 重點：牛奶加熱，與材料混合成光滑麵團，發酵 1 小時；擀 ¾ 吋厚切 3 吋圓，沾粗粒小麥粉，低溫鑄鐵鍋每面煎 6-8 分鐘。
+
+橄欖油燉 Delicata 南瓜配蘋果牛油和香料南瓜籽
+
+· 橄欖油 4杯、百里香 4枝、蒜 3瓣、鼠尾草 1枝、Delicata 南瓜 3個、蘋果片、香料南瓜籽、蘋果牛油 1杯
+· 重點：油香草低溫加熱；南瓜放入深盤倒油，325°F 烤 15 分鐘；南瓜調味烤微焦；油加熱炸鼠尾草；擺盤配蘋果牛油。
+
+香料南瓜籽
+
+· 南瓜籽 1杯、橄欖油 1湯匙、Advieh 香料 2茶匙、鹽 1茶匙、黑胡椒 1茶匙
+· 重點：所有材料拌勻，325°F 烤 10 分鐘。
+
+Griot（海地炸豬肉）
+
+· 豬肩肉 2磅、Epis ¼杯、酸橙汁 2湯匙、青檸汁 2湯匙、Adobo 1½湯匙、蒜粉 1½湯匙、Sazon 2茶匙、鹽、歐芹 6枝、百里香 6枝、丁香 8粒、哈瓦那辣椒 1個、芥花油
+· 配燈籠椒、紅洋蔥、紅蔥頭、香草、青檸角
+· 重點：豬肉用調味料醃 6-7 小時；連醃料加水煮 20 分鐘至軟；瀝乾 350°F 炸脆；裝飾配青檸角。
+
+椰子馬卡龍
+
+· 甜椰絲 7盎司、甜煉奶 7盎司、香草 ½茶匙、蛋白 1個、黑朱古力豆 4盎司、鹽 ⅛茶匙
+· 重點：椰絲煉奶香草拌勻；蛋白打硬性發泡拌入；舀盤 325°F 烤 25-30 分鐘；朱古力融化淋面撒鹽。
+
+醃紫甘藍
+
+· 紅酒醋 ½杯、芥花油 ¼杯、糖 ⅔杯、鹽 1½茶匙、乾芥末 1½茶匙、芹菜籽 1茶匙、芥末籽 ½茶匙、雞湯 ½杯、紫甘藍 ¼個
+· 重點：除甘藍外材料煮沸，加甘藍煮 20 分鐘，連汁放罐冷卻。
+
+馬鈴薯麵包
+
+· 溫水 ¾杯、酵母 2茶匙、麵粉 3⅛杯、鹽 1¼茶匙、糖 3½湯匙、牛油 6湯匙、蛋 1個、薯泥 ½杯
+· 重點：所有材料混合成光滑彈性麵團，發酵 1 小時；整形放 9x5 吋盤，發酵 1 小時至三倍大；350°F 烤至內部 190-200°F。
+
+馬鈴薯韭蔥湯
+
+· 牛油 ½杯、韭蔥 1根、洋蔥 1個、蒜 5瓣、馬鈴薯 3個、牛奶 4杯、雪利醋 1茶匙、Crème fraîche ½杯、重奶油 ½杯
+· 重點：牛油炒韭蔥洋蔥蒜至透明，加馬鈴薯牛奶煮 15-20 分鐘；瀝乾保留牛奶，蔬菜與醋奶油攪打順滑，加牛奶調稠，調味。
+
+焗通心粉
+
+· 通心粉 1磅、牛油 ½杯、紅蔥頭 2個、燈籠椒 ½杯、淡奶 3杯、帕瑪森 1½杯、Gouda 1½杯、蛋黃醬 ½杯、蒜粉 2茶匙、Adobo 2茶匙
+· 重點：通心粉煮至彈牙；牛油炒紅蔥頭燈籠椒，加淡奶芝士蛋黃醬調味料煮融，拌通心粉，倒盤鋪芝士，375°F 烤 20 分鐘。
+
+紫色 Rèn 雞尾酒
+
+· 蝴蝶豌豆花 2茶匙、沸水 4盎司、氈酒 1½盎司、紫羅蘭利口酒 ¼盎司、青檸汁 ¼盎司、橙汁 2盎司、羅勒
+· 重點：蝴蝶豌豆花沸水浸泡 5 分鐘過濾冷卻；杯中加冰；1 盎司茶和其餘材料加冰搖勻，濾入杯，裝飾羅勒。
+
+烤大王菇配防風草、菠菜和抱子甘藍
+
+· 防風草 1杯、橄欖油 2湯匙、芥花油 5湯匙、大王菇 5個、雪利醋 4茶匙、香菇 2杯、蒜 2瓣、紅蔥頭 2湯匙、牛油 1湯匙、菠菜 2杯、抱子甘藍葉 1杯、歐芹 2湯匙
+· 重點：防風草拌油調味 400°F 烤 10-15 分鐘；大王菇煎金黃烤 5-8 分鐘加醋；香菇煎脆加蒜蔥牛油醋，加菠菜抱子甘藍防風草煮軟，加歐芹，擺盤放菇。
+
+四川醃青瓜
+
+· 米醋 4杯、鹽 1湯匙、糖 ½杯、芥末籽 1½茶匙、芫荽籽 1湯匙、黑胡椒粒 1茶匙、四川花椒 2茶匙、紅蔥頭 2個、蒜 ¼杯、小青瓜 10條
+· 重點：除青瓜外材料煮沸溶解；青瓜放罐倒滷汁，冷卻冷藏 2 天。
+
+Sos Ti Malice（海地辣醬）
+
+· 橄欖油 1茶匙、洋蔥 1個、蘇格蘭帽椒 2個、紅燈籠椒 ½個、蒜 3瓣、鹽、黑胡椒、番茄膏 2湯匙、蘋果醋 2湯匙、青檸汁 1湯匙、水 1杯
+· 重點：油炒洋蔥辣椒燈籠椒蒜 5 分鐘，加其餘材料煮沸，小火煮 20 分鐘，攪打順滑，加水調稠。
+
+南瓜濃湯
+
+· 牛油 3湯匙、洋蔥 1個、蒜 5瓣、牛油南瓜 2磅、雞湯 5杯、牛奶 1杯、重奶油 1杯、香料南瓜籽
+· 重點：牛油炒洋蔥蒜軟，加南瓜調味，加高湯牛奶奶油煮沸，小火煮至南瓜軟；瀝乾保留液體，南瓜攪打順滑加液體調稠，調味，撒南瓜籽。
+
+烤花椰菜配綠色 Romesco 和榛子 Gremolata
+
+· 芥花油 2湯匙、花椰菜 1個、綠色 Romesco 醬、榛子 Gremolata
+· 重點：花椰菜調味煎兩面金黃（6-8 分鐘），淋 Romesco 醬撒 Gremolata。
+
+綠色 Romesco 醬
+
+· 蒜 2頭、橄欖油 ¼杯+2茶匙、綠燈籠椒 2個、歐芹 ½束、蔥 4根、烤榛子 ½杯、鹽 2茶匙
+· 重點：蒜淋油錫紙包裹，與燈籠椒 400°F 烤至椒皮焦黑蒜軟；椒蓋布燜 10 分鐘去皮；所有材料攪打順滑，加油乳化。
+
+榛子 Gremolata
+
+· 榛子 ½杯、橄欖油 1½湯匙、歐芹 1湯匙、細香蔥 2茶匙、紅蔥頭 1湯匙、檸檬皮 1湯匙、檸檬汁 1湯匙
+· 重點：榛子 350°F 烤 6 分鐘切碎，與其餘材料拌勻。
+
+Suya 香料烤胡蘿蔔
+
+· 彩虹胡蘿蔔 60根、橄欖油 3湯匙、Suya 香料 1½湯匙、鹽 2茶匙、蒜 3瓣、百里香 5枝、檸檬汁 1湯匙、芝麻菜、Feta 3湯匙、松子 2湯匙、醃紅洋蔥
+· 重點：蘿蔔放錫紙淋油撒香料，加蒜百里香包袋，425°F 烤 25-45 分鐘；剩餘油檸檬汁拌芝麻菜，與蘿蔔 Feta 松子醃洋蔥拌勻。
+
+烤雞高湯
+
+· 雞骨 3磅、冷水 24杯、洋蔥 2個、芹菜 2根、胡蘿蔔 3根、黑胡椒粒 1湯匙、芫荽籽 2茶匙、月桂葉 1片、百里香 2枝、歐芹 4枝、蒜 3瓣
+· 重點：雞骨 400°F 烤 10-15 分鐘；放鍋加水煮沸撇沫，加其餘材料小火煮 6-8 小時；過濾冷藏過夜去脂。
+
+番薯糰子
+
+· 番薯 4磅、Ricotta ¾杯、蛋黃 3個、細香蔥 1湯匙、歐芹 1湯匙、鹽 2茶匙、麵粉 2杯、粗粒小麥粉 1杯、橄欖油
+· 重點：番薯 400°F 烤 45-60 分鐘至軟；取 2 杯肉搗碎，加 Ricotta 蛋黃香草鹽拌勻；加麵粉揉成團；搓長條切塊叉子造型；沸水加鹽煮至浮起再煮 1 分鐘。
+
+香蕉碧根果肉桂卷
+
+· 麵團：溫水 ½杯、Crème fraîche ½杯、糖 ¼杯、牛油 ½杯、酵母 2茶匙、蛋 2個、麵粉 3⅔杯、香蕉 1根
+· 餡料：牛油 1杯、糖 1½杯、肉桂 2湯匙、肉豆蔻 1茶匙、香草 2茶匙、碧根果 1杯、葡萄乾 1杯、香蕉 2根
+· 糖霜：牛油 4湯匙、糖粉 1⅓杯、熱水 ¼杯
+· 重點：麵團材料混合成光滑麵團發酵 1 小時；餡料拌勻；麵團擀長方形鋪餡捲起切 15 份，放盤發酵兩倍大；350°F 烤 30-40 分鐘；糖霜拌勻淋面。
+
+冬季（Winter）
+
+煙肉油脂餅乾
+
+· 麵粉 2杯、泡打粉 2½茶匙、糖 1湯匙、鹽 1茶匙、車打芝士 ½杯、辣椒粉 ¼茶匙、黑胡椒 ½茶匙、紅椒粉 ¼茶匙、煙肉油脂 ½杯、酪乳 1杯
+· 重點：乾料混合，加煙肉油脂切屑狀，加酪乳揉團；擀 1 吋厚切圓，425°F 烤 12 分鐘；刷熱煙肉油脂撒鹽。
+
+香脆抱子甘藍配楓糖蘋果酒油醋汁
+
+· Pancetta ½杯、芥花油、抱子甘藍 1磅、開心果 ½杯、山羊芝士 ½杯、蘋果 1個
+· 油醋汁：蘋果醋 2湯匙、蘋果酒 2湯匙、楓糖漿 1湯匙、鹽 1茶匙、芥末 1½茶匙、黑胡椒、芥花油 ¾杯
+· 重點：Pancetta 煎脆；油加熱 350°F；油醋汁乳化；抱子甘藍炸 6-8 分鐘至脆瀝乾；與汁 Pancetta 開心果拌勻調味，撒芝士蘋果。
+
+鷹嘴豆咖喱
+
+· 椰子油 2湯匙、咖喱粉 2茶匙、Adobo 2茶匙、多香果 1茶匙、Epis 1湯匙、蒜 3瓣、洋蔥 1個、蔥 2根、鹽、番茄 1杯、番薯 1杯、牛油南瓜 1杯、椰奶 2罐、丁香 6粒、哈瓦那辣椒 1個、百里香 3枝、鷹嘴豆 4杯、紅燈籠椒 1個、白飯
+· 重點：油炒香料 1 分鐘，加 Epis 蒜蔥炒透明；加番茄番薯南瓜椰奶煮沸；丁香插辣椒與百里香加入煮 20 分鐘；加鷹嘴豆燈籠椒煮 10-15 分鐘；取出香草辣椒配飯。
+
+朱古力杯子蛋糕配朱古力奶油霜
+
+· 麵粉 1杯、糖 1杯、可可粉 ⅓杯、小蘇打 ½茶匙、泡打粉 ½茶匙、鹽 ½茶匙、蛋 1個、酪乳 ½杯、芥花油 ½杯、香草 1茶匙、熱水 ½杯
+· 奶油霜：黑朱古力豆 1杯、蛋白 5個、糖 1杯、可可粉 1湯匙、鹽、香草 1茶匙、牛油 1磅
+· 重點：乾料混合；濕料混合拌入乾料加熱水拌勻；倒杯至半滿 300°F 烤 15-18 分鐘；奶油霜：朱古力融化，蛋白糖可可鹽隔水加熱打硬性發泡，加牛油朱古力打勻。
+
+椰子糖漿
+
+· 椰子水 1杯、糖 2杯
+· 重點：椰子水煮沸加糖溶解冷卻。
+
+節日季節雞尾酒
+
+· 橙角 1個、威士忌 2盎司、Creole Bitters 4滴、椰子糖漿 ½盎司、洛神花茶 2盎司、薑啤、橙片、櫻桃
+· 重點：橙角搗碎，加威士忌苦精糖漿茶加冰搖勻，濾入杯加薑啤，裝飾。
+
+蔓越莓橙鬆餅
+
+· 麵粉 3杯、糖 ¾杯、泡打粉 1¼湯匙、鹽 1茶匙、橙皮 1湯匙、冷凍牛油 ¾杯、重奶油 ¾杯、蛋 2個、香草 1茶匙、冷凍蔓越莓 ¾杯
+· 糖霜：糖粉 1杯、橙汁 6湯匙
+· 重點：乾料混合加冷凍牛油搓粒冷凍；奶油蛋香草拌勻倒乾料加蔓越莓揉濕團；分 12 份冷藏 20-30 分鐘；刷奶油 375°F 烤 20-25 分鐘；淋糖霜。
+
+牛肉餡餅
+
+· 免治牛肉 1磅、Epis 1½湯匙、Sazon ½茶匙、Adobo ½茶匙、蒜粉 1茶匙、青檸汁 2茶匙、雞湯塊 ½塊、醬油 2茶匙、水 ¾杯、紅/綠燈籠椒各 ¼杯、洋蔥 ½杯、蛋 2個、芥花油 2茶匙、快速酥皮麵團
+· 重點：牛肉與調味料煮 5 分鐘，加醬油水煮乾，加椒蔥煮 5 分鐘冷卻；麵團擀薄切方塊放餡，邊緣刷蛋液對摺叉子封口；刷蛋液 350°F 烤 20-25 分鐘。
+
+Harissa（北非辣椒醬）
+
+· 蒜 1頭、橄欖油 2湯匙、燈籠椒 2個、芫荽籽 2湯匙、Chiles de árbol 6個、Pasilla 辣椒 3個、紅蔥頭 2個、鹽 2茶匙
+· 重點：蒜淋油錫紙包裹與椒 400°F 烤至軟焦；芫荽籽烘香，所有材料攪打至所需質地。
+
+自製意粉麵團
+
+· 麵粉 1杯、蛋黃 7個、橄欖油 1茶匙、鹽
+· 重點：麵粉堆山挖洞加蛋黃油鹽，叉子拌入麵粉揉光滑，休息 30 分鐘；擀薄切形。
+
+波隆那肉醬
+
+· 橄欖油 2湯匙、免治牛肉 1磅、煙肉 ¼磅、洋蔥 1個、胡蘿蔔 1根、芹菜 3根、波特菇 ½杯、蒜 2瓣、紅酒 ½杯、碎番茄 6杯、羅勒 ¼杯、歐芹 2湯匙、自製意粉
+· 重點：牛肉煮變色取出；煙肉煎脆加蔬菜炒軟；加酒去漬加番茄牛肉煮 1.5 小時；拌羅勒歐芹配意粉。
+
+瑪德蓮
+
+· 牛油 4湯匙、紅糖 ⅔杯、蛋 2個、生薑 1湯匙、香草 1茶匙、糖蜜 ¾茶匙、牛奶 ¼杯、麵粉 ¼杯、蛋糕粉 ½杯、泡打粉 ¼茶匙、鹽 1茶匙、丁香粉 ⅛茶匙、肉豆蔻 ¼茶匙、肉桂 1茶匙、糖粉
+· 重點：牛油煮棕冷卻；紅糖棕色牛油打蓬鬆加蛋，加生薑香草糖蜜牛奶拌勻；粉類混合拌入成團冷藏 2 小時；模具抹油冷凍 10 分鐘填糊 375°F 烤 12 分鐘；撒糖粉。
+
+橙百里香雞尾酒
+
+· 波本 2盎司、血橙汁 2盎司、蜂蜜百里香糖漿 1盎司、蘇打水、血橙片、百里香
+· 重點：波本果汁糖漿加冰搖勻，濾入杯加蘇打水，裝飾。
+
+蜂蜜百里香糖漿
+
+· 水 ¼杯、蜂蜜 ½杯、百里香 2枝
+· 重點：水煮沸加蜂蜜百里香攪拌溶解，離火浸泡冷卻過濾。
+
+Parker House 麵包卷
+
+· 溫水 ½杯、酵母 ¾茶匙、糖 2½湯匙、麵粉 2杯、鹽 ¾茶匙、蛋 2個、牛油 4湯匙、牛奶 1茶匙
+· 重點：酵母糖溫水靜置 10 分鐘起泡；加材料混合成光滑彈性麵團發酵 30 分鐘；分 18 份滾圓放鍋發酵 30 分鐘；刷蛋液 325°F 烤 25-30 分鐘。
+
+烤雞胸配 Harissa 和醃紅洋蔥
+
+· 雞胸 1磅、Harissa ½杯、芥花油 1½湯匙、橄欖油 2湯匙、紅蔥頭 2湯匙、蒜 1瓣、雞湯 ¼杯、青檸汁 2茶匙、牛油 3湯匙、醃紅洋蔥
+· 重點：雞胸抹 2 湯匙 Harissa 醃 2 小時；皮朝下煎，350°F 烤 8-10 分鐘至皮脆翻面烤至 165°F；油炒蔥蒜加剩餘 Harissa 高湯青檸煮沸加牛油乳化；雞胸切片淋汁裝飾。
+
+Pastrami 三文治
+
+· 蛋黃醬：油浸曬乾番茄 ½杯、蛋黃醬 ½杯、芥末 1½茶匙、歐芹 1湯匙、蔥 1湯匙、酸瓜醬 1湯匙、辣根 1½茶匙、伍斯特醬 ½茶匙、蒜蓉 ½茶匙、鹽 1茶匙、黑胡椒 ½茶匙
+· 三文治：馬鈴薯麵包 4片、車打芝士 4片、Pastrami 7盎司、醃紫甘藍 ½杯、紅洋蔥 1個
+· 重點：蛋黃醬拌勻；麵包抹醬放材料，帕尼尼機烤金黃。
+
+Pastrami
+
+· 滷水：水 12杯、鹽 1杯、糖 ½杯、紅糖 ¼杯、醃製鹽 ¼茶匙、黑胡椒粒 ¼杯、茴香籽 2湯匙、芫荽籽 2湯匙、葛縷子籽 1湯匙、紅椒碎 1½茶匙、蒜 10瓣、冰 24杯
+· 牛腩 3-4磅、芫荽籽 ¼杯、黑胡椒粒 ¼杯、茴香籽 2湯匙
+· 重點：滷水材料煮沸溶解倒冰上冷卻；牛腩滷 5 天；取出擦乾塗香料錫紙包裹，300°F 烤至 200°F（4-5 小時），靜置切片。
+
+菠蘿 Upside-Down 蛋糕
+
+· 牛油 ¾杯、紅糖 ¼杯、菠蘿圈 4-6個、櫻桃 4-6個、葡萄乾 ¼杯、麵粉 1¾杯、鹽 ½茶匙、肉豆蔻 1½茶匙、泡打粉 1湯匙、糖 1⅛杯、蛋 2個、青檸皮 1茶匙、香草 1茶匙、杏仁精 ½茶匙、蘭姆酒 1湯匙、菠蘿汁 ¾杯
+· 重點：盤抹油撒紅糖鋪菠蘿櫻桃葡萄乾；乾料混合；牛油糖打蓬鬆加蛋濕料拌乾料倒盤；325°F 烤 30 分鐘轉 180° 再烤 20-30 分鐘；冷卻 30 分鐘倒扣。
+
+烤法羅小麥沙律
+
+· 橄欖油 ½杯、法羅小麥 2杯、水 5杯、羽衣甘藍 ½束、葵花籽 ½杯、番薯 1個、防風草 2根、蘋果醋 ¼杯、芥末 1茶匙、細香蔥 2湯匙、歐芹 2湯匙、紅蔥頭 1湯匙、蔓越莓乾 ½杯
+· 重點：油炒法羅至香加水煮 25-40 分鐘瀝乾冷卻；羽衣甘藍拌油與葵花籽 400°F 烤 8-10 分鐘；番薯防風草拌油烤 20-30 分鐘；油醋汁拌勻；所有材料拌汁。
+
+蔓越莓 Mostarda
+
+· 蔓越莓乾 ½杯、紅蔥頭 1茶匙、芥末 2茶匙、歐芹 1湯匙、細香蔥 2茶匙、橄欖油 1½湯匙、蜂蜜 1茶匙、雪利醋 2茶匙
+· 重點：所有材料拌勻。
+
+羽衣甘藍脆片
+
+· 羽衣甘藍 ½束、橄欖油 3湯匙、鹽、黑胡椒
+· 重點：甘藍撕葉拌油調味，350°F 烤 6-8 分鐘至脆。
+
+烤鴨胸配蔓越莓 Mostarda 和羽衣甘藍脆片
+
+· 蔓越莓 4盎司、紅蘋果 2個、糖 ¼杯、紅蔥頭 2茶匙、蘋果醋 1茶匙、鹽 2茶匙、鴨胸 1磅、牛油 1湯匙
+· 重點：蔓越莓蘋果糖蔥醋鹽煮軟過濾攪泥；鴨胸皮劃刀調味，皮朝下煎至脂肪融化皮脆，翻面煎 2 分鐘加牛油澆淋至 130°F 靜置；鴨胸切片鋪果泥，配 Mostarda 脆片。
+
+雲呢拿撻
+
+· 餅乾：牛油 ½杯、紅糖 1杯、燕麥片 1杯、麵粉 1½湯匙、鹽 ½茶匙、蛋 1個、香草 ½茶匙
+· 蛋白霜：水 ½杯、糖 1杯、蛋白 4個、塔塔粉 ¼茶匙
+· 撻殼 4個、糕點奶油
+· 重點：餅乾材料拌勻搓球 325°F 烤 5-7 分鐘；糖水煮 240°F，蛋白打硬性發泡沖糖漿打冷卻；撻殼填奶油擠蛋白霜噴槍烤金黃放餅乾。
+
+撻殼
+
+· 麵粉 1杯、鹽、泡打粉 ⅛茶匙、糖 ¾湯匙、牛油 6湯匙、蛋 1個、重奶油 1湯匙
+· 重點：粉類脈衝混合加冷牛油脈衝成屑，加蛋奶油成團冷藏 30 分鐘；擀薄切圓放模 325°F 烤 10-12 分鐘。
+
+糕點奶油
+
+· 牛奶 1杯、糖 2湯匙、鹽、雲呢拿籽 1個、蛋黃 2個、粟粉 1湯匙、麵粉 1茶匙、牛油 1½湯匙
+· 重點：牛奶糖鹽雲呢拿煮微沸；蛋黃粉類拌勻加一半熱奶回溫倒回鍋煮稠（170°F）；離火過濾加牛油，貼保鮮紙冷藏。
+
+喚醒雞尾酒
+
+· Barbancourt 蘭姆酒 2盎司、Caffè Borghetti ½盎司、濃縮咖啡 1盎司、簡單糖漿 ½盎司、咖啡豆 3粒
+· 重點：所有材料（除咖啡豆）加冰搖勻，濾入冷藏香檳杯，以咖啡豆裝飾。
+
+
+
+這本《米其林.pdf》是北京 70KG 烹飪學校的現代料理（Modernist Cuisine / Fine Dining）食譜，大量使用了低溫慢煮（Sous-vide）、球化（Spherification）、澄清（Consommé）、液氮、虹吸瓶、脫水風乾以及發酵等分子料理技術。
+
+ 現代高階料理食譜集 (Modernist & Fine Dining Recipes)
+**用途：** 訓練 Poe AI 成為精通現代烹飪技術（低溫慢煮、分子料理、發酵、精緻擺盤）的主廚 AI。
+
+---
+
+## 一、 前菜與冷盤 (Appetizers & Cold Dishes)
+
+### 溫紅鯛魚 / 茴香海鮮泡沫 / 烤洋蔥
+*   **烤洋蔥**：紫洋蔥碎 300g、大蒜碎 5g、魚骨高湯 150g、鹽 3g、黑胡椒 5g、橄欖油 10g、麵粉 8g。*(做法：炒香洋蔥大蒜，加麵粉炒，下高湯煮乾，入烤箱 60度 60分鐘。)*
+*   **低溫紅鯛魚**：紅鯛魚 120g、鹽 4g、黑胡椒 4g、百里香 2g、大蒜 2g、橄欖油 5g、味醂 2g、檸檬皮絲 2g。*(做法：所有調料與魚抽真空，低溫 50度 10分鐘。熱油淋炸魚皮至鱗片立起。)*
+*   **茴香海鮮泡沫**：茴香 50g、海鮮湯 300g、大豆卵磷脂 4g。*(做法：煮開過濾，加入大豆卵磷脂打起泡沫。)*
+
+### 熟馬鮫銀魚塔塔 / 南瓜百香果醬 / 魚子醬
+*   **熟化馬鮫魚**：馬鮫魚丁 200g、青蘋果 30g、檸檬汁 20g、桂花糖 10g、紅糖 20g、洋蔥 20g、銀魚 50g、水瓜柳 10g、歐芹碎 4g、大蒜碎 2g、黑胡椒 6g、橄欖油 20g。*(做法：魚丁與蘋果等調料拌勻，烤箱 200度 7分鐘，吸乾水份後拌入銀魚等。)*
+*   **南瓜百香果醬**：南瓜湯 200g、百香果 60g、椰糖 20g、黃原膠 2g。*(做法：加熱後加黃原膠打勻過濾。)*
+
+### 樹莓鵝肝 / 蝦醬大米脆片 / 蘑菇丸西米
+*   **樹莓鵝肝**：鵝肝醬 150g、甜菜汁 200g、樹莓汁 100g、白糖 30g、果醋 20g、卡拉膠 6g、瓊脂 2g。*(做法：鵝肝冷凍定型，混合汁液加膠類加熱，將冷凍鵝肝掛上一層凝膠。)*
+*   **蝦醬風乾大米**：大米 100g、水 1000ml、白糖 5g、蝦 100g、澱粉 20g、香菜 5g、紅椒醬 40g、檸檬汁 5g、鹽/黑胡椒/辣椒仔/紫洋蔥碎/橄欖油/甜椒粉 適量。*(做法：米加糖水煮爛打碎，抹平風乾機 70度 34小時，炸脆；蝦裹粉炸脆與調料拌勻。)*
+*   **蘑菇丸西米**：香菇碎 200g、口蘑碎 300g、洋蔥碎 50g、大蒜粉 10g、鹽 10g、黑胡椒 15g、帕瑪森芝士 30g、麵粉 10g、黃油 50g、西米 100g、黑醋 100g、白糖 20g。*(做法：菇類炒乾調味捏丸炸脆；西米煮熟泡黑醋糖水。)*
+
+### 赤貝生蚝 / 冰霜橙子碎 / 洋蔥三葉草醬
+*   **赤貝生蚝**：愛爾蘭生蚝 40g、赤貝肉丁 30g、昆布 100g、大蒜 10g、青檸檬汁 20g、橙子 100g、鹽 4g、白胡椒 3g。*(做法：生蚝加檸檬醃製；赤貝煮40秒冰鎮，與昆布大蒜調料入烤箱 170度 7分鐘。)*
+*   **冰霜橙子碎**：橙子肉 200g、液氮 1L。*(做法：橙子入液氮急凍，搗碎成顆粒。)*
+*   **洋蔥三葉草醬**：熟洋蔥汁 150g、橄欖油 40g、三葉草 50g、甜葡萄酒 30g、鹽 5g、大蒜 5g、黃原膠 1.5g。*(做法：打碎加黃原膠，過濾。)*
+
+### 南美風味雞腿 / 黑蒜蘑菇醬 / 玉米筍
+*   **南美風味雞腿**：去骨雞腿 200g、紅椒醬 40g、大藏芥末 10g、檸檬汁 20g、檸檬葉 2g、大蒜 20g、百里香 8g、小洋蔥 20g、鹽 8g、黑胡椒 5g、蜂蜜 20g。*(做法：揉捏醃製30分鐘，烤箱 260度 10分鐘，大火煎上色。)*
+*   **黑蒜蘑菇醬**：黑蒜 100g、雞高湯 300g、鹽 5g、紅胡椒 20g、三花淡奶 40g、歐芹碎 15g。*(做法：黑蒜煎香，加高湯煮10分鐘，加淡奶打碎過濾。)*
+*   **玉米筍**：玉米筍 100g、大蒜 20g、黃油 50g、鹽 5g、黑胡椒 10g。*(做法：煮3分鐘，黃油大蒜煎上色。)*
+
+### 紅蝦塔塔 / 甜菜梅子薄脆
+*   **紅蝦塔塔**：紅蝦 150g、牛油果 30g、香菜 5g、紫洋蔥 5g、橄欖油 7g、大蒜 2g、鹽 4g、白胡椒 5g、青檸檬汁 15g、蜂蜜 5g。*(做法：蝦低溫 42度 15分鐘，切碎與所有調料拌勻。)*
+*   **甜菜梅子薄脆**：樹莓果蓉 300g、甜菜泥 200g、熟麵粉 40g、蘋果醋 30g、艾素糖 30g。*(做法：熬煮後抹平，烘乾機 60度 5小時。)*
+
+### 海鮮叉燒球化 / 酸奶球化 / 醃製紅薑絲
+*   **海鮮叉燒球化**：叉燒醬 20g、海鮮濃湯 200g、蟹黃 30g、黃原膠 1g、乳酸鈣 3g、海藻膠 5g、純淨水 1000ml。*(做法：湯汁加黃原膠打勻，加乳酸鈣備用；水滴海藻膠，將混合液滴入鈣水中成形，撈出洗淨。)*
+*   **酸奶球化**：酸奶 250g、乳酸鈣 3g、海藻膠 5g、水 1000ml。*(做法同上。)*
+*   **醃製紅薑絲**：薑絲 50g、甜菜汁 80g、白糖 20g、鹽 3g、檸檬汁 10g。*(做法：真空低溫 50度 20分鐘。)*
+
+### 番茄昆布湯 / 低溫鱸魚
+*   **魚清湯基礎**：魚骨 200g、西芹 20g、青蝦頭 150g、大蒜 20g、洋蔥 30g、昆布 100g、鹽/白胡椒 各10g、半打發雞蛋白 60g。*(做法：炒香蔬菜與蝦頭，加魚骨炒，嗆白酒加水煮40分鐘，加昆布煮5分鐘，用雞蛋白澄清。)*
+*   **虹吸壺番茄羅勒清湯**：清湯 300g、番茄 40g、羅勒 5g、木魚花 10g。*(做法：放入虹吸壺蒸餾2次。)*
+*   **低溫海鱸魚**：鱸魚 150g、鹽 4g、白胡椒 5g、歐芹葉 4g、橄欖油 10g、檸檬汁 4g。*(做法：醃製抽真空，低溫 47度 18分鐘，火槍燒皮上色。)*
+
+### 番茄醃製三文魚 / 西米魚子 / 茴香根醬
+*   **番茄醃製三文魚**：風乾番茄 300g、三文魚 100g、碎冰 70g、乾桂花 15g、紅糖 40g、檸檬皮 10g、白葡萄酒醋 20g、蜂蜜 30g、鹽 20g。*(做法：混合調料覆蓋三文魚醃製 6小時。)*
+*   **西米魚子**：西米 50g、黑醋 150g、白糖 40g、青蘋果 20g。*(做法：西米煮熟洗淨，泡入黑醋白糖青蘋果中3小時。)*
+*   **茴香根醬**：茴香 200g、三葉草汁 30g、綠胡椒 10g、鹽 5g、熟大蒜/洋蔥 適量、椰奶 10g。*(做法：烤茴香，打碎過濾。)*
+
+### 油封鹿肉里脊 / 花椰菜西班牙香腸醬 / 菠菜啫喱皮
+*   **油封鹿肉**：鹿肉 300g、大蒜 50g、小洋蔥 50g、歐芹 20g、黑胡椒 10g、黑橄欖 20g、澄清黃油 200g。*(做法：鹿肉醃製，與大蒜歐芹煎上色，加黃油低溫油封 3分鐘，醒2分鐘。)*
+*   **花椰菜香腸醬**：西班牙香腸 200g、花椰菜 350g、洋蔥 30g、奶油 30g、鹽 5g、甜椒粉 15g、水 1500ml。*(做法：香腸煎出油，加洋蔥花椰菜炒，加水煮20分鐘，加奶油打碎過濾。)*
+*   **菠菜啫喱皮**：菠菜汁 300g、蘋果醋 20g、白糖 20g、蒟蒻粉 15g、瓊脂 1g。*(做法：混合燒開，倒烤盤冷卻切條。)*
+
+### 大理石龍利魚卷 / 燒焦青蔥醬
+*   **龍利魚卷**：龍利魚 300g、墨魚汁 30g、鹽 4g、白胡椒 5g、大蒜 5g、百里香 4g、橄欖油 8g、檸檬汁 4g、葡萄酒 10g、TG酶 5g。*(做法：魚切條醃製，拌入墨魚汁與TG酶，保鮮膜捲圓，低溫 55度 20分鐘。)*
+*   **燒焦青蔥醬**：尖椒 200g、大蒜 30g、小蔥 200g、線椒 200g、洋蔥 20g、蒸魚豉油 20g、黑胡椒 5g、蠔油 5g、香醋 10g、椒麻油 4g、菜籽油 20g。*(做法：椒類乾炒至焦，煙燻3分鐘，與小蔥及調料拌勻。)*
+
+### 烤沙丁魚 / 海膽慕斯 / 煙燻三文魚籽醬
+*   **烤沙丁魚**：沙丁魚肉 200g、歐芹 20g、大蒜 7g、橄欖油 10g、鹽 5g、白胡椒 5g。*(做法：醃製後烤箱 200度 10分鐘，刷油火槍噴烤。)*
+*   **海膽慕斯**：海膽 300g、泰式紅油 40g、黃原膠 1g。*(做法：打碎過濾，入虹吸瓶打氣彈。)*
+*   **煙燻三文魚籽**：松針 200g、日本味淋 20g、米醋 20g、白醬油 10g、熟蒜泥 10g、檸檬汁 8g、大藏芥末 8g、椰糖 5g。*(做法：松針烘乾煙燻三文魚籽5分鐘；調料拌勻。)*
+
+### 澄清西班牙冷湯 / 老虎蝦
+*   **澄清番茄羅勒清湯**：串紅番茄 200g、羅勒葉 10g、大蒜 8g、黃瓜 50g、香菜 15g、鹽 10g、辣椒仔 10g、哈密瓜 40g、紅椒 30g。*(做法：全部打碎，離心機分離 7分鐘成清湯。)*
+*   **老虎蝦**：老虎蝦 180g、鹽 4g、白胡椒 5g、百里香 4g、檸檬汁 7g。*(做法：低溫 57度 13分鐘，火槍燒表面。)*
+
+### 帶子魷魚色拉 / 松子羅勒醬
+*   **帶子魷魚**：帶子/魷魚 各100g、百里香 5g、大蒜 5g、鹽/黑胡椒 各10g、蒜泥 5g、檸檬汁 10g、橄欖油 20g。*(做法：魷魚低溫 45度 15分鐘；帶子低溫 45度 12分鐘，火槍烤上色。)*
+*   **松子羅勒醬**：羅勒 60g、松子仁 40g、風乾番茄 50g、橄欖油 100g、鹽 10g、黑胡椒 10g、白糖 5g、檸檬汁 15g。*(做法：羅勒飛水冰鎮，全部打碎。)*
+
+### 蒔蘿草煙燻三文魚 / 魚子醬牛油果
+*   **煙燻三文魚**：蒔蘿草 20g、鮮三文魚 500g、小洋蔥 300g、甜菜 200g、紅糖 200g、海鹽 100g、檸檬汁 20g、白蘭地 10g。*(做法：三文魚塗檸檬與白蘭地，鋪上混合香料鹽，煙燻10分鐘後冷藏醃製8小時。)*
+
+### 嫩煎安康魚 / 菠菜 / 發酵櫻桃蘿蔔醬
+*   **安康魚**：安康魚 200g、檸檬皮 5g、百里香 5g、鹽 4g、白胡椒 5g、大蒜 4g、橄欖油 10g。*(做法：醃製入烤箱 190度 14分鐘，煎上色。)*
+*   **發酵櫻桃蘿蔔**：櫻桃蘿蔔 400g、海鹽 5g、氣泡水 80g、大蒜 10g。*(做法：真空袋 38度發酵至膨脹，打碎過濾。)*
+
+---
+
+## 二、 主菜 (Main Courses)
+
+### 低溫竹炭乳鴿 / 辣根黃椒醬 / 芥末籽
+*   **竹炭乳鴿**：鴿子 200g、竹炭粉 5g、百里香 4g、青蒜泥 5g、味淋 4g、蘋果醋 4g、鹽/黑胡椒 各4g、橄欖油 10g。*(做法：醃製抽真空 55度 15分鐘，刷黃油碳烤2分鐘。)*
+*   **辣根黃椒醬**：辣根醬 50g、黃彩椒 200g、三花淡奶 40g、鹽/黑胡椒 各10g、橄欖油 20g、大蒜 15g、水 500g。*(做法：炒香黃椒大蒜加水煮乾，加辣根與淡奶打碎過濾。)*
+
+### 低溫鮑魚 / 芹菜根醬 / 洛神花辣鮑魚
+*   **鮑魚**：鮑魚 100g、大蒜 5g、橄欖油 10g、小米辣 4g、百里香 2g、鹽 4g。*(做法：鮑魚去黑邊醃製，低溫 59度 10分鐘，裹蛋液黑麵包糠炸脆。)*
+*   **芹菜根醬**：芹菜根 300g、淡奶油 100g、鹽 10g、水 1000ml。*(做法：炒香加水煮30分鐘，加奶油打碎過濾。)*
+*   **甜菜汁掛皮**：甜菜汁 300g、辣椒仔 20g、蘋果醋 20g、白糖 30g、卡拉膠 6g、瓊脂 2g。*(做法：加熱攪拌，鮑魚掛一層凝膠。)*
+
+### 慢烤牛臉頰 / 醃製甜菜 / 南美風味胡蘿蔔
+*   **牛臉頰**：牛臉頰肉 200g、西芹 10g、大蒜 5g、小米辣椒 5g、橄欖油 10g、黑胡椒 7g、牛骨濃湯 150g、海鹽 10g、培根 70g。*(做法：牛臉頰飛水，用培根包裹烤 195度 20分鐘；加濃湯與蔬菜烤 200度 30分鐘，煎上色。)*
+*   **醃製甜菜**：甜菜薄片 200g、白糖 30g、蘋果醋 30g、鹽 5g、蘇打水 40g。*(做法：煮熟冰鎮，加調料醃製。)*
+*   **南美胡蘿蔔醬**：胡蘿蔔 300g、去籽美人椒 100g、去皮紅彩椒 80g、熟大蒜 30g、鹽 10g、紅胡椒 10g、紅糖 5g、大藏芥末 10g、三花淡奶 40g。*(做法：椒類燒皮切碎炒香，加胡蘿蔔與水煮軟，加調料打碎過濾。)*
+
+### 低溫牛小排 / 蔬菜莎莎醬
+*   **牛小排**：牛小排 300g、海鹽 8g、迷迭香 5g、大蒜 10g、橄欖油 15g、黑胡椒 10g、黃油 40g、百里香 5g。*(做法：醃製真空 63度 60分鐘，橄欖油煎金黃，加黃油大蒜油封2分鐘。)*
+*   **蔬菜莎莎醬**：番茄碎 100g、洋蔥碎 50g、紅椒碎 100g、香菜碎 15g、黑胡椒 5g、海鹽 10g、大蒜碎 10g、意大利黑醋 150g、橄欖油 200g、蜂蜜 40g、辣椒仔 15g、甜椒粉 50g。*(做法：拌勻醃製20分鐘。)*
+
+### 煙燻雞胸 / 脆炸大頭菜 / 雞骨洋蔥醬
+*   **煙燻雞胸**：帶皮雞胸 200g、百里香 5g、蒜粉 5g、鹽 4g、黑胡椒 5g、大蒜 4g、高濃度雞湯 300g。*(做法：醃製4分鐘，真空 62度 20分鐘，煎黃上色，煙燻5分鐘，風乾15分鐘。)*
+*   **脆炸大頭菜**：大頭菜碎 600g、蛋黃醬 30g、黑胡椒 10g、鹽 5g、麵包糠 200g、雞蛋液 50g、法香碎 10g。*(做法：一半大頭菜烘乾5小時打碎，與另一半煮熟的大頭菜及調料混合捏圓，裹蛋液麵包糠炸脆。)*
+*   **雞骨洋蔥醬**：雞骨頭 300g、洋蔥 300g、黑胡椒 20g、大蒜 10g、奶油 20g、橄欖油 10g、法香碎 10g。*(做法：雞骨烤 260度 18分鐘；炒香洋蔥大蒜，加雞骨與水熬20分鐘，加黑胡椒鹽打勻。)*
+
+### 嫩煎安康魚 (見前菜) / 海苔鴿子卷 / 青蒜鴿子 / 番茄雪茄
+*   **鴿子黑丸子**：鴿子 1隻、海苔 2張、土豆泥 100g、洋蔥碎 20g、大蒜泥 5g、奶油 20g、玉米泥 50g、百里香 10g。*(做法：鴿胸取下備用，其他部位炒熟加土豆泥玉米泥調味，用海苔捲起定型。)*
+*   **青蒜鴿子**：鴿胸 2塊、青蒜 150g、黃油 40g、鹽/黑胡椒 各5g。*(做法：鴿胸煎上色醒3分鐘，用煎香的青蒜包裹，油紙包好烤箱 190度 9分鐘。)*
+*   **番茄雪茄**：番茄 300g、橄欖油 40g、大蒜 10g、羅勒葉 5g。*(做法：炒成醬，用雪茄機做成雪茄狀。)*
+
+### 黑松露焗蝸牛 / 牛骨髓 / 青豆醬
+*   **蝸牛牛骨髓**：罐頭蝸牛 5隻、牛骨髓 50g、海鹽/黑胡椒 各5g、芥末籽醬 10g、軟黃油 300g、蛋黃 7個、法香碎 10g、百里香 5g、大蒜泥 5g、蒜粉 4g、甜椒粉 5g、黑蒜泥 10g、蘋果醋 5g。*(做法：牛骨髓煮熟定型；蝸牛加香料煮8分鐘；黃油加蛋黃及所有調料打發；蝸牛骨髓放容器抹黃油醬，240度烤10分鐘上色。)*
+*   **青豆醬**：青豆 500g、鹽 10g、大蒜 10g、橄欖油 10g。*(做法：煮熟冰鎮打碎過濾。)*
+
+### 迷迭香烤豬肉 / 秋葵子 / 蘋果綠椒醬
+*   **烤豬肉**：五花肉 300g、迷迭香 20g、大蒜 15g、洋蔥 10g、蘋果醋 20g、蜂蜜 20g、意大利黑醋 100g、鹽 10g、黑胡椒 10g、丁香 5g。*(做法：扎孔醃製20分鐘，蒸3小時，烤箱 230度 18分鐘，刷蜂蜜黑醋汁。)*
+*   **秋葵子**：秋葵籽 300g。*(做法：洗淨烘乾 60度 4小時，炸脆。)*
+*   **蘋果綠椒醬**：青蘋果 200g、綠辣椒 300g、大蒜 10g、白糖 10g、綠番茄 100g。*(做法：打碎過濾。)*
+
+### 桂花橙汁鴨胸 / 胡蘿蔔蘑菇脆
+*   **鴨胸**：桂花 10g、橙汁 200g、露傑鴨胸 200g、百里香 10g、大蒜 5g、鹽 8g、黑胡椒 5g。*(做法：醃製，冷鍋煎至金黃，扎孔，加橙汁桂花烤 190度 20分鐘。)*
+*   **胡蘿蔔蘑菇脆**：胡蘿蔔碎 300g、大蒜碎 20g、蘑菇碎 300g、鹽/黑胡椒 各10g、法香碎 20g、黃油 100g。*(做法：炒乾水分至金黃，烤箱 100度 40分鐘。)*
+
+### 西班牙海鮮飯
+*   **材料**：意大利米 200g、洋蔥碎 30g、白葡萄酒 30g、蝦頭 200g、魚骨 200g、活蛤蜊 400g、去皮番茄碎 40g、大蒜碎 20g、藏紅花 4g、南瓜湯 50g、番茄 300g、西芹 50g、甜椒粉 20g、鹽 5g、黃油 100g、百里香 5g。
+*   *(做法：蝦頭搗碎與蔬菜魚骨炒香，加水煮30分鐘過濾成海鮮湯。炒香洋蔥番茄大蒜，下米與藏紅花，嗆白酒，分次加海鮮湯熬煮，加南瓜湯，入烤箱 240度 15分鐘至表面金黃。)*
+
+### 烤比目魚 / 烘乾蒜茄粉 / 脆炸魚皮
+*   **比目魚**：比目魚 200g、百里香 5g、番茄醬 150g、魚湯 150g、鹽/白胡椒 各5g、黃油 30g、大蒜 10g。*(做法：醃製煎金黃，加番茄醬魚湯煮7分鐘，下黃油收汁。)*
+*   **蒜茄粉**：大蒜 300g、茄子肉 600g、鹽/黑胡椒 各10g、橄欖油 60g、辣椒仔 20g。*(做法：炒上色加水煮軟，打碎抹平烘乾 70度 5小時，打碎過濾。)*
+*   **脆炸魚皮**：魚皮 200g、蘋果醋 20g、鹽 5g。*(做法：醃製烘乾 60度 3小時，炸脆。)*
+
+### 低溫大理石澳洲帶子 / 熟檸檬洋蔥醬
+*   **帶子**：帶子肉 200g、TG酶 5g、橄欖油 2g、鹽 4g、檸檬汁 5g、白胡椒 5g、百里香 5g。*(做法：拌入TG酶用保鮮膜捲圓，冷藏6小時，低溫 55度 20分鐘，煎上色切片。)*
+*   **檸檬洋蔥醬**：檸檬肉 100g、烤熟白洋蔥 400g、白糖 8g、熟大蒜 20g、白胡椒 5g、鹽 5g、黃原膠 1g。*(做法：全部打碎過濾。)*
+
+### 伊比利亞豬肉 / 青椒醬
+*   **伊比利亞豬肉**：豬肉 300g、大蒜 30g、百里香 20g、鹽/黑胡椒 各10g、洋蔥 40g、迷迭香 30g、歐芹葉子 600g。*(做法：醃製真空 70度 1小時，用西芹葉包裹，烤 230度 15分鐘，煎上色。)*
+*   **青椒醬**：青椒 300g、雞高湯 400g、西班牙煙燻辣椒 30g、大蒜 5g、菠菜 100g、烤熟檸檬肉 100g、蜂蜜 40g。*(做法：炒香青椒，加高湯及調料煮15分鐘，打碎過濾。)*
+
+---
+
+## 三、 甜點 (Desserts)
+
+### 黃桃百香果芝士啫喱 / 桃子雪茄
+*   **黃桃百香果芝士啫喱**：黃桃打碎過濾、百香果汁 150g、白糖 100g、奶油芝士 100g、雞蛋黃 5個、奶油 200g、牛奶 70g、吉利丁 2片、結冷膠 4g、卡拉膠 3g、瓊脂 2g。*(做法：芝士攪開加蛋黃牛奶吉利丁拌勻；黃桃百香果汁加熱加膠類融化；兩者混合入玻璃管冷藏。)*
+*   **桃子雪茄**：鮮桃子 200g、白糖 30g、酸奶油 50g、甜菜汁 50g、酸奶 50g。*(做法：桃子切塊加糖煮軟，與其他材料打碎，用雪茄機冷凍成型。)*
+
+### 樹 / 柿子雪葩 / 香檳啫喱 / 松糕抹茶凍
+*   **樹 (巧克力樹枝)**：巧克力 40g、黃油 40g、雞蛋白 80g、麵粉 50g、白糖 20g、抹茶粉 5g。*(做法：融化拌勻，擠成樹枝狀烤熟。)*
+*   **香檳啫喱**：葡萄酒 300g、吉利丁 4片、香茅草 10g、白糖 50g。*(做法：煮去酒精，加吉利丁冷藏凝固切碎。)*
+*   **柿子雪葩**：柿子 400g、軟焦糖 50g、奶油 50g、蛋黃 5個、白糖 20g。*(做法：打勻冷凍，用雪葩機打成冰沙。)*
+*   **抹茶松糕**：牛奶 150g、奶油 100g、馬斯卡彭芝士 50g、白糖 30g、蛋黃 5個、抹茶粉 適量。*(做法：混合加熱，入虹吸瓶打氣彈，微波爐高火2秒。)*
+
+### 南瓜蛋糕 / 發酵南瓜籽 / 山楂牛奶醬
+*   **南瓜蛋糕**：南瓜泥 170g、奶油 80g、白糖 30g、雞蛋 1個。*(做法：拌勻烤 190度 30分鐘。)*
+*   **發酵南瓜籽**：南瓜籽 200g、蘋果醋 50g、白糖 30g、海鹽 2g、香蕉水 80g。*(做法：煮熟去皮，加調料真空 40度發酵至膨脹。)*
+*   **山楂牛奶醬**：山楂 200g、牛奶 500g、草莓 50g、白糖 30g。*(做法：山楂去核煮軟，加牛奶等煮10分鐘打碎。)*
+
+### 接骨木花雪葩 / 玉米蛋糕 / 香檳啫喱
+*   **接骨木花雪葩**：接骨木 100g、奶油 200g、牛奶 300g、白糖 40g、吉利丁 0.5g。*(做法：熬煮放涼，混合打碎冷凍，用雪葩機打成橄欖型。)*
+*   **玉米蛋糕**：甜玉米泥 200g、打發雞蛋白 200g、打發淡奶油 100g、酸奶 50g、白糖 60g。*(做法：拌勻烤 180度 20分鐘。)*
+*   **香檳啫喱**：香檳酒 300g、吉利丁 3片、白糖 20g。*(做法：去酒精加吉利丁冷藏切碎。)*
+
+### 車厘子慕斯 / 超低溫液氮橙子冰霜
+*   **車厘子慕斯**：新鮮車厘子 700g、淡奶油 300g、白糖 60g、酸奶油 80g、吉利丁 1片、奶油芝士 60g。*(做法：車厘子煮醬打碎過濾；奶油芝士與酸奶油融化，與打發淡奶油混合，加車厘子醬與吉利丁拌勻冷凍。)*
+*   **液氮橙子冰霜**：橙子肉 300g、液氮 600ml。*(做法：橙子入液氮急凍，打成冰霜。)*
+
+---
+
+## 四、 特殊烹飪技術與發酵 (Techniques & Fermentation)
+
+### 短期真空發酵烹飪 (基礎)
+*   **番茄發酵**：番茄 300g、無碘鹽（海鹽）3g。*(做法：混合放入真空袋，38度發酵40小時至袋子膨脹，取出紗布過濾。)*
+*   **⚠️ 安全警告**：熱發酵安全指數達90%，但少數人會過敏。發酵飲品需自己先嘗試，8小時後無不良反應才可投入使用。
+
+### 發酵甜菜醋
+*   **材料**：甜菜 500g、酸梅碎 200g、酵母 5g、純淨水 500ml、白糖 100g、海鹽 5g。
+*   **做法**：甜菜烤 230度 12分鐘急凍；酵母與水熬8分鐘降溫；玻璃罐消毒，放入甜菜與調料，加酵母水密封，40度發酵7天（每12小時開蓋攪拌，開蓋透氣2小時）。
+
+### 發酵李子甜氣水
+*   **材料**：李子 500g、紅糖 300g、海鹽 10g、白糖 100g、聖培露氣泡水 400g。
+*   **做法**：李子蒸10分鐘，與糖鹽拌勻入消毒罐，加氣泡水，40度發酵7天（每10小時開蓋攪拌，透氣4小時）。
+
+### 發酵甜菜李子果酒
+*   **比例**：發酵甜菜醋 200g + 發酵李子甜氣水 300g，混合冰鎮。（*警告：每人適合飲用200ml，大量飲用需檢測。*）
+
+### 發酵蘋果松針酒
+*   **材料**：紅蘋果 300g、新鮮松針 20g、松果 50g、白糖 200g、酒釀 80g、青蘋果塊 200g、聖培露氣泡水 400g、海鹽 10g。
+*   **做法**：蘋果烤軟，松針蒸熟，全部入罐，40度發酵10天（每8小時開蓋攪拌，前4天每次加50g鮮榨蘋果汁）。
+
+### 發酵棗子液體
+*   **材料**：棗子 400g、海鹽 10g、乳酸菌 10g、聖培露氣泡水 500g、白糖 200g、乾桂花 80g。
+*   **做法**：棗子洗淨去核，加鹽及所有材料入消毒罐，40度發酵7天（每12小時攪拌一次），過濾飲用。
+
+---
+
+## 五、 醬汁與調味粉 (Sauces & Powders)
+
+### 蔬菜調味粉
+*   **材料**：菠菜 500g、青椒 300g、綠西藍花 300g、香菜 40g、香蔥葉 80g、大蒜 40g、洋蔥 30g、鹽 10g、黑胡椒 10g、墨西哥辣椒 30g、雞湯 500g。
+*   **做法**：菠菜香蔥香菜飛水冰鎮；炒香大蒜辣椒，下西藍花雞湯煮5分鐘，加綠葉煮7分鐘，打碎調味，抹平烘乾 60度 5小時，打碎成粉。*(用途：搭配紅肉、海鮮。)*
+
+### 香煎鱈魚茄子沙拉蟹肉土豆泥汁
+*   **汁水**：茴香頭 600g、胡蘿蔔 300g、洋蔥 200g、檸檬汁 80g、龍蝦頭 5隻、海魚半條、黑胡椒粒 10顆、香葉 3片、水 3L。*(做法：熬煮30分鐘過濾收稠，加橄欖油番茄汁鹽調味。)*
+*   **鱈魚**：鹽白胡椒醃製，兩面煎上色，烤箱 200度 4分鐘。
+*   **蟹肉土豆泥**：土豆泥加鹽、黑胡椒、蟹肉碎、羅勒葉。
+*   **茄子沙拉**：茄子切丁炒乾，加風乾番茄、水瓜柳、羅勒葉調味。
+*   **裝飾**：番茄乳（番茄去皮加橄欖油鹽打碎過濾）、橄欖油炒菠菜、蒔蘿、羅勒葉。
+
+```
+
+
+《Asian Tapas》（亞洲小吃/亞洲風味小食）。這本書的特點是融合了亞洲各國傳統風味與現代西式精緻擺盤（由新加坡麗思卡爾頓酒店主廚撰寫）。
+
+
+下是全書重點食譜與必備食材的提取數據：
+
+---
+
+第一部分：亞洲必備食材指南 (Essential Asian Ingredients)
+
+(這部分對AI理解亞洲食材別名非常重要)
+
+· Agar-agar (瓊脂/大菜)：由紅藻製成的植物膠，用於湯、醬汁和甜點的增稠。
+· Black Chinese vinegar (黑醋/鎮江醋)：深色、帶煙燻味的糯米醋，適合紅燒和蘸醬。
+· Bonito flakes (柴魚片)：乾燥鮪魚刨片，帶強烈鹹鮮味，常撒在蔬菜或湯上。
+· Caul fat (豬網油)：豬或羊腹部的薄膜，常用來包裹香腸或肉餡。
+· Chinese sausage (Lap cheong/臘腸)：乾燥、偏硬、帶甜味的豬肉香腸，帶玫瑰露酒香。
+· Daikon (白蘿蔔)：巨型白蘿蔔，清脆多汁，常生吃做沙拉。
+· Dashi (日式高湯)：柴魚片或昆布熬製的基礎湯底。
+· Dried shrimp paste (Belachan/蝦醬)：發酵小蝦的濃稠醬料，味道強烈，使用前需微烤。
+· Fish sauce (Nam pla/Nuoc mam/魚露)：鹽漬發酵魚蝦製成，越南版比泰國版顏色更深、味道更重。
+· Galangal (南薑)：薑科植物，為咖哩增添獨特香氣。
+· Kadaifa (Katafi/中東細麵絲)：中東甜點用的極細麵條，常用於油炸包裹。
+· Kangkong (空心菜/通菜)：亞洲常見綠葉菜，口感爽脆。
+· Konbu (Kombu/昆布)：乾海帶，主要用於熬製日式高湯。
+· Lemongrass (香茅)：帶檸檬香氣的莖部，只使用底部白嫩部分（約7.5cm）。
+· Mirin (味醂)：極甜的日式料理酒，能為烤物增加光澤。
+· Miso paste (味噌)：發酵大豆醬，白味噌偏甜（適合湯/醃魚），深色味噌偏鹹（適合紅燒）。
+· Nori (海苔)：壓成薄片的烤海藻。
+· Pandanus leaves (斑蘭葉)：帶特殊甜香，常用於包裹食物或為甜點增香。
+· Ponzu (柚子醋)：檸檬汁/米醋、醬油、味醂、昆布和柴魚片的混合物。
+· Rice paper wrappers (米紙)：乾燥的米粉薄片，使用前需在溫水中短暫浸泡變軟。
+· Sambal oelek (參巴辣椒醬)：印尼辣椒醬，含紅辣椒、大蒜、紅蔥頭等。
+· Sancho pepper (山椒粉)：花椒植物葉子製成的粉末，帶檸檬香。
+· Soba noodles (蕎麥麵)：小麥與蕎麥混合製成的麵條。
+· Tapioca flour (木薯粉/生粉)：吸收水分和蒸汽能力強，能賦予麵團極佳彈性（如點心皮）。
+· Thai basil (泰國羅勒/九層塔)：紫莖綠葉，帶濃郁八角香氣，泰式料理常用。
+· Vietnamese mint (越南薄荷/叻沙葉)：帶胡椒薄荷味，常用於叻沙湯。
+· Wagyu beef (和牛)：大理石油花均勻的高級牛肉，入口即化。
+· Wasabi (山葵)：日本辣根，搭配壽司/刺身。
+· XO sauce (XO醬)：香港特產，由干貝絲、蝦乾、辣椒、大蒜等炒製，越陳越香。
+· Yuzu (柚子)：日本柑橘，果皮香氣濃郁不苦，常作調味或裝飾。
+
+---
+
+第二部分：冷盤、小吃與前菜 (Cold & Light Bites)
+
+· 辣椒大蒜醃橄欖 (Chili and garlic marinated olives)
+  · 材料：黑橄欖 200g、綠去核橄欖 150g。辣醬：橄欖油 1 tbsp、切碎紅辣椒 2 tbsp、蒜末 5瓣、紅蔥頭末 3 tbsp、青檸汁 2 tbsp、檸檬汁 2 tbsp、水 60ml、米酒/清酒 1 tbsp、糖 1-2 tsp、魚露 1/2 tsp、迷迭香末 1 tsp。
+  · 特點：適合作為餐前雞尾酒小吃。
+· 粉紅馬丁尼 (Pink martini)
+  · 材料：伏特加 45ml、櫻桃白蘭地 15ml、白可可香甜酒 10ml、少許紅石榴糖漿、櫻桃（裝飾）。
+  · 特點：雞尾酒。
+· 彩虹鵪鶉蛋 (Rainbow quail eggs)
+  · 材料：水 1.5L、鹽 1 tbsp、白醋 1 tsp、鵪鶉蛋 24隻、海苔片 1 tbsp、山椒粉 1 tbsp（或紅椒粉+辣椒粉）、紫菜 1 tbsp。
+  · 特點：將煮熟的蛋剝殼後，分別滾上不同的調味粉，色彩繽紛。
+· 蘆筍雞肉清豆腐湯 (Asparagus spears with chicken in clear tofu broth)
+  · 材料：雞絞肉 150g、西洋菜末 2 tbsp、香菜末 2 tbsp、蒜末 5瓣、木薯粉 1 tsp、醬油 1/2 tbsp、白胡椒粉 1/2 tbsp、鹽 1/4 tsp、嫩蘆筍 8根、雞高湯 500ml、紅蘿蔔丁 2 tbsp、硬豆腐丁 60g、魚露 1 tsp。
+  · 特點：將雞肉餡包裹在蘆筍上，放入清湯中煮熟。
+· 辣柚子醬小蔬菜條 (Baby vegetable crudités with spicy yuzu dressing)
+  · 材料：茴香根 3個、小紅蘿蔔 5根、甜椒 1個、比利時菊苣 2個、小黃瓜 3根、小蘆筍 6-8根。柚子醬：鳥眼辣椒末 1根、蒜末 2瓣、柚子汁 1 tbsp、香菜末 2 tsp、蔥花 2 tsp、橄欖油 60ml、第戎芥末醬 1 tsp、蛋黃 1個、鹽 1/2 tsp。
+  · 特點：將蔬菜切條，搭配自製辣柚子蛋黃醬。
+· 絲滑番茄橄欖餃子 (Silky smooth tomato and olive dumplings)
+  · 材料：蛋黃 1個、玉米粉 1 tbsp、餛飩皮 8張。餡料：番茄丁 125g、紅蔥頭末 4粒、日曬番茄乾 3-4 tbsp、黑橄欖丁 12粒、蔥花 3 tbsp、鹽 1/4 tsp、白胡椒粉 1/4 tsp。蘸醬：甜黑醬油 1 tbsp、巴薩米克醋 1 tbsp。
+  · 特點：用餛飩皮包入番茄橄欖餡，蒸熟後蘸醬吃。
+· 鵝肝炒飯 (Foie gras fried rice)
+  · 材料：鴨鵝肝 150g、麵粉 75g、炸油、紅蔥頭末 2粒、蛋液 1個、泰國香米飯 200g、蘆筍丁 90g、紅蘿蔔丁 50g、新鮮玉米粒 50g、鹽 1 tsp、白胡椒粉 1/2 tsp、麻油 1/2 tsp、蔥花（裝飾）。
+  · 特點：將鵝肝沾粉炸過，與炒飯混合，盛在小湯匙中。
+· 香脆煎餃佐薑與韭菜 (Crunchy pot stickers with ginger and garlic chives)
+  · 麵團：麵粉 150g、鹽 1/2 tsp、豬油 1 tbsp、沸水 60ml。
+  · 餡料：新鮮辣根泥 2 tsp、蒜末 1瓣、薑末 1/2 tbsp、香茅末 1 tbsp、日式醃薑末 2片、老抽 1 tbsp、蝦醬 1/2 tsp、鹽 1 tsp、豬絞肉 300g、韭菜末 3 tsp。
+  · 做法：燙麵團包入餡料，煎至底部金黃，加水加蓋燜熟。
+· 蘆筍蟹肉沙拉佐薑汁奶油 (Asparagus crab salad with ginger cream)
+  · 材料：花椰菜 250g、蘆筍嫩尖 125g、雞高湯 125ml、鮮奶油 125ml、生薑片 2.5cm、鹽 1 tsp、白胡椒粉 1 tsp、番茄丁 1個、細香蔥末 2 tbsp、檸檬皮末 1/2 tbsp、熟蟹肉 150g、橄欖油 1 tsp、雪莉醋 1 tsp。
+  · 特點：將花椰菜與蘆筍煮軟打成泥，拌入鮮奶油和薑汁，搭配蟹肉。
+· 香草番茄麵包 (Fougasse bread with thai basil and xo sauce)
+  · 麵團：速發酵母 1/2 tsp、溫水 2 tbsp、鮮奶 180ml、水 150ml、麵粉 525g、鹽 1 tbsp、橄欖油 1 tbsp。
+  · 餡料：日曬番茄乾 160g、XO醬 60ml、泰國羅勒碎 2 tbsp。
+  · 特點：法式葉形麵包，塗上番茄XO醬後烘烤。
+· 黑豆醬蒸扇貝 (Steamed scallops with black bean dressing)
+  · 材料：帶殼扇貝 12個。黑豆醬：蔥白末 2根、蒜末 2瓣、嫩薑末 2 tsp、黑豆蒜蓉醬 1-1.5 tbsp、米酒 2 tbsp、糖 1.5 tsp、橄欖油 1 tsp。
+  · 特點：將黑豆醬淋在扇貝上蒸熟。
+· 蟹肉黃瓜沙拉 (Crab and cucumber salad)
+  · 材料：日本小黃瓜 250g、鹽 1/4 tsp、熟蟹肉 150g、檸檬/青檸汁 2 tbsp、白胡椒粉 1/2 tsp、豆腐包/罌粟籽麵包 4個、泰國羅勒葉（裝飾）。辣椒醬：紅辣椒末 1-2 tbsp、蒜末 2瓣、紅蔥頭末 6粒、水 125ml、糖 1.5 tbsp、魚露 2 tsp。
+· 芒果龍蝦串 (Skewered mango and lobster)
+  · 材料：水 2L、鹽 1 tsp、糖 1 tsp、八角 5粒、活龍蝦 850g、冰水、芒果塊 250g、竹籤 10根。甜辣醬：泰式甜辣醬 1 tbsp、番茄醬 1 tbsp、橄欖油 1 tsp、麻油 1/2 tsp、糖 1 tbsp、水 1 tbsp、青檸汁 1 tbsp、香菜末 1 tsp。
+  · 特點：龍蝦煮熟切塊，與芒果串在一起，配甜辣醬。
+· 香氣羊肉串 (Aromatic lamb seekh kebabs)
+  · 材料：羊絞肉 300g、孜然粉 1/2 tsp、香菜粉 1/2 tsp、紅椒粉 1 tsp、鹽 1 tsp、薑泥 1 tsp、青辣椒末 1根、蒜末 4瓣。
+  · 特點：將肉餡裹在肉桂棒或奇異果藤上烤製。
+· 三文魚牛油果壽司小點 (Salmon avocado sushi nibbles)
+  · 材料：三文魚柳 100g、裙帶菜/沙拉菜（裝飾）。牛油果餡：檸檬半個、牛油果丁 1個、白洋蔥丁 1個、番茄丁 1個、山葵醬/中式芥末 2-3 tsp、鹽 1/4 tsp。
+  · 特點：將牛油果餡用三文魚片包裹。
+· 香脆蘆筍卷佐奶酪與XO醬 (Crisp asparagus rolls with cheese and xo sauce)
+  · 材料：大蘆筍 16根、鹽水 1.5L、冰水、酥皮（Filo）2-3張、帕瑪森奶酪碎 6 tbsp、XO醬 4 tsp、融化黃油 125g、橄欖油 60ml。
+  · 特點：將蘆筍沾上奶酪與XO醬，用酥皮捲起後炸至金黃。
+· 芒果香草蒸魚卷 (Steamed fish roll-ups with mango and fragrant herbs)
+  · 材料：芒果丁 150g、紅蔥頭末 6粒、辣椒油 1/4 tsp、紅辣椒絲 1根、蔥花 2 tbsp、香菜末 3 tbsp、荷蘭芹末 3 tbsp、薄荷末 1/2 tsp、鱈魚/鱸魚/比目魚柳 300g、鹽 1/4 tsp、白胡椒粉 1/4 tsp、大白菜葉 2片（蒸用）。蘸醬：甜黑醬油 1 tbsp、米醋 1 tbsp、柚子汁 1 tbsp。
+  · 特點：將魚肉片包入芒果香草餡，用菜葉包起蒸熟。
+· 烤雞與烤魚坦都里風味條 (Grilled chicken and fish tandoori strips)
+  · 材料：去皮雞胸肉 300g、白魚柳 150g、青檸角。醃料：坦都里香料粉 3 tsp、魚露 1 tbsp、米醋 1 tbsp、椰奶 60ml、蒜泥 4瓣、香菜末 3 tbsp、紅辣椒末 1 tbsp、紅椒粉 2 tsp、青檸汁 2 tsp、鹽 1 tsp、黑胡椒 1 tsp、糖 1 tsp、香菜粉 1 tsp。
+  · 特點：肉類切條，用印度香料醃製後烤熟。
+· 雞肉串佐薄荷醬 (Chicken kebabs with mint sauce)
+  · 材料：雞/火雞絞肉 300g、孜然粉 1/4 tsp、鹽 1/2 tsp、薑黃粉 1/2 tsp、荳蔻粉 1/2 tsp、肉豆蔻粉 1/4 tsp、薑末 1/2 tsp、紅辣椒末 1/2 tsp、香菜末 1 tbsp、甜椒丁 3 tbsp、細香蔥末 1 tbsp、竹籤 6根、黑白芝麻 2 tbsp。薄荷醬：原味優格 125ml、薄荷葉 4枝、糖 1 tsp、鹽 1 tsp、紅椒粉 1/4 tsp。
+· 泰式羅勒橄欖佛卡夏 (Focaccia buns with thai basil and olives)
+  · 預發酵麵團：速發酵母 1/8 tsp、溫水 250ml、麵粉 185g。
+  · 主麵團：速發酵母 1/2 tbsp、溫水 2 tbsp、麵粉 300g、冰水 125ml、鹽 1/2 tbsp、橄欖油 2 tbsp、去核黑橄欖 100g、泰國羅勒末 1 tbsp。
+· 日式烤牛肉茄子串 (Beef yakitori with eggplant)
+  · 材料：牛里脊/和牛 300g、麻油 2 tsp、亞洲茄子 200g（切段）、鹽少許、竹籤 18根、黃油 1/2 tbsp、橄欖油 1/2 tbsp。照燒醬：醬油 3 tbsp、老抽 2 tbsp、柚子醋 1 tbsp、糖 1 tbsp、黑胡椒 1 tsp。
+  · 特點：牛肉與茄子交替串起，刷上照燒醬烤製。
+· 水晶蒸餃 (Steamed crystal dumplings)
+  · 麵皮：木薯粉 125g、沸水 300ml、玉米粉 120g。
+  · 餡料：鮮蝦 200g、鮑魚/蜆肉 200g、竹筍丁 50g、紅蘿蔔丁 80g、竹笙丁 100g、麻油 1 tsp、糖 1/2 tsp、鹽 1/4 tsp、白胡椒粉 1/4 tsp。
+  · 特點：用熱水燙麵做成半透明的水晶皮。
+· 喀什米爾生薑香菜烤蝦串 (Kashmiri shrimp kebabs with ginger and coriander)
+  · 材料：鮮蝦泥 300g、紅椒粉 1 tsp、葛縷子粉 1 tsp、香菜粉 1.5 tsp、薑泥 1.5 tbsp、青辣椒末 1 tbsp、鹽 1.5 tsp、香菜末 1 tbsp、香茅 12根（作籤）。
+· 生醃扇貝佐生薑與XO醬 (Ceviche scallops with ginger and xo sauce)
+  · 材料：青檸汁 4 tsp、雞飯辣椒醬 1/2 tsp、鹽 1/4 tsp、黑胡椒 1/4 tsp、麻油 1/4 tsp、嫩薑絲 2cm、大扇貝 4個、XO醬 3 tsp。
+· 蜜汁釀雞翼 (Honey glazed stuffed chicken wings)
+  · 材料：雞翼 20隻、白胡椒粉 1/4 tsp、鹽 1/2 tsp、黃油 1 tbsp、蜜糖 2 tbsp。
+  · 餡料：雞絞肉 100g、香菇末 3朵、蔥末 1根、紅蔥頭末 3粒、五香粉 1/4 tsp、白胡椒粉 1/4 tsp、鹽 1/2 tsp、蠔油 1 tsp、麻油 1 tsp、米酒 1/2 tsp。
+  · 特點：將雞翼去骨，釀入餡料，烤或炸後掃上蜜糖。
+· 生蠔佐生薑香茅柚子醋 (Fresh oysters with ginger and lemongrass ponzu)
+  · 材料：生蠔 18隻、嫩薑片 125g、香茅（拍碎）3根、日本醬油 1 tbsp、柚子醋 6 tbsp、白胡椒粉 1/4 tsp、水 250ml、魚膠片 2片、冰塊水、飛魚籽/三文魚籽（裝飾）、青檸皮末。
+  · 特點：將柚子醋做成凝膠狀，放在生蠔上。
+· 黃金蝦條佐泰式甜辣醬 (Golden shrimp sticks with sweet thai chili sauce)
+  · 材料：檸檬汁 1 tbsp、鮮大蝦 24隻、麵包糠 120g、鹽 1/2 tsp、白胡椒粉 1/2 tsp、香菜末 4 tbsp、薑末 1 tsp、蛋黃 2個、橄欖油 4 tsp、竹籤 12根。甜辣醬：白醋 125ml、糖 100g、蒜末 5瓣、紅辣椒末 3-5根、鹽 1/2 tsp。
+· 烤空心菜雲吞卷佐山羊奶酪 (Baked kangkong wonton rolls with goat cheese)
+  · 材料：水 500ml、雲吞皮 12張、冰水、蛋液 1個、橄欖油 1 tsp、帕瑪森奶酪碎 1 tbsp、辣椒油 1 tbsp（可選）。
+  · 餡料：橄欖油 1 tbsp、蒜瓣 2個、空心菜/白菜 100g、鹽 1/4 tsp、山羊奶酪 1 tbsp、黑胡椒 1/2 tsp、參巴醬 1 tbsp。
+· 白菜山羊奶酪炸餃 (Bok choy and goat cheese barbajuans)
+  · 麵皮：麵粉 600g、鹽 1/2 tsp、橄欖油 125ml、水 125ml、蛋液 1個、炸油。
+  · 餡料：橄欖油 2 tbsp、蒜末 2瓣、小白菜末 100g、鹽 1 tsp、白胡椒粉 1 tsp、香菇丁 8朵、熟米飯 50g、山羊奶酪 2 tbsp、帕瑪森奶酪碎 1 tbsp、薑末 1/2 tsp、香菜末 2 tbsp、蛋液 1個。
+· 釀節瓜花 (Stuffed zucchini blossoms)
+  · 材料：節瓜花/小甜椒 4個、雞高湯 60ml、黃油 1 tbsp。
+  · 餡料：橄欖油 2 tsp、薑末 1 tbsp、小白菜丁 200g、大白菜丁 45g、鹽 1/2 tsp、白胡椒粉 1/2 tsp、香菇片 2朵、雞絞肉 125g、山羊奶酪/麗可塔奶酪 2 tbsp、泰式綠咖哩醬 1 tsp、蛋黃 1個。
+· 味噌烤鱈魚 (Baked miso cod)
+  · 材料：黑鱈魚/鱸魚 500g。味噌醃料：清酒 60ml、味醂 60ml、白味噌 4 tsp、糖 1/2 tsp。
+  · 特點：魚肉用味噌醃製後烤製。
+· 和牛沙拉卷 (Wagyu beef salad rolls)
+  · 材料：薄切和牛/壽喜燒牛肉 125g、牛肉高湯 250ml、紅蘿蔔絲 50g、節瓜絲半條、苜蓿芽 20g、蘿蔔苗 20g。芝麻醬：醬油 2 tbsp、白洋蔥末 45g、牛肉高湯 2 tbsp、清酒 2 tbsp、芝麻醬 1/2 tbsp。
+· 藏紅花壽司飯小點佐蜆肉與西班牙臘腸 (Saffron sushi rice canapés with clams and chorizo)
+  · 材料：熟西班牙臘腸/莎樂美腸丁 50g、鹽 1/2 tsp、黑胡椒 1/4 tsp、烤紅椒（切長方形）9片、辣根苗（裝飾）、熟小蜆 35隻。青豆泥：青豆 200g、鹽 1.5 tsp、水 1L、橄欖油 1 tbsp。紅椒醬：紅甜椒 1個、鳥眼辣椒 2根、紅蔥頭 2粒、米醋 1 tbsp、清酒 2 tbsp、雞高湯 2 tbsp、糖 1 tbsp。藏紅花壽司飯：日本珍珠米 300g、藏紅花粉 1/2 tsp、水 300ml、米醋 2 tbsp。
+· 蒸點心包 (Steamed dim sum buns)
+  · 麵團：包粉 300g、糖 65g、泡打粉 1.5 tbsp、水 125ml、豬油 1/2 tbsp。
+  · 餡料：去骨雞腿肉丁 300g、香菇丁 8朵、竹筍丁 150g、蔥末 2根、薑末 1 tbsp、鹽 1 tsp、糖 1.5 tsp、玉米粉 1.5 tsp、麻油 1 tsp、白胡椒粉 1.5 tsp、雞粉 1/2 tsp、植物油 1/2 tsp。
+· 峇里島牛肉沙嗲 (Balinese beef satays)
+  · 材料：濃椰奶 500ml、牛絞肉 600g、竹籤 18根。
+  · 香料醬：紅辣椒 2-3根、蒜 6瓣、薑 2.5cm、南薑 2.5cm、石栗/夏威夷果 4粒、香菜粉 1 tbsp、青檸葉/沙蘭葉 4片、蝦醬 1 tsp、黑胡椒 1 tsp、糖 2 tbsp、鹽 1 tsp。
+· 節瓜花/白菜釀蝦仁 (Kailan and goat cheese pastillas)
+  · 材料：豬網油/酥皮 4張、麻油 1 tsp。
+  · 餡料：橄欖油 1 tbsp、芥蘭/菠菜末 45g、鹽少許、鮮蝦 100g、辣根泥 3 tbsp、日曬番茄乾 1 tsp、黑橄欖碎 1 tsp、山羊奶酪 3 tbsp、蛋 1個、蝦米（泡軟打碎）1/2 tbsp、麵包糠 2 tbsp。
+· 吞拿魚他他卷佐柚子 (Tuna tataki rolls with yuzu)
+  · 材料：刺身級吞拿魚柳 500g、橄欖油 1/2 tbsp。蘸醬：醬油 3 tbsp + 山葵粉 1 tsp。
+  · 香料醬：鳥眼辣椒 1-2根、蒜 4瓣、香菜 12枝、蔥 3根、柚子汁 1.5 tbsp、橄欖油 1/2 tbsp。
+· 熱帶鮮蝦沙拉 (Tropical shrimp salad)
+  · 材料：水 1L、鹽 1 tsp、糖 1 tsp、鮮蝦 250g、冰水、青檸汁 60ml、魚露 2 tbsp、糖 1 tbsp、薄荷葉絲 12片、芒果丁 160g、木瓜丁 160g、菠蘿丁 200g、洋蔥絲 1/2個、紅辣椒絲 2-3根、烤腰果碎 12粒。
+· 脆雲吞皮卷佐空心菜 (Crisp wonton rolls with kangkong)
+  · 材料：水 500ml、雲吞皮 12張、冰水、蛋液 1個、橄欖油 1 tsp、帕瑪森奶酪碎 1 tbsp、辣椒油 1 tbsp（可選）。
+  · 餡料：橄欖油 1 tbsp、蒜瓣 2個、空心菜/白菜 100g、鹽 1/4 tsp、山羊奶酪 1 tbsp、黑胡椒 1/2 tsp、參巴醬 1 tbsp。
+· 鮮三文魚沙拉卷 (Fresh salmon salad rolls)
+  · 材料：米紙 6張、三文魚柳 300g、飛魚籽/三文魚籽（裝飾）、蔥（裝飾）。
+  · 餡料：紅蘿蔔絲 50g、白蘿蔔絲 75g、香菜末 2 tbsp、甜梅醬 3 tbsp、麻油 1 tbsp、魚露 2 tbsp、烤花生碎 3 tbsp、烤芝麻 1 tbsp、青檸汁 3 tsp。
+· 泡菜煎餅佐醋溜醬油 (Kimchi pancakes with vinegar soy dipping sauce)
+  · 材料：麵粉 115g、蛋 1個、水 250ml、青紅辣椒絲各1根、蔥花 1根、切碎泡菜 100g、烤白芝麻 1 tbsp、橄欖油 3 tbsp、豆芽（裝飾）。
+· 楊桃蘆筍沙拉 (Star fruit and asparagus salad)
+  · 材料：水 750ml、臘腸 2根、大蘆筍 2根、長豆 4根、冰水、豆芽 50g、楊桃 125g。
+  · 越南薄荷醬：魚露 3 tbsp、青檸汁 2 tbsp、糖 2 tbsp、梅粉/梅醬 1 tsp、越南薄荷葉 10片、鳥眼辣椒末 2根（可選）。
+· 香茅椰奶青口 (Mussels in fragrant coconut cream)
+  · 材料：青口 500g、冰水、香茅 2根、香菜末 1 tbsp、青檸皮末 2 tsp、蔥末 1根、紅辣椒末 2-3根、泰式咖哩醬 3 tsp、椰奶 125ml、水 125ml、魚露 2 tbsp、鹽 1/2 tsp。
+· 煙燻火雞青芒果沙拉 (Smoked turkey and green mango salad)
+  · 材料：青芒果絲 75g、紅辣椒末 1根、鳥眼辣椒末 1根、蔥花 1 tbsp、紅蔥頭末 2 tbsp、香菜末 1 tbsp、煙燻火雞肉丁 100g、青檸汁 1 tsp、蛋黃醬 2 tbsp、生腰果 80g、炸蝦片/印度脆餅 20片。
+· 八爪魚串佐焦糖青芒果 (Octopus skewers with caramelized green mango)
+  · 材料：水 1.5L、檸檬汁 1個、百里香 10枝、八爪魚觸手 300g、冰水、竹籤 12根、水菜/沙拉菜（裝飾）、白芝麻（裝飾）、雞飯辣椒醬（蘸醬）。焦糖青芒果：水 250ml、魚露 1 tsp、糖 65g、紅辣椒末 2根、薑末 1 tsp、青芒果塊 400g。
+· 香茅八角奶凍 (Lemongrass and star anise pannacotta)
+  · 材料：香茅（切段）5根、雞高湯 500ml、八角 5粒、鹽 1/4 tsp、瓊脂粉 1 tbsp、冰塊水、打發鮮奶油 250ml、鮮奶油 500ml、青檸汁 2 tbsp、細香蔥末 1 tbsp、番茄丁 1個、黑胡椒 1/4 tsp、烤麵包條（配菜）、烤西班牙臘腸片（配菜）。
+· 柚子蝦沙律 (Pomelo salad with dried shrimp)
+  · 材料：蝦米 3 tbsp、橄欖油 1 tbsp、蒜末 3瓣、紅辣椒絲 1-2根、紅蔥頭末 1粒、魚露 2 tsp、青檸汁 2 tbsp、糖 2 tsp、鹽 1/2 tsp、白胡椒粉 1/4 tsp、水 3 tbsp、柚子肉 2杯、烤花生碎 3 tbsp、薄荷葉（裝飾）。
+· 香辣魚餅佐西洋菜醬 (Spicy fish otah cakes with watercress sauce)
+  · 材料：白魚柳 300g、椰奶 60ml、蛋 1個、香菜末 2 tbsp、蒜泥 2瓣、鳥眼辣椒 1-2根、蔥末 1根、生菜葉（蒸用）、炸韭蔥絲（裝飾）。西洋菜醬：水 500ml、鹽 1 tsp、西洋菜 100g、冰水、雞高湯 60ml、柚子汁 1 tbsp。
+· 三文魚花椰菜慕斯 (Salmon and cauliflower mousse)
+  · 材料：三文魚柳 500g、鹽 1 tsp、白胡椒粉 1 tsp、橄欖油 60ml、花椰菜（切小朵）375g、無鹽黃油 85g、鮮奶油 3 tbsp、黑芝麻 1 tsp、白蘿蔔 500g、魚子醬 60g、蒜香韭菜/辣椒絲（裝飾）。
+· 烤鴨蔬菜卷 (Roast duck and vegetable rolls)
+  · 材料：豆芽 50g、香菇片 2朵、小蘆筍 10根、蒜末 2瓣、麻油 1/2 tbsp、鹽 1 tbsp、白胡椒粉 1 tsp、大白菜葉 5片、水 1L、冰水、烤鴨胸 125g、海鮮醬 3 tbsp、紅辣椒絲（裝飾）、細葉香芹（裝飾）。檸檬醬油：檸檬汁 6 tbsp、辣椒蒜蓉醬 2 tbsp、老抽 1 tbsp、醬油 1 tbsp、糖 1 tbsp。
+· 香料印度卷 (Fragrant khandvi rolls)
+  · 材料：咖哩葉/羅勒葉 25-30片、芥末籽 2 tsp、薑黃粉 1 tsp、紅椒粉 1 tsp、鹽 1 tsp、鷹嘴豆粉 200g、原味優格 3 tbsp、油 1 tbsp、水 500ml、現刨椰絲 2-3 tbsp、香菜末 1 tbsp。
+· 芝麻吞拿魚球佐生薑 (Sesame crusted tuna nibbles with ginger)
+  · 材料：吞拿魚碎 250g、紅辣椒末 2 tsp、細香蔥末 2 tbsp、鹽 1 tsp、黑胡椒 1/2 tsp、麻油 2 tsp、薑泥 1.5 tbsp、芝麻 4 tbsp、炸油、牙籤 15根。
+· 雞肉飯糰 (Steamed chicken rice balls)
+  · 材料：雞絞肉 300g、香菜末 1 tbsp、蔥末 2 tsp、馬蹄（去皮切碎）4個、鹽 1/4 tsp、白胡椒粉 1/4 tsp、麻油 1 tsp、米酒 1/2 tbsp、玉米粉 1 tbsp、蛋白 1個、生米 200g（泡熱水15-20分鐘）、斑蘭葉（蒸用）、醬油（蘸醬）、芝麻 1 tbsp。雞飯辣椒醬：紅辣椒 8根、蒜 3瓣、紅蔥頭 1粒、薑 4cm、白醋 1 tbsp、青檸汁 1 tbsp、青檸皮末 1/2 tsp、烤白芝麻 1/2 tbsp、香菜末 1 tbsp、麻油 1.5 tbsp、鹽 1/2 tsp。
+· 綠茶蕎麥麵炸蝦 (Green tea soba crusted shrimp)
+  · 材料：乾綠茶蕎麥麵 60g、冰水、麵粉 75g、蛋黃 1個、水 80ml、冰塊 80ml、鮮蝦 350g、玉米粉 1 tbsp、炸油。日曬番茄醬：日曬番茄乾末 2 tbsp、酸奶油 125g、蒜香韭菜 2 tbsp、Tabasco辣醬 2 tbsp。
+· 菠蘿豬肉沙嗲佐香辣花生醬 (Pork satays with pineapple and spicy peanut dip)
+  · 材料：豬柳/里脊 400g、菠蘿塊 400g、竹籤 24根、油 1 tbsp。醃料：醬油 1 tbsp、米酒 1 tbsp、蒜末 4瓣、麻油 1 tsp、五香粉 1 tsp、黑胡椒 1/2 tsp、糖 1 tbsp、鹽 1/2 tsp。花生醬：紅蔥頭 4粒、蒜 4瓣、醬油 2 tbsp、橄欖油 2 tbsp、薑片 5cm、紅辣椒 2根、老抽 2 tbsp、糖 2 tsp、水 500ml、烤花生 300g。
+· 素菜米紙春卷 (Vegetarian rice paper spring rolls)
+  · 材料：玉米粉 3 tbsp、蛋液 1個、米紙 15張、炸油。素餡料：米粉 100g、水 500ml、橄欖油 2 tsp、鹽 2 tsp、壓實豆腐（煎香切絲）250g、香菇丁 6朵、木耳絲 10片、紅蘿蔔絲 1小根、日曬番茄乾絲 40g、黑橄欖丁 10粒、白胡椒粉 1/2 tsp、香菜末 2 tbsp。辣椒蒜蓉蘸醬：紅辣椒末 3 tbsp、蒜末 2 tbsp、糖 1 tsp、黑醋 2 tbsp、魚露 60ml。
+· 蔬菜海鮮酥皮卷 (Vegetable and seafood pastillas)
+  · 材料：酥皮（Filo）10張、無鹽黃油 60g、沙拉菜（裝飾）。
+  · 餡料：茄子丁 150g、香菇丁 4朵、節瓜丁 150g、紅椒丁 1/2個、鹽/胡椒 1 tsp、橄欖油 3 tbsp、紅蔥頭末 2粒、蒜末 2-3瓣、扇貝丁 3個、鮮蝦丁 100g、黑豆蒜蓉醬 1 tbsp。
+· 熱帶芒果壽司 (Tropical mango sushi)
+  · 材料：芒果丁 500g、紅蔥頭末 1粒、紅辣椒絲 1根、香菜末 1 tsp、糖 1 tsp、魚露 1 tsp、青檸汁 1 tbsp、山葵泥 2 tsp、米紙 3張。
+  · 壽司飯：日本珍珠米 200g、水 375ml、昆布 5cm、米醋 2 tbsp、糖 1.5 tbsp、味醂 1 tbsp、鹽 1 tsp。
+· 香辣魚肉Otah (Spicy fish otah morsels)
+  · 材料：白魚柳 200g、鹽 1 tsp、白胡椒粉 1/2 tsp、糖 2 tbsp、叻沙葉/越南薄荷末 1 tsp、椰奶 3.5 tbsp、油紙 1張。
+  · 香料醬：南薑 6cm、香茅（底部）3根、紅蔥頭 10粒、薑黃粉 3 tsp、紅辣椒 5根。
+· 夏日綠茶冷麵 (Summer green tea noodles)
+  · 材料：青口/鮮蝦 500g、綠茶蕎麥麵 200g、冰水、蠔油 2 tbsp、醬油 2 tbsp、柴魚片 2 tbsp、去核黑橄欖 16粒、日曬番茄乾片 40g、芹菜葉末 4 tbsp。
+· 香菇番茄釀魷魚圈 (Shiitake and tomato stuffed squid rings)
+  · 材料：中型鮮魷魚 500g、橄欖油 4 tsp、香菇丁 125g、日曬番茄乾丁 2-3 tbsp、蒜泥 1瓣、洋蔥丁 1個、黃油 1 tbsp、麵包丁 2片、番茄丁 250g、荷蘭芹末 2 tbsp、香菜末 2 tbsp、黑橄欖末 5粒、蔥末 1根、薑末 1 tbsp、鹽 1/4 tsp、胡椒 1/2 tsp、牙籤 16根。
+· 香脆龍蝦麵巢佐柚子醬油 (Crisp lobster nests with yuzu soy dip)
+  · 材料：炸油、薄荷葉（裝飾）、甜黑醬油（可選）。
+  · 龍蝦巢：小龍蝦/小龍蝦 1隻、鮮蝦泥 100g、鹽 1/4 tsp、白胡椒粉 1/4 tsp、Kadaifa麵絲 125g。
+  · 扇貝巢：蛋 1個、玉米粉 4 tbsp、水 2 tbsp、大扇貝 12個、醃薑片 12片、Kadaifa麵絲 125g。
+  · 柚子醬油：麻油 1 tsp、醬油 2 tbsp、柚子汁 3.5 tbsp、白胡椒粉 1 tsp、蒜末 3瓣。
+· 金黃奶酪薯餅 (Golden cheese tikki patties)
+  · 材料：脫水原味優格 250ml、奶油奶酪/印度奶酪 250g、紅洋蔥丁 1/2個、青辣椒末 4 tbsp、薑末 2-3 tbsp、香菜末 2 tsp、鹽 1/2-1 tsp、鷹嘴豆粉/麵包糠 150g、炸油。
+· 蜜汁小魷魚 (Honey glazed baby squid)
+  · 材料：炸油、小魷魚 300g、蜂蜜 1.5 tbsp、蠔油 2 tbsp、番茄醬 2 tbsp、老抽 1/2 tbsp、糖 2 tsp、鹽 1/4 tsp、檸檬皮末 1 tsp、小饅頭/法包片 5/15個。
+· 刺身沙拉卷佐山葵醬 (Sashimi salad rolls with wasabi dip)
+  · 材料：米紙 6張。
+  · 餡料：醬油 1 tsp、麻油 1 tsp、鹽 1 tsp、黑胡椒 1 tsp、山葵醬 1/2 tbsp、紅蘿蔔絲 50g、節瓜絲 95g、香菜末 1 tbsp、紅菊苣/羅馬生菜絲 1片、細香蔥末 1 tbsp、日式醃薑片 5片、刺身吞拿魚/煙三文魚片 60g、蜆肉 40g、熟蝦 3隻、熟龍蝦肉 3 tbsp。
+  · 山葵蘸醬：山葵粉 2 tbsp、水 2 tbsp、醬油 3 tbsp、老抽 2 tbsp、日式高湯 6 tbsp。
+
+---
+
+第三部分：甜點 (Desserts)
+
+· 香甜椰子撻 (Sweet coconut tarts)
+  · 材料：冷凍千層酥皮 700g、蜂蜜 4 tsp（可選）。椰子餡：糖 265g、水 180ml、甜椰絲 150g、蛋 2個、卡士達粉 50g、無鹽黃油 30g、泡打粉 1/4 tsp。
+· 熱帶提拉米蘇 (Tropical tiramisu)
+  · 材料：百香果 2個、柚子/西柚果肉 3 tbsp、西米 3.5 tbsp、手指餅乾 4塊/海綿蛋糕 8片。
+  · 提拉米蘇：馬斯卡彭奶酪 125g、鮮奶油 125g、糖 3 tbsp、蛋 1個。
+· 香料茶鬆餅 (Fragrant spiced tea muffins)
+  · 材料：黃油 160g、糖 250g、蛋 3個、麵粉 400g、泡打粉 1.5 tbsp、雲呢拿香精 1 tsp、鹽 1 tsp、牛奶 180ml、綠茶葉 1 tbsp、玫瑰花茶葉 3 tbsp、茉莉花茶葉 5 tbsp、馬蹄（切碎）80g、苦甜朱古力粒 80g、芒果粒 80g。
+· 蘇門答臘香料咖啡 (Spiced sumatran coffee / café brûlot)
+  · 材料：糖 2 tbsp、橙 1個、丁香 3粒、肉桂棒 1根、荳蔻莢 3粒、深色朗姆酒 1 jigger、沖泡咖啡 1L。
+· 香脆腰果酥餅 (Flaky cashew nut puff pastry squares)
+  · 材料：蛋白 1個、糖霜 250g、烤腰果（切半）40g、覆盆子果泥（可選）。
+  · 油麵團：黃油 125g、麵粉 150g。
+  · 基底麵團：麵粉 175g、起酥油 3 tbsp、水 250ml。
+· 椰子奶凍配薰衣草果凍、山竹蛋白霜及朱古力 (Coconut pannacotta with lavender jelly, mangosteen meringue and melted chocolate)
+  · 材料：新鮮山竹 4個。
+  · 薰衣草果凍：水 1L、糖 65g、乾薰衣草花 1.5 tbsp、魚膠片 12片、冰水 1L。
+  · 椰子奶凍：魚膠片 3片、雲呢拿莢 1/2條、鮮奶 250ml、糖 4 tbsp、濃椰奶 300ml。
+  · 蛋白霜：蛋白 2個、糖 125g、鹽少許。
+  · 融化朱古力：朱古力條 200g、鹽少許。
+· 水果曲奇棒棒糖 (Fruit cookie lollipops)
+  · 材料：防油烘焙紙、竹籤 12根。
+  · 水果餡：麵粉 50g、鹽少許、泰式橙/青檸汁 80ml、融化黃油 60g、細砂糖 100g、橙皮末 1/2 tsp、檸檬皮末 1/2 tsp。
+  · 曲奇麵糊：融化黃油 60g、糖霜 65g、蛋白 2個、麵粉 75g、雲呢拿香精 1滴。
+
+--
+
+
+
+
+
+
+
+
+以下係我幫你整理成「可直接餵給 Poe AI 機械人」嘅《八角哲學》訓練文本。
+我唔會逐句背，而係把書中可讀內容拆成：核心概念、八元素、人物/餐廳/方法、全部可讀食譜（材料份量詳細、做法只留要點）。你可以直接複製去 Poe 知識庫或做成 RAG chunks。
+
+重要讀取限制：你上傳嘅 PDF 由 Page 201 起文字層空白，Page 201–270 多數冇可讀文字；所以書中「憶」「風土」兩章、以及「膠囊、創意發酵汁、基本料理」完整內容未能從呢個壓縮 PDF 讀取。以下只整理 Page 1–200 可讀內容 + Page 201 前已出現食譜。若你有完整版，可以再補。
+
+---
+
+一、全書核心內容（AI 必須學識）
+
+1. 書籍資料
+
+· 書名：八角哲學 Octaphilosophy
+· 作者：江振誠 André Chiang
+· 協力：Lotta Jörgensen 洛塔·約根森
+· 主題餐廳：Restaurant André，新加坡武吉巴梳路 Bukit Pasoh Road，1922 年三層樓店屋，只有 30 個座位；廚房 12 人、外場 7 人。
+· 出版背景：2015 年 Restaurant André 開幕五週年，江振誠把創作經驗整理成實用、可啟發靈感嘅工具書。
+· 書本結構：推薦序（賈克與羅倫·普賽、帕斯卡·巴博）、母親的一封信、自序、八角哲學總論、八個元素章節、膠囊/創意發酵汁/基本料理、索引。
+
+2. 八角哲學係乜
+
+江振誠籌備第一家餐廳時自問：「André 是誰？André 如何脫離之前所有師承的強烈風格、定義自己為一位主廚？」他認為要忠於自己，設計一套屬於自己嘅架構，好似找出自己嘅 DNA。
+
+八個詞浮現：
+獨特 Unique、純粹 Pure、質 Texture、憶 Memory、鹽 Salt、南法 South、工藝 Artisan、風土 Terroir。
+
+這八個元素係 Restaurant André 所有創作嘅骨幹；由一道菜到整套餐嘅理念，都係用八角哲學激發創意同管理創作流程。八個詞可以成為八道菜嘅關鍵詞，八道菜剛好組成一個套餐；「八」古希臘字根係 octa，所以叫 Octaphilosophy。
+
+八角哲學上菜思維
+
+· 焦點由「背後技術」轉為「食者真實感受」。
+· 比起解釋高檔食材同炫技，八角哲學只單純詮釋概念與感覺，直接聚焦顧客眼前嘅色、香、味，強調「美味」。
+· Restaurant André 冇傳統前菜/主菜之分；每道菜自成一格又相輔相成，同等重要。
+· 一道菜嘅設計可以刺激某些感官，但詮釋權留給顧客。
+
+3. 八角分析 Octagonal Analysis
+
+· 八角形有八個等邊，古典建築、停車再開標誌、雨傘、道教八卦都係八角形。
+· 八卦八個面向代表天、澤、火、雷、風、水、山、地；八角哲學八元素也可延伸屬性：單純、口味、技巧、情感、結構、原創、想像。
+· 八角形每個內角 135 度，整體接近完美圓形，用來檢視一道菜是否平衡。
+· 做法：八角形中心向每個角畫軸線；按每個屬性在菜中嘅重要程度在軸線畫點；連點成區域並上色。可檢視單道菜，也可把整份菜單每道菜嘅八角圈疊起，看是否完美平衡。
+· 吃係一個過程，涉及味覺、視覺、質感、嗅覺；舌頭可嘗甜、鹹、酸、苦、鮮，結合嗅覺會產生「鼻後嗅覺 retronasal olfaction」。
+
+4. 重要人物與地點
+
+· 普賽兄弟 Jacques & Laurent Pourcel：米其林史上最年輕三星主廚之一，南法蒙彼利埃 Le Jardin des Sens 感官花園；江振誠 18 歲赴法跟隨他們，從實習生做起。
+· Pierre Gagnaire 皮耶·加尼葉：無國界料理大師，高度尊重食材、即興藝術家。
+· Michel Troisgros 米契·特洛格斯：廚房極有條理，規定不使用超過五種食材。
+· Pascal Barbot 帕斯卡·巴博：像年輕皮耶·加尼葉，焦點在創作而非奢華銀器。
+· Joel Robuchon 侯布雄：江振誠曾近身學習的大師之一。
+· Restaurant André 團隊：總主廚姜曙宇 Johnny Jiang、侍酒師暨總經理長谷川健介 Kensuke Hasegawa、前任總經理 Stepan Marhoul、太太 Pam。
+· 台北 RAW：江振誠另一個餐廳，也有有機農場概念。
+
+5. 重要創作概念
+
+· 純粹料理：化繁為簡；做純粹料理時通常不用電、瓦斯、調味品，只用水和刀；成敗關鍵在挑選食材。
+· 永續/農場：支持跟隨四季耕作嘅小農；為 Restaurant André 及台北 RAW 打造有機農場。
+· 歸零：不滿足現狀，跳脫一切觀察自己，確認初心。
+· 陶藝與廚藝：兩者原料來自大地，都可塑形、轉化，都要先透悟特性、不斷練習；江振誠以白陶土捏洋蔥、青蒜、朝鮮薊等，不上釉，呈現不完美自然。
+· 飲品哲學：Restaurant André 稱飲品為 liquids；自製無酒精創意發酵汁 jus des idées，用蔬菜、根莖、莓果、水果、葉、花、草本製作；要如酒般豐富順口、含單寧酸、視覺吸引；可用烘烤、烹煮、壓榨、浸泡、發酵、二次發酵、發泡。咖啡用在地小型手作烘焙、北歐式淺焙，每天試煮至少兩次。
+· 深度工藝卡蒙貝爾 Camembert：用較清淡乳酪、脫水巴伐利亞奶凍、布拉塔、法式白乳酪，晾乾熟成，做出像完美熟成卡蒙貝爾；用蠟紙包、圓木盒、加稻草冰淇淋。
+· 膠囊 The Capsule：受馬奈《草地上的午餐》啟發；用當日鮮採香草綠葉做濃縮葉綠素汁，裝入酪梨奶油膠囊；咬開會噴出綠色汁液。
+· 團隊白板：廚房中央白板收集靈感；每隔一週「白板週」，五位廚師抽號碼 1 開胃小點、2/3 前菜、4 主餐、5 甜點；每人限選三種主要食材；兩週形成新菜；江振誠做 taste master / creative director；試菜時內外場全員參與。
+· 服務：150 分鐘演出，由訂位電話開始；記過敏、目的、喜好；每個細節精心安排；服務人員送客到街上。
+
+---
+
+二、八元素定義（可直接訓練）
+
+元素 英文 定義
+純粹 Pure 任何事物皆有其美，單純才真實。不做改變，食材完全呈現、變化出所有潛能，釋放真實味道、香氣、質感，保持原貌原味。
+鹽 Salt 生命必不可缺；曾用於保存食物、交易貨幣、趨吉避凶；大海天賜最天然本味的美味元素。
+工藝 Artisan 耕作職人應被頌揚、珍視；職人肩負歷史傳承，一生專心技藝，充滿熱情，將單純食材點食成金。
+南法 South 陽光中橄欖樹香氣、成熟蕃茄芳香；法國南部熱情慷慨好客，多采多姿樂活精神。
+質 Texture 柔軟、酥脆、堅硬、組織、絲滑、濃厚、彈牙……多重質感交疊如交響樂，提升感官體驗。
+獨特 Unique 用好奇心探索食材，忘卻習慣常規，放膽挑戰無限想像力。
+憶 Memory 記憶串連人生，是最佳靈感泉源、最好朋友；善用回憶增色生活享樂體驗。
+風土 Terroir 特定時間、地點、傳統、文化、地理與氣候特性，融匯生成無法取代的地方特色。
+
+---
+
+三、食譜總表（材料份量詳細；做法只留要點）
+
+以下按章節排列。部分 OCR 不清的地方會標「可讀分量」；做法只保留核心步驟，方便 AI 學懂結構。
+
+第一章：純粹 Pure
+
+1. 玉米前菜及外葉
+
+· 材料：帶外葉及鬚玉米筍 5 條；爆米花：葵花油 1 茶匙、爆米花 200g；玉米奶霜：甜玉米 220g、香草莢 1 枝、超細砂糖適量、金級吉利 T 1 片、鮮奶油 50ml（打六分發）。
+· 做法：切玉米筍外葉成 6×1cm；玉米筍對剖去穗心；爆米花用 150°C 葵花油爆開；甜玉米打泥濾汁 180g，加香草籽、鹽、糖煮滾，加吉利丁，降溫拌鮮奶油；鋪玉米筍、外葉、爆米花，淋奶霜。
+
+2. 「玉米」樂章 1：鮮奶油、玉米筍、牛蒡
+
+· 材料：玉米奶霜同上（甜玉米 220g、香草莢 1、吉利丁 1 片、鮮奶油 50ml）；玉米筍 5 條；牛蒡根 1 根、葵花油 500ml、鹽胡椒；黑芝麻 50g、鹽之花 10g。
+· 做法：玉米奶霜同上；玉米筍切外葉、對剖去穗心；牛蒡刨絲泡水，160°C 炸金黃；黑芝麻烘 1 分鐘打碎加鹽；盤鋪玉米鬚、玉米奶霜、玉米筍、牛蒡絲、芝麻鹽。
+
+3. 冬樹：菊芋、馬鈴薯
+
+· 材料：去皮菊芋 700g、稻草 100g、米 150g、蔬菜油；馬鈴薯 100g、特級初榨橄欖油 10ml、鹽胡椒、蔬菜油。
+· 做法：菊芋 100°C 蒸 45 分鐘取汁；稻草煙燻 25 分鐘；菊芋、煙燻菊芋、米打糊鋪 Silpat，65°C 脫水 8 小時；馬鈴薯煮熟去皮加橄欖油成泥，70°C 烘 4 小時；剪樹葉形；185°C 炸菊芋片，80°C 煎馬鈴薯片；放小樹枝上。
+
+4. 黃瓜雪酪珠、糖漬蟹肉、甘菊凍、接骨木花糖清黃瓜、海膽白乳酪
+
+· 材料：黃瓜 300g、小薑草 35g、蘋果泥 90g、動膠 7.5g、百香果泥 35g、超細砂糖 70g、水 75ml、檸檬汁 5ml、雪酪安定劑 60g、白胡椒；岩蟹 3 隻、白酒醋 40g、細香蔥 10g、榛果油 10ml、檸檬汁 20ml、半顆檸檬皮屑、半顆柳橙皮屑、鹽 3g；甘菊花葉 50g、沸水 200ml、金級吉利丁 2 片；日本黃瓜 2 條、接骨木花糖漿 20ml、水 500ml；法式白乳酪 100g、新鮮海膽 10 顆、鹽白胡椒；海膽 30g、珍珠洋蔥 2 顆、黃瓜花、葡萄花、山椒葉、紫蘇花穗。
+· 做法：黃瓜材料打泥過濾，滴液態氮成珠冷凍；甘菊泡茶加吉利丁凝固；海膽拌白乳酪；盤抹白乳酪，放蟹肉、甘菊凍、糖清黃瓜、海膽，裝飾，放雪酪珠。
+
+5. 茄子、水針、海膽
+
+· 材料：紫茄子 5 條、日式高湯 80ml、鹽胡椒；水針魚 3 尾、昆布 2 片、鹽胡椒；海膽 30g；白洋蔥 1kg、高湯 750ml、百里香 1 枝、日式高湯 20ml、三仙膠；特級初榨橄欖油、山藥、山椒葉、水芹、紅芥末、菊花、韭花。
+· 做法：茄子 180°C 炸 80 秒去皮對剖，鹽胡椒日式高湯真空 90°C 蒸 15 分鐘冰鎮切段；水針去骨調味夾昆布真空醃 8 小時切 5cm；洋蔥材料真空 85°C 煮 3 小時加茄子皮浸 5 小時，濾汁加三仙膠；排盤淋醬。
+
+6. 昆布釀魚、西班牙蕃茄冷湯雪酪、蕃茄與桃子沙拉
+
+· 材料：魚 250g、昆布 2 片、花椒碎鹽；紅蕃茄 3kg、鳳梨肉 500g、吉利丁 35g、特級初榨橄欖油 25ml、鹽 3g、超細砂糖 50g、葡萄糖 100g、安定劑 2g；日本水果蕃茄 3 顆、日本白桃 3 顆、醬汁 300ml；牡丹蝦 10 隻、日本長海藻、紅珊瑚草、山椒葉、紫蘇花穗、橄欖油、黃菊花。
+· 做法：昆布泡軟包調味魚真空一晚；蕃茄鳳梨打泥加吉利丁冷凍，切塊濾汁 500ml，加材料煮滾冷凍 Pacojet；蕃茄去皮切八片，白桃切片淋醬；魚切片、牡丹蝦薄片，排盤加雪酪。
+
+7. 岩蟹、大頭菜、梨
+
+· 材料：洋蔥膏 50g、白味噌 50g；水 1L、昆布 80g、日式高湯 20ml、杏鮑菇 500g、鹽；岩蟹 3 隻、白酒醋 40g、細香蔥 10g、榛果油 10ml、檸檬汁 20ml、半檸檬皮、半柳橙皮、鹽 3g；大頭菜 1 顆；西洋梨 2 顆、西洋梨精；醬油、甲殼類醬油、馬齒莧、青蒜水 50ml。
+· 做法：洋蔥膏拌白味噌；杏鮑菇煮 7 分鐘切絲；蟹煮 6 分鐘取 80g 肉拌材料；大頭菜切薄片燙 2 秒冰鎮；西洋梨冷凍刨液態氮成雪花噴梨精；盤放蟹肉、洋蔥泥、菇絲、大頭菜，淋蔥油醬油，配梨雪花。
+
+8. 香樟清湯、香蒜、根莖類蔬菜；伯爵茶晶凍
+
+· 材料：蘑菇 2kg、橄欖油 1 茶匙、去皮紅蔥 2kg、雞高湯 5L、泰國青樟葉 10 片、香茅 200g、芫荽 100g、生薑 100g；白青蒜 20g、綠青蒜 20g、餛飩皮、蛋白液、鹽胡椒；小根莖蔬菜；水 300ml、伯爵茶葉 6g、超細砂糖 90g、洋菜粉 2.4g。
+· 做法：蘑菇紅蔥炒軟加雞高湯、青樟葉、香茅、生薑熬 2 小時濾清；青蒜炒軟做餡包餛飩；根莖蔬菜燙熟綁束放碗，沖熱湯放餛飩；伯爵茶泡 5 分鐘，取 225g 加糖洋菜煮滾凝固，切 2.5cm 方塊，55°C 脫水 6 小時，室溫放 6 小時結晶。
+
+9. 薄切紅葡萄、覆盆子百匯、紅葡萄醬、覆盆子白桃泡沫、檸檬佛手柑膠
+
+· 材料：無籽紅葡萄 1kg、吉利丁 10g、白桃汁 300ml；覆盆子泥 250g、檸檬汁 2 茶匙、吉利丁 10g、超細砂糖 180g、水 50ml、蛋黃 65g、鮮奶油 150ml；白桃肉 4kg、吉利丁 40g、紅葡萄汁 500ml、超細砂糖 90g、檸檬汁 15ml、佛手柑精 6 滴、三仙膠 1 茶匙；覆盆子泥 70g、白桃泥 200g、超細砂糖 50g、檸檬汁 2 茶匙、冷用泡沫安定劑 30g；檸檬汁 200ml、水 100ml、超細砂糖 100g、洋菜粉 4g、佛手柑精 10 滴；粉紅芽花。
+· 做法：葡萄切 2mm 薄片鋪墊，刷吉利丁白桃汁冷凍切 7cm 圓；覆盆子百匯做蛋黃糖漿拌鮮奶油入模冷凍；白桃打泥加吉利丁冷凍濾汁 100ml 加葡萄汁等調稠；泡沫材料入 Siphon；檸檬膠煮凝固打泥；排盤擠百匯、泡沫、葡萄片、葡萄醬、檸檬膠。
+
+10. 肉（里肌肉）
+
+· 材料：里肌肉 500g、特級初榨橄欖油 100ml、洋蔥丁 50g、胡蘿蔔丁 50g、青蒜丁 50g、豬骨高湯 100ml、百里香 1 枝、大蒜 1 瓣、鹽胡椒；羽衣甘藍 200g；蛋黃 2 顆、芥末籽 30g、檸檬汁 2 茶匙、葵花油 200ml、鹽。
+· 做法：羽衣甘藍 55°C 脫水一夜打粉；豬肉調味，炒蔬菜加高湯，放豬肉百里香大蒜，150°C 烤 45 分鐘，撕成肉絲；蛋黃芥末檸檬鹽拌葵花油成美乃滋；肉絲鋪盤滴美乃滋撒羽衣甘藍粉。
+
+11. 莓果、熱帶水果、刨冰
+
+· 材料：覆盆子泥 1kg、冷凍芒果肉 1kg、冷凍覆盆子 1kg、冷凍草莓 1kg、木瓜 1 顆、鳳梨 1 顆；安定劑 6.4g、超細砂糖 30g、全脂牛奶 1kg、鮮奶油 200ml、蛋黃 160g、蜂蜜 130g；黑莓泥 250g、覆盆子泥 250g、草莓泥 250g、超細砂糖 75g、鮮奶油 550ml；莓果香蜂巢、酸模、金合歡花。
+· 做法：水果混合冷凍做刨冰；冰淇淋材料煮 85°C 冷卻 Pacojet；泡沫材料入 Siphon；碗擠泡沫放冰淇淋，刨莓果冰成雪花覆蓋，裝飾。
+
+12. 白乳酪慕斯、東加豆蛋白霜、白乳酪冰淇淋、酪奶雪花
+
+· 材料：超細砂糖 62g、水 22ml、蛋白 25g、吉利丁 3g、法式白乳酪 120g、檸檬皮屑 1/4 茶匙、檸檬汁 3ml、鮮奶油 125ml；超細砂糖 200g、水 60ml、蛋白 80g、東加豆精 5 滴、東加豆 1 顆；安定劑 3.2g、超細砂糖 65g、全脂牛奶 400ml、鮮奶油 100ml、蛋黃 80g、法式白乳酪 100g、半檸檬皮、檸檬汁 10ml；酪奶 300ml、鮮奶油 50ml、全脂牛奶 175ml、蜂蜜 45g、吉利丁 1 片、雪酪安定劑 57g；布拉塔乳酪 100g。
+· 做法：慕斯用義式蛋白霜拌白乳酪鮮奶油冷凝；蛋白霜鋪 3mm 70°C 烘 6 小時；冰淇淋煮 85°C 冷卻 Pacojet；酪奶材料入 Siphon 壓液態氮成雪花；盤抹布拉塔，放慕斯、蛋白霜、冰淇淋、雪花。
+
+第二章：鹽 Salt
+
+13. 米、松露、咖啡糖衣
+
+· 材料：小牛高湯 1.5L、葡萄糖 10ml、小甘藍 8 顆、乾花椒 15 顆、超細砂糖 20g、阿拉比卡咖啡豆 10g、松露屑 20g；麻糬 5 顆；鮑魚 5 顆、日式高湯 30ml；紅蔥 1 顆、橄欖油 30ml、鮑魚肝 5 付、蘑菇 30g、海苔醬 15g、炸昆布 10g、三仙膠 0.5g、鹽胡椒；昆布 100g；紅珊瑚草、海藻、香草。
+· 做法：咖啡糖衣材料煮 15 分鐘加咖啡豆浸 6 小時；麻糬炭烤刷糖衣烤 3 次；鮑魚取肉刷淨與日式高湯真空冷凍；鮑魚肝炒香打泥調味擠花；昆布擦乾 175°C 煎 60 秒；盤放昆布片、肝醬、鮑魚薄片、裝飾。
+
+14. 秋樹：高麗菜、扇貝
+
+· 材料：高麗菜葉 20 片、1:1 糖漿 50ml；扇貝肉 100g、水 25ml、日式高湯 2ml、鹽胡椒。
+· 做法：高麗菜燙後刷糖漿，120°C 烤 45 分鐘至脆；扇貝打泥鋪 Silpat 70°C 烘 3 小時；剪樹葉形放樹枝。
+
+15. 生蠔、青果、海水
+
+· 材料：生蠔汁 100ml、水 50ml、吉利丁 2 片；蘋果汁 300ml、冷用泡沫安定劑 30g；吉拉多一號生蠔 10 顆、生海帶芽 30g；白酒紅蔥 2 茶匙、長胡椒、酸模、澳洲青蘋果 1 顆。
+· 做法：生蠔開殼留汁，海帶芽包生蠔；蘋果汁加安定劑入 Siphon；生蠔汁水吉利丁凝固打泥；盤放生蠔淋海水膠、蘋果泡沫、紅蔥、青蘋果丁。
+
+16. 青蒜冰砂、青蒜、油封馬鈴薯、油封青蒜、蛤球
+
+· 材料：青蒜 200g（綠葉）、菠菜 50g、高湯 300ml；橄欖油 20ml、青蒜丁 200g（蔥白）、鹽胡椒；馬鈴薯 15 顆、橄欖油 300ml、百里香 1 枝、海鹽；青蒜 200g、橄欖油 300ml、海鹽；蛤蜊 30 顆、高湯 200ml、葡萄糖酸鈣、藻酸鈉 5g、水 1L；洋蔥醬汁、水芹 5g、海草 30g。
+· 做法：青蒜菠菜燙軟加高湯打泥過濾冰凍做冰砂；青蒜丁橄欖油小火煮軟；馬鈴薯 110°C 油封 45 分鐘；青蒜 100°C 油封；蛤蜊煮開取肉，汁加鈣，入模冷凍，藻酸鈉水成球；盤放環模，填青蒜、馬鈴薯、蛤球、洋蔥泡沫，配冰砂。
+
+17. 生蠔、小蘑菇、青果
+
+· 材料：青蘋果果汁 600g、菠菜汁 400g、檸檬汁 30ml、三仙膠 0.2g、壽司醋 60ml、吉利丁 28g、蛋白 400g、超細砂糖 60g、鮮奶油 460ml；吉拉多一號生蠔 10 顆、紅蔥末 10g、芫荽末 5g、金針菇末 20g、生蠔汁 15ml、澳洲青蘋果末 20g；海水 200ml、水 100ml、生蠔汁 30ml、大豆卵磷脂 3g；金針菇、海藻荷、魚子醬、酸模、紅珊瑚、細香蔥。
+· 做法：果汁菠菜汁檸檬三仙膠打勻，壽司醋加吉利丁拌入，蛋白糖打發拌入鮮奶油，倒盤冷凍切 7cm 圓；生蠔切塊拌材料；海水材料打泡沫；盤放韃靼生蠔、奶凍、裝飾、泡沫。
+
+18. 紅甜、風乾蕃茄、鼠尾草煙燻
+
+· 材料：蕃茄 10 顆、糖 50g、鹽 10g、橄欖油 200ml、鼠尾草葉 30g、稻草 20g；日本昆布 2 片、帶皮紅甜 1 片約 500g、花椒碎 3g、鹽 7g；法式白乳酪 200g、松樹針葉 20g、魚子醬、細香蔥。
+· 做法：蕃茄去皮切瓣調味 80°C 烘 4 小時，鼠尾草稻草煙燻 5 分鐘；昆布泡軟包調味紅甜真空醃一夜；松針打絲；碗放白乳酪、煙燻蕃茄、紅甜片、魚子醬、針葉絲。
+
+19. 法式長棍麵包、羊奶乳酪、梨
+
+· 材料：超細砂糖 80g、葡萄糖漿 130g、全脂牛奶 300ml、鮮奶油 30ml、檸檬皮 3 條、水 150ml、檸檬汁 10ml、超細砂糖 30g、西洋梨 2 顆；法式長棍 5 小片、全脂牛奶 300ml、鮮奶油 100ml；夏威夷豆。
+· 做法：冰淇淋材料煮滾過濾冷卻，加優格羊奶乳酪檸檬汁 Pacojet；梨加糖漿真空 58°C 煮 45 分鐘切丁；麵包烤乾加牛奶鮮奶油煮軟打滑；碗放糖漬梨、夏威夷豆、冰淇淋、麵包湯。
+
+20. 豆、茵陳蒿、東加豆
+
+· 材料：東加豆 10 顆、海鹽 200g；蠶豆；茵陳蒿 30g、高湯 300ml、卡帕膠 3g、鹽 6g。
+· 做法：東加豆打粉拌海鹽；蠶豆雞高湯煮 3 分鐘去膜；茵陳蒿燙後加高湯打泥過濾加卡帕膠鹽煮滾；蠶豆裹茵陳蒿泥撒東加豆鹽。
+
+21. 吉拿棒、榛果可可醬、香料包
+
+· 材料：水 260ml、無鹽奶油 45g、超細砂糖 30g、鹽 2g、中筋麵粉 150g、蛋液 100g、葵花油；鮮奶油 125ml、葡萄糖 15g、Manjari 64% 巧克力 100g、榛果醬 20g、無鹽奶油 25g；肉桂糖粉、香料包粉。
+· 做法：水奶油糖鹽煮滾加麵粉成糊，降 40°C 拌蛋液；鮮奶油葡萄糖煮滾沖巧克力榛果醬加奶油；麵糊擠條 185°C 炸 4-5 分鐘；撒肉桂糖，配甘納許及香料包粉。
+
+22. 鵝肝、醃梨、香料包
+
+· 材料：西洋梨 100g、壽司醋 50ml；蜂蜜 200g、全脂牛奶 90ml、蛋 120g、紅糖 80g、榛果糖粉 120g、中筋麵粉 60g、杏仁粉 35g、發粉 10g、海鹽 2g、肉桂粉 2g、肉桂碎片 2g、丁香碎片 2g、柳橙皮屑 2g、檸檬皮屑 2g、蘭姆酒 10ml；洋菜粉 4g、西洋梨果泥 200g、香草莢 1；鵝肝 200g、鮮奶油 250ml、蛋 1 顆、鹽 4g、白胡椒；超細砂糖、義大利黑醋凍 200g、細香蔥。
+· 做法：梨泡壽司醋一夜；香料包粉材料分乾濕拌糊烤 160°C 12 分鐘，冷卻碎片 55°C 脫水一夜打粉；梨汁加洋菜煮滾拌果泥香草凝固切丁；鵝肝材料 40°C 乳化，100g 隔水 87°C 烤 45 分鐘；撒糖燒焦，放梨丁、黑醋凍、細香蔥、香料粉。
+
+第三章：工藝 Artisan
+
+23. 乾式熟成扇貝、紫色花椰菜、海菜
+
+· 材料：帶殼扇貝 10 顆、日式高湯 100ml；紫色花椰菜 300g、三仙膠 0.5g、鹽胡椒；焦燒洋蔥、海菜、橄欖油。
+· 做法：扇貝開殼擦乾，日式高湯浸 3 小時擦乾，脫水紙包 24 小時；紫花椰菜真空 100°C 蒸 20 分鐘取汁加三仙膠鹽；扇貝切四份，碗放扇貝焦燒洋蔥沖花椰菜清湯。
+
+24. 蟹烤馬鈴薯、花
+
+· 材料：岩鹽 100g、細鹽 200g、百里香 1 枝、小茴香 3 顆、八角 3 片、蛋白 15g、褐皮馬鈴薯 3 顆；帶殼扇貝 10 顆、全脂牛奶 200ml、三仙膠 2g；松樹枝、野香草花。
+· 做法：鹽香料混合，馬鈴薯刷蛋白裹鹽，160°C 烤 30 分鐘；扇貝加牛奶三仙膠 65°C 打 3 分鐘過濾成醬；盤放馬鈴薯插松枝，配扇貝醬。
+
+25. 春樹：羽衣甘藍、海草
+
+· 材料：羽衣甘藍 150g、無鹽奶油 35g、蛋白 50g、高筋麵粉 50g、鹽胡椒；海菜芽 10 片、米 50g、鹽。
+· 做法：羽衣甘藍燙後打泥拌材料鋪 Silpat 140°C 烘 15-20 分鐘；海菜芽燙 3 秒冰鎮擦乾，塗 1mm 米糊 65°C 脫水 8 小時；剪樹葉形 180°C 炸 3-5 秒撒鹽，放樹枝。
+
+26. 百里香油、焦燒花椰菜味噌、松露玉米
+
+· 材料：百里香 200g、葵花油 200ml；花椰菜 2kg、鮮奶油 500ml、焦燒味噌泥 300g；帶鬚外葉玉米筍 10 條、甜玉米 100g、佩里哥黑松露 10g、維素膠 70g；食用花草。
+· 做法：百里香葵花油真空 60°C 蒸 1 小時過濾；花椰菜 160°C 烤 7 分鐘加鮮奶油煮軟打泥拌味噌；玉米筍蒸 15 分鐘；甜玉米松露維素膠鋪保鮮膜包玉米筍 70°C 泡；烤焦外葉；石上放味噌滴油配玉米。
+
+27. 粉紅蘆筍與紫蘆筍、碎蛋、魚子醬
+
+· 材料：蛋 65°C 煮 1 小時；蘑菇醬、白酒紅蔥、鹽胡椒、橄欖油、細香蔥；紫蘆筍、粉紅蘆筍、牛奶、奶油、鹽、砂糖、百里香；魚子醬、洋蔥圈。
+· 做法：蛋壓碎拌蘑菇醬紅蔥調味；蘆筍分兩批加牛奶奶油鹽糖百里香真空 85°C 蒸 7-8 分鐘；盤放蘆筍、碎蛋、魚子醬、薄蘆筍圈。
+
+28. 深度工藝卡蒙貝爾
+
+· 材料：布拉塔乳酪 200g、葡萄糖粉；稻草 100g、全脂牛奶 1L、鮮奶油 100ml、超細砂糖 65g、安定劑 3.2g、蛋黃 80g；豆漿 100ml、全脂牛奶 200ml；超細砂糖 62g、水 22ml、蛋白 25g、吉利丁 3g、法式白乳酪 120g、檸檬皮 1 茶匙、檸檬汁 3ml、鮮奶油 125ml。
+· 做法：稻草 190°C 烤 45 分鐘，加牛奶真空 70°C 煮 1 小時做冰淇淋；豆漿牛奶加熱取奶皮 4 張；白乳酪慕斯同上；布拉塔挖球填入慕斯洞；奶皮包慕斯冷藏，刷葡萄糖粉壓線，放木盒加稻草冰淇淋。
+
+29. 羊奶凝乳、茄子、魚
+
+· 材料：茄子、日式高湯、鹽胡椒；蜂巢餅乾材料；燈燻鰻魚片；羊奶凝乳；茄子魚子醬；濃縮洋蔥；青蔥油、洋蔥醬汁；海菜。
+· 做法：茄子 180°C 炸 80 秒去皮對剖，調味真空 90°C 蒸 15 分鐘切段；蜂巢餅乾煮脆；鰻魚切片炙燒；盤放茄子魚子醬、羊奶凝乳、煙燻茄子、濃縮洋蔥、蜂巢餅乾，淋混合油醬。
+
+30. 栗子、雅瑪邑、焦化奶油
+
+· 材料：栗子 300g、砂糖 300g、水 200ml、香草莢 1；蛋 200g、黑糖 167g、蜂蜜 85g、法式白乳酪 30g、中筋麵粉 167g、泡打粉 3.5g、焦化奶油 200g；雅瑪邑。
+· 做法：栗子煮軟，糖水香草煮滾浸 12 小時，重複熬浸兩次；蛋糖蜂蜜打緞帶狀，加白乳酪、乾料、焦化奶油；模放栗子倒麵糊，185°C 烤 5 分鐘，噴雅瑪邑。
+
+31. 巧克力榛果脆片、南瓜肉桂棉花糖、焦糖白巧克力
+
+· 材料：牛奶巧克力 50g、無鹽奶油 35g、可可脂 10g、榛果果仁糖片 320g、去皮榛果 25g、海鹽 4g、巴西脆片、黑巧克力；超細砂糖 35g、葡萄糖 90g、葡萄糖漿 50g、水 50ml、蛋白 75g、金級吉利丁 5g、肉桂粉 3g、南瓜粉 20g；Opalys 白巧克力 300g、可可脂 30g、Bahibe 牛奶巧克力 300g；黑巧克力 100g、橡實膠。
+· 做法：巧克力奶油可可脂融化拌果仁糖脆片堅果鹽，鋪 3mm 冷凍噴黑巧克力，切 1.5cm 圓；糖水煮 140°C 沖蛋白打義式蛋白霜加吉利丁肉桂南瓜粉，擠水滴在脆片上冷凍；白巧克力可可脂 90°C 真空 6 小時成焦糖色，調牛奶巧克力色，沾裹脆片棉花糖，裝橡實。
+
+32. 日本比歐內葡萄、紅酒、長胡椒、馬鞭草
+
+· 材料：日本比歐內葡萄 20 顆、紅酒 250ml、超細砂糖 30g、葡萄皮、檸檬馬鞭草 20g、卡帕膠 2g、長胡椒、海鹽。
+· 做法：紅酒煮 3 分鐘加糖葡萄皮馬鞭草浸 15 分鐘過濾加卡帕膠；葡萄浸紅酒成皮，撒長胡椒海鹽。
+
+第四章：南法 South
+
+33. 角、奶油南瓜、血橙
+
+· 材料：角蝦 10 隻、鹽胡椒、海藻粉、橄欖油；超細砂糖 225g、水 1L、香茅 130g、柳橙皮 1、洋菜粉 8g、瑞典蕪菁 220g、西谷米 100g；黃瓜 2 條、柳橙汁 200ml；奶油南瓜 500g、柳橙汁 200ml、三仙膠 0.3g；血橙汁 225ml、無鹽奶油 100g、水 125ml、大豆卵磷脂 4g；野生香草。
+· 做法：糖煮焦糖加水香茅柳橙皮浸一夜，過濾加洋菜煮凝固打果膠去泡；蕪菁丁燙，西谷米煮半熟拌入；黃瓜柳橙汁真空 90°C 煮 20 分鐘；南瓜蒸烤加濃縮柳橙汁三仙膠打泥；血橙材料打泡沫；角蝦煎熟；盤擠南瓜泥弦月、香茅醬、角蝦、黃瓜片、泡沫。
+
+34. 夏樹：紫色馬鈴薯、茴香
+
+· 材料：紫色馬鈴薯 100g、橄欖油 10ml、鹽胡椒、蔬菜油；茴香 400g、超細砂糖 54g、珍珠糖 66g、葡萄糖 15g。
+· 做法：馬鈴薯煮熟去皮加橄欖油成泥鋪 Silpat 70°C 烘 4 小時，150°C 炸脆；茴香榨汁加糖煮 80°C 5 分鐘，鋪 Silpat 70°C 烘 12 小時剪樹葉；放樹枝。
+
+35. 法式開放式三明治、羊肚、煙燻生蠔
+
+· 材料：迷你法式長棍 2 條；吉拉多二號生蠔 5 顆、稻草 100g、秋葵 3 枝、新鮮蠶豆 10 顆、羊肚菌 50g、松露 20g、檸檬油醋 10ml、鹽胡椒；海菜芽。
+· 做法：長棍切 3mm 片夾烤盤 150°C 烤 10 分鐘；生蠔稻草煙燻 3 分鐘切塊；秋葵蠶豆燙後切；全部拌松露檸檬油醋；麵包片放韃靼生蠔蓋海菜脆片。
+
+36. 酸葡萄汁、橄欖糖、松針
+
+· 材料：酸葡萄汁 240ml、楓糖漿 20ml、超細砂糖 40g、檸檬酸粉 1g、植物膠粉 23g；松針 100g、超細砂糖 30g；樹皮。
+· 做法：酸葡萄汁材料煮滾倒 2mm 盤凝固切 5cm 方片，55°C 脫水 1 小時；松針打粉拌糖；薄片沾松針糖粉放樹皮。
+
+37. 加倍佳棒棒糖：野草莓、覆盆子、桑格莉雅調酒
+
+· 材料：柳橙汁 250ml、紅酒 300ml、覆盆子泥 100g、野草莓 100g、1:1 糖漿 40ml、半柳橙皮、半香草莢、咖啡豆 2 顆、青蘋果 1 顆、吉利丁 6g；白巧克力 100g、可可脂 10g、冷凍乾燥覆盆子粉 10g；野草莓 60 顆。
+· 做法：材料浸一夜過濾加吉利丁入模插棒冷凍；白巧克力可可脂融化加覆盆子粉；棒棒糖上半沾白巧克力冷凍。
+
+38. 蘆筍、毛豆、白蘆筍冰淇淋
+
+· 材料：全脂牛奶 1L、白蘆筍 300g、鮮奶油 150ml、蛋黃 160g、超細砂糖 120g、安定劑 6g；毛豆 200g、羊肚菌 20g、松露泥 10g、檸檬油醋 10ml、巴西里 5g、紅蔥 5g、鹽胡椒；野蘆筍 200g、檸檬油醋 10ml；魚子醬 25g、藏紅花、橄欖油。
+· 做法：牛奶白蘆筍煮軟打泥過濾加鮮奶油，蛋黃糖安定煮 84°C 冷卻 Pacojet；毛豆燙 3 分鐘，羊肚菌燙；野蘆筍燙 2 分鐘拌油醋；碗放毛豆、野蘆筍、冰淇淋、魚子醬。
+
+39. 「真空檸檬」
+
+· 材料：超細砂糖 500g、水 1L、酸檸檬 5 顆、植物膠粉 150g；水 270ml、超細砂糖 230g、檸檬果泥 100g、檸檬皮 5g、吉利丁 26g、糖漬檸檬 160g。
+· 做法：糖水加檸檬片 80°C 煮 2 小時浸一夜，加剩水植物膠煮滾倒 2mm 盤凝固切 10cm 方片；蛋白霜材料煮滾加吉利丁糖漬檸檬冷卻打八分發，倒模 2.5cm 冷藏切方塊，用檸檬片包成方體。
+
+40. 鮮、橄欖油雪酪、野菜
+
+· 材料：雞高湯 300ml、橄欖油 100ml、馬鈴薯泥 100g、三仙膠 3g、鹽胡椒；去皮鮮魚片 500g、超細砂糖 500g、鹽；小甜菜根 10 顆、糖鹽；黃瓜 2 條、柳橙汁 100ml；岩鹽 100g、細鹽 200g、百里香 1、甘藍芽 3、八角 3、蛋白 15g、紫馬鈴薯 3；蕨菜 10、雞高湯 1L、藍花椰菜 1、羅馬花椰菜 1；紫甘藍 1、紅酒醋 80ml、奶油 100g、細砂糖 60g、超細砂糖 50g；雞高湯 300ml、橄欖油 100ml、馬鈴薯泥 100g、三仙膠 3g；香草花。
+· 做法：橄欖油雪酪材料打泥 Pacojet；鮮魚片糖鹽醃 45 分鐘，真空 40°C 煮 30 分鐘；甜菜根真空 100°C 蒸 15 分鐘切四；黃瓜柳橙汁真空 90°C 煮 20 分鐘；馬鈴薯裹鹽香料 160°C 烤 30 分鐘；蔬菜燙；紫甘藍煮軟打泥；排盤。
+
+41. 扇貝、西芹根、香菇康普茶
+
+· 材料：帶殼扇貝；雞高湯、松露、洋菜粉、松露油；水田芥菜、雞高湯、洋菜粉；蘑菇、香菇、葵芽醋、創意蔬果汁、黑麥汁、日式高湯、昆布、橄欖油、麻油；西芹根、馬鈴薯、水、奶油、鹽胡椒；焦燒洋蔥瓣、花草。
+· 做法：扇貝日式高湯浸 3 小時擦乾脫水紙包 24 小時；松露高湯加洋菜凝固打泥；水田芥菜燙加高湯洋菜打泥；蘑菇炒烤加醋汁昆布浸 1 小時過濾加香油；西芹根馬鈴薯圓片奶油水煮軟；盤放泥、洋蔥、蔬菜、扇貝片，淋康普茶。
+
+42. 焦燒茄子、焦燒味噌、焦化奶油片
+
+· 材料：茄子 5 棵、雞高湯 500ml、紅蔥末 20g、鹽胡椒；春捲皮 6 張、焦化奶油 20g、糖粉 20g、花椒；焦燒味噌泥、萬壽菊花瓣。
+· 做法：茄子炭烤去皮切塊加雞高湯煮 15 分鐘調味拌紅蔥，入擠花袋；春捲皮切 12×2cm 刷焦化奶油糖粉撒花椒，兩片夾起 160°C 烤 15 分鐘；擠茄泥味噌在脆片上，花草裝飾。
+
+43. lavoche 薄脆、朝鮮薊泥、沙梭魚
+
+· 材料：中筋麵粉 450g、蕎麥粉 80g、橄欖油 55ml、鹽 14g、乾酵母 8g、溫水 250ml、蛋白；紫朝鮮薊 500g、巴西里莖奶油 100g、洋蔥 150g、鮮奶油 50ml、三仙膠 2g、鹽胡椒；沙梭魚片 5 塊、細香蔥 10g、紅蔥 15g、魚子醬油 20g、花椒 5g、橄欖油；小蘿蔔芽 200g、鮮奶油 50ml、細香蔥 15g、葵花油、鹽胡椒；煙燻羅勒醬汁、山椒葉。
+· 做法：麵粉酵母水揉團發 2 小時，擀薄刷蛋白 160°C 烤 10 分鐘撕片；朝鮮薊處理煮軟加鮮奶油打泥加三仙膠；沙梭魚切塊模具定型，煎上色；小蘿蔔芽煮/炸；盤放泥、魚、炸芽、醬汁、薄脆。
+
+44. 新鮮豌豆、酪梨、紫蘇油
+
+· 材料：煉乳 80g、抹茶粉 5g、安定劑 3g、鮮奶油 265ml、全脂牛奶 325ml、蛋黃 85g、超細砂糖 60g、酪梨 250g；紫蘇葉 50g、葵花油 100ml；全脂牛奶 200ml、鮮奶油 30ml、超細砂糖 25g、抹茶粉 4g、冷用泡沫安定劑 30g；水 200ml、紫蘇葉 30 片、左旋 C 1g、冰 50g、超細砂糖 35g、檸檬汁 15ml、三仙膠 2g；綠豌豆 200g、橄欖油 20ml、薄荷葉、酪奶雪花、紫蘇葉。
+· 做法：酪梨冰淇淋材料煮 82°C 冷卻加酪梨打泥 Pacojet；紫蘇油紫蘇葉燙 5 秒加葵花油 70°C 攪 30 分鐘過濾；抹茶泡沫入 Siphon；紫蘇糖漿紫蘇葉泡煮打泥加三仙膠過濾去泡；豌豆燙去皮；碗放糖漿豌豆滴油，擠泡沫放冰淇淋雪花。
+
+45. 哈密瓜、麝香葡萄、綠杏仁
+
+· 材料：無籽青葡萄 1.6kg、左旋 C 1g、白葡萄汁 660ml、吉利丁 12g；哈密瓜 3kg、金級吉利丁 30g、超細砂糖 20g、檸檬汁 3ml、三仙膠 0.9g；綠杏仁 100g、吉利丁 3g、超細砂糖 35g、蛋白 18g、杏仁精 3 滴、鮮奶油 125ml；青蘋果 3 顆、蘋果汁 250ml、檸檬汁 5ml、超細砂糖 25g、洋菜粉 4g、杏桃果醬 4g、水 62ml、鹽 1g、三仙膠 1.2g；粉紅芽花。
+· 做法：葡萄切 2mm 片，白葡萄汁加吉利丁刷片冷凍切 7cm 圓；哈密瓜打泥加吉利丁冷凍濾汁 300ml 加糖檸檬三仙膠調稠；綠杏仁泡 48 小時打杏仁乳加吉利丁，義式蛋白霜拌鮮奶油；蘋果材料煮凝固打泥；盤擠杏仁慕斯鋪葡萄片淋蜜瓜醬擠蘋果泥點。
+
+46. 薰衣草、蛋白棒、棉花糖、沙布蕾、黑醋栗油、蝴蝶豌豆茶清湯
+
+· 材料：紫蘇葉 20 片、薰衣草花 20g、水 400ml、超細砂糖 90g、檸檬汁 20ml、吉利丁 9g；紫番薯 1 顆、超細砂糖 150g、水 50ml、蛋白 80g、黑醋栗粉 5g；超細砂糖 35g、葡萄糖 90g、葡萄糖漿 50g、水 50ml、蛋白 75g、金級吉利丁 5g、黑醋栗粉 15g、檸檬酸粉 2g、玉米粉糖粉；無鹽奶油 70g、糖粉 35g、蛋黃 16g、中筋麵粉 50g、杏仁粉 32g、黑醋栗粉 15g、海鹽 1g、澄清奶油 8g；黑醋栗粉 50g、新鮮黑醋栗 100g、葵花油 200ml；蝴蝶豌豆茶 20g、熱水 400ml。
+· 做法：薰衣草紫蘇泡水加糖檸檬吉利丁，凝固分 6g 扭球溫水融再冰成球；紫番薯真空 80°C 煮 20 分鐘脫水打粉，糖水 118°C 沖蛋白打霜加紫薯黑醋栗粉擠條 70°C 脫水一夜；棉花糖糖水 140°C 沖蛋白加吉利丁黑醋栗檸檬酸擠水滴風乾 24 小時；沙布蕾材料拌烤 150°C 18 分鐘打糊加澄清奶油擠條冷凍；黑醋栗油 70°C 攪 30 分鐘過濾；蝴蝶茶泡 7 分鐘打泥去泡；盤倒茶湯加油，放沙布蕾條、蛋白棒、棉花糖、薰衣草球，莓果紅葉裝飾。
+
+第五章：質 Texture
+
+47. 牡丹蝦、豬皮粉、樹薯粉
+
+· 材料：牡丹蝦 10 尾、蛋白液；豬皮 2 大張、水 550ml、樹薯粉 250g、葵花油。
+· 做法：豬皮鹽水煮 6 小時刮脂，60°C 脫水 12 小時；樹薯粉加水煮糊蒸 10 分鐘切片，60°C 脫水 5 小時；豬皮樹薯片打粉混合；牡丹蝦頭沾蛋白粉 195°C 炸酥。
+
+48. 洋蔥、洋蔥、洋蔥
+
+· 材料：切片洋蔥 500g、超細砂糖 13g、珍珠糖 16g、葡萄糖 4g；水 25ml、洋菜粉 1g、西洋梨果泥 200g、洋蔥泥 100g、洋蔥膏 5g；松露醬 50g。
+· 做法：洋蔥真空 100°C 蒸 2 小時打泥，取 100g 加糖葡萄糖煮 5 分鐘，壓 4cm 圓 70°C 脫水 24 小時；洋蔥梨凍水加洋菜煮滾拌果泥洋蔥泥，凝固切 3cm 甜甜圈；兩片洋蔥脆片夾梨凍松露醬。
+
+49. 「玉米」樂章 5：玉米凍、梨、焦燒味噌
+
+· 材料：西洋梨 10 顆、檸檬汁 2.5ml、左旋 C 1g、鹽 1g；新鮮玉米粒 200g、超細砂糖 50g、鹽 10g、全脂牛奶 200ml、阿歌塔膠 5g；珍珠粉圓 20g；焦燒味噌泥、羅勒花。
+· 做法：梨打泥加材料冷凍一夜，紗布過濾取清湯；玉米粒牛奶糖鹽打泥過濾加阿歌塔膠煮滾倒玉米模；粉圓煮 3 分鐘泡梨湯；玉米凍包外葉蒸 3 分鐘烤 3 分鐘，加味噌放梨湯粉圓碗。
+
+50. 黃金髮絲麵：烏魚子、海膽、杏桃
+
+· 材料：杏桃泥 200g、杏桃果醬 100g、洋菜粉 2.5g、結糖 0.7g；義大利天使髮絲麵 100g、煙燻羅勒汁 30ml、鹽胡椒；新鮮杏桃汁、煙燻羅勒汁、現刨烏魚子末、新鮮海膽 20g。
+· 做法：杏桃材料煮滾鋪 2mm 烤 80°C 20 分鐘，冷卻切方片；麵煮 3 分鐘拌煙燻羅勒汁調味；叉子捲麵放盤，淋杏桃汁、羅勒汁、烏魚子、海膽、杏桃薄片。
+
+51. 白蘆筍 1-2-3-4
+
+· 材料（可讀分量）：白蘆筍、牛奶、白蘆筍百匯（牛奶、白蘆筍、超細砂糖 120g、吉利丁 6 片、鮮奶油 280g）；白蘆筍 300g、全脂牛奶 600ml、冰馬鈴薯泥 400g、鹽、氯化鈣 5g、水 1L；白蘆筍皮 100g、麵粉 50g、葵花油 200ml。
+· 做法：蘆筍削皮留 100g 皮；牛奶 70°C 泡蘆筍 15 分鐘；蘆筍百匯煮軟打泥加吉利丁鮮奶油；蘆筍馬鈴薯泥擠入氯化鈣水成麵疙瘩；蘆筍皮裹粉炸；四種蘆筍料理排成蘆筍形。
+
+52. 墨魚麵、海帶汁、爆米香
+
+· 材料：墨魚 10 隻切條、橄欖油、日式高湯 50ml、奶油 200g、水 200ml；綠海帶 350g、巴西里 35g、羅勒 35g、雞高湯 1L、日式高湯 120ml、鹽胡椒；馬鈴薯 500g、熱全脂牛奶 20ml、奶油 500g、鹽胡椒；薏仁 100g、洋蔥仁 100g、紅藜 50g、野米 100g、葵花油、鹽胡椒；乾海帶 50g、羽衣甘藍片 10g、牛奶片 10g。
+· 做法：墨魚條泡油日式高湯 3 小時；海帶巴西里羅勒燙軟打泥加高湯調味過濾；馬鈴薯煮熟打泥加牛奶奶油；薏仁洋蔥紅藜煮軟烘乾炸，野米炸；海帶打粉；墨魚條 60°C 奶油水煮 15 秒；碗放薯泥墨魚麵淋海帶汁撒海帶粉，配爆米香脆片。
+
+53. 青花菜 1-2-3-4-5
+
+· 材料：帶莖青花菜 5 顆、葵花油、花椒碎鹽；帶莖青花菜 5 顆、日式高湯 20ml、花椒碎鹽；青花菜 500g、雞高湯 100ml、三仙膠 2g、鹽胡椒；橄欖油 1L、鹽胡椒；檸檬油醋。
+· 做法：青花菜 1 菜花燙 10 秒炸脆調味；青花菜 2 菜花拌日式高湯花椒；青花菜 3 菜花燙軟加高湯打泥加三仙膠，一半脫水成脆片；青花菜 4 莖去皮橄欖油小火油封 30 分鐘；青花菜 5 莖切薄片燙 10 秒拌油醋；排盤。
+
+54. 木炭麵
+
+· 材料：中筋麵粉 300g、食用植物灰 7.5g、超細砂糖 40g、活性酵母 5g、水 175ml＋10ml、小蘇打 1g、鹽 5g、蔬菜油；罐裝西班牙紅甜椒 200g、洋菜粉 2g、蒜泥蛋黃醬 200g、鹽白胡椒；小墨魚 1kg、壽司醋 160ml、桃屋海苔醬 20g、超細砂糖 30g、日本醬油、花椒碎；野茴香草、橄欖油。
+· 做法：麵粉植物灰糖酵母 175ml 水揉團發 30 分鐘，加小蘇打鹽水再發 45 分鐘；紅甜椒煮軟打泥加洋菜過濾拌蒜泥蛋黃；墨魚取嘴浸醋醬 30 分鐘；麵糊壓 1cm 切 7cm 條兩兩貼炸 190°C；碗放紅甜椒醬、墨魚嘴炙燒、裝飾，配炸炭條。
+
+55. 西洋梨雪酪、蜂蜜甘菊凍、優格海綿蛋糕、柚子二重奏、柚子泡沫、酪奶雪花
+
+· 材料：水 450ml、超細砂糖 188g、西洋梨果泥 150g、檸檬汁 12ml、雪酪安定劑 80g；甘菊茶包 1、沸水 100ml、蜂蜜 100g、吉利丁 3g；蛋白 300g、粗杏仁粉 60g、酸奶粉 60g、超細砂糖 70g、低脂糖粉 20g、蔬菜油 20ml；柚子 5 顆、超細砂糖 110g、葡萄糖漿 10g；柚子汁 100ml、1:1 糖漿 150ml、橄欖油 150ml；酪奶 300ml、鮮奶油 50ml、全脂牛奶 175ml、蜂蜜 45g、吉利丁 1 片、雪酪安定劑 57g；牛奶片。
+· 做法：梨雪酪材料打泥 Pacojet；甘菊茶泡 5 分鐘加蜂蜜吉利丁凝固；海綿蛋糕材料拌入 Siphon 微波 1 分鐘撕片；柚子皮白皮燙 4-5 次，柚汁加糖葡萄糖煮，白皮打泥；柚子泡沫入 Siphon；酪奶雪花材料 Siphon 壓液態氮；盤放雪酪、甘菊凍、蛋糕、柚子二重奏、泡沫、雪花。
+
+56. 木炭片、墨魚嫩飯
+
+· 材料：菜籽香米 250g、水 1.5L、鹽 10g、木炭粉 10g、葵花油；花椰菜 300g、奶油 20g、法式白乳酪 30g、墨魚 400g、鹽胡椒；甜菜豆芽 10 片、帕瑪森乳酪末、山椒葉。
+· 做法：米加水煮乾加鹽木炭粉打糊過濾冷藏，鋪盤 65°C 脫水 8 小時成木炭片；花椰菜真空 100°C 蒸 20 分鐘打泥加奶油白乳酪，墨魚切米粒拌入；碗放墨魚嫩飯，撒豌豆帕瑪森，放木炭片山椒葉。
+
+57. 力力 2012 版（Vera Wang）
+
+· 材料：Nyangbo 68% 巧克力 140g、可可脂 15g、含 50% 杏仁榛果果仁糖片 140g、巴芮脆片 140g；蛋白 100g、超細砂糖 80g、榛果粉 130g、糖粉 90g；鮮奶油 500ml、超細砂糖 150g、海鹽 4g、全脂牛奶 500ml、蛋黃 180g、葡萄糖 12g；全脂牛奶 125ml、葡萄糖漿 50g、Opalys 白巧克力 100g、吉利丁 6g、鈦白粉 10g、白巧克力淋醬 100g；蛋白 320g、粗杏仁粉 30g、椰子粉 30g、全脂奶粉 60g、超細砂糖 70g、低脂糖粉 20g、蔬菜油 20ml；牛奶布丁、榛果碎、牛奶脆片。
+· 做法：巧克力可可脂融化拌果仁糖脆片倒 3mm 模；達克瓦拉蛋白糖打硬拌榛果粉糖粉 175°C 烤 7-9 分鐘；焦糖慕斯煮焦糖加熱鮮奶油牛奶蛋黃 85°C 加葡萄糖，倒達克瓦拉上 1.5cm；白巧克力淋醬材料煮滾沖巧克力加吉利丁鈦白；海綿蛋糕材料 Siphon 微波；組合壓切冷凍淋醬。
+
+58. 秋葵、魚子醬、水田芥
+
+· 材料：蛋黃 4 顆、生蠔 10 顆、葵花油 500ml、水田芥葉 10 片、鹽胡椒；秋葵 10 枝、鹽；黃金奧賽佳魚子醬、豌豆苗、現刨烏魚子末。
+· 做法：蛋黃生蠔打泥分次加葵花油成蛋黃醬，加水田芥打勻調味擠花；秋葵鹽調味冷凍乾燥至脆；脆秋葵擠醬放魚子醬、豌豆苗、烏魚子末。
+
+59. 「金果」
+
+· 材料：冷凍蘋果果汁 250ml、超細砂糖 300g、蘋果果膠 85g、葡萄糖漿 25g、檸檬酸 6g；金時蘋果 250g、超細砂糖 10g、NH 果膠 5g；食用金箔。
+· 做法：果汁 40°C 加糖果膠煮滾分次加糖，加葡萄糖檸檬酸煮 108°C 倒 2cm 盤一夜切 1cm 圓柱；蘋果打泥加糖果膠煮滾鋪 2mm 70°C 烘 6 小時撕片；盤立軟糖柱放脆片金箔。
+
+第六章：獨特 Unique
+
+60. 生蠔冰淇淋、荔枝珍珠、蘋果泡沫
+
+· 材料：全脂牛奶 1L、鹽 1.3g、吉拉多二號生蠔 22 顆、鮮奶油 150ml、蛋黃 160g、超細砂糖 30g、安定劑 6g；荔枝果泥 300g、藻膠粉 2g、鈣粉 5g、水 1L；蘋果汁 300ml、冷用泡沫安定劑 30g；長胡椒、橄欖油。
+· 做法：牛奶鹽 40°C 加生蠔打勻過濾加鮮奶油，蛋黃糖安定煮 84°C 冷卻 Pacojet；荔枝泥加藻膠過濾去泡，滴鈣水成珍珠；蘋果汁加安定劑入 Siphon；生蠔殼放泡沫、冰淇淋、荔枝珍珠、長胡椒橄欖油。
+
+61. 雞皮脆片、金針菇魚子醬、泰式青醬
+
+· 材料：水、砂糖、百里香、雞皮；金針菇；綠咖哩青醬材料加三仙膠約總重 1%。
+· 做法：雞皮去脂泡水 24 小時擦乾撒香料，夾烤盤 150°C 烤 10 分鐘；金針菇切頭成魚子醬大小；青醬打勻加三仙膠；盤放雞皮脆片、青醬、金針菇魚子醬、泰式青檸葉絲。
+
+62. 辣椒、苦杏仁、香草玉米
+
+· 材料：全脂牛奶 170ml、鮮奶油 80ml、玉米粒 160g、蛋黃 4 顆、鹽胡椒；玉米粒 1kg、超細砂糖 60g、鹽 10g、葡萄糖漿 8g、藻膠 5g、水 1kg、葵花油；香草莢 10 枝、葵花油 50ml、甜玉米 2 條；苦杏仁奶 300ml、鮮奶油 100ml、超細砂糖 30g；新鮮辣根。
+· 做法：玉米泥材料打泥過濾 90°C 烤 45 分鐘打泥擠花；玉米球材料打泥入球模冷凍，藻膠水泡 30 分鐘沖洗油存；香草油 80°C 真空 45 分鐘，玉米蒸 20 分鐘炭烤切方塊塗油；苦杏仁奶加鮮奶油糖入 Siphon；碗擠玉米泥放烤玉米、杏仁霜、熱玉米球、刨辣根。
+
+63. 糖煙西瓜皮、橙花凍
+
+· 材料：西瓜半顆白肉、超細砂糖 700g、水 3.5L、百里香 2 枝、檸檬汁；超細砂糖 27g、水 200ml、吉利丁 3.6g、檸檬汁 4ml、橙花水 4ml；柑橘葉。
+· 做法：西瓜白肉切 1mm 薄片 4×10cm；糖水百里香煮浸，一半冷卻；瓜皮分層小火煮 2-3 小時至半透明，移冷糖水冰鎮加檸檬汁真空去泡浸漬；橙花凍糖水加吉利丁橙花水凝固；盤鋪瓜皮放橙花凍柑橘葉。
+
+64. 胸腺肉、海草、生蠔醬汁
+
+· 材料：海草、胸腺肉、牛奶；生蠔、葵花油；野茴香菜。
+· 做法：海草流水沖 5 分鐘拍乾冷藏；胸腺肉牛奶泡一夜，真空 65°C 煮冷卻；生蠔打泥分次加葵花油成蛋黃醬；海草 185°C 炸 10-15 秒；胸腺肉切 2cm 圓片，海草環包炸 190°C 1 分鐘；放石頭插枝，點生蠔醬。
+
+65. 鴨舌、雞冠、京都茄子
+
+· 材料：鴨舌 2kg、紅蘿蔔 2 條、洋蔥 3 瓣、紅蔥 5 瓣、高湯 5L、鹽；雞冠 2kg；京都茄子 10 條、洋菜粉 10g、卡帕膠 3g；花椰菜泥、水芹。
+· 做法：鴨舌切前肉舌骨，舌骨 160°C 烤上色，蔬菜炒焦糖加舌骨高湯熬 3 小時濾湯；鴨舌前肉加 500ml 湯真空 80°C 煮 5 小時炸酥；雞冠燙後加 500ml 湯真空 80°C 煮 5 小時；茄子 190°C 炸去皮，1L 湯加洋菜煮軟凝固；500ml 湯加卡帕膠煮滾淋茄子冷藏；盤抹花椰菜泥放茄子雞冠水芹配鴨舌。
+
+66. 香草油、香茅、苦杏仁豆腐
+
+· 材料：苦杏仁 200g、水 400ml、阿歇塔膠 2g、蛋黃 100g、超細砂糖 80g、焦糖奶油 60g；香茅 5 枝、沸水 500ml、日本黃瓜 1 條、香草油 40ml、鹽；超細砂糖 200g、香茅 500g、水 800ml、檸檬皮屑 20g、洋菜粉。
+· 做法：苦杏仁泡 48 小時打乳過濾，400ml 加阿歇塔膠煮滾，蛋黃糖煮 85°C 加奶油成豆腐冷藏；香茅泡水一夜，黃瓜丁加香茅水真空 58°C 煮 45 分鐘；糖煮焦糖加水香茅檸檬皮浸 1 小時過濾，每 100ml 加 1g 洋菜凝固切 4cm 圓；盤擠九點杏仁豆腐蓋香茅凍，放黃瓜丁絲。
+
+67. 鑲洋蔥、蘑菇、地膚子
+
+· 材料：珍珠洋蔥 5 顆；蘑菇 200g、奶油、鮮奶油 10ml、焦糖奶油 5g、松子 20g、細香蔥 10g、紅蔥 5g、松露醬 10g、鮮菇高湯、鹽胡椒，地膚子 100g、橄欖油 20ml、鹽胡椒；馬鈴薯皮與焦燒洋蔥醬汁。
+· 做法：洋蔥真空 100°C 蒸 2 小時剝片；蘑菇炒軟加鮮奶油奶油收乾拌松子香蔥松露；地膚子拌油鹽；碗放焦燒洋蔥醬，洋蔥片填蘑菇餡放上，撒地膚子。
+
+68. 咖椰吐司
+
+· 材料：杏仁粉 250g、糖粉 250g、超細砂糖 250g、水 100ml、蛋白 200g、烤過麵包屑 50g；蛋 250g、椰奶 250ml、超細砂糖 220g、香蘭葉汁 2 茶匙；軟化無鹽奶油、鹽之花。
+· 做法：杏仁粉糖粉打勻；糖水 120°C 沖 95g 蛋白打義式蛋白霜，拌杏仁糖粉、餘蛋白、麵包屑成馬卡龍糊，倒吐司模 5cm 刮平撒麵包屑，140°C 烤 13-15 分鐘；咖椰材料打勻隔水煮 10 分鐘成糊冷藏 3 天；馬卡龍片塗咖椰奶油鹽之花夾起冷凍 48 小時，上菜前 3 小時解凍，明火烤雙面。
+
+69. 馬鈴薯舒芙蕾、焦糖牛奶醬、牛奶布丁
+
+· 材料：罐裝煉乳 250g、焦糖奶油 30g、海鹽 2g；全脂牛奶 325ml、超細砂糖 75g、海鹽 2g、洋菜粉 8g；馬鈴薯 3 顆、蛋白 2 顆、太白粉 100g、葵花油；白巧克力。
+· 做法：煉乳罐水煮 2 小時倒置再煮 2 小時，開罐加奶油鹽拌成焦糖牛奶醬；牛奶糖鹽洋菜煮滾冰鎮凝固打勻成布丁；馬鈴薯切厚片，兩片夾蛋白太白粉，170°C 炸 60 秒膨脹；舒芙蕾開洞擠布丁焦糖醬，噴白巧克力。
+ 
+
+
+
+
+一、书籍结构与核心内容概览
+1. 书籍信息
+书名：ABaC. Cocina en evolución / Cooking in evolution
+
+作者：Jordi Cruz
+
+出版：2018, Penguin Random House Grupo Editorial
+
+ISBN：978-84-16895-85-4
+
+语言：西班牙语 + 英语双语
+
+章节：引言、开胃菜（Aperitivos/Appetisers）、前菜（Entrantes/Starters）、主菜（Platos Centrales/Main Courses）、海鲜主菜（Pescados y Mariscos/Sea Food）、肉类主菜（Carnes/Meat）、甜点（Postres/Desserts）、技术（Técnicas/Techniques）、基础配方（Elaboraciones Básicas/Basic Recipes）
+
+2. 核心烹饪哲学（来自引言）
+餐厅理念：ABaC 的名字来自“ábaco”（算盘/展示架），寓意“将菜肴视为珍宝”。
+
+风格：地中海菜单 + 法国影响，强调食材至上、技术精简、传统与先锋结合。
+
+关键节点：
+
+1999年12月10日开业，同年获米其林一星。
+
+2008年迁至巴塞罗那 Gran Lujo Monumento 酒店，2007年获米其林二星。
+
+2018年获米其林三星（西班牙-葡萄牙指南）。
+
+Jordi Cruz 的加入：2010年接手厨房，保留经典配方数月后逐步革新，强调“产品、大胆、传统根基”。
+
+3. 书籍食谱分类与代表性菜品
+章节	代表菜品（中西对照）
+开胃菜	Bloody Mary Water / 血腥玛丽水；Lime, Margarita and Green Leaf Cactus / 青柠玛格丽特与绿叶仙人掌；Cuban Margarita Worms / 古巴玛格丽特虫；Ham Spheres and Frozen Ham with Melon Water and Apple Meringue / 火腿球与冰火腿配甜瓜水与苹果蛋白霜
+前菜	Carril Clams with Seaweed Butter and Caviar / 卡里尔蛤蜊配海藻黄油与鱼子酱；Galician Salmon, Cured Egg Yolk, Trout Roe, Soy Butter and Nori Textures / 加利西亚三文鱼配腌蛋黄、鳟鱼籽、大豆黄油与海苔纹理；Frozen Mojito Dragon Egg / 冰莫吉托龙蛋；Mini Oysters with a Frozen Lemon Wedge / 迷你生蚝配冰柠檬角
+主菜	Giant Caramelised Bread Macaroni with Spicy Tomato Sauce and Basil Cream / 巨型焦糖面包通心粉配辣番茄酱与罗勒奶油；Sardine Bones / 沙丁鱼骨；Our Chinese Bread-Style Deep-Fried Brioche, Grilled Eel and Wasabi / 中式炸布里欧修配烤鳗鱼与芥末；Fossilised Sea Urchin, Seaweed Butter, Kale, Sea Water and Rum-Flavoured Sea Urchins / 化石海胆配海藻黄油、羽衣甘蓝、海水与朗姆海胆
+海鲜主菜	Squid Cannelloni Parmigiana / 鱿鱼千层面帕尔马风格；Calimari a la Romana / 罗马式鱿鱼；Sautéed Sea Cucumber, Concentrated Squid Water and 'Katsuobushi' Air / 炒海参配浓缩鱿鱼水与鲣鱼干空气；Mussels in Carrot 'Escabeche' / 胡萝卜酸汁贻贝；Little Salt Cod Fillets, Padrón Pepper Seeds Pickled with Capers, Cod Gravy and Cod Tripe in Olive Oil / 小咸鳕鱼柳配腌帕德龙辣椒籽、酸豆、鳕鱼汁与油浸鳕鱼肚
+肉类主菜	Roasted Langoustine, Natural Langoustine Head Consommé and Hydrated Almonds with a Hint of Anise and Citrus / 烤海螯虾配天然虾头清汤、水合杏仁与茴香柑橘；Tuna Rice, Spicy Tomato Stew, Tuna Belly and Pecorino Romano Air / 金枪鱼饭配辣番茄炖菜、金枪鱼腩与罗马羊奶酪空气；Roasted Smoked Onion with Scamorza Spheres, Walnuts and Truffle / 烤烟熏洋葱配斯卡莫扎奶酪球、核桃与松露；Catalan-Style Broad Beans / 加泰罗尼亚式蚕豆；Summer Bean Stew / 夏季豆炖菜；Parmesan Gnocchi. Mushroom Lemongrass Consommé, Sautéed Mushrooms and Truffles / 帕尔马干酪团子配蘑菇香茅清汤、炒蘑菇与松露；Pine Nut Carbonara with a Veil of Parmesan, Rooster Crests and White Truffle Butter / 松子卡邦尼配帕尔马干酪面纱、鸡冠与白松露黄油
+甜点	（PDF第236页起，内容未完全展示，但包含甜点章节）
+技术	（第300页起，包含技术说明）
+基础配方	（第317页起，包含海藻黄油、昆布水、藻酸盐基底、蒜泥奶油等基础配方）
+二、详细食谱文本（可直接用于AI训练）
+以下我选取了书中完整展示且步骤详细的代表性食谱，按“配料 + 步骤 + 装盘”格式整理，中西双语对照。
+
+食谱1：Bloody Mary Water / 血腥玛丽水
+来源：第12-13页（开胃菜）
+
+配料（西班牙语/英语）：
+
+1 kg 樱桃番茄 / 1 kg cherry tomatoes
+
+1 L 番茄汁 / 1 litre tomato juice
+
+80 g 春洋葱（大球茎，去绿叶）/ 80 g spring onion (with large bulbs, green stalks removed)
+
+140 g 芹菜 / 140 g celery
+
+35 g Sosa 海味鲜粉 / 35 g Sosa umami powdered sea water
+
+95 g 青柠汁 / 95 g lime juice
+
+4.5 g Tabasco 酱 / 4.5 g Tabasco sauce
+
+25 g 盐 / 25 g salt
+
+6.5 g Lea & Perrins 伍斯特酱 / 6.5 g Worcestershire sauce
+
+15 g 糖 / 15 g sugar
+
+胡椒 / pepper
+
+步骤：
+
+将所有配料放入大碗，用手持搅拌棒打至顺滑乳化。
+
+倒入 superbag 或 cheesecloth，悬挂过滤。最初流出的红色液体不要；反复更换容器，直到滤出完全清澈的黄色液体。
+
+过滤完成后，用经典血腥玛丽调料调味。
+
+血腥玛丽调味（每升）：
+
+Tabasco 酱、伍斯特酱、盐、40 ml 优质伏特加 / 40 ml quality vodka per litre
+
+装盘：
+
+将冰块放入威士忌杯，加少许芹菜盐；将血腥玛丽水倒入威士忌醒酒器，像“威士忌 on the rocks”一样饮用。
+
+血腥玛丽冰块：200 ml 血腥玛丽水倒入方形冰格，冷冻至完全凝固。
+
+食谱2：Carril Clams with Seaweed Butter and Caviar / 卡里尔蛤蜊配海藻黄油与鱼子酱
+来源：第16-17页（开胃菜）
+
+配料：
+
+优质卡里尔蛤蜊 / good-sized Carril clams
+
+1 L 矿泉水 / 1 litre mineral water
+
+70 g 盐 / 70 g salt
+
+海藻黄油（见基础配方）/ seaweed butter (see basic recipes)
+
+Imperial Gold 鲟鱼鱼子酱 / Imperial Gold sturgeon caviar
+
+绒角海藻嫩芽 / velvet horn seaweed shoots
+
+优质 Arbequina 橄榄油 / quality Arbequina olive oil
+
+步骤：
+
+水和盐煮沸，蛤蜊分批（每次最多2-3个）煮。时间取决于温度、大小和新鲜度，通常30秒至1分钟。在蛤蜊即将开口前取出，以保持多汁。
+
+丢弃有异味或可疑的蛤蜊。打开蛤蜊，将肉与壳分离，确保肉和壳无泥土、沙子；将肉放回半壳中。
+
+装盘：
+
+每个蛤蜊上放一小团海藻黄油、少量鱼子酱和一根绒角海藻嫩芽。淋几滴优质橄榄油。
+
+食谱3：Galician Salmon, Cured Egg Yolk, Trout Roe, Soy Butter and Nori Textures / 加利西亚三文鱼配腌蛋黄、鳟鱼籽、大豆黄油与海苔纹理
+来源：第34-37页（前菜）
+
+3.1 腌三文鱼 / Marinated Salmon
+配料：
+
+1 片优质野生三文鱼柳 / 1 quality wild salmon fillet
+
+干燥野生昆布（Laminaria ochotensis）/ dried wild kombu seaweed
+
+步骤：
+
+去三文鱼皮和骨，用厨房纸彻底擦干。
+
+盘中铺一层干昆布，放三文鱼柳，再覆盖一层昆布，用保鲜膜封好。
+
+在 1°C 冰箱中腌12小时。
+
+3.2 三文鱼鞑靼 / Salmon Tartare
+配料：
+
+100 g 腌野生三文鱼 / 100 g cured wild salmon
+
+25 g 鳟鱼籽 / 25 g trout roe
+
+2 g 指橙果肉 / 2 g finger lime pulp
+
+0.2 g 冻干大豆粉 / 0.2 g lyophilised soy powder
+
+步骤：将腌三文鱼切成0.3 cm 均匀小丁，放入碗中；装盘前用其余配料调味。
+
+3.3 腌蛋黄 / Cured Egg Yolks
+配料：
+
+10 个蛋黄 / 10 egg yolks
+
+1 L 酱油 / 1 litre soy sauce
+
+步骤：
+
+分离蛋黄，确保无蛋白残留；放入酱油中浸渍45分钟。
+
+将腌蛋黄放在硅胶垫上，放入脱水机 60°C 干燥24小时；翻面再干燥12小时。
+
+储存在干燥密封容器中。
+
+3.4 脆海苔筒 / Crispy Nori Cylinders
+配料：
+
+25 g 寿司海苔片 / 25 g nori seaweed sushi sheets
+
+110 g 异麦芽糖醇 / 110 g isomalt sugar
+
+方形可食用糯米纸 / square edible film sheets（1张做2个筒）
+
+步骤：
+
+海苔切成3 cm均匀片；与糖一起放入料理机，高速打成细粉。
+
+糯米纸对半切，放在轻刷橄榄油的 Teflon 烤垫上；用筛子撒1 mm厚海苔粉。
+
+180°C 烤3分钟，翻面再烤2分钟至脆。出炉立即用擀面杖卷成筒状。
+
+3.5 大豆黄油 / Soy Butter
+配料：
+
+200 g 优质无盐黄油 / 200 g quality unsalted butter
+
+100 ml 酱油 / 100 ml soy sauce
+
+2 g 甘油 / 2 g glycerine
+
+1 g 蔗糖酯 / 1 g sucrose ester
+
+步骤：
+
+100 g 黄油加热至60°C，融化甘油；其余黄油软化。
+
+搅拌缸中放酱油和蔗糖酯，搅至蔗糖酯完全溶解；加入融化黄油和软化黄油，用手持搅拌棒乳化至非常奶油状。
+
+装入带2 mm 裱花嘴的裱花袋。
+
+3.6 海苔空气 / Nori Air
+配料：
+
+1.2 L 昆布水（见基础配方）/ 1.2 litres kombu water
+
+25 g 海苔 / 25 g nori seaweed
+
+7 g 大豆卵磷脂 / 7 g soy lecithin
+
+5 g 盐 / 5 g salt
+
+步骤：
+
+海苔用料理机粗略打碎（不要打成粉）；与昆布水真空包装，70°C 水浴3小时浸渍。
+
+将浸渍液倒入高矩形容器，加入卵磷脂和盐，用手持搅拌棒打至表面形成轻盈泡沫。静置1-3分钟待稳定后使用。
+
+装盘：
+
+在每个海苔筒内壁挤一条大豆黄油，用硅胶刷抹匀；填1/2筒腌蛋黄（现磨细丝），再用三文鱼鞑靼填满，表面覆盖海苔空气。
+
+食谱4：Frozen Mojito Dragon Egg / 冰莫吉托龙蛋
+来源：第38-39页（前菜）
+
+配料（约40个蛋）：
+
+1.6 L 青柠汁 / 1.6 litres lime juice
+
+750 g 糖 / 750 g sugar
+
+225 g 薄荷 / 225 g spearmint
+
+650 ml 百加得白朗姆 / 650 ml Bacardi white rum
+
+2 L 七喜 / 2 litres of Seven Up
+
+1 L 气泡矿泉水 / 1 litre sparkling mineral water
+
+10 g 黄原胶 / 10 g xanthan gum
+
+步骤：
+
+糖与薄荷叶混合，戴乳胶手套用手揉搓，使薄荷释放精油和香气渗入糖中；加入朗姆酒。
+
+青柠汁不要过度挤压（避免苦味），用手动专业鸡尾酒榨汁器；加入黄原胶，用手持搅拌棒搅至完全溶解。
+
+将青柠汁加入朗姆薄荷混合物，浸渍半小时；加入其余配料，用细筛过滤。
+
+冰蛋制作：
+
+小橡胶气球、气球打气筒、烹饪绳、60 ml 注射器、莫吉托基底、液氮、液氮安全容器。
+
+吹起气球，用注射器注入60 ml 莫吉托基底；扭转封口，用烹饪绳扎紧。
+
+将气球在液氮表面滚动，小心倾斜翻转：先冻两端建立结构，再向中间推进。必须均匀分布液体、非常轻柔；用力挤压会破裂。
+
+冻好后，轻轻剪开橡胶，将冰蛋放回冷冻室几分钟回温。
+
+装盘：
+
+冷冻餐盘，去除橡胶；再次过液氮使蛋完全冷冻。冷冻两片薄荷叶，用液氮处理成薄荷粉；撒在蛋上，现磨少许青柠皮（避免白瓤）。立即上桌。
+
+食谱5：Giant Caramelised Bread Macaroni with Spicy Tomato Sauce and Basil Cream / 巨型焦糖面包通心粉配辣番茄酱与罗勒奶油
+来源：第48-51页（前菜）
+
+5.1 面包基底 / Bread Base
+配料：
+
+100 g 面粉 / 100 g flour
+
+100 g 水 / 100 g water
+
+10 g 盐 / 10 g salt
+
+7 g 鲜酵母 / 7 g fresh baker's yeast
+
+2 g 糖 / 2 g sugar
+
+50 g 小麦纤维（trisol）/ 50 g trisol wheat fibre
+
+步骤：
+
+所有配料放入料理机，中速打至顺滑；过筛去结块。
+
+用刮刀在硅胶垫上摊成2 mm厚；180°C 烤至薄脆、均匀金黄。
+
+冷却后掰碎，料理机打几秒，得到粗粒烤面包粉。
+
+5.2 焦糖通心粉 / Giant Caramelised Macaroni
+配料：
+
+250 g 烤面包粉 / 250 g toasted-bread flour
+
+250 g 异麦芽糖醇 / 250 g isomalt sugar
+
+方形可食用糯米纸 / square edible film sheets
+
+步骤：
+
+异麦芽糖醇打粉；加入烤面包粉，打几秒混合。
+
+糯米纸对角切两半成三角形，放在轻刷油的硅胶垫上；用细筛撒2 mm厚面包糖粉。
+
+180°C 烤约3分钟至焦糖化变脆。出炉立即将三角形绕在刷油的1 cm钢管上卷成筒（从最宽边开始）；两个三角形拼成“巨型通心粉”。储存在干燥密封容器。
+
+5.3 辣番茄酱泡沫 / Spicy Tomato Sauce Foam
+配料：
+
+1.2 kg Divino 樱桃番茄 / 1.2 kg Divino cherry tomatoes
+
+7 g 新鲜罗勒 / 7 g fresh basil
+
+1 g 干牛至 / 1 g dried oregano
+
+5 g 红咖喱酱 / 5 g red curry paste
+
+80 g 酱油 / 80 g soy sauce
+
+30 g 泡菜基底 / 30 g kimchi base
+
+10 g 盐 / 10 g salt
+
+300 ml 昆布水 / 300 ml kombu water
+
+140 g Proespuma
+
+步骤：
+
+番茄焯水几秒去皮；用少许油、盐、胡椒调味，铺烤盘，115°C 烤45分钟；小心翻面再烤35分钟至半干、风味浓缩。
+
+称1 kg 番茄与其余配料放入料理机，高速打至细滑；装入1 L 虹吸瓶，加2颗气弹；冷藏1小时后使用。
+
+5.4 罗勒奶油 / Pesto Cream
+配料：
+
+80 g Arbequina 橄榄油 / 80 g Arbequina olive oil
+
+80 g 葵花籽油 / 80 g sunflower oil
+
+30 g 烤松子 / 30 g toasted pine nuts
+
+1/2 瓣大蒜 / 1/2 garlic clove
+
+65 g 罗勒叶 / 65 g basil leaves
+
+30 g 帕尔马干酪 / 30 g Parmesan cheese
+
+25 ml 矿泉水 / 25 ml mineral water
+
+1 g 黄原胶 / 1 g xanthan gum
+
+盐 / salt
+
+步骤：
+
+罗勒叶和薄切大蒜在沸水中焯几秒，冰水冷却；沥干水分。
+
+与其余配料放入搅拌杯，手持搅拌棒打至糊状；加油乳化（像做蛋黄酱）。装入挤瓶或带2 mm裱花嘴的裱花袋。
+
+装盘：
+
+将辣番茄酱泡沫填入两个焦糖面包三角形，摆在沙拉盘上，模拟通心粉形状；每个段上放一小团罗勒奶油，装饰罗勒花。
+
+食谱6：Squid Cannelloni Parmigiana / 鱿鱼千层面帕尔马风格
+来源：第88-91页（海鲜主菜）
+
+6.1 鱿鱼水 / Squid Water
+配料：
+
+400 g 大鱿鱼净肉 / 400 g meat from a large squid
+
+500 ml 矿泉水 / 500 ml mineral water
+
+5 粒黑胡椒 / 5 black peppercorns
+
+2 g 海盐 / 2 g sea salt
+
+步骤：
+
+鱿鱼清理后与其余配料真空包装；沸水烫3秒，冰水冷却。
+
+72°C 水浴12小时。完成后过滤水，留作酱汁；鱿鱼肉可用于其他简单菜肴。
+
+6.2 鱿鱼白酱 / Squid Béchamel
+配料：
+
+1袋鱿鱼水（上述）/ 1 bag squid water
+
+120 g 马斯卡彭 / 120 g mascarpone
+
+60 g 新鲜黄油 / 60 g fresh butter
+
+0.5 g 黄原胶 / 0.5 g xanthan gum
+
+盐、胡椒 / salt and pepper
+
+步骤：锅中将鱿鱼水减半，加入马斯卡彭、黄油和黄原胶，继续浓缩至酱汁状；调味。
+
+6.3 帕尔马干酪千层面皮 / Cannelloni Parmigiana
+配料：
+
+300 ml 矿泉水 / 300 ml mineral water
+
+200 g 帕尔马干酪 / 200 g Parmesan cheese
+
+2 g 琼脂 / 2 g agar-agar
+
+2 片明胶 / 2 sheets gelatine
+
+100 g 马斯卡彭 / 100 g mascarpone
+
+步骤：
+
+水与帕尔马干酪煮沸，浸渍半小时；过滤，称300 g。
+
+加琼脂煮沸，加马斯卡彭搅拌，加提前泡软的明胶片。
+
+在非常平的烤盘上摊成2-3 mm厚，冷却；用刀切成传统千层面皮大小的矩形。
+
+6.4 牛肉冻 / Beef Terrine
+配料：
+
+1 个小牛颊肉（上颌）/ 1 small beef cheek (upper jaw)
+
+1 个蛋黄 / 1 egg yolk
+
+几滴白兰地 / a few drops of brandy or cognac
+
+50 ml 浓缩牛肉汁 / 50 ml reduced beef jus
+
+盐、黑胡椒 / salt, black pepper
+
+步骤：
+
+牛颊肉修整；用4 g 盐 + 500 ml 冰水制成盐水，浸泡至少20分钟去血水，同时开始腌制；冷水冲洗、擦干。
+
+绞肉机绞两次；与其余配料混合；真空包装。
+
+沸水烫3秒收缩，冰水冷却；64°C 水浴24小时；完成后室温冷却。
+
+6.5 鱿鱼千层面组装 / Squid Cannelloni
+配料：
+
+10 只非常新鲜的钓鱿鱼 / 10 very fresh jig-caught squid
+
+牛肉冻（上述）/ beef terrine
+
+橄榄油、盐 / olive oil, salt
+
+帕尔马干酪面皮 / parmesan pasta sheets
+
+步骤：
+
+鱿鱼清理，皮和触手留作他用；鱿鱼肉切2-3 mm 均匀丁。
+
+用少许盐、橄榄油和15% 牛肉冻调味，轻轻拌匀。
+
+装入带1.5 cm 裱花嘴的裱花袋；帕尔马干酪面皮卷成传统千层面筒，填入鱿鱼牛肉馅。
+
+上桌前在50°C 保温台加热10-15分钟回温。此菜只能现做；牛肉冻和帕尔马面皮可提前准备。
+
+6.6 烤帕尔马干酪粉 / Toasted Parmesan Powder
+步骤：帕尔马干酪磨碎，在钢盘中铺2 mm均匀层；在距烤架15-20 cm的 Salamander 下烤至浅金色；冷却后用刀切碎成粗粉。
+
+装盘：
+
+汤盘中放一大勺非常热的鱿鱼白酱，上面放一个鱿鱼千层面；撒少许烤帕尔马干酪粉，淋橄榄油。
+
+食谱7：Roasted Smoked Onion with Scamorza Spheres, Walnuts and Truffle / 烤烟熏洋葱配斯卡莫扎奶酪球、核桃与松露
+来源：第128-131页（肉类主菜）
+
+7.1 洋葱清汤 / Onion Consommé
+配料：
+
+15 个 Figueres 洋葱 / 15 Figueres onions
+
+50 ml 矿泉水 / 50 ml mineral water
+
+Arbequina 橄榄油、盐 / Arbequina olive oil, salt
+
+步骤：
+
+洋葱去皮，切十字至一半深；未切面刷油，在圣栎炭火上轻烤；紧密放入烤盘，加水，用保鲜膜完全包裹，扎小孔泄压。
+
+115°C、100% 湿度烤箱6小时。完成后用 cheesecloth 挤压过滤，得到清澈、洋葱味浓郁的汁。
+
+7.2 烧烟熏洋葱壳 / Burnt and Smoked Onions
+配料：
+
+大而紧实的洋葱 / large, compact onions
+
+波本或雪利酒桶木屑 / bourbon or sherry barrel wood
+
+步骤：
+
+洋葱去皮，底部切平使其站立；顶部2-3 cm处切开作盖；用挖球器挖空内部，保留两层外皮防漏。
+
+盖上盖，用喷枪烧焦表面；打开洋葱，紧密排在 perforated 盘中，用烟熏枪+桶木屑熏10-15分钟，赋予轻微甜烟熏味。洋葱壳用作盛器。
+
+7.3 斯卡莫扎奶酪球 / Scamorza Spheres
+配料：
+
+300 g 烟熏斯卡莫扎奶酪 / 300 g smoked scamorza cheese
+
+300 g 矿泉水 / 300 g mineral water
+
+250 g 马斯卡彭 / 250 g mascarpone
+
+每100 g 混合物加 2 g 葡萄糖酸内酯 / 2 g calcium lactate gluconate per 100 g
+
+1.5 L 海藻酸钠基底（见基础配方）/ 1.5 litres sodium alginate base
+
+步骤：
+
+奶酪带皮切1 cm 丁；水煮沸，加奶酪小火煮3分钟；盖盖在温暖处浸渍5小时。
+
+趁温用 superbag/cheesecloth 过滤并挤压，提取全部脂肪（赋予身体感）；滤液与马斯卡彭和对应葡萄糖酸内酯混合。
+
+用2.5 ml 勺将乳清滴入海藻酸钠浴，45秒后转入清水去海藻酸钠；储存在橄榄油中。
+
+上桌前在75°C 油浴中加热几分钟。
+
+装盘：
+
+洋葱壳烤热；每个壳内放4-5个奶酪球和1个掰成4-5块的核桃；倒入半满热洋葱清汤，淋核桃油；盖上洋葱盖，配细切松露，由客人自行加入热洋葱汤。
+
+食谱8：Pine Nut Carbonara with a Veil of Parmesan, Rooster Crests and White Truffle Butter / 松子卡邦尼配帕尔马干酪面纱、鸡冠与白松露黄油
+来源：第148-151页（肉类主菜，约10小份）
+
+8.1 煮松子 / Cooked Pine Nuts
+配料：
+
+300 g 生松子 / 300 g raw pine nuts
+
+矿泉水、盐 / mineral water, salt
+
+步骤：松子在微盐矿泉水中小火煮45分钟至1小时，不断测试至类似煮熟米粒的质地；煮好后留在煮水中保存。
+
+8.2 帕尔马干酪水 / Parmesan Water
+配料：
+
+100 g 极细磨帕尔马干酪 / 100 g very finely-grated Parmesan
+
+150 ml 矿泉水 / 150 ml mineral water
+
+步骤：水煮沸，加帕尔马干酪，离火浸渍15分钟；过滤，保留浸渍液；丢弃干酪的油脂黏稠部分。
+
+8.3 松子烩饭 / Pine Nut Risotto
+配料：
+
+300 g 煮松子 / 300 g cooked pine nuts
+
+100 g 马斯卡彭 / 100 g mascarpone
+
+90 g 煮熟切碎的鸡冠 / 90 g chopped, cooked rooster crests
+
+100 ml 帕尔马干酪乳清 / 100 ml Parmesan whey
+
+20 g 白松露黄油 / 20 g white truffle butter
+
+2-3 g 细盐 / 2-3 g fine salt
+
+1 g 黑胡椒 / 1 g ground black pepper
+
+步骤：
+
+沥干松子，与帕尔马乳清和鸡冠放入大锅，小火减半。
+
+加马斯卡彭拌匀，中火继续煮；加松露黄油、盐、黑胡椒；再煮几分钟至奶油烩饭质地。必要时加盐，立即使用。
+
+8.4 帕尔马干酪面纱 / Parmesan Veil
+配料：
+
+300 ml 矿泉水 / 300 ml mineral water
+
+200 g 帕尔马干酪 / 200 g Parmesan cheese
+
+2 g 琼脂 / 2 g agar-agar
+
+2 片明胶 / 2 sheets gelatine
+
+100 g 马斯卡彭 / 100 g mascarpone
+
+步骤：
+
+水与帕尔马干酪煮沸，浸渍半小时；过滤，称300 ml。
+
+加琼脂重新煮沸，加马斯卡彭搅拌，加提前泡软的明胶片。
+
+在非常平的烤盘上摊成2-3 mm厚，冷却；用模具切出所需大小。
+
+装盘：
+
+热汤盘/ cocotte 中放5-6个帕尔马干酪球、2个掰碎的核桃、2勺炒蘑菇、优雅摆放的生蘑菇片；淋2-3勺香蘑菇清汤，装饰花朵、优质橄榄油和现刨松露片。
+
+食谱9：Stewed Tuna Nape and Bone Marrow Dashi / 炖金枪鱼颈肉与骨髓出汁
+来源：第188-191页（肉类主菜，至少12份）
+
+9.1 金枪鱼脊骨与骨髓 / Tuna Spine Bones and Marrow
+配料：
+
+24 段优质金枪鱼脊骨 / 24 good-sized tuna spine bone sections
+
+300 ml 出汁（见基础配方）/ 300 ml dashi stock
+
+100 g 白味噌 / 100 g white miso paste
+
+1 根胡萝卜 / 1 carrot
+
+1 根春洋葱（大球茎，去绿叶）/ 1 spring onion
+
+10 g 若布海藻 / 10 g wakame seaweed
+
+每1 dl 味噌汤加 1 g 碘角叉菜胶 / 1 g iota carrageenan per 1 dl miso soup
+
+步骤：
+
+用利刀切下每段脊骨的骨髓，保留在冰水中。
+
+金枪鱼脊骨段在水中煮1小时；用刷子逐根清理，去除所有肉和纤维。
+
+做味噌汤：除碘角叉菜胶外，其余配料真空包装，90°C 蒸19分钟；过滤。
+
+骨髓对半切，在微盐沸水中焯5秒；厨房纸沥干。取12段脊骨，每段内放一块骨髓。
+
+味噌汤与碘角叉菜胶入锅加热至80°C；过滤后的味噌果冻倒入量杯，灌入已有骨髓的脊骨段空隙，覆盖骨髓段之间的缝隙；冷却凝固。
+
+9.2 人形烧面团 / Ningyo-Yaki Dough
+配料：
+
+300 g 面粉 / 300 g flour
+
+120 g 糖 / 120 g sugar
+
+12 g 蜂蜜 / 12 g honey
+
+3 g 小苏打 / 3 g baking soda
+
+100 ml 水 / 100 ml water
+
+260 g 鸡蛋（5个）/ 260 g eggs (5 eggs)
+
+步骤：所有配料放入料理机打至顺滑面团；注意不要让面团升温。
+
+9.3 人形烧馅 / Ningyo-Yaki Filling
+配料：
+
+200 g 金枪鱼筋 / 200 g tuna tendons
+
+300 g 金枪鱼颈肉（morrillo）/ 300 g tuna morrillo
+
+100 ml 浓缩牛肉汁（见基础配方）/ 100 ml concentrated beef gravy
+
+50 g 牛筋 / 50 g beef tendons
+
+步骤：
+
+金枪鱼筋和牛筋修整，盐胡椒调味，真空包装；沸水烫，冰水冷却；90°C 水浴24小时；取出，切成 brunoise。
+
+金枪鱼颈肉与浓缩牛肉汁真空包装，61.5°C 水浴40分钟；取出，去骨，颈肉切极碎，酱汁过滤并撇去多余脂肪。
+
+所有配料（筋、颈肉、酱汁）放碗中拌匀；搓成30 g 球，冷却后浸入人形烧面团，用木签推入；160°C 橄榄油炸成圆炸糕。
+
+装盘：
+
+将味噌果冻骨髓段加热至50°C，每段上放一片4×3 cm、0.5 cm厚的优质金枪鱼腩；剩余空脊骨段中放一个金枪鱼炸糕，撒少许盐粉。在客人面前，给覆盖金枪鱼腩的果冻骨髓段淋5滴优质酱油。
+
+食谱10：Bluefin Tuna Back Cheek, Stewed Fermented Garlic and Almond Purée / 蓝鳍金枪鱼颈背肉、炖发酵大蒜与杏仁泥
+来源：第192-195页（肉类主菜，10份）
+
+10.1 浓缩牛肉汁 / Concentrated Beef Gravy
+配料：
+
+3 L 矿泉水 / 3 litres mineral water
+
+1 kg 牛肉边角料和软骨 / 1 kg beef offcuts and cartilage
+
+1 根胡萝卜 / 1 carrot
+
+1/2 根韭葱白 / 1/2 leek white
+
+4 瓣大蒜 / 4 garlic cloves
+
+1/2 根芹菜 / 1/2 stalk of celery
+
+2 根春洋葱（大球茎，去绿叶）/ 2 spring onions
+
+100 ml 红葡萄酒 / 100 ml red wine
+
+100 ml 波特酒 / 100 ml Port wine
+
+50 g 无盐黄油 / 50 g unsalted butter
+
+盐、胡椒 / salt and pepper
+
+步骤：
+
+牛肉边角料185°C 烤30分钟至金黄；蔬菜切均匀小块，中高火用少许油炒至金黄；加葡萄酒和波特酒收干。
+
+所有配料放入大锅，加水覆盖，非常小火煮5小时；过滤，得到深色清澈汤汁；与黄油一起浓缩至丝滑质地；冷却。
+
+10.2 炖金枪鱼颈背肉 / Stewed Parpatana
+配料：
+
+10 块带骨金枪鱼颈背肉（parpatana），1.5 cm厚、80-100 g / 10 cuts of tuna parpatana
+
+浓缩牛肉汁（上述）/ concentrated beef gravy
+
+步骤：
+
+颈背肉与浓缩牛肉汁真空包装大袋；沸水烫，冰水冷却；61.5°C 水浴40分钟。
+
+冷却后分离酱汁与鱼肉；酱汁必要时浓缩至浓稠美味；颈背肉重新真空包装。
+
+上桌前酱汁锅加热，颈背肉在60°C 水浴回温。
+
+10.3 炖紫皮大蒜 / Stewed Purple Garlic
+配料：
+
+8 头紫皮大蒜 / 8 heads of purple garlic
+
+100 g 无盐黄油 / 100 g unsalted butter
+
+80-100 ml 鸡清汤 / 80-100 ml chicken consommé
+
+盐 / salt
+
+步骤：
+
+大蒜去外皮，顶部1 cm处切开；切面朝上放烤盘，铺薄黄油片。
+
+160°C 烤15-20分钟；翻面使吸收黄油并内部烤熟；继续烤至熟透。
+
+趁热挤出蒜肉，与其余配料打泥；清汤用量按所需稠度调整。
+
+10.4 杏仁泥 / Cream of Almond Purée
+配料：
+
+250 g 生 Marcona 杏仁 / 250 g raw Marcona almonds
+
+300 ml 水 / 300 ml water
+
+50 ml 橄榄油 / 50 ml olive oil
+
+2 ml 25年雪利醋 / 2 ml 25-year-old sherry vinegar
+
+1.5 g 盐 / 1.5 g salt
+
+步骤：所有配料料理机打至细泥；腌几分钟；过 superbag/cheesecloth；装入挤瓶。
+
+装盘：
+
+浅盘中画两个同心圆的蒜泥，间隔1 cm；两圆之间填杏仁泥；中心放金枪鱼颈背肉，淋大量牛肉金枪鱼酱汁；鱼上放2块3 mm黑蒜丁、1个对半切烤榛子、2条金针菇皮细丝；杏仁泥上淋橄榄油，装饰旱金莲叶。
+
+食谱11：Summer Bean Stew / 夏季豆炖菜
+来源：第140-143页（肉类主菜）
+
+11.1 脱水香肠 / Dehydrated Chorizo
+步骤：200 g 伊比利亚香肠切3 mm片，铺脱水机架，55°C 至少12小时至干。
+
+11.2 脱水西部“鲣鱼干”塞西纳 / Dehydrated Western “Katsuobushi” Cecina
+步骤：200 g 烟熏莱昂塞西纳（风干牛肉）切1 mm片，铺脱水机架，55°C 至少12小时至干。
+
+11.3 杏仁“豆” / Almond “Beans”
+配料：
+
+200 g Largueta 生杏仁，去皮 / 200 g Largueta almonds, raw and peeled
+
+2 L 昆布水（见基础配方）/ 2 litres kombu water
+
+150 g 脱水香肠 / 150 g dehydrated chorizo
+
+160 g 脱水塞西纳 / 160 g dehydrated cecina
+
+10 根藏红花 / 10 saffron threads
+
+盐、黑胡椒 / salt and black pepper
+
+步骤：昆布水调味后与杏仁、藏红花放入压力锅；塞西纳和香肠放蒸篮；按“豆类”程序35分钟；泄压，小心打开，取出蒸篮；撇去汤中脂肪，保持杏仁在汤中；汤必须完全清澈、有味但不过咸。
+
+11.4 伊比利亚猪肉 / Ibérico Meat
+配料：
+
+1/2 个伊比利亚猪脸肉 / 1/2 Ibérico pork cheek
+
+300 g 伊比利亚猪柳 / 300 g Ibérico pork fillet
+
+3 条伊比利亚猪尾 / 3 Ibérico pork tails
+
+1.5 kg 盐 / 1.5 kg salt
+
+750 g 糖 / 750 g sugar
+
+250 g La Vera 甜红椒粉 / 250 g sweet paprika from La Vera
+
+90 ml Arbequina 橄榄油 / 90 ml Arbequina olive oil
+
+6 瓣大蒜，去皮 / 6 garlic cloves, peeled
+
+黑胡椒 / ground black pepper
+
+新鲜迷迭香和百里香 / fresh rosemary and thyme
+
+步骤：
+
+盐、糖、红椒粉混合；猪柳腌45分钟，猪脸肉腌6小时；冷水冲洗，厨房纸擦干。
+
+猪脸肉、猪尾、猪柳分别真空包装，每袋加2瓣蒜、30 ml 橄榄油、黑胡椒、2枝迷迭香和百里香；沸水烫收缩，冰水冷却；64°C 水浴24小时。
+
+猪尾去骨，带皮面加少许油、压重物烤至非常脆；切2.5 cm 均匀三角形。猪柳和1 cm 猪脸肉条炭烤后切1.5 cm 均匀丁。
+
+11.5 欧芹空气 / Parsley Air
+配料：
+
+1 L 矿泉水 / 1 litre mineral water
+
+300 g 欧芹 / 300 g parsley
+
+200 ml 烤榛子杏仁油配糖蒜（见基础配方）/ 200 ml toasted hazelnut and almond oil with garlic confit
+
+3 g 盐 / 3 g salt
+
+7 g 大豆卵磷脂 / 7 g soy lecithin
+
+步骤：
+
+欧芹粗切，沸水焯3秒，冰水冷却，沥干；与定量水高速打至绿色欧芹水；细筛过滤。
+
+欧芹水与其余配料放入高矩形容器（液面至少3 cm），手持搅拌棒打至大量泡沫；静置1-3分钟稳定。
+
+装盘：
+
+汤盘中放3块五花肉和猪柳丁，撒2勺煮杏仁，浇2-3勺煮汤；两块肉上点蒜泥奶油；放脆猪尾（不碰汤）；装饰欧芹芽或细香葱花；旁边配1勺非常干的 picada 空气。
+
+三、基础配方（Elaboraciones Básicas）的关键条目
+书中多次引用以下基础配方，建议作为AI训练的“子模块”：
+
+海藻黄油 / Seaweed Butter（用于蛤蜊、海胆等）
+
+昆布水 / Kombu Water（用于清汤、空气、海鲜）
+
+藻酸钠基底 / Sodium Alginate Base（用于球化）
+
+蒜泥奶油 / Cream of Garlic Purée（用于肉类主菜）
+
+黄油面包屑 / Buttery Breadcrumbs（用于核桃面包等）
+
+柠檬香茅油 / Lemongrass Oil（用于海鲜和泡沫）
+
+香茅蛋黄酱 / Lemongrass Aioli（用于鱿鱼饭等）
+
+烟熏油 / Smoked Oil（用于鳗鱼等）
+
+浓缩洋葱汁 / Concentrated Onion Sauce（用于洋葱烩饭）
+
+皮卡达空气 / Picada Air（用于夏季豆炖菜）
+
+四、AI机器人训练建议
+1. 数据格式建议
+将上述食谱整理为 JSON 或 CSV，字段包括：
+
+dish_name_es / dish_name_en
+
+category（开胃菜/前菜/主菜/海鲜/肉类/甜点/技术/基础）
+
+ingredients（列表，含用量、单位、中西双语）
+
+steps（有序列表，每步含动作、温度、时间、关键判断）
+
+assembly（装盘描述）
+
+techniques（涉及的技术：球化、真空低温、脱水、液氮、虹吸瓶等）
+
+equipment（所需设备）
+
+yield（份数）
+
+2. 关键训练点
+温度与时间：大量使用真空低温（sous-vide）、脱水机、液氮、虹吸瓶；需精确提取数值。
+
+质地描述：如“顺滑乳化”“清澈黄色液体”“奶油状”“脆”等，用于AI理解目标状态。
+
+判断标准：如“蛤蜊即将开口前取出”“松子煮至类似米粒质地”“焦糖化但不要烧焦”。
+
+
+
+
+
