@@ -1,6 +1,358 @@
+《Ultimate Appetizer Ideabook》核心知識庫
+
+第一部分：全書核心理念與底層邏輯
+
+1. 派對與開胃菜的核心概念：
+   · 開胃菜（Appetizer）是派對的靈魂，旨在營造輕鬆、歡迎的氛圍，讓賓客在正餐前自由交流。
+   · 菜單規劃原則：
+     · 1小時的聚會：準備 3-5 種開胃菜，每人每種吃 1-2 份。
+     · 超過 25 位賓客：準備 7-9 種開胃菜。
+     · 若聚會跨越正餐時間（不供正餐）：份量需加倍，並提供具飽足感的小盤料理。
+     · 自助餐形式：賓客食量會增加至兩倍。年輕人比長者吃得多。
+     · 超過 2 小時的聚會：食物份量需準備為 1 小時聚會的兩倍。
+     · 賓客通常在聚會前 90 分鐘吃得最多，2 小時後食慾會再次上升。
+2. 食譜設計邏輯（三聯組 Trios）：
+   · 書中食譜以小組形式呈現，每組共享相同食材、製備方法或創意概念（例如：牛肉 tenderloin 可做成串燒、酥皮杯或生菜杯）。這提供了極大的靈活性，讓讀者可根據季節和場合替換食材。
+3. 關鍵製備手法與科學原理：
+   · 焦化奶油（Browned Butter）：將奶油加熱至起泡並出現金黃色斑點，散發堅果香氣。這能為甜點（如米香脆糖）或鹹點增添深層風味。
+   · 乳化（Emulsification）：如自製 Aioli（蒜泥蛋黃醬），需先將蛋黃與芥末打發，然後極緩慢地滴入油脂並持續攪拌，使油水分離前形成穩定的乳化液。
+   · 烤乾脫水（Dehydrating）：如烤鷹嘴豆或毛豆，必須將水分徹底擦乾，並在烘烤過程中頻繁翻動，才能達到酥脆口感。
+   · 預製與保存（Make Ahead）：許多食譜標註可提前製作（如肉丸、醬料、烤蔬菜），冷藏或冷凍保存，聚會當天只需組合或加熱，減輕主辦者壓力。
+
+---
+
+第二部分：基礎高湯與醬料 (Building Blocks)
+
+註：此部分為全書的基礎組件，可單獨使用或應用於後續食譜。
+
+基礎調味料與醬汁
+
+· Rosemary Salt（迷迭香鹽）：新鮮迷迭香葉 1 枝、猶太鹽 1/4 杯 (40g)。小火加熱拌炒 5-10 分鐘至香氣出，冷卻保存。
+· Chicken Wing Brine（雞翅鹽水）：水 3 杯 (720ml)、猶太鹽 1/4 杯 (40g)、砂糖 1/4 杯 (50g)、米醋 3 大匙。溶解後冷藏備用。
+· Steak Marinade（牛排醃料）：植物油 1/2 杯 (120ml)、伍斯特醬 1/4 杯 (60ml)、巴薩米克醋 1/4 杯 (60ml)、辣醬 1/2 小匙、洋蔥鹽 1/2 小匙、黑胡椒 1/2 小匙。
+· Balsamic–Red Wine Reduction（巴薩米克紅酒濃縮汁）：紅酒 1/2 杯 (120ml)、巴薩米克醋 1/2 杯 (120ml)、砂糖 1 大匙、鹽/胡椒各 1/4 小匙、迷迭香 1/2 小匙。熬煮至濃縮至 1/3 杯 (80ml)。
+· Chili–Pepper Jelly Glaze（辣椒果凍釉）：番茄醬 1/3 杯 (85g)、水 1/4 杯 (60ml)、辣椒果凍 3 大匙、橄欖油 2 小匙、伍斯特醬 2 小匙、辣椒粉 1 小匙、檸檬汁 1 小匙。
+· Pomegranate Glaze（石榴釉）：橄欖油 1 大匙、石榴汁 1 杯 (240ml)、黑糖 1 大匙、巴薩米克醋 1 大匙、萊姆汁 1.5 小匙、鹽 1/4 小匙。熬煮至減半。
+· Lemon-Mint Vinaigrette（檸檬薄荷油醋汁）：E.V. 橄欖油 2 大匙、第戎芥末 1 大匙、檸檬汁 1 大匙、蜂蜜 1 小匙、薄荷葉碎 2 大匙。
+· Creamy Dill Dressing（奶油蒔蘿醬）：美乃滋 2 大匙、蘋果醋 1 大匙、蒔蘿碎 1-2 大匙、黃瓜泥 1 大匙、第戎芥末 2 小匙、檸檬汁 2 小匙、鹽/胡椒各 1/4 小匙。
+· Russian Dressing（俄式醬）：美乃滋 1 杯 (240g)、番茄醬 1/4 杯 (65g)、辣根 1 大匙、甜酸黃瓜碎 2 大匙、檸檬汁 2 大匙、伍斯特醬 1 小匙、鹽 1/2 小匙、黑胡椒 1/4 小匙。
+· Truffle Ketchup（松露番茄醬）：番茄醬 1/4 杯 (65g)、松露油 2 小匙。
+
+蛋黃醬基底 (Aioli)
+
+· Aioli（蒜泥蛋黃醬）：室溫蛋黃 1 個、第戎芥末 1 小匙、水 1 小匙、鹽 1/4 小匙、紅花油 1/4 杯 (60ml) + 3/4 杯 (180ml)、檸檬汁 1 大匙。（做法：蛋黃打發，極緩慢滴入油脂乳化）。
+· Curry Aioli：Aioli 1/2 杯 (120g)、蒜泥 1 瓣、咖哩粉 1 小匙。
+· Lemon Aioli：Aioli 1/2 杯、檸檬皮/汁 1 個、蒜泥 1 瓣。
+· Lemon-Caper Aioli：Aioli 1/2 杯、橄欖油 1 大匙、檸檬皮 1 小匙、檸檬汁 1 大匙、酸豆碎 1 大匙、蒜泥 1 瓣、黑胡椒 1/4 小匙。
+· Horseradish Aioli：Aioli 1/2 杯、辣根 3 大匙、蒜泥 1 瓣。
+· Horseradish Cream（辣根奶油）：酸奶油 1/2 杯 (120g)、辣根 1.5 大匙、美乃滋 1 大匙、米醋 1 小匙、第戎芥末 1/2 小匙、鹽/胡椒各 1/4 小匙。
+
+起司抹醬 (Whipped Cheeses)
+
+· Whipped Gorgonzola：Gorgonzola 起司 1/2 杯 (60g)、奶油起司 1/4 杯 (55g)。調理機打勻。
+· Whipped Stilton：Stilton 起司 1/2 杯 (60g)、奶油起司 1/4 杯 (55g)。調理機打勻。
+· Cucumber-Dill Cream Cheese：黃瓜泥 1 小條、奶油起司 3/4 杯 (165g)、米醋 1 小匙、蒔蘿碎 2 小匙、檸檬皮 1/2 小匙、檸檬汁 1 小匙、鹽 1/2 小匙、黑胡椒 1/4 小匙。
+· Jalapeño Cream Cheese：奶油起司 1/2 杯 (110g)、墨西哥辣椒碎 1 大匙、蒜泥 1 瓣、萊姆皮 2 小匙、萊姆汁 1 小匙、蜂蜜 1 小匙、Chipotle 辣椒粉 1/2 小匙。
+
+青醬與沾醬 (Pestos & Dipping Sauces)
+
+· Parsley Pesto（巴西里青醬）：巴西里碎 1 杯 (40g)、烤松子 1/4 杯 (30g)、E.V. 橄欖油 1/4 杯 (60ml)、檸檬皮 2 小匙、檸檬汁 1.5 大匙、蒜泥 2 瓣。
+· Pea and Mint Pesto（豌豆薄荷青醬）：解凍豌豆 1.25 杯 (180g)、薄荷葉 1/4 杯 (10g)、烤松子 2 大匙、檸檬汁 2 小匙、蒜泥 1 瓣、鹽 1/4 小匙、E.V. 橄欖油 1/4 杯 (60ml)。
+· Quick Marinara Sauce（快速番茄醬）：橄欖油 1.5 大匙、黃洋蔥碎 1 小顆、蒜泥 1 瓣、新鮮番茄 2 顆 (去皮切碎)、紅蘿蔔 1/2 條、黑胡椒少許、羅勒碎 1 大匙。熬煮 20-30 分鐘。
+· Peanut Dipping Sauce（花生沾醬）：花生醬 1/2 杯 (130g)、醬油 2 大匙、萊姆汁 1 小匙、辣醬 2 滴、蒜泥 1 瓣、砂糖 1 小匙、水 1/2 杯 (120ml)。
+· Pot Sticker Dipping Sauce（煎餃沾醬）：米醋 2 大匙、醬油 1 大匙、水 1 大匙、芝麻油 1/4 小匙、蜂蜜 1 小匙、薑泥 1 小匙、蒜泥 1 小瓣、蔥花 1/2 小匙、辣椒碎 1/8 小匙。
+· Mint-Lemon Yogurt Sauce（薄荷檸檬優格醬）：希臘優格 3/4 杯 (180g)、薄荷碎 1 大匙、檸檬皮 1/2 小匙、檸檬汁 1.5 小匙、米醋 1 小匙、蜂蜜 1 小匙。
+
+果醬與配菜 (Jams, Compotes & Toppings)
+
+· Cherry Compote（櫻桃果醬）：冷凍去核櫻桃 1 磅 (455g)、砂糖 1/4 杯 (50g)、杏仁酒 2 小匙。熬煮 5-10 分鐘。
+· Candied Cranberries（糖漬蔓越莓）：新鮮/冷凍蔓越莓 1 杯 (120g)、砂糖 1 杯 (200g)、水 1 杯 (240ml)、肉桂棒 1 根、丁香 3 顆。浸泡過夜後裹糖。
+· Caramelized Onions（焦糖洋蔥）：黃洋蔥 4 大顆 (切丁)、無鹽奶油 1 大匙、橄欖油 1 大匙、鹽 1 小匙。小火加蓋煮 15 分鐘，開蓋續煮 30-45 分鐘至深褐色。
+· Roasted Artichoke Hearts（烤朝鮮薊心）：冷凍朝鮮薊心 12 oz (340g)、橄欖油 1.5 大匙、鹽 1/2 小匙。400°F (200°C) 烤 10-15 分鐘。
+· Roasted Asparagus（烤蘆筍）：蘆筍 10 根、橄欖油 1 大匙、鹽 1/4 小匙。400°F (200°C) 烤 20 分鐘。
+· Roasted Beets（烤甜菜根）：甜菜根 3 顆、橄欖油 1 大匙、鹽 1 小匙、黑胡椒 1/4 小匙。425°F (220°C) 烤 45 分鐘。
+· Roasted Brussels Sprouts（烤球芽甘藍）：球芽甘藍 7 oz (200g)、橄欖油 1 大匙、鹽 1/4 小匙。400°F (200°C) 烤 20-30 分鐘。
+· Roasted Carrots（烤紅蘿蔔）：紅蘿蔔 1 磅 (455g)、橄欖油 2 大匙、蜂蜜 2 小匙、鹽 1/2 小匙、黑胡椒 1/4 小匙。400°F (200°C) 烤 25 分鐘。
+· Roasted Cipollini Onions（烤珍珠洋蔥）：珍珠洋蔥 6 顆 (切四等份)、蒜片 3 瓣、橄欖油 2 大匙、鹽 1/2 小匙。400°F (200°C) 烤 25 分鐘。
+· Roasted Eggplant（烤茄子）：茄子 1 小條 (切塊)、蒜片 2 瓣、橄欖油 3 大匙、鹽 1/2 小匙。400°F (200°C) 烤 20-25 分鐘。
+· Roasted Garlic（烤大蒜）：大蒜 1 整顆、橄欖油 1 大匙、鹽/胡椒。375°F (190°C) 烤 30-45 分鐘。
+· Roasted Grape Tomatoes（烤聖女小番茄）：小番茄 1.5 杯 (225g)、蒜泥 2 瓣、橄欖油 2 大匙、海鹽 1/2 小匙。375°F (180°C) 烤 15-20 分鐘。
+· Roasted Kale（烤羽衣甘藍）：嫩羽衣甘藍 10 oz (280g)、橄欖油 2 大匙、鹽 1/4 小匙。400°F (200°C) 烤 10 分鐘。
+· Roasted Leeks（烤韭蔥）：韭蔥 2 根、橄欖油 2 大匙、鹽 1/2 小匙。400°F (200°C) 烤 20-25 分鐘。
+· Roasted Lemon Slices（烤檸檬片）：檸檬 2 顆 (切 1/8 吋片)、425°F (220°C) 烤 10 分鐘/面。
+· Roasted Baby Gold Potatoes（烤小洋芋）：小洋芋 12 顆 (切半)、鴨油 1 大匙、鹽 1 小匙、黑胡椒 1/4 小匙。400°F (200°C) 烤 15-20 分鐘。
+· Roasted Rosemary Fingerling Potatoes：手指馬鈴薯 12 顆 (切半)、鴨油 1 大匙、鹽 1/2 小匙、迷迭香 1/2 小匙。
+· Roasted Acorn Squash（烤橡實南瓜）：橡實南瓜 1 顆 (切半)、375°F (190°C) 烤 35-40 分鐘。
+· Grilled Corn（烤玉米）：玉米 2 根、融化奶油 1 大匙。煎至微焦。
+· Grilled Pineapple（烤鳳梨）：鳳梨 1 顆 (切塊)、融化奶油 2 大匙。煎至金黃。
+· Grilled Pineapple with Teriyaki Glaze：鳳梨 1 顆 (切片)、照燒醬 1/4 杯 (60ml)、植物油 2 大匙、薑泥 1 小匙、蜂蜜 1 小匙。
+· Mushroom Caps（蘑菇盅）：蘑菇 25 朵、融化奶油 1.5 大匙。375°F (190°C) 烤 10 分鐘。
+· Cherry Tomato Cups（小番茄盅）：小番茄 24 顆。挖空備用。
+· Cucumber Cups（黃瓜盅）：英國黃瓜 6 條。切段挖空。
+· Strawberry Cups（草莓盅）：草莓 1 磅 (350g)。去蒂挖空。
+· Bacon Cups（培根杯）：培根 1 磅 (455g)。交錯鋪在倒置的馬芬烤盤上，壓上另一個烤盤，375°F (190°C) 烤 20 分鐘。
+· Phyllo Cups（酥皮杯）：冷凍酥皮 8 oz (230g)、融化奶油 1/4 杯 (55g)。350°F (180°C) 烤 10 分鐘。
+· Puff Pastry Cups（千層酥杯）：冷凍千層酥皮 8 oz (230g)。400°F (200°C) 烤 10 分鐘。
+· Puff Pastry Tart Base（千層酥塔底）：冷凍千層酥皮 8 oz (230g)。擀成 12x16 吋。
+· Crostini（烤麵包片）：長棍麵包 1 條 (切 1/4 或 1/2 吋片)、E.V. 橄欖油 1/2 杯 (120ml)、海鹽 1 小匙、黑胡椒 1/2 小匙。350°F (180°C) 烤 10 分鐘。
+· Quinoa（藜麥）：藜麥 1 杯 (180g)、蔬菜高湯 2 杯 (480ml)。煮 10-15 分鐘。
+· Risotto（燉飯）：蔬菜高湯 3 杯 (720ml)、橄欖油 2 大匙、奶油 2 大匙、黃洋蔥碎 1/2 顆、Arborio 米 1 杯 (180g)、白酒 1/2 杯 (120ml)、帕瑪森起司 1/4 杯 (30g)。
+· Cheddar Grits（切達玉米糊）：水 2 杯 (480ml)、鹽 1 小匙、玉米糊 1/2 杯 (70g)、奶油 2 大匙、切達起司 1 杯 (80g)。
+· Oven-Cooked Bacon（烤箱培根）：培根 1 磅 (455g)。425°F (220°C) 烤 15 分鐘。
+· Spicy Shredded Chicken（辣味手撕雞）：雞胸肉 1.5 磅 (680g)、紅洋蔥 1 大顆、奶油 2 大匙、橄欖油 1.5 大匙、黑糖 2 大匙、蒜泥 2 瓣、辣醬 2 大匙、香菜 1/2 杯 (20g)。350°F (180°C) 烤 30 分鐘後撕碎。
+
+第三部分：食譜分類 (Recipes)
+
+(註：以下食譜均基於上述 Building Blocks 組合而成，此處僅列出核心材料與做法邏輯。)
+
+■ Nibbles (小食)
+
+· Cilantro-Lime Pistachios：開心果 2 杯 (240g)、融化椰子油 2 大匙、萊姆汁 2 大匙、辣椒粉 1.5 小匙、蜂蜜 1 小匙、Chipotle 粉 0.5 小匙、鹽 0.5 小匙。350°F (180°C) 烤 10-15 分鐘，趁熱拌入萊姆皮 2 小匙與香菜碎 1.5 小匙。
+· Curry Almonds：生杏仁 2 杯 (220g)、融化椰子油 2 大匙、黑糖 1 大匙、薑泥 1 小匙、卡宴辣椒粉 0.5 小匙、香菜籽粉 0.5 小匙、孜然粉 0.5 小匙、鹽 0.5 小匙。350°F (180°C) 烤 10-15 分鐘。
+· Mixed Nuts with Wasabi and Toasted Coconut：綜合生堅果 2 杯 (220g)、融化椰子油 2 大匙、芥末醬 1 大匙、蜂蜜 2 小匙、米醋 1.5 小匙、醬油 1.5 小匙、鹽 1.5 小匙。350°F (180°C) 烤 10-15 分鐘。另將椰子片 1/3 杯 (25g) 以 325°F (165°C) 烤 5 分鐘，混合。
+· Brown Sugar and Cardamom Pecans：生胡桃 2 杯 (220g)、奶油 3 大匙、水 3 大匙、黑糖 1/3 杯 (65g)、荳蔻粉 1 大匙、香草精 0.5 小匙、鹽 0.5 小匙、米醋 1 大匙。325°F (165°C) 烤 15-20 分鐘。
+· Maple-Bourbon Pecans：生胡桃 2 杯 (220g)、奶油 3 大匙、黑糖 1/2 杯 (100g)、楓糖漿 3 大匙、香草精 1 小匙、肉桂粉 0.25 小匙、鹽 0.5 小匙、波本威士忌 1/4 杯 (60ml)。325°F (165°C) 烤 15-20 分鐘。
+· Sweet-and-Spicy Pecans：生胡桃 2 杯 (220g)、奶油 3 大匙、蜂蜜 2 大匙、黑糖 1/4 杯 (50g)、五香粉 1 小匙、鹽 0.5 小匙、橙皮 1 小匙。烤後撒白芝麻 1 大匙。
+· Herb-Marinated Olives with Pine Nuts：綜合橄欖 2 杯 (380g)、E.V. 橄欖油 1/2 杯 (120ml)、乾奧勒岡 0.5 小匙、蒜泥 2 瓣、茴香籽 0.5 小匙、黑胡椒 0.25 小匙。小火加熱 5 分鐘，拌入烤松子。
+· Citrus-Marinated Olives：綜合橄欖 2 杯 (380g)、E.V. 橄欖油 1/3 杯 (80ml)、蒜泥 1 瓣、煙燻紅椒粉 1.5 小匙、迷迭香 1 枝、柳橙片/檸檬片各 1/2 顆、蜂蜜 1.5 小匙、米醋 1 大匙。小火加熱 5 分鐘。
+· Chile-Marinated Green Olives：綠橄欖 2 杯 (380g)、E.V. 橄欖油 1/2 杯 (120ml)、蒜泥 2 瓣、紅辣椒碎 1 小匙、鹽 0.25 小匙、烤紅椒條 1/4 杯 (70g)、紅酒醋 1 大匙、巴西里碎 1 大匙。小火加熱 5 分鐘。
+· Stuffed Mexican-Style Black Olives：黑橄欖 6 oz (170g)、Jalapeño Cream Cheese 1/2 份。填入橄欖。
+· Stuffed Greek-Style Green Olives：綠橄欖 1 杯 (190g)、Feta 起司 1/2 杯 (60g)、奶油起司 1/4 杯 (60g)、薄荷碎 1 大匙、檸檬皮 1 小匙、檸檬汁 1 小匙、蒜泥 1 瓣、蜂蜜 1 小匙。填入橄欖。
+· Baked Stuffed Green Olives：綠橄欖 1 杯 (190g)、Brie 起司 4 oz (115g)。依序沾麵粉、蛋液、Panko+帕瑪森起司，450°F (230°C) 烤 15 分鐘。
+· Sea Salt and Malt Vinegar Popcorn：融化奶油 3 大匙、麥芽醋 3 大匙（濃縮至 1/4 杯）、爆米花 1 份、海鹽 0.5 小匙。
+· Sriracha-Lime Popcorn：融化奶油 2 大匙、萊姆汁 2 大匙、Sriracha 1.5 大匙、砂糖 2 小匙。淋在爆米花上，撒萊姆皮與鹽 0.25 小匙。
+· Honey-Ginger-Wasabi Popcorn：融化奶油 2 大匙、芥末醬 1 大匙、蜂蜜 1.5 大匙、薑泥 2 小匙。淋在爆米花上，可加芥末豌豆 1/2 杯 (60g)。
+· Roasted Edamame and Chickpeas：冷凍毛豆 12 oz (340g)、鷹嘴豆罐頭 15 oz (425g)、橄欖油 2 大匙、鹽 1 小匙。400°F (200°C) 烤 30-45 分鐘，每 8-10 分鐘翻動。
+· Garam Masala-Roasted Edamame and Chickpeas：同上，但以 Garam Masala 1.5 小匙 + 鹽 0.5 小匙取代黑胡椒。
+· Cayenne and Brown Sugar-Roasted Edamame and Chickpeas：同上，但以黑糖 2 小匙 + 卡宴辣椒粉 0.5 小匙取代黑胡椒。
+
+■ Dips & Spreads (沾醬與抹醬)
+
+· Drunken Fig Jam：無花果乾 10 oz (280g)、水 1 杯 (240ml)、砂糖 1/3 杯 (65g)、干邑 2 大匙、檸檬汁 1.5 大匙、巴薩米克醋 1 小匙。
+· Caramelized Red Onion Jam：紅洋蔥 2 大顆、橄欖油 2 大匙、奶油 1 大匙、紅酒 1/2 杯 (120ml)、米醋 1/4 杯 (60ml)、黑糖 1/4 杯 (50g)、巴薩米克醋 1 小匙、鹽 0.25 小匙。小火煮 1 小時。
+· Whiskey-Bacon Jam：培根 1 磅 (455g)、紅蔥頭 2 顆、蒜泥 2 瓣、咖啡 1/2 杯 (120ml)、威士忌 1/4 杯 (60ml)、黑糖 1/4 杯 (50g)、楓糖漿 3 大匙。煮 1 小時後打碎。
+· Pico de Gallo：紅洋蔥碎 1 小顆、萊姆汁 2 大匙、羅馬番茄 3-4 顆 (350g)、香菜碎 3 大匙、辣醬 1 小匙、鹽 0.25 小匙、蒜鹽少許。
+· Pico de Gallo with Mango and Jalapeño：上述 Pico de Gallo + 芒果 1 顆 (切丁) + 墨西哥辣椒 3 大匙。
+· Pico de Gallo with Grilled Corn and Green Onions：上述 Pico de Gallo + 烤玉米 1 份 + 蔥花 2 大匙。
+· Guacamole：酪梨 4 顆、蒜泥 1 瓣、萊姆汁 1 大匙、香菜碎 2 大匙、鹽 0.5 小匙、辣醬 1 大匙。
+· Spicy Guacamole：上述 Guacamole + 烤綠辣椒 3 大匙 + 羅馬番茄 1 顆 (切丁)。
+· Creamy Avocado and Mascarpone Dip：酪梨 3 顆、柳橙汁 1 大匙、萊姆汁 1 小匙、Mascarpone 起司 1/2 杯 (110g)、薄荷碎 2 小匙、柳橙皮 1 小匙、蜂蜜 1 小匙、鹽 0.5 小匙。
+· French Onion Dip：酸奶油 1 杯 (240g)、奶油起司 1 杯 (220g)、美乃滋 1/2 杯 (120g)、焦糖洋蔥 1 份、伍斯特醬 1 小匙、檸檬汁 1 小匙。
+· Roasted Garlic and Chive French Onion Dip：上述 French Onion Dip + 烤大蒜 3 瓣 + 細香蔥 1/4 杯 (10g)。
+· Warm Vidalia Onion Dip：焦糖洋蔥 1 份 (用 Vidalia 洋蔥)、美乃滋 1/2 杯 (120g)、Monterey Jack 起司 1/2 杯 (60g)、伍斯特醬 1 小匙、檸檬汁 1 小匙、肉豆蔻/孜然/紅椒粉各 0.25 小匙。頂部鋪奶油 1 大匙 + Panko 1/3 杯 (20g) + 起司 2 大匙。400°F (200°C) 烤 15-20 分鐘。
+· Roasted Artichoke and Green Chile Dip：烤朝鮮薊心 1 份、奶油起司 1 杯 (220g)、美乃滋 1/3 杯 (80g)、酸奶油 1/3 杯 (80g)、帕瑪森起司 1/2 杯 (40g)、烤綠辣椒 1/4 杯 (55g)、蒜泥 2 瓣、卡宴辣椒粉 0.5 小匙、煙燻紅椒粉 0.5 小匙、Monterey Jack 起司 3/4 杯 (90g)。頂部鋪 Panko 1/2 杯 (30g) + 帕瑪森 1/4 杯 (20g) + 起司 1/4 杯 (30g)。400°F (200°C) 烤 10-15 分鐘。
+· Roasted Artichoke, Kale, and Bacon Dip：上述 Roasted Artichoke and Green Chile Dip，但以烤羽衣甘藍 1 份 + 烤培根 6 片取代綠辣椒。
+· Chilled Artichoke Spread with Parsley Pesto：烤朝鮮薊心 1 份、奶油起司 1 杯 (220g)、美乃滋 1/3 杯 (80g)、酸奶油 1/3 杯 (80g)、蒜泥 2 瓣、卡宴辣椒粉 0.5 小匙、煙燻紅椒粉 0.5 小匙。搭配 Parsley Pesto 1/4 杯。
+· White Bean Hummus：白腰豆罐頭 15 oz (425g)、Tahini 2 大匙、蒜泥 1 瓣、鹽 0.5 小匙、紅辣椒碎 0.25 小匙、檸檬皮 0.5 小匙、檸檬汁 1 大匙、焦糖洋蔥 1/4 杯 (90g)、E.V. 橄欖油 2 大匙、羅勒碎 1 大匙、巴西里碎 1 小匙、烤大蒜 1 瓣。
+· Edamame Hummus：冷凍毛豆 12 oz (340g)、Tahini 2 大匙、蒜泥 2 瓣、萊姆皮 1 小匙、萊姆汁 1 大匙、鹽 0.5 小匙、卡宴辣椒粉 0.25 小匙、辣醬 2 滴。
+· Fava Bean Hummus：蠶豆 9 oz (255g)、Tahini 2 大匙、紅蔥頭 1 顆、蒜泥 2 瓣、檸檬汁 1 大匙、米醋 1 大匙、煙燻紅椒粉 0.5 小匙、鹽 0.5 小匙、馬郁蘭 2 小匙。
+· Roasted Grape Tomato Spread：烤聖女小番茄 1 份、希臘優格 3/4 杯 (180ml)、Mascarpone 起司 1/3 杯 (70g)、羅勒碎 1 大匙、鹽 0.5 小匙。
+· Roasted Leek and Asparagus Spread：烤韭蔥 1 份、烤蘆筍 1 份、希臘優格 3/4 杯、Mascarpone 起司 1/3 杯。
+· Roasted Eggplant and Cipollini Onion Spread：烤茄子 1 份、烤珍珠洋蔥 1 份、巴西里碎 1 大匙、檸檬皮 1 小匙、檸檬汁 1 小匙、酸豆 1 小匙。拌入優格/Mascarpone 基底。
+· Whipped Goat Cheese Spread：山羊起司 1 杯 (110g)、鮮奶油 2 大匙、蜂蜜 2 小匙、檸檬皮 0.5 小匙、檸檬汁 1 小匙、百里香碎 0.5 小匙。
+· Whipped Mascarpone Spread：Mascarpone 起司 1 杯 (220g)。同上做法，搭配蜂蜜與烤檸檬片。
+· Whipped Ricotta Spread：Ricotta 起司 1 杯 (250g)。同上做法。
+· Baked Brie Phyllo Cups with Honey and Fresh Blackberries：Brie 起司 8 oz (230g)、蜂蜜 1/4 杯 (85g)、黑莓。填入 Phyllo Cups，375°F (190°C) 烤 5-7 分鐘。
+· Baked Brie with Bourbon-Maple Pecans and Candied Cranberries：Brie 起司 8 oz (230g)、Maple-Bourbon Pecans 1/2 份、糖漬蔓越莓少許。375°F (190°C) 烤 8-12 分鐘。
+· Baked Brie with Cherry Compote and Macadamia Nuts：Brie 起司 8 oz (230g)、Cherry Compote 1 份、烤夏威夷豆 1/3 杯 (40g)。
+· Green Olive Tapenade：綠橄欖 1 杯 (190g)、酸豆 1 大匙、鯷魚 2 條、蒜頭 1 小瓣、巴西里 2 小匙、檸檬皮 0.5 小匙、檸檬汁 2 小匙、全麥芥末 0.5 小匙、紅辣椒碎少許、E.V. 橄欖油 2 大匙。
+· Black Olive and Sun-Dried Tomato Tapenade：黑橄欖 1 杯 (130g)、日曬番茄 1/4 杯 (30g)。做法同上。
+· Cannellini Bean and Kalamata Olive Tapenade：Kalamata 橄欖 1/2 杯 (60g)、蒜頭 1 小瓣、巴西里 1 大匙、檸檬皮 0.5 小匙、檸檬汁 2 小匙、紅酒醋 1 小匙、全麥芥末 0.5 小匙、E.V. 橄欖油 2 大匙。拌入白腰豆罐頭 15 oz (425g)。
+· Wild Mushroom Pâté：綜合野菇 4 杯 (300g)、奶油 2 大匙、白洋蔥 1 小顆、紅蔥頭 1 顆、烤大蒜 2 瓣、月桂葉 1 片、百里香 1 小匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、波特酒 1.5 杯 (360ml)、鮮奶油 2 大匙、軟化奶油 1/4 杯 (55g)。
+· Smoked Salmon Pâté：煙燻鮭魚 8 oz (230g)、Mascarpone 1/2 杯 (110g)、美乃滋 1/3 杯 (80g)、蔥花 1 支、蒔蘿 1.5 小匙、檸檬皮 0.5 小匙、檸檬汁 2 小匙、番茄糊 1 小匙、辣醬 2 滴、辣根 1.5 小匙。
+· Chicken Liver Pâté：雞肝 1 磅 (455g)、牛奶 2 杯 (480ml)、鴨油 2 大匙、白洋蔥 1 小顆、紅蔥頭 1 顆、黑蒜 2 瓣、月桂葉 1 片、百里香 1 小匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、干邑 1/4 杯 (60ml)、鮮奶油 2 大匙、軟化奶油 1/4 杯 (55g)。
 
 這是一份基於《驚豔亞洲醬料》（The Asian Sauce Bible）提取的結構化核心知識與食譜數據庫。內容已按照要求濃縮為底層邏輯與極度精確的配方比例，適合用於訓練 AI 機械人。
 
+
+
+■ Crostini, Breads & Grains (麵包與穀物)
+
+· Classic Tomato Crostini：羅馬番茄 1.5 磅 (680g)、E.V. 橄欖油 1 大匙、巴薩米克醋 2 小匙、羅勒碎 1 大匙、巴西里碎 2 小匙、蒜泥 2 瓣、鹽 0.5 小匙、黑胡椒 0.5 小匙。鋪在 Crostini 上。
+· Baby Heirloom Tomato and Mozzarella Crostini：小番茄 10.5 oz (300g)、Mozzarella 起司 6 oz (170g)。同上調味。
+· Roasted Red Pepper and Mozzarella Crostini：烤紅椒 1 杯 (60g)、E.V. 橄欖油 2 小匙、巴薩米克醋 0.5 小匙、Mozzarella 起司 8 oz (230g)。
+· Crostini with Baked Ricotta：Ricotta 起司 2 杯 (500g)、蛋 2 顆、Asiago 起司 1/3 杯 (30g)、紅辣椒碎 0.5 小匙、鼠尾草 0.5 小匙、鹽 0.25 小匙。400°F (200°C) 烤 25-30 分鐘。
+· Crostini with Baked Ricotta and Roasted Grapes：上述 Baked Ricotta + 烤葡萄 1 份。
+· Crostini with Baked Ricotta, Toasted Almonds, and Honey：上述 Baked Ricotta + 烤杏仁 1/3 杯 (40g) + 蜂蜜 2-3 大匙。
+· Crostini with Drunken Fig Jam and Goat Cheese：山羊起司 1 杯 (230g) + Drunken Fig Jam 1 杯 (230g)。
+· Crostini with Whiskey-Bacon Jam, Brie, and Pear：Brie 起司 8 oz (230g)、Whiskey-Bacon Jam 3/4 杯 (170g)、梨 1 顆 (切片)。
+· Crostini with Caramelized Red Onion Jam and Chicken Liver Pâté：雞肝醬 1.25 杯 (260g) + Caramelized Red Onion Jam 3/4 杯 (170g)。
+· Tiny Rye Toasts with Crème Fraîche and Lemon：黑麥麵包 24 片、融化奶油 2-3 大匙、Crème Fraîche 1 小匙/片、檸檬皮少許。350°F (180°C) 烤 3-5 分鐘。
+· Tiny Rye Toasts with Crème Fraîche and Pomegranate：上述，以石榴籽 1/2 杯 (80g) 取代檸檬皮。
+· Tiny Rye Toasts with Crème Fraîche and Bay Scallops：上述，以香煎干貝 1 磅 (455g) 取代檸檬皮。
+· Bite-Size Grilled Cheeses：Gruyère 起司 1.5 杯 (170g)、尖銳白切達起司 1.5 杯 (170g)、長棍麵包 48 片、融化奶油 5 大匙 (70g)。375°F (190°C) 烤 10-15 分鐘。
+· Multigrain and Gouda Bite-Size Grilled Cheeses：全麥麵包 16 片、融化奶油 5 大匙、Gouda 起司 1.5 杯 (170g)、煙燻火腿 4 oz (115g)、第戎芥末 2 大匙、美乃滋 2 大匙。
+· Rye and Swiss Bite-Size Grilled Cheeses：黑麥麵包 12 oz (340g)、瑞士起司 1.5 杯 (170g)、融化奶油 5 大匙。
+· Mini Reubens：黑麥麵包 12 oz (340g)、俄式醬 1/2 杯 (120ml)、瑞士起司 16 片半、酸菜 1 杯 (150g)、鹹牛肉 1 磅 (455g)、融化奶油 5 大匙。400°F (200°C) 烤 10 分鐘。
+· Open-Faced Reuben Toasts：長棍麵包 1 條、融化奶油 1/4 杯 (55g)、俄式醬 1/2 杯 + 1/2 杯、瑞士起司 8 片、酸菜 1 杯 (150g)、鹹牛肉 1 磅 (455g)、Gruyère 起司 1/2 杯 (60g)。上火烤 1-3 分鐘。
+· Reuben Quesadillas：大麵粉餅 2 張、瑞士起司 4 片、酸菜 1/2 杯 (70g)、鹹牛肉 8 oz (230g)、俄式醬 1 份。
+· Mini Chicago Hot Dogs：熱狗 6 條、熱狗麵包 6 個、融化奶油 1 大匙、罌粟籽 1-2 大匙、黃芥末、甜酸黃瓜醬、白洋蔥碎 1 顆、番茄片 12 片、酸黃瓜 6 條、辣椒 6 條、芹菜鹽 0.5 小匙。
+· Mini Coney Island Hot Dogs：熱狗 6 條、牛絞肉 8 oz (230g)、白洋蔥碎 1 顆、蒜泥 1 瓣、辣椒粉 1 大匙、孜然粉 2 小匙、水 1/2 杯 (120ml)、番茄糊 6 大匙 (85g)、黃芥末 2 小匙、伍斯特醬 2 小匙、黑糖 1 小匙。煮 15 分鐘。
+· Mini Manhattan Hot Dogs：熱狗 6 條、橄欖油 1 大匙、Vidalia 洋蔥 1 顆、番茄醬 1/2 杯 (140g)、水 1/2 杯 (120ml)、蘋果醋 1 大匙、玉米糖漿 1 小匙、辣椒粉 1 小匙、紅辣椒碎 0.5 小匙、鹽 0.5 小匙。煮 30 分鐘。
+· Savory Shortbreads with Jalapeño and Cheddar：奶油 3/4 杯 (165g)、麵粉 1 杯 (140g)、鹽 0.5 小匙、泡打粉 0.5 小匙、切達起司 3/4 杯 (60g)、墨西哥辣椒 1-2 顆。375°F (190°C) 烤 12-15 分鐘。
+· Savory Shortbreads with Parmesan and Sun-Dried Tomatoes：上述，以帕瑪森起司 3/4 杯 (60g)、日曬番茄 2 大匙、黑胡椒 1 小匙取代。
+· Savory Shortbreads with Dried Apricots, Basil, and Olive Oil：上述，以杏桃乾 2 大匙、羅勒碎 1.5 大匙、E.V. 橄欖油 1.5 大匙取代。
+· Caramelized Onion and Stilton Tarts：焦糖洋蔥 1.5 杯 (300g)、Stilton 起司 4 oz (115g)、千層酥塔底 1 份。400°F (200°C) 烤 15-20 分鐘。
+· Mushroom, Feta, and Rosemary Tarts：蘑菇 8 oz (230g)、奶油/橄欖油各 2 大匙、巴薩米克醋少許、迷迭香 1 枝、Feta 起司 4 oz (115g)、千層酥塔底 1 份。
+· Roasted Red Pepper, Shallot, and Fontina Tarts：烤紅椒 7.5 oz (212g)、紅蔥頭 2 顆、Fontina 起司 1 杯 (120g)、橄欖油 1 大匙、千層酥塔底 1 份。
+· Fontina and Prosciutto Scones with Green Onions：麵粉 2 杯 (280g)、泡打粉 1 大匙、鹽 0.5 小匙、冷奶油 1/2 杯 (110g)、Fontina 起司 1/2 杯 (60g)、Prosciutto 1/3 杯 (40g)、蔥花 2 大匙、鮮奶油 1 杯 (240ml)。400°F (200°C) 烤 12 分鐘。
+· Bacon and Date Scones：上述，以烤培根 1/3 杯 (110g)、椰棗 1/3 杯 (60g) 取代。
+· Pimiento Cheese and Chive Scones：上述，以切達起司 1/2 杯 (60g)、Pimientos 1/4 杯 (60g)、細香蔥 2 大匙、卡宴辣椒粉 0.25 小匙取代。
+· Yukon Gold Blini with Smoked Salmon and Dill：馬鈴薯泥 9 oz (255g)、麵粉 2 大匙、泡打粉 1/4 小匙、蛋 2 顆 + 蛋黃 1 個、鮮奶油 2.5 大匙。煎成小圓餅，搭配 Crème Fraîche、煙燻鮭魚、蒔蘿。
+· Yukon Gold Blini with Roasted Beets and Horseradish：上述，搭配烤甜菜根碎 1 小匙、辣根 1/8 小匙、三葉草芽。
+· Yukon Gold Blini with Pea and Mint Pesto and Pancetta：上述，搭配豌豆薄荷青醬 1 小匙、香煎培根丁 0.5 小匙。
+· Buttermilk Cornmeal Waffles：酪奶 2 杯 (480ml)、玉米糊 1/2 杯 (70g)、奶油 1/2 杯 (110g)、砂糖 1/4 杯 (50g)、鹽 1 小匙、酵母 2 小匙、溫水 1/2 杯 (120ml)、蛋 2 顆、麵粉 3.5 杯 (490g)、小蘇打 1 小匙。發酵 1 小時後烤。
+· Spicy Cornmeal Waffles：上述，發酵後揉入墨西哥辣椒 2 顆、煙燻紅椒粉 1 小匙、卡宴辣椒粉 0.25 小匙。
+· Spicy Cornmeal Waffles with Bacon：上述，發酵後揉入烤培根 1 杯 (330g)、煙燻紅椒粉 1 小匙、卡宴辣椒粉 0.25 小匙。
+· Polenta Bites with Artichoke and Feta：預煮玉米糊 18 oz (510g)、橄欖油 1 大匙、Feta 起司 1 小匙/份、烤朝鮮薊心 1-2 片/份。
+· Polenta Bites with Sausage and Mozzarella：上述，以 Mozzarella 1 薄片、義式香腸 1 片取代。
+· Polenta Bites with Roasted Lemon and Ricotta：上述，以 Ricotta 1 小匙、烤檸檬片 1/2 片取代。
+· Cheddar and Grits Bacon Cups：Cheddar Grits 1/2 份、培根杯 1 份、切達起司絲。填入培根杯。
+· Spicy Cheddar and Grits Bacon Cups with Chives：上述，將辣醬 1/4 杯 (60ml) 拌入 Grits，撒細香蔥。
+· Shrimp and Grits Griddlecakes：Cheddar Grits 1/2 份、蝦 10 oz (280g)、奶油 2 大匙、鹽 0.5 小匙。將 Grits 烤成小餅，放上煎蝦。
+· Mini Quinoa Patties with Peas and Cauliflower：烤花椰菜 1/2 杯 (150g)、豌豆 1/4 杯 (30g)、熟藜麥 3 杯 (360g)、蛋 4 顆、帕瑪森起司 1/4 杯 (20g)、蒜泥 1 瓣、香菜碎 1 大匙、Garam Masala 1.5 小匙、孜然粉 1 小匙、鹽 1 小匙、麵包粉 1 杯 (60g)。350°F (180°C) 烤 20-30 分鐘。
+· Mini Quinoa Patties with Carrots：上述，以烤紅蘿蔔 3/4 杯 (130g)、帕瑪森 1/4 杯、蜂蜜 2 大匙、檸檬汁 1 小匙、黑胡椒 0.25 小匙取代。
+· Mini Quinoa Patties with Sun-Dried Tomatoes：上述，以日曬番茄 1/4 杯 (80g)、帕瑪森 1/4 杯、巴西里 1/4 杯 (10g)、番茄糊 1 大匙取代。
+· Arancini with Buffalo Mozzarella：水牛 Mozzarella 起司 2 oz (55g)、燉飯 1 份、麵包粉。375°F (190°C) 烤 10-15 分鐘。
+· Arancini with Buffalo Mozzarella and Asparagus：上述，每顆加入烤蘆筍丁 1 小匙。
+· Arancini Baked in Baby Bell Peppers：義式香腸 1 條、迷你甜椒 12 顆、燉飯 1.5 杯 (210g)、Mozzarella 起司 1/2 杯 (60g)、巴西里 2 小匙。350°F (180°C) 烤 15-18 分鐘。
+
+■ Fruits & Vegetables (蔬果)
+
+· Strawberries Filled with Cucumber-Dill Cream Cheese：草莓盅 1 份、Cucumber-Dill Cream Cheese 1 份。
+· Strawberries Filled with Whipped Gorgonzola：草莓盅 1 份、Whipped Gorgonzola 1 份。
+· Strawberries Filled with Whipped Stilton：草莓盅 1 份、Whipped Stilton 1 份。
+· Honeydew Melon and Prosciutto Skewers：哈密瓜 1/2 顆、Prosciutto 6 片。
+· Cantaloupe, Blackberry, and Feta Skewers：哈密瓜 1/2 顆、Feta 起司 4 oz (115g)、黑莓 24 顆、薄荷葉。
+· Watermelon, Cucumber, and Avocado Skewers：黃瓜 1 條、無籽西瓜 24 塊、酪梨 1 顆、萊姆汁 2 小匙、E.V. 橄欖油、海鹽、黑胡椒、香菜碎 1 大匙。
+· Roasted Grapes：無籽紅葡萄 2 杯 (300g)、橄欖油 1 大匙、海鹽、黑胡椒。400°F (200°C) 烤 15 分鐘。
+· Roasted Grapes with Rosemary：上述 + 迷迭香碎 1-2 小匙。
+· Roasted Grapes with Balsamic-Red Wine Reduction：上述 + 巴薩米克紅酒濃縮汁 2 小匙。
+· Dates Stuffed with Gorgonzola and Wrapped in Bacon：椰棗 24 顆、Gorgonzola 起司 1 小匙/顆、培根 12 片。400°F (200°C) 烤 10 分鐘。
+· Dates Stuffed with Goat Cheese and Pistachios：椰棗 24 顆、山羊起司 1.5 小匙/顆、開心果碎 1/4 杯 (30g)。
+· Dates Stuffed with Cream Cheese and Candied Ginger：椰棗 24 顆、奶油起司 1.5 小匙/顆、糖漬薑碎 1/4 杯 (30g)。
+· Cherry Tomato Cups Filled with Cucumber-Dill Cream Cheese：小番茄盅 1 份、Cucumber-Dill Cream Cheese 1 份。
+· Cherry Tomato Cups Filled with Creamy Avocado and Mascarpone Dip：小番茄盅 1 份、Creamy Avocado and Mascarpone Dip 1/3 份。
+· Cherry Tomato Cups Filled with White Bean Hummus：小番茄盅 1 份、White Bean Hummus 1/2 份。
+· Radish Slaw with Fennel and Red Onion：柳橙 1/2 顆、櫻桃蘿蔔 1 束、茴香球莖 1 顆、紅洋蔥 1/2 顆、E.V. 橄欖油 3 大匙、檸檬汁 1 大匙、蜂蜜 1 小匙、鹽 0.5 小匙、黑胡椒 1/8 小匙。
+· Radish Slaw with Mango and Lime：櫻桃蘿蔔 1 束、紫高麗菜 1/2 顆、芒果 1 顆、香菜碎 1/4 杯 (10g)、E.V. 橄欖油 2 大匙、紅酒醋 1 大匙、萊姆汁 1 大匙、鹽 0.5 小匙。
+· Radish Slaw with Cucumber and Dill：櫻桃蘿蔔 1 束、綠高麗菜 1/2 顆、黃瓜 1 條、青蘋果 1/2 顆、Creamy Dill Dressing 1/4 杯 (60ml)。
+· Quick Pickled Carrots：白胡椒粒 1 小匙、芥末籽 1 大匙、月桂葉 1 片、鹽 1 大匙、砂糖 1/3 杯 (65g)、檸檬片 1 顆、水 1 杯 (240ml)、蘋果醋 1.5 杯 (360ml)、紅蘿蔔 5-6 條。
+· Quick Pickled Haricots Verts：上述，以法國細豆 14 oz (400g) 取代紅蘿蔔。
+· Quick Pickled Radishes：上述，以櫻桃蘿蔔 1 大束取代紅蘿蔔。
+· Thai Spring Rolls：米紙 12 張、奶油萵苣 1 顆、紅蘿蔔 6 條、黃瓜 2 條、蔥花 1/2 杯 (25g)、豆芽 1.5 杯 (150g)、泰式羅勒 1 束。
+· Avocado Spring Rolls：上述，以酪梨 3 顆、紅甜椒 2 顆、香菜碎 1/4 杯 (20g) 取代部分蔬菜。
+· Shrimp Spring Rolls：上述，以熟蝦 12 隻、豌豆苗 3 杯 (210g)、薄荷葉 24-36 片取代部分蔬菜。
+· Broccoli Soup in Cucumber Cups：奶油 2 大匙、洋蔥 1 顆、鹽 1/4 小匙、麵粉 1 大匙、牛奶 1/2 杯 (120ml)、蔬菜高湯 1 杯 (240ml)、花椰菜 2 杯 (350g)、帕瑪森起司 1 大匙、黑胡椒 1/4 小匙。填入黃瓜盅。
+· Portobello Soup in Cucumber Cups：上述，以蘑菇 8 oz (230g) 取代花椰菜，省略黑胡椒。
+· Acorn Squash Soup in Cucumber Cups：上述，以烤橡實南瓜 1 份、Cajun 調味料 1 小匙取代花椰菜與帕瑪森，頂部裝飾 Crème Fraîche。
+· Grilled Asparagus Spears：蘆筍 2 磅 (910g)、融化奶油 2 大匙、檸檬片 2-3 片。煎 5-8 分鐘。
+· Chilled Asparagus with Lemon-Mint Vinaigrette：蘆筍 2 磅 (910g)、Lemon-Mint Vinaigrette 1 份。冰鎮後沾醬。
+· Roasted Asparagus with Crispy Bread Crumbs：蘆筍 2 磅 (910g)、橄欖油 1 大匙、Panko 1 大匙、帕瑪森起司 1.5 小匙。500°F (260°C) 烤 5-10 分鐘。
+· Italian-Style Stuffed Mushrooms：蘑菇盅 1 份、橄欖油 1.5 小匙、洋蔥 1/2 顆、蒜泥 2 瓣、巴西里 1.5 大匙、紅辣椒碎 0.5 小匙、黑橄欖 5 顆、松子 1/4 杯 (40g)、麵包粉 1 杯 (60g)、蔬菜高湯 1/2 杯 (120ml)、帕瑪森起司 3 大匙、Mozzarella 起司 1/2 杯 (60g)。375°F (190°C) 烤 15 分鐘。
+· Spinach and Gruyère-Stuffed Mushrooms：蘑菇盅 1 份、橄欖油 1.5 大匙、洋蔥 1/2 顆、蒜泥 2 瓣、菠菜 2 杯 (60g)、麵粉 2 大匙、鮮奶油 1/2 杯 (120ml)、肉豆蔻 1/4 小匙、Gruyère 起司 1/2 杯 (60g)、帕瑪森起司 1/4 杯 (20g)、Panko 1/2 杯 (30g)、融化奶油 1 大匙。375°F (190°C) 烤 15 分鐘。
+· Crab-Stuffed Mushrooms：蘑菇盅 1 份、蟹肉 3/4 杯 (260g)、奶油起司 1/2 杯 (110g)、Monterey Jack 起司 1 杯 (120g)、檸檬汁 2 小匙、細香蔥 1 大匙、巴西里 2 小匙、辣醬/伍斯特醬各 2 滴、餅乾碎 6 片。375°F (190°C) 烤 15 分鐘。
+· Pan-Roasted Shishito Peppers：獅子椒 12 oz (340g)、橄欖油 1 大匙、海鹽、黑胡椒。煎至表皮起泡。
+· Pan-Roasted Shishito Peppers in Olive Oil：獅子椒 12 oz (340g)、橄欖油 1.5 大匙。煎至變軟。
+· Shishito Peppers Stuffed with Black Forest Ham and Pepper Jack Cheese：獅子椒 12 oz (340g)、Pepper Jack 起司 6 oz (170g)、黑森林火腿 6 oz (170g)。375°F (190°C) 烤 10-15 分鐘。
+· Baked Jalapeño Poppers：墨西哥辣椒 12 顆、Jalapeño Cream Cheese 1 份、麵粉 1/2 杯 (70g)、蛋 1 顆、Panko 1/2 杯 (30g)、帕瑪森起司 1/4 杯 (20g)。400°F (200°C) 烤 15-20 分鐘。
+· Baked Jalapeño Poppers with Creamy Corn：墨西哥辣椒 12 顆、奶油起司 1/2 杯 (110g)、切達起司 1/2 杯 (60g)、酸奶油 1/4 杯 (60g)、甜玉米 1/4 杯 (40g)、蔥花 1 大匙、麵粉 1/2 杯、蛋 1 顆、玉米糊 1/2 杯 (70g)、切達起司 1/4 杯 (30g)。
+· Baked Jalapeño Poppers Wrapped in Bacon：墨西哥辣椒 12 顆、奶油起司 1/2 杯 (110g)、切達起司 1/2 杯 (60g)、酸奶油 1/4 杯 (60g)、蔥花 2 大匙、培根 12 片半。
+· Brussels Sprout Chips：球芽甘藍 1 磅 (455g)、橄欖油 1 大匙、鹽 1 小匙。350°F (180°C) 烤 15 分鐘。
+· Beet Chips with Rosemary Salt：甜菜根 3 顆、橄欖油 1-2 大匙、迷迭香葉 2-3 枝、海鹽 1 小匙。375°F (190°C) 烤 15-20 分鐘。
+· Baby Kale Chips：嫩羽衣甘藍 12 oz (340g)、橄欖油 1.5 大匙、鹽 0.25 小匙。325°F (165°C) 烤 20 分鐘。
+· Roasted Broccoli with Garlic：花椰菜 1 顆、橄欖油 1 大匙、蒜泥 1 瓣、鹽 0.5 小匙、黑胡椒 0.25 小匙。400°F (200°C) 烤 15 分鐘。
+· Roasted Broccoli with Crispy Parmesan：上述，烤 15 分鐘後撒帕瑪森起司 3 大匙，續烤 3-5 分鐘。
+· Roasted Cauliflower with Curry Aioli：白花椰菜 1 顆。400°F (200°C) 烤 25 分鐘，搭配 Curry Aioli 1 份。
+· Spaghetti Squash Nests with Browned Butter and Sage：義大利麵南瓜 1 顆、蛋 1 顆、奶油 1/2 杯 (110g)、紅蔥頭 1 顆、鼠尾草 1/4 杯 (10g)、檸檬汁 1 小匙。400°F (200°C) 烤南瓜 15-20 分鐘，做成巢狀續烤 20-30 分鐘。
+· Spaghetti Squash Nests with Marinara：上述，以 Quick Marinara Sauce 1 份取代焦化奶油。
+· Spaghetti Squash Nests with Pea and Mint Pesto：上述，以 Pea and Mint Pesto 1 份取代焦化奶油。
+· Zucchini Rollatini：櫛瓜 4 條、橄欖油 2 大匙、Whipped Goat Cheese Spread 1 份。400°F (200°C) 烤 10-15 分鐘後捲起。
+· Zucchini Rollatini with Roasted Red Pepper：上述，以 Ricotta 起司 1 大匙、烤紅椒 1 吋、羅勒葉 1 片取代山羊起司。
+· Grilled Summer Squash with Prosciutto Rosettes：櫛瓜 2 條、橄欖油 1 大匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、Prosciutto 3 oz (85g)、Ricotta 起司 1 小匙/份、羅勒。
+· Zucchini–Green Onion Fritters：櫛瓜 4 杯 (700g)、鹽 0.5 小匙、麵粉 1/3 杯 (45g)、玉米澱粉 2 大匙、泡打粉 2 小匙、帕瑪森起司 1/4 杯 (20g)、蔥花 2 大匙、蛋 2 顆、融化奶油 1 大匙、紅花油 3 大匙。375°F (190°C) 烤 20-24 分鐘。
+· Cauliflower, Cheddar, and Smoked Paprika Fritters：花椰菜 4 杯 (400g)、麵粉 1/3 杯 (45g)、玉米澱粉 1 大匙、泡打粉 2 小匙、蛋 2 顆、希臘優格 1/4 杯 (60g)、切達起司 1/2 杯 (60g)、鹽 0.75 小匙、煙燻紅椒粉 1 小匙、卡宴辣椒粉 0.5 小匙、萊姆汁 1 小匙、融化奶油 1 大匙。
+· Sweet Potato Fritters：地瓜 1 大顆、鹽 0.5 小匙、麵粉 1/4 杯 (35g)、玉米澱粉 1 大匙、泡打粉 1.5 小匙、蛋 2 顆、柳橙皮 1 小匙、柳橙汁 2 大匙、五香粉 1.25 小匙、鹽 0.5 小匙、融化奶油 1 大匙。
+· Roasted Beet and Goat Cheese Terrine：烤甜菜根 1 份、山羊起司 2 oz (55g)、E.V. 橄欖油 2 小匙、海鹽 0.5 小匙。
+· Roasted Beet Relish and Goat Cheese Bites：烤甜菜根 1 份 (刨絲)、辣根 3 大匙、檸檬汁 2 大匙、砂糖 2 小匙、鹽 0.5 小匙。搭配 Crostini、山羊起司 4 oz (115g)、蜂蜜 2 大匙。
+· Roasted Beet and Goat Cheese Purée：烤甜菜根 1 份、山羊起司 4 oz (115g)、檸檬汁 1 大匙、E.V. 橄欖油 1 大匙、鹽 0.5 小匙、黑胡椒 0.25 小匙。
+· Shoestring Sweet Potato Fries：地瓜 2 大條、橄欖油 2.5 大匙、Panko 3 大匙、帕瑪森起司 3 大匙、蒜泥 2 瓣、鹽 1 小匙、巴西里碎 1/4 杯 (10g)。400°F (200°C) 烤 20 分鐘。
+· Shoestring French Fries：上述，以馬鈴薯 4 顆取代地瓜，省略 Panko/帕瑪森/蒜/巴西里。
+· Parsnip Fries：上述，以歐防風 6-8 條取代地瓜，切條狀。
+· New Potato Skins with Bacon and Blue Cheese：小新馬鈴薯 12 顆、融化奶油 2 大匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、藍紋起司 1/2 杯 (60g)、烤培根 1/2 杯 (165g)。400°F (200°C) 烤 30 分鐘後挖空，上火烤至起司融化。
+· New Potato Skins with Sour Cream and Chives：上述，以切達起司 1/2 杯 (60g)、酸奶油 1/2 杯 (120g)、細香蔥 1/4 杯 (10g) 取代藍紋起司與培根。
+· Twice-Baked New Potatoes：小新馬鈴薯 12 顆、鮮奶油 1 大匙、奶油 1 大匙、切達起司 1/4 杯 (30g)、酸奶油 1 大匙、鹽 0.5 小匙、黑胡椒 1/8 小匙、烤培根碎。
+
+■ Seafood, Eggs, Poultry & Meat (海鮮、蛋、家禽與肉類)
+
+· Citrus Shrimp Cocktail：蝦 1.5 磅 (680g)、檸檬汁 1 大匙、辣醬 3-4 滴、柳橙皮 1 小匙、柳橙汁 1/3 杯 (80ml)、萊姆皮 0.5 小匙、萊姆汁 1/4 杯 (60ml)、芥花油 1.5 大匙、巴西里 1 大匙、蒔蘿 1 小匙、鹽 0.25 小匙、辣醬 2-3 滴、紅洋蔥 1/4 顆、蜂蜜 2 小匙。冷藏醃漬 4 小時。
+· Citrus Shrimp on Endive：上述蝦仁切碎，放在 Belgian endive 葉片上。
+· Citrus Shrimp Tostadas：上述蝦仁切碎，拌入酪梨 1 顆，放在迷你玉米片上。
+· Half-Dollar Crab Cakes：美乃滋 1/2 杯 (120g)、辣醬 0.5 小匙、蛋 1 顆、芥末 1 小匙、伍斯特醬 2 小匙、檸檬汁 2 大匙、蟹肉 1 磅 (455g)、Old Bay 調味料 1 小匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、餅乾碎 20 片、巴西里 1 大匙。煎至金黃。
+· Curried Half-Dollar Crab Cakes：上述，以咖哩粉 1.5 小匙取代 Old Bay 與巴西里。
+· Wasabi-Soy Half-Dollar Crab Cakes：上述，以萊姆皮 0.5 小匙、萊姆汁 2 小匙、醬油 1 大匙、芥末醬 2 小匙取代芥末/伍斯特/檸檬/Old Bay/巴西里，外層裹蛋液與 Panko 1/2 杯 (40g) + 芝麻 3 大匙。
+· Salmon Sliders on Ciabatta Rolls with Horseradish Aioli：迷你 ciabatta 麵包 12 個、鮭魚排 1.5-2 磅 (680-900g)、鹽/胡椒、芥花油、三葉草芽、Horseradish Aioli 1.5 小匙/個。
+· Salmon Sliders on Hawaiian Buns with Pineapple Teriyaki：上述，以 Hawaiian 麵包 12 個、烤鳳梨佐照燒釉 1/2 份取代。
+· Salmon Sliders on Multigrain Toast with Lemon-Caper Aioli：上述，以全麥麵包 6 片 (切四等份)、Lemon-Caper Aioli 取代。
+· Classic Deviled Eggs：蛋 12 顆、鹽 1 小匙、白醋 1 大匙、美乃滋 1/2 杯 (120g)、酸奶油 1.5 大匙、第戎芥末 0.5 小匙、全麥芥末 0.5 小匙、酸黃瓜碎 1 大匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、辣醬 3 滴。
+· Creamy Avocado Deviled Eggs with Chipotle：上述，加入酪梨 1 顆、萊姆汁 1 小匙，以 Chipotle 粉取代紅椒粉。
+· Smoky Sriracha Deviled Eggs：上述，加入 Sriracha 1.5 小匙、Chipotle 粉 0.5 小匙，以煙燻紅椒粉取代紅椒粉。
+· Mini Crustless Quiches with Bacon and Brussels Sprouts：酸奶油 3/4 杯 (180g)、蛋 6 顆、牛奶 3/4 杯 (180ml)、麵粉 2 大匙、鹽 1 小匙、烤球芽甘藍 1/2 杯 (85g)、切達起司 1/2 杯 (60g)、烤培根 1/2 杯 (165g)、黑胡椒 0.5 小匙、肉豆蔻 0.25 小匙。350°F (180°C) 烤 12-18 分鐘。
+· Mini Crustless Quiches with Asparagus and Artichoke Hearts：上述，以烤蘆筍 1/2 杯 (90g)、烤朝鮮薊心 1/2 杯 (90g)、Gruyère 起司 1/2 杯 (60g) 取代。
+· Mini Crustless Quiches with Baby Kale and Tomato：上述，以 Ricotta 3/4 杯 (190g)、Mozzarella 1/2 杯 (60g)、帕瑪森 1/4 杯 (20g)、番茄 1 顆、羽衣甘藍 1 杯 (70g)、羅勒 1 小匙、巴西里 2 小匙 取代。
+· Spicy Baked Chicken Wings：雞翅 3.5 磅 (1.6kg)、Chicken Wing Brine 1 份。滷煮 5-8 分鐘後冷藏 1 小時，425°F (220°C) 烤 20 分鐘。醬汁：奶油 3 大匙、起酥油 2 大匙、辣醬 1/2 杯 (120ml)、蘋果醋 1 大匙、蜂蜜 1 大匙、黑糖 1 大匙、醬油 1 小匙、蒜泥 1 瓣、洋蔥粉 0.5 小匙。
+· Teriyaki Baked Chicken Wings：上述，醬汁改為：奶油 3 大匙、起酥油 2 大匙、醬油 1/2 杯 (120ml)、米醋 1/4 杯 (60ml)、黑糖 2 大匙、蒜泥 2 瓣、蔥花 2 支、薑泥 1 小匙，撒芝麻 1-2 大匙。
+· Honey-Mustard Baked Chicken Wings：上述，醬汁改為：奶油 3 大匙、起酥油 2 大匙、辣味棕色芥末 1/2 杯 (120g)、蜂蜜 1/4 杯 (85g)。
+· Spicy Shredded Chicken Taquitos：Queso fresco 起司 4 oz (115g)、玉米餅 20 張 (切半)、辣味手撕雞 1 份。350°F (180°C) 烤 10 分鐘。
+· Spicy Shredded Chicken Mini Tostadas：辣味手撕雞 1/2 份、酪梨 2 顆 (切丁)、圓形玉米片 36 片。
+· Spicy Shredded Chicken BBQ Sliders：辣味手撕雞 1/2 份、甜烤肉醬 1 杯 (240ml)、迷你漢堡麵包 24 個、Queso fresco 起司片。
+· Caribbean Jerk Chicken Mini Meat Loaf Slices：雞絞肉 1 磅 (455g)、辣味煙燻香腸 3 oz (85g)、芒果 1/2 顆、Jerk 醃料 1/4 杯 (60ml)、麵包粉 1 杯 (60g)、卡宴辣椒粉 0.25 小匙、Chipotle 粉 0.25 小匙、鹽 0.5 小匙、蛋 1 顆。375°F (190°C) 烤 15-20 分鐘。
+· Texas BBQ Beef Mini Meat Loaf Slices：牛絞肉 1 磅 (455g)、墨西哥辣香腸 3 oz (85g)、麵包粉 1 杯 (60g)、烤肉醬 1/4 杯 (60ml)、Chipotle 粉 0.5 小匙、卡宴辣椒粉 0.5 小匙、伍斯特醬 1 大匙、波本威士忌 1 大匙、鹽 0.5 小匙、黑胡椒 0.5 小匙、炒洋蔥 1 顆、蛋 1 顆。
+· Italian-Style Pork Mini Meat Loaf Slices：豬絞肉 1 磅 (455g)、Pancetta 1/3 杯 (80g)、麵包粉 1 杯 (60g)、Ricotta 1/2 杯 (120g)、番茄糊 2 大匙、水 1 大匙、蒜泥 1 瓣、帕瑪森 2 大匙、巴西里 2 大匙、羅勒 1 小匙、紅辣椒碎 1 小匙、茴香籽 0.5 小匙、黑胡椒 0.5 小匙、蛋 1 顆。
+· Kielbasa Bites with Bread-and-Butter Pickles：Kielbasa 香腸 14 oz (400g)、芥花油 1.5 小匙、酸黃瓜片。
+· Thai Sweet Chili Kielbasa Bites：上述，加入竹筍罐頭 5 oz (140g)、黑糖 2 大匙、泰式甜辣醬 1/2 杯 (120ml)、魚露 1.5 小匙、椰奶 2 大匙、泰式羅勒葉。
+· Maple-Glazed Kielbasa Bites with Stone-Ground Mustard：上述，加入楓糖漿 2 大匙，搭配全麥芥末。
+· Chorizo and Potato Sticks：風乾西班牙香腸 14 oz (400g)、烤小洋芋。
+· Chorizo and Pineapple Sticks：上述，以烤鳳梨塊取代小洋芋。
+· Chorizo and Pickled Carrot Sticks：上述，以快醃紅蘿蔔取代小洋芋。
+· Pork Pot Stickers：Napa 高麗菜 1/2 顆、鹽 1 小匙、豬絞肉 8 oz (230g)、蔥花 1 大匙、白胡椒粉 0.5 小匙、蒜泥 1 瓣、薑泥 1 小匙、醬油 2 大匙、米醋 1 大匙、味醂 1 小匙、玉米澱粉 2 小匙、水餃皮 3 吋。煎至底部金黃，加水加蓋燜煮。
+· Ground Turkey Pot Stickers：上述，以火雞絞肉 8 oz (230g) 取代豬肉。
+· Tofu-Veggie Pot Stickers：上述，以炒熟的蘑菇 1 杯 (100g)、Napa 高麗菜 1.5 杯 (150g)、紅蘿蔔 3/4 杯 (70g)、薑/蒜/蔥/鹽/白胡椒、板豆腐 8 oz (230g)、玉米澱粉 1 大匙 取代肉餡。
+· Chili Pepper Jelly–Glazed Lamb Meatballs：羊絞肉 1 磅 (455g)、洋蔥碎 2 大匙、巴西里 1 大匙、薄荷碎 1.5 小匙、麵包粉 3/4 杯 (40g)、蒜泥 1 瓣、伍斯特醬 1 大匙、番茄醬 1 大匙、煙燻紅椒粉 1 小匙、鹽 0.5 小匙、黑胡椒 0.25 小匙、蛋 1 顆。350°F (180°C) 烤 20-25 分鐘，裹上 Chili–Pepper Jelly Glaze 1/2 份。
+· Lamb and Pistachio Meatballs：上述，肉餡加入烤開心果碎 1/4 杯 (30g)，搭配 Mint-Lemon Yogurt Sauce 1 份。
+· Pomegranate-Glazed Lamb Meatballs：上述，裹上 Pomegranate Glaze 1 份。
+· Grilled Skirt Steak Skewers with Grape Tomatoes：裙帶牛排 8 oz (230g)、Steak Marinade 1 份、聖女小番茄 24 顆。煎至 130-135°F (55-60°C)。
+· Grilled Skirt Steak Skewers with Pickled Haricots Verts and Rosemary Fingerling Potatoes：上述，以烤迷迭香手指馬鈴薯 1 份、快醃法國細豆 12 條取代小番茄。
+· Grilled Skirt Steak Skewers with Herbed Cheese and Thyme：上述，以香草起司 4 oz (115g)、百里香少許取代小番茄。
+· Beef Tenderloin Kebobs with Balsamic–Red Wine Reduction：牛里脊 12 oz (340g)、芥花油 2 小匙、鹽 1 小匙、黑胡椒 0.5 小匙、橄欖油 2 小匙 + 1 大匙、奶油 1 小匙、蘑菇 10 oz (280g)、珍珠洋蔥 1 杯 (130g)、Balsamic–Red Wine Reduction 1 份。
+· Beef Tenderloin Puff Pastry Cups with Caramelized Red Onion Jam：牛里脊 8 oz (230g)、Puff Pastry Cups 1 份、Caramelized Red Onion Jam 1 份。
+· Beef Tenderloin Lettuce Cups with Horseradish Cream：牛里脊 12 oz (340g)、奶油萵苣 1 顆、豌豆苗 1 大匙/份、Horseradish Cream 1 小匙/份。
+
+■ Sweets (甜點)
+
+· Meyer Lemon Shortbread Bites：砂糖 2/3 杯 + 3 大匙 (175g)、Meyer 檸檬皮 2 大匙、奶油 1 杯 (220g)、Meyer 檸檬汁 1 小匙、麵粉 2 杯 (280g)、玉米澱粉 3 大匙、泡打粉 1/4 小匙、鹽 1/4 小匙。325°F (165°C) 烤 30-45 分鐘。
+· Key Lime Shortbread Bites：上述，以 Key Lime 皮 2 大匙、汁 1 小匙取代。
+· Mandarin Orange Shortbread Bites：上述，以橘子皮 2 大匙、汁 1 小匙取代。
+· Slice-and-Bake Chocolate Cookies：麵粉 2.5 杯 (350g)、可可粉 3/4 杯 (70g)、小蘇打 0.5 小匙、奶油 1 杯 (220g)、砂糖 1 杯 (200g)、黑糖 3 大匙、鹽 0.5 小匙、蛋黃 1 個、香草精 2 小匙。375°F (190°C) 烤 8-10 分鐘。
+· Slice-and-Bake Vanilla-Cinnamon Cookies：麵粉 2 杯 (280g)、肉桂粉 1 小匙、鹽 0.5 小匙、小蘇打 0.25 小匙、奶油 3/4 杯 (165g)、砂糖 1/4 杯 (50g)、黑糖 1/4 杯 (50g)、香草精 1 大匙、龍舌蘭糖漿 1 大匙、蛋 1 顆 + 蛋黃 1 個。
+· Cream-Filled Chocolate or Vanilla Cookie Sandwiches：鮮奶油 1/4 杯 (60ml)、白巧克力 4 oz (115g)、奶油 1/2 杯 (110g)、糖粉 1.5 杯 (180g)、香草精 1 小匙、鹽 1/4 小匙。
+· Crispy Rice Cereal Squares with Browned Butter and Fleur de Sel：迷你棉花糖 10 oz (300g)、大棉花糖 10 oz (300g)、Fleur de Sel 1 小匙、焦化奶油 1 杯 (220g)、脆米穀物 12 oz (340g)。
+· Crispy Rice Cereal Squares with White Chocolate and Rainbow Sprinkles：上述，頂部鋪融化白巧克力 12 oz (340g) 與彩虹糖珠。
+· Toasted Crispy Rice Cereal and Milk Squares：奶粉 1/2 杯 (35g)、龍舌蘭糖漿 3 大匙、融化奶油 2 大匙、脆米穀物 1/3 盒、迷你/大棉花糖各 10 oz、鹽 1 小匙、焦化奶油 1 杯。
+· Cast-Iron Brownies：70% 黑巧克力 6 oz (170g)、奶油 6 大匙 (85g)、蛋 4 顆、黑糖 1.5 杯 (300g)、鹽 0.5 小匙、香草精 2 小匙、麵粉 3/4 杯 (105g)。350°F (180°C) 烤 25 分鐘。
+· Cast-Iron Blondies：焦化奶油 3/4 杯 (170g)、黑糖 1.75 杯 (350g)、砂糖 3 大匙、鹽 1 小匙、蛋 2 顆、香草精 1 大匙、麵粉 1.5 杯 (210g)、泡打粉 1 小匙、小蘇打 0.5 小匙、白巧克力/半甜巧克力豆各 3/4 杯、烤胡桃 1/2 杯、杏仁片 1/2 杯。375°F (190°C) 烤 25 分鐘。
+· Cast-Iron S’mores：全麥餅乾 4 片、砂糖 1/2 杯 (100g)、麵粉 2 杯 (280g)、鹽 1/4 小匙、奶油 3/4 杯 (165g)。底層 350°F (180°C) 烤 10 分鐘。餡料：融化椰子油 1/2 杯 + 2 大匙 (130g)、黑糖 1 杯 (200g)、砂糖 1/4 杯 (50g)、香草精 0.5 小匙、蛋 3 顆、麵粉 1/2 杯 (70g)、可可粉 1/2 杯 (50g)、泡打粉 1/4 小匙、鹽 0.5 小匙。續烤 20-25 分鐘，鋪上巧克力豆 1 杯 (85g) 與大棉花糖 24 oz (680g)，上火烤至融化。
+· Mini Brown Sugar Cupcakes with Maple–Cream Cheese Frosting：麵粉 1.33 杯 (185g)、泡打粉 0.5 小匙、小蘇打 0.5 小匙、鹽 0.25 小匙、奶油 3/4 杯 (165g)、黑糖 3/4 杯 (150g)、蛋 2 顆、香草精 1 小匙、牛奶 1/2 杯 (120ml)。325°F (165°C) 烤 8-10 分鐘。糖霜：奶油起司 1 杯 (220g)、奶油 1/2 杯 (110g)、楓糖漿 3 大匙、香草精 1 小匙、鹽 0.25 小匙、糖粉 2 杯 (250g)。
+· Mini Brown Sugar Cupcakes with Maple-Bourbon–Cream Cheese Frosting：上述，糖霜加入波本威士忌 2 小匙。
+· Mini Brown Sugar Cupcakes with Pumpkin Pie–Cream Cheese Frosting：上述，糖霜以南瓜泥 1/4 杯 (60g)、肉桂粉 0.5 小匙、肉豆蔻 0.25 小匙取代楓糖漿。
+· Frozen Apricot Soufflés：杏桃 2.5 杯 (455g)、鮮奶油 2 杯 (480ml)、蛋白 5 顆、砂糖 3/4 杯 (150g)、塔塔粉 1/4 小匙、檸檬汁 1 小匙。
+· Frozen Pineapple Soufflés：上述，以鳳梨 3 杯 (420g) 取代杏桃。
+· Whipped Frozen Yogurt with Raspberries and Honey：希臘優格 2 杯 (480g)、冷凍覆盆子 2 杯 (280g)、杏仁酒/櫻桃酒 2-3 大匙、蜂蜜 2 大匙。
+· Petite Blueberry Galettes：麵粉 2.75 杯 (385g)、砂糖 2 大匙、鹽 0.5 小匙、奶油 1 杯 (220g)、牛奶 1/4 杯 (60ml)、蛋白 2 個、檸檬汁 1.5 大匙、藍莓 3 杯 (450g)、砂糖 1/2 杯 (100g)、玉米澱粉 2 大匙、檸檬汁/皮各 2 小匙。400°F (200°C) 烤 30-40 分鐘。
+· Petite Plum Galettes：上述，以李子 5-6 顆 (切片) 取代藍莓。
+· Petite Pear Galettes：上述，以梨 2-3 顆 (切片)、黑糖 2 大匙、杏仁精 0.5 小匙、香草精 1 小匙取代藍莓。
+· Coconut Latte Truffles：70% 黑巧克力 12 oz (340g)、即溶濃縮咖啡粉 1 大匙、鮮奶油 1 杯 (240ml)、椰子片 1/2 杯 (40g)。
+· Bailey’s Cocoa Truff
 ---
 
 《驚豔亞洲醬料》核心知識庫
